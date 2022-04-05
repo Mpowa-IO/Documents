@@ -20,7 +20,7 @@ To realise this vision the world needs to harness clean technologies and acceler
 
 - [Information](#information)
 - [Guide](#guide)
-- [Usage](#usage)
+- [Legal](#legal)
 	- [Generator](#generator)
 - [Web3](#web3)
 - [Carbon Offset](#carbon-offset)
@@ -29,7 +29,7 @@ To realise this vision the world needs to harness clean technologies and acceler
 - [Contributing](#contributing)
 - [License](#license)
 
-## Whitepaper
+## Information & General Consensus
 
 Vulnerable communities in developing nations have limited to no incentive to maintain their local ecosystem and preserve the natural environment. Due to extreme poverty and exclusion, pollution, environmental degradation and carbon intensive activities (wood, charcoal, kerosene burning), these communities are unhealthy and dangerous places for children to grow up, with high infant mortality rates and incidence of preventable disease.
 
@@ -47,7 +47,7 @@ The goals for this repository are:
 4. An **overview** that can be used to quickly scaffold out new READMEs. See [generator-standard-readme](https://github.com/RichardLitt/generator-standard-readme).
 5. A **preview** or so.
 
-## Disclaimers
+## Guide To Mpowa
 
 This project uses [node](http://nodejs.org) and [npm](https://npmjs.com). Go check them out if you don't have them locally installed.
 
