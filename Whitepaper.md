@@ -29,7 +29,7 @@ project methodology towards contributors and auditors.
 
 ### Table of Contents 
 
-Introduction	
+Introduction<br>
 Vision
 Mission	
 Values	
