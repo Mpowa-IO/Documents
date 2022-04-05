@@ -30,40 +30,40 @@ project methodology towards contributors and auditors.
 ### Table of Contents 
 
 Introduction<br>
-Vision
-Mission	
-Values	
-Problems and solutions	
-The necessity for Mpowa’s existence	
-Unique Selling Point	
-SDG Partnership registration	
-Scalability	
-SDG Impact	
-Data & Statistics	
-Quality Assurance	
-The Platform	
-Decentralized Autonomous Organization (DAO)	
-Carbon Offset	
-ESG Fund	
-Decarbonizer App	
-Impact-NFT Marketplace	
-Geolocation	
-Methodology	
-The Technology	
-Exemplary projects	
-Market Analysis and potential	
-Team	
-Roadmap	
-Tokenomics	
-Token Allocation	
-Token Launches	
-SWOT Matrix	
-Conglomerate: Partnerships & Involvement	
-Joining Mpowa	
-This needs to be included as well	
-Legislation, Taxes - Notes & Specifications	
-Mpowa’s online resources	
-Disclaimer	
+Vision<br>
+Mission<br>
+Values<br>
+Problems and solutions<br>
+The necessity for Mpowa’s existence<br>
+Unique Selling Point<br>	
+SDG Partnership registration<br>
+Scalability<br>	
+SDG Impact<br>
+Data & Statistics<br>
+Quality Assurance<br>
+The Platform<br>
+Decentralized Autonomous Organization (DAO)<br>	
+Carbon Offset<br>
+ESG Fund<br>	
+Decarbonizer App<br>
+Impact-NFT Marketplace<br>
+Geolocation<br>	
+Methodology<br>
+The Technology<br>
+Exemplary projects<br>
+Market Analysis and potential<br>
+Team<br>
+Roadmap<br>
+Tokenomics<br>
+Token Allocation<br>	
+Token Launches<br>
+SWOT Matrix<br>
+Conglomerate: Partnerships & Involvement<br>
+Joining Mpowa<br>
+This needs to be included as well<br>	
+Legislation, Taxes - Notes & Specifications<br>
+Mpowa’s online resources<br>
+Disclaimer<br>
 
 
 
