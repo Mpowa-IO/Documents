@@ -16,7 +16,7 @@ This repository contains:
 To realise this vision the world needs to harness clean technologies and accelerate the decentralisation of energy and water provision, in line with UN Strategic Development Goals (SDGs). 
 
 
-## Noteworthy of reading before proceeding
+## Points of Attention
 
 - [Information](#information)
 - [Guide](#guide)
