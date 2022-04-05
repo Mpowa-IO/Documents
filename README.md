@@ -6,11 +6,11 @@ We believe in a world without energy and water scarcity, where the sources of bo
 
 This repository contains:
 
-1. [The specification](spec.md) for how a standard README should look.
-2. A link to [a linter](https://github.com/RichardLitt/standard-readme-preset) you can use to keep your README maintained ([work in progress](https://github.com/RichardLitt/standard-readme/issues/5)).
-3. A link to [a generator](https://github.com/RichardLitt/generator-standard-readme) you can use to create standard READMEs.
-4. [A badge](#badge) to point to this spec.
-5. [Examples of standard READMEs](example-readmes/) - such as this file you are reading.
+1. [The specification](spec.md) for everything.
+2. A link to [the application](https://mpowa.io) you can use the app ([work in progress](https://mpowa.io)).
+3. Start impacting [NFT](https://mpoiwa.io) you can build your own NFT.
+4. [Certificates](#certs) official certs.
+5. [Examples of projects](example-projects/) - tree planting etc.
 
 
 To realise this vision the world needs to harness clean technologies and accelerate the decentralisation of energy and water provision, in line with UN Strategic Development Goals (SDGs). 
