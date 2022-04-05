@@ -144,7 +144,7 @@ This fund is controlled by our partner, Scaling Funds, with full FATCA and CRS c
 
 
 
-Vision[^Ch1.ref]
+Vision[^Ch1.ref]:
 
  Mpowa and its associates envision a future on earth where sufficient resources and ultimately abundance is realized and accessible for all. 
 With sufficient resources, we refer to basic components for human life (not to be considered as luxuries) such as clean drinking water, 
