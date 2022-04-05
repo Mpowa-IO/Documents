@@ -2,13 +2,7 @@
 
 This repository is assigned to bearing several documents related to the business approach, technology and company's vision. 
 
-# Standard Readme
-
-
-
-A standard style for README files
-
-Your README file is normally the first entry point to your code. It should tell people why they should use your module, how they can install it, and how they can use it. Standardizing how you write your README makes creating and maintaining your READMEs easier. Great documentation takes work!
+We believe in a world without energy and water scarcity, where the sources of both have no negative effect on our children's health or the environment.  We believe economic disparities must be eliminated, and that we must achieve social and environmental resilience.
 
 This repository contains:
 
@@ -18,10 +12,11 @@ This repository contains:
 4. [A badge](#badge) to point to this spec.
 5. [Examples of standard READMEs](example-readmes/) - such as this file you are reading.
 
-Standard Readme is designed for open source libraries. Although it’s [historically](#background) made for Node and npm projects, it also applies to libraries in other languages and package managers.
+
+To realise this vision the world needs to harness clean technologies and accelerate the decentralisation of energy and water provision, in line with UN Strategic Development Goals (SDGs). 
 
 
-## Table of Contents
+## In this Repository
 
 - [Background](#background)
 - [Install](#install)
@@ -34,7 +29,7 @@ Standard Readme is designed for open source libraries. Although it’s [historic
 - [Contributing](#contributing)
 - [License](#license)
 
-## Background
+## Whitepaper
 
 Standard Readme started with the issue originally posed by [@maxogden](https://github.com/maxogden) over at [feross/standard](https://github.com/feross/standard) in [this issue](https://github.com/feross/standard/issues/141), about whether or not a tool to standardize readmes would be useful. A lot of that discussion ended up in [zcei's standard-readme](https://github.com/zcei/standard-readme/issues/1) repository. While working on maintaining the [IPFS](https://github.com/ipfs) repositories, I needed a way to standardize Readmes across that organization. This specification started as a result of that.
 
@@ -58,7 +53,7 @@ The goals for this repository are:
 4. A **generator** that can be used to quickly scaffold out new READMEs. See [generator-standard-readme](https://github.com/RichardLitt/generator-standard-readme).
 5. A **compliant badge** for users. See [the badge](#badge).
 
-## Install
+## Disclaimers
 
 This project uses [node](http://nodejs.org) and [npm](https://npmjs.com). Go check them out if you don't have them locally installed.
 
@@ -66,7 +61,7 @@ This project uses [node](http://nodejs.org) and [npm](https://npmjs.com). Go che
 $ npm install --global standard-readme-spec
 ```
 
-## Usage
+## Legal Documents
 
 This is only a documentation package. You can print out [spec.md](spec.md) to your console:
 
@@ -75,11 +70,11 @@ $ standard-readme-spec
 # Prints out the standard-readme spec
 ```
 
-### Generator
+### More
 
 To use the generator, look at [generator-standard-readme](https://github.com/RichardLitt/generator-standard-readme). There is a global executable to run the generator in that package, aliased as `standard-readme`.
 
-## Badge
+## ETC
 
 If your README is compliant with Standard-Readme and you're on GitHub, it would be great if you could add the badge. This allows people to link back to this Spec, and helps adoption of the README. The badge is **not required**.
 
