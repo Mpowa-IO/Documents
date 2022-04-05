@@ -1,6 +1,8 @@
 # Mpowa Ltd Whitepaper | Version 1.0
 
-### Preface
+## A SaaS start-up creating new opportunities for growth by blending clean-tech, blockchain, and impact investing.
+
+#### Preface
 
 This blockchain-based interactive SaaS platform, 
 is contrived to stimulate society to collectively ensure global resource sufficiency and accessibility for sustainable healthy living. 
@@ -23,7 +25,7 @@ Mpowa provides an additional credibility layer to ensure data quality, transpare
 project methodology towards contributors and auditors. 
 
 
-#### Table of Contents 
+### Table of Contents 
 
 Introduction	
 Vision	
