@@ -31,23 +31,21 @@ To realise this vision the world needs to harness clean technologies and acceler
 
 ## Whitepaper
 
-Standard Readme started with the issue originally posed by [@maxogden](https://github.com/maxogden) over at [feross/standard](https://github.com/feross/standard) in [this issue](https://github.com/feross/standard/issues/141), about whether or not a tool to standardize readmes would be useful. A lot of that discussion ended up in [zcei's standard-readme](https://github.com/zcei/standard-readme/issues/1) repository. While working on maintaining the [IPFS](https://github.com/ipfs) repositories, I needed a way to standardize Readmes across that organization. This specification started as a result of that.
+Vulnerable communities in developing nations have limited to no incentive to maintain their local ecosystem and preserve the natural environment. Due to extreme poverty and exclusion, pollution, environmental degradation and carbon intensive activities (wood, charcoal, kerosene burning), these communities are unhealthy and dangerous places for children to grow up, with high infant mortality rates and incidence of preventable disease.
 
 > Lorum ipsum
 > Remember: the documentation, not the code, defines what a module does.
 ~ test
 
-Writing READMEs is way too hard, and keeping them maintained is difficult. By offloading this process - making writing easier, making editing easier, making it clear whether or not an edit is up to spec or not - you can spend less time worrying about whether or not your initial documentation is good, and spend more time writing and using code.
-
-By having a standard, users can spend less time searching for the information they want. They can also build tools to gather search terms from descriptions, to automatically run example code, to check licensing, and so on.
+Mpowa reaffirms the importance of the Universal Declaration of Human Rights,1 as well as other international instruments relating to human rights and international law. Mpowa emphasizes the responsibilities to respect, protect and promote human rights and fundamental freedoms for all, without distinction of any kind as to race, color, sex, language, religion, political or other opinion, national or social origin, property, birth, disability or other status.
 
 The goals for this repository are:
 
 1. A well defined **specification**. This can be found in the [Spec document](spec.md). It is a constant work in progress; please open issues to discuss changes.
-2. **An example README**. This Readme is fully standard-readme compliant, and there are more examples in the `example-readmes` folder.
-3. A **linter** that can be used to look at errors in a given Readme. Please refer to the [tracking issue](https://github.com/RichardLitt/standard-readme/issues/5).
-4. A **generator** that can be used to quickly scaffold out new READMEs. See [generator-standard-readme](https://github.com/RichardLitt/generator-standard-readme).
-5. A **compliant badge** for users. See [the badge](#badge).
+2. **An example for others**. This is that.
+3. A **disclaimer** that can be used to look at errors in a given Readme. Please refer to the [tracking issue](https://github.com/RichardLitt/standard-readme/issues/5).
+4. An **overview** that can be used to quickly scaffold out new READMEs. See [generator-standard-readme](https://github.com/RichardLitt/generator-standard-readme).
+5. A **preview** or so.
 
 ## Disclaimers
 
