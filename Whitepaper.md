@@ -1671,6 +1671,37 @@ The Technology
 Overview of the technology that is used, modified and written in order for the Mpowa platform to function as it is supposed to.   The Substrate client is the software that runs the blockchain node, it includes the following components: storage, runtime, p2p network, consensus, RPC, telemetry. 
 
 
+## Runtime Architecture
+
+The Moonbeam Runtime is built using FRAME and consists of pallets from substrate, frontier, cumulus, and `pallets/`.
+
+From substrate:
+
+- _Utility_: Allows users to use derivative accounts, and batch calls
+- _Balances_: Tracks GLMR token balances
+- _Sudo_: Allows a privileged account to make arbitrary runtime changes - will be removed before
+  launch
+- _Timestamp_: On-Chain notion of time
+- _Transaction Payment_: Transaction payment (fee) management
+- _Randomness Collective Flip_: A (mock) onchain randomness beacon. Will be replaced by parachain
+  randomness by mainnet.
+
+From frontier:
+
+- _EVM_: Encapsulates execution logic for an Ethereum Virtual Machine
+- _Ethereum_: Ethereum-style data encoding and access for the EVM.
+
+From cumulus:
+
+- _ParachainUpgrade_: A helper to perform runtime upgrades on parachains
+- _ParachainInfo_: A place to store parachain-relevant constants like parachain id
+
+The following pallets are stored in `pallets/`. They are designed for Moonbeam's specific requirements:
+
+- _Ethereum Chain Id_: A place to store the chain id for each Moonbeam network
+- _Author Inherent_: Allows block authors to include their identity in a block via an inherent
+- _Parachain Staking_: Minimal staking pallet that selects collators by total amount at stake
+
 
 
 Blockchain tech
