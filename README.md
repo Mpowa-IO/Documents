@@ -52,7 +52,7 @@ The goals for this repository are:
 This project uses [node](http://nodejs.org) and [npm](https://npmjs.com). Go check them out if you don't have them locally installed.
 
 ```sh
-$ npm install --global standard-readme-spec
+$ npm install --global standard-mpowa-spec
 ```
 
 ## Legal Documents
@@ -60,24 +60,23 @@ $ npm install --global standard-readme-spec
 This is only a documentation package. You can print out [spec.md](spec.md) to your console:
 
 ```sh
-$ standard-readme-spec
-# Prints out the standard-readme spec
+$ standard-mpowa-spec
+# Prints out the standard-mpowa spec
 ```
 
 ### More
 
-To use the generator, look at [generator-standard-readme](https://github.com/RichardLitt/generator-standard-readme). There is a global executable to run the generator in that package, aliased as `standard-readme`.
+To use the specs, look at [mpowa](https://mpowa.io). There is a global executable to run the generator in that package, aliased as `standard-mpowa`.
 
 ## ETC
 
-If your README is compliant with Standard-Readme and you're on GitHub, it would be great if you could add the badge. This allows people to link back to this Spec, and helps adoption of the README. The badge is **not required**.
+If you're is compliant with the Standard-Mpowa and you're on GitHub, it would be great if you could contact us. This allows people to link back to this Spec, and helps adoption of the specs. The is **required**.
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-To add in Markdown format, use this code:
+To add in your app:
 
 ```
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+curl mpowa.sdk
 ```
 
 
@@ -89,7 +88,7 @@ To add in Markdown format, use this code:
 
 Feel free to dive in! [Open an issue](https://github.com/
 
-Standard Readme follows the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct.
+Standard follows the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct.
 
 ### Contributors
 
