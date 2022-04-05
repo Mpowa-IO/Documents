@@ -1,4 +1,4 @@
-Mpowa Ltd Whitepaper | Version 1.0
+# Mpowa Ltd Whitepaper | Version 1.0
 
 Preface
 
