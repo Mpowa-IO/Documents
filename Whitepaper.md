@@ -1,6 +1,6 @@
 # Mpowa Ltd Whitepaper | Version 1.0
 
-## A SaaS start-up creating new opportunities for growth by blending clean-tech, blockchain, and impact investing.
+## A world without energy and water scarcity.
 
 #### Preface
 
