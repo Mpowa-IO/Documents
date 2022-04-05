@@ -18,14 +18,14 @@ To realise this vision the world needs to harness clean technologies and acceler
 
 ## In this Repository
 
-- [Background](#background)
-- [Install](#install)
+- [Information](#information)
+- [Guide](#guide)
 - [Usage](#usage)
 	- [Generator](#generator)
-- [Badge](#badge)
-- [Example Readmes](#example-readmes)
-- [Related Efforts](#related-efforts)
-- [Maintainers](#maintainers)
+- [Web3](#web3)
+- [Carbon Offset](#carbon-offset)
+- [SDG Impact](#sdg-impact)
+- [Contracts](#contracts)
 - [Contributing](#contributing)
 - [License](#license)
 
