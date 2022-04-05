@@ -12,7 +12,7 @@ as every human being should ideally be able to live in a healthy way.
 By continually increasing the Energy Flux Density, resource abundance is within reach. 
 Mpowa does not agree to the general consensus of mandatory vaccination and consumption control in order to reduce emissions. 
 
-By also empowering externally organized SDG-oriented clean-tech projects to present themselves on the platform,
+By also empowering externally organized SDG-oriented[1] clean-tech projects to present themselves on the platform,
 Mpowa facilitates the industry with a high-standard GTM opportunity, 
 while also permitting low-cap / high-value projects to raise the necessary funding to succeed.
 Transparency and auditability are key features of blockchain technology, 
@@ -23,6 +23,8 @@ Mpowa’s data-driven approach is in line with UN’s DSDs to match the United N
 By utilizing blockchain technology, 
 Mpowa provides an additional credibility layer to ensure data quality, transparency of set definitions and important terms and 
 project methodology towards contributors and auditors. 
+
+[1]: My ref
 
 
 ### Table of Contents 
