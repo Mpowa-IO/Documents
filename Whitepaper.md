@@ -30,7 +30,7 @@ project methodology towards contributors and auditors.
 ### Table of Contents 
 
 Introduction	
-Vision	
+Vision[^Ch1.ref]
 Mission	
 Values	
 Problems and solutions	
@@ -144,7 +144,8 @@ This fund is controlled by our partner, Scaling Funds, with full FATCA and CRS c
 
 
 
-Vision
+Vision[^Ch1.ref]
+
  Mpowa and its associates envision a future on earth where sufficient resources and ultimately abundance is realized and accessible for all. 
 With sufficient resources, we refer to basic components for human life (not to be considered as luxuries) such as clean drinking water, 
 sustainably farmed organic food, medical supplies, education, shelter and zero-emission energy / clean mobility. 
