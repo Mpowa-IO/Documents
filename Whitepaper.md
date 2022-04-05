@@ -1,6 +1,6 @@
 # Mpowa Ltd Whitepaper | Version 1.0
 
-Preface
+### Preface
 
 This blockchain-based interactive SaaS platform, 
 is contrived to stimulate society to collectively ensure global resource sufficiency and accessibility for sustainable healthy living. 
@@ -23,7 +23,7 @@ Mpowa provides an additional credibility layer to ensure data quality, transpare
 project methodology towards contributors and auditors. 
 
 
-Table of Contents 
+#### Table of Contents 
 
 Introduction	
 Vision	
@@ -63,7 +63,7 @@ Disclaimer
 
 
 
-Introduction
+#### Introduction
 
 This introduction will entail Mpowa’s core purpose, its SaaS-platform functionality with the appurtenant financial flow, 
 alongside complementary information such as strategic goals, partnerships (consortium) and research data.
