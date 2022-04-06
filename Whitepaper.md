@@ -39,9 +39,9 @@ project methodology towards contributors and auditors.
 - [Mission](#mission)<br>
 - [Values](#values)<br>
 - [Problems and solutions](#problems-and-solutions)<br>
-- [The necessity for Mpowa’s existence](#the necessity for Mpowa’s existence)<br>
-- [Unique Selling Point](#unique selling point)<br>	
-- [SDG Partnership registration](#sdg partnership registration)<br>
+- [The necessity for Mpowa’s existence](#the-necessity-for-Mpowa’s-existence)<br>
+- [Unique Selling Point](#uniqu-selling-point)<br>	
+- [SDG Partnership registration](#sdg-partnership-registration)<br>
 - [Scalability](#scalability)<br>	
 - [SDG Impact](#sdg impact)<br>
 - [Data & Statistics](#data-&-statistics)<br>
@@ -66,7 +66,7 @@ project methodology towards contributors and auditors.
 - [Conglomerate: Partnerships & Involvement](#conglomerate:-partnerships-&-involvement)<br>
 - [Joining Mpowa](#joining-mpowa)<br>
 - [This needs to be included as well](#this-needs-to-be-included-as-well)<br>	
-- [Legislation, Taxes - Notes & Specifications](#legislation,-laxes---notes-&-Ssecifications)<br>
+- [Legislation, Taxes - Notes & Specifications](#legislation,-laxes-notes-&-Ssecifications)<br>
 - [Mpowa’s online resources](#mpowa's-online-resources)<br>
 - [Disclaimer](#disclaimer)<br>
 
