@@ -245,7 +245,11 @@ Abundance nourishes our self-esteem and self-confidence, and helps us remain res
 	It is associated with positive thinking and generosity, with a core belief that there is enough for everyone. 
 There is abundance in the Universe, and everyone is a part of it, wherever they live, and regardless of his position and circumstances. 
 The world will soon have the opportunity to meet and exceed the basic needs of every man, woman and child on the planet. 
-  Progress  Whether progress is seen in terms of big or small improvements, it matters a lot. However, while we continue to move towards the final goal, 
+
+
+### Progress
+  
+Whether progress is seen in terms of big or small improvements, it matters a lot. However, while we continue to move towards the final goal, 
 much remains to be done. For example: to make the internet accessible to everyone, many more systemic changes are needed, but progress is being made. 
 	Progress is movement towards a purified, improved, or otherwise desired state. Recently, the concept of progress has been generalized to 
 psychology, since it is associated with the concept of a goal, that is, progress is understood as “what is considered a means of moving towards 
@@ -262,12 +266,19 @@ The process of progress and how things move in a positive direction of improveme
 In particular, advancement to a higher or more developed state; development, growth. From Middle English progressie, 
 from Old French progres ("to go forward"), from Latin progressus (“to move forward"), from the root participle progress 
 ("to go forward, to advance, to develop"), from pro- (``forward, before' ‘) + degrees (``go, go'') root participle progredi 
-(``go ahead, advance, develop''), from pro- (``forward, before di'') + degrees ("walk, go" ).   Opportunity
+(``go ahead, advance, develop''), from pro- (``forward, before di'') + degrees ("walk, go" ).
+
+
+### Opportunity
+
 Referring back to abundance, opportunity is created by making clear calculations of available resources and making the most of it. 	
 Families in rural areas of Africa will hopefully remark that it's a great job and an opportunity to work alongside some people in the country who are 
 ‘’better off’’. Mpowa strongly believes in strengthening equality of opportunity all around the world, and thus being a catalyst for major development. 
 	Focusing on what matters most can really make a difference in what kids learn. Accounting for the cost of opportunity costs can help individuals and organizations make better decisions. 	The purpose of calculating economic profit (and therefore opportunity cost) is to help improve business decision making by including opportunity cost, to get a clear vision of what the future may bring. To further improve business decision making, several measures of economic profit performance have been derived, such as risk-adjusted return on capital (RAROC) and economic value added (EVA), which directly include the quantification of opportunity costs to help companies manage risk and allocate resources. Accounting profits are the real costs (in real monetary terms) of businesses that are included in their balance sheets, financial statements, and income statements, and should be included as implicit costs accounted for by opportunity costs. 	When making major decisions, such as buying a home or starting a business, you are likely to carefully consider the pros and cons of your financial decision, but most day-to-day decisions are not made with a full understanding of the potential cost of the opportunity. After Coleman's 1966 Equality of Educational Opportunity report, another debate arose about whether money affects educational outcomes. The common notion of educational inequality, that it is mainly for students who come to school with insufficient skills to benefit from what the school has to offer, is still widely held because the degree of inequality in learning opportunities largely unknown. This makes it even more important that everyone around the world has internet access - to learn everything you want at your own pace.  
- Collaboration
+
+
+### Collaboration
+
 Platform = constant collaborations   Research shows that collaboration can improve results and productivity. 
 In short, collaboration makes things easier, which helps us get more done in less time. At the end of the day, 
 collaboration is a skill that helps people work together, come up with new ideas, listen to each other, and learn from each other. 	
@@ -325,7 +336,7 @@ specific disclosure may contain more detailed information about the applicable s
 
 
 
-Problems and solutions
+### Problems and solutions
 
 Vulnerable communities in developing nations have limited to no incentive to maintain their local ecosystem and preserve the natural environment. 
 Due to extreme poverty and exclusion, pollution, environmental degradation and carbon intensive activities (wood, charcoal, kerosene burning), 
@@ -361,7 +372,8 @@ NFT’s will contain the necessary metadata according to the UN DSD’s for the 
 
 
 
-Problem 1: 
+#### Problem 1: 
+
 Poverty in all its forms.  The international poverty line is a threshold used to measure extreme poverty based on consumption or income levels. 
 A person is considered extremely poor if his or her consumption or income level falls below the minimum level necessary to meet basic needs. 
  International poverty line is the absolute global minimum is per 2022 $3,20 (in PPP).   The indicator is produced globally using micro-level data 
@@ -375,13 +387,21 @@ and income (or consumption expenditure) variables to be derived from the same sa
 Poverty is basically result of resource scarcity.  National definitions of poverty vary amongst the globe.
 
 
-Solution:  Social protection systems, appropriately nationally implemented for all. 
+##### Solution: Social protection systems, appropriately nationally implemented for all. 
 Equal rights to economic resources and access to basic services, ownership and control over land and other forms 
 
 
-Relevant indicators for Mpowa:
+##### Relevant indicators for Mpowa:
 
-Indicator 1.1.1: Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural).  Indicator 1.2.1: Proportion of population living below the national poverty line, by sex and age.  Indicator 1.2.2: Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions.  Indicator 1.4.1: Proportion of population living in households with access to basic services.  Indicator 1.4.2: Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure.
+Indicator 1.1.1: Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural).
+
+Indicator 1.2.1: Proportion of population living below the national poverty line, by sex and age.
+
+Indicator 1.2.2: Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions.
+
+Indicator 1.4.1: Proportion of population living in households with access to basic services.
+
+Indicator 1.4.2: Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure.
 
 
 
