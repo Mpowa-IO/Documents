@@ -35,15 +35,15 @@ project methodology towards contributors and auditors.
 ### Table of Contents 
 
 - [Introduction](#introduction)<br>
-Vision<br>
-Mission<br>
-Values<br>
-Problems and solutions<br>
-The necessity for Mpowa’s existence<br>
-Unique Selling Point<br>	
-SDG Partnership registration<br>
-Scalability<br>	
-SDG Impact<br>
+- [Vision](#vision)<br>
+- [Mission](#mission)<br>
+- [Values](#values)<br>
+- [Problems and solutions](#problems and solutions)<br>
+- [The necessity for Mpowa’s existence](#the necessity for Mpowa’s existence)<br>
+- [Unique Selling Point](#unique selling point)<br>	
+- [SDG Partnership registration](#sdg partnership registration)<br>
+- [Scalability](#scalability)<br>	
+- [SDG Impact](#sdg impact)<br>
 Data & Statistics<br>
 Quality Assurance<br>
 The Platform<br>
