@@ -34,7 +34,7 @@ project methodology towards contributors and auditors.
 
 ### Table of Contents 
 
-Introduction<br>
+- [Introduction](#introduction)<br>
 Vision<br>
 Mission<br>
 Values<br>
