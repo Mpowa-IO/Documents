@@ -2,7 +2,7 @@
 
 ## A world without energy and water scarcity.
 
-#### Preface
+### Preface
 
 This blockchain-based interactive SaaS platform, 
 is contrived to stimulate society to collectively ensure global resource sufficiency and accessibility for sustainable healthy living. 
