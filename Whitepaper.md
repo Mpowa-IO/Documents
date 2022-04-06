@@ -63,7 +63,7 @@ project methodology towards contributors and auditors.
 - [Token Allocation](#token-allocation)<br>	
 - [Token Launches](#token-launches)<br>
 - [SWOT Matrix](#swot-matrix)<br>
-- [Conglomerate: Partnerships & Involvement](#Conglomerate:-Partnerships-&-Involvement)<br>
+- [Conglomerate: Partnerships & Involvement](#Conglomerate)<br>
 - [Joining Mpowa](#joining-mpowa)<br>
 - [This needs to be included as well](#this-needs-to-be-included-as-well)<br>	
 - [Legislation, Taxes - Notes & Specifications](#legislation,-laxes-notes-&-Ssecifications)<br>
