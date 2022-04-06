@@ -48,27 +48,27 @@ project methodology towards contributors and auditors.
 - [Quality Assurance](#quality-assurance)<br>
 - [The Platform](#the-platform)<br>
 - [Decentralized Autonomous Organization (DAO)](#decentralized-autonomous-prganization-(DAO))<br>	
-Carbon Offset<br>
-ESG Fund<br>	
-Decarbonizer App<br>
-Impact-NFT Marketplace<br>
-Geolocation<br>	
-Methodology<br>
-The Technology<br>
-Exemplary projects<br>
-Market Analysis and potential<br>
-Team<br>
-Roadmap<br>
-Tokenomics<br>
-Token Allocation<br>	
-Token Launches<br>
-SWOT Matrix<br>
-Conglomerate: Partnerships & Involvement<br>
-Joining Mpowa<br>
-This needs to be included as well<br>	
-Legislation, Taxes - Notes & Specifications<br>
-Mpowa’s online resources<br>
-Disclaimer<br>
+- [Carbon Offset](#carbon-offset)<br>
+- [ESG Fund](#esg-fund)<br>	
+- [Decarbonizer App](#decarbonizer-app)<br>
+- [Impact-NFT Marketplace](#impact-nft-marketplace)<br>
+- [Geolocation](#geolocation)<br>	
+- [Methodology](#methodology)<br>
+- [The Technology](#the-technology)<br>
+- [Exemplary projects](#exemplary-projects)<br>
+- [Market Analysis and potential](#market-analysis-and-potential)<br>
+- [Team](#team)<br>
+- [Roadmap](#roadmap)<br>
+- [Tokenomics](#tokenomics)<br>
+- [Token Allocation](#token-allocation)<br>	
+- [Token Launches](#token-launches)<br>
+- [SWOT Matrix](#swot-matrix)<br>
+- [Conglomerate: Partnerships & Involvement](#conglomerate:-partnerships-&-involvement)<br>
+- [Joining Mpowa](#joining-mpowa)<br>
+- [This needs to be included as well](#this-needs-to-be-included-as-well)<br>	
+- [Legislation, Taxes - Notes & Specifications](#legislation,-laxes---notes-&-Ssecifications)<br>
+- [Mpowa’s online resources](#mpowa's-online-resources)<br>
+- [Disclaimer](#disclaimer)<br>
 
 
 
@@ -458,7 +458,7 @@ tree planting and doing research and for creating jobs by observation - to be va
 
 
 
-Problem 3: Preventable death and illness.
+### Problem 3: Preventable death and illness.
 
 This indicator monitors deaths related to pregnancy and childbirth. It reflects the capacity of health systems to provide effective health care in preventing and addressing the complications occurring during pregnancy and childbirth. 	Indicator values range from less than 10 in most developed countries, with an average of around 169 per 100,000 live births in the developing regions.  	Primarily due to lack of clean water and sanitation.  The under-five mortality rate (U5MR) is the probability (expressed as a rate per 1,000 live births) of a child born in a specified year or period dying before reaching the age of five if subject to current age-specific mortality rates.  	Mortality rates among young children are a key output indicator for child health and well-being, and, more broadly, for social and economic development. It is a closely watched public health indicator because it reflects the access of children and communities to basic health interventions such as sanitation, education, medical treatment of infectious diseases and adequate nutrition, natural supplementation and emergency-care (hospitals). 
 
@@ -524,7 +524,8 @@ Indicator 5.1.1: Whether or not legal frameworks are in place to promote, enforc
 Mpowa’s Contribution:
 End all forms of discrimination against all women and girls everywhere, through AI and CCTV collaboration.
 
-Problem 6: Water pollution and scarcity.
+
+### Problem 6: Water pollution and scarcity.
 
 This indicator is defined as the proportion of population using an improved drinking water source which is accessible on premises, available when needed and free from fecal and priority chemical contamination.  	Improved drinking water sources include piped water into dwelling, yard or plot (on premises); public taps or standpipes; boreholes or tube-wells; protected dug wells; protected springs; packaged water; delivered water and rainwater.  	A water source is considered to be accessible on premises if the point of collection is within the dwelling, yard, or plot. Available when needed implies that households are able to access sufficient quantities of water when needed. 	Free from fecal or chemical contamination refers to the compliance to relevant national and local standards. In cases where such standards do not exist, reference is made to the WHO Guidelines for Drinking Water Quality.  	This indicator adds additional normative dimensions of accessibility, availability and quality, interpreted as safely managed drinking water services, to the existing MDG metric that tracked use of ‘improved drinking water sources’. It is a proxy for measuring equitable access to safe and affordable drinking water. Improved drinking water sources are not necessarily safe, but are more likely to be protected from external contaminants than unimproved sources either by intervention or through their design and construction. Greater access to safely managed drinking water services is important as it contributes to lowering the incidence of many diseases throughout the world.  	Total freshwater withdrawal (TFWW) is the volume of freshwater extracted from its source (rivers, lakes, aquifers) for the following three main sectors: agriculture, industries and services (including municipalities and domestic water withdrawal). It is estimated at the country level and on an annual basis. The category of freshwater withdrawal includes withdrawals from surface freshwater, groundwater and fossil groundwater. It does not include direct use of non-conventional water, i.e. treated wastewater, agricultural drainage water and desalinated water. 
 
@@ -552,7 +553,7 @@ Achieve universal and equitable access to safe and affordable drinking water for
 
 
 
-Problem 7: Energy deficits, high prices and from unsustainable sources
+### Problem 7: Energy deficits, high prices and from unsustainable sources
 
 This indicator is defined as the number of people using clean fuels and technologies for domestic cooking, heating and lighting divided by total population reporting any cooking, heating or lighting. It is expressed as a percentage. 
 
@@ -581,7 +582,8 @@ Long term vision.
 
 
 
-Problem 8: Economic collapse / stagnation  
+### Problem 8: Economic collapse / stagnation
+
 This indicator is defined as the percentage change in the real GDP per capita between two consecutive years. 
 Concepts: 
 GDP is the measure of the monetary value of final goods and services which are produced in an economic territory/country in a given time period. It is calculated without making deductions for depreciation of produced assets or for depletion and degradation of natural resources. It can be measured either by: 
@@ -626,7 +628,7 @@ Mpowa’s Contribution:
 
 
 
-Problem 9: Housing shortage, infrastructure problems 
+### Problem 9: Housing shortage, infrastructure problems 
 
 Description!
 
@@ -666,7 +668,7 @@ Enhance scientific research, upgrade the technological capabilities of industria
 
 
 
-Problem 10: Country-based inequality
+### Problem 10: Country-based inequality
 
 Description 
 
@@ -691,7 +693,7 @@ Encourage official development assistance and financial flows, including foreign
 
 
 
-Problem 11: Unsafe and polluted cities
+### Problem 11: Unsafe and polluted cities
 
 This indicator measures the number of people who died, went missing or were directly affected by disasters per 100,000 population. 
  Death: The number of people who died during the disaster, or directly after, as a direct result of the hazardous event. 
@@ -716,7 +718,7 @@ Reduce the adverse per capita environmental impact of cities, including by payin
 
 
 
-Problem 12: Unsustainable consumption and production
+### Problem 12: Unsustainable consumption and production
 
 DESCRIPTION 
 
@@ -735,7 +737,7 @@ Achieve the sustainable management and efficient use of natural resources
 Achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment.
 
 
-Problem 13: Climate change
+### Problem 13: Climate change
 
 This indicator measures the number of countries that adopt and implement national disaster risk reduction (DRR) strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030, with multiple dimensions of the level of implementation. 
 Disaster risk reduction strategies: define goals and objectives across different timescales and with concrete targets, indicators and time frames. In line with the Sendai Framework for Disaster Risk Reduction 2015-2030, these should be aimed at preventing the creation of disaster risk, the reduction of existing risk and the strengthening of economic, social, health and environmental resilience. 
@@ -776,7 +778,7 @@ All projects, basically. Strengthen resilience and adaptive capacity to climate-
 
 
 
-Problem 14: Marine pollution
+### Problem 14: Marine pollution
  “Marine pollution occurs when substances used or spread by humans, such as industrial, agricultural and residential waste, particles, noise, excess carbon dioxide or invasive organisms enter the ocean and cause harmful effects there. The majority of this waste (80%) comes from land-based activity, although marine transportation significantly contributes as well. Since most inputs come from land, either via the rivers, sewage or the atmosphere, it means that continental shelves are more vulnerable to pollution. Air pollution is also a contributing factor by carrying off iron, carbonic acid, nitrogen, silicon, sulfur, pesticides or dust particles into the ocean. The pollution often comes from nonpoint sources such as agricultural runoff, wind-blown debris, and dust. These non-point sources are largely due to runoff that enters the ocean through rivers, but wind-blown debris and dust can also play a role, as these pollutants can settle into waterways and oceans. Pathways of pollution include direct discharge, land runoff, ship pollution, atmospheric pollution and, potentially, deep sea mining."
 
 
@@ -811,7 +813,7 @@ Conserve coastal and marine areas, consistent with national and international la
 
 
 
-Problem 15: Deforestation
+### Problem 15: Deforestation
 
 The proportion of forest area of the total land area of many countries is decreasing. UN Statistics can be found online and are represented as a percentage of land-mass covered by trees. 
 Concepts: 
@@ -875,7 +877,7 @@ Promote fair and equitable sharing of the benefits arising from the utilization 
 
 
 
-Problem 16: Violence, abuse, exploitation. 
+### Problem 16: Violence, abuse, exploitation. 
 
 The use of violent (physical or verbal) disciplining techniques are a violation of children’s rights, and can result in immediate effects and long-term consequences that children carry well into adulthood. It is the most widespread and socially accepted type of violence against children. Data is collected through nationally representative household surveys that include a module on violence against children which are conducted by national statistical offices. Internationally coordinated household surveys such as the Multiple Indicator Cluster Survey (MICS) and the Demographic and Health Survey (DHS) also collect this data in low and middle-income countries. 
 
@@ -919,7 +921,7 @@ End abuse, exploitation, trafficking and all forms of violence against and tortu
 
 
 
-Problem 17: Absence or shortage of fruitful partnerships in order to reach and succeed the SDGs 
+### Problem 17: Absence or shortage of fruitful partnerships in order to reach and succeed the SDGs 
 
 This indicator is defined as the number of fixed internet broadband connections/subscriptions of different speed tiers per 100 inhabitants of a country. The speed tiers considered are advertised downstream speeds of: 
 (1)  256 Kilobits per second (Kbps) to 2Megabits per second (Mbps);  
@@ -961,7 +963,7 @@ It's impossible to provide an exhaustive list of what you can do to protect the 
 
 
 
-Unique Selling Point
+## Unique Selling Point
 
 Not only serving merely as a project enabler on its SaaS platform, Mpowa is actually concerned with the direct manifestation of projects by using a bottom-up approach. A complete range of disciplines and sectors are covered and included in the thought-process when Mpowa starts or receives a new project, in order to present something truly beneficial and feasible towards its investors. 			Mpowa has the infrastructure for collaborators to bring their projects up to a certain standard, to facilitate credible project-scaling. While Mpowa is doing things differently than most of its direct competitors, it is always designed for increased service towards the customer and the planet. Thus, writing about Mpowa’s Unique Selling Point forced the Management Team to think about exactly what value it brings to its customers and why they should start contributing to the platform and its related projects. 	An interesting and fairly unique feature is the implementation of an openly accessible product/service-demand submission form for people in need. Submissions will be verified for authenticity and correctness. If the submission comes from a person/entity in an area where Mpowa doesn’t have any projects planned, it can (depending on the severity of the situation) spark the company to start a project (in the area of the submission) or decide to serve the person individually. By demand and supply, NFT’s will be created and minted to serve the need and also contains a certificate for the purchaser that can be used to claim SDG Impact Tokens, Tokenized Carbon Credits and/or Governance Tokens. 	What really matters for contributors to the platform is that they each have a transparent overview of where they’ve sent their money, how it's being used and which impact their contribution has realized. Mpowa is selling impact, sustainability and health to those who care about planet earth and its inhabitants in an auditable and regulatory compliant way, with implementation of its project impact-data in UN SDG reporting. 
 
@@ -979,7 +981,7 @@ The SDG Nature Clean Water Platform is a project that aims to provide clean wate
 
 
 
-SDG Partnership registration
+## SDG Partnership registration
 
 One of the requirements to register for Partnership for SDGs with the UN are a clearly defined set of data that is in accordance with the SMART criteria. 
 
@@ -1030,7 +1032,7 @@ The Partnership Data for SDGs (PD4SDGs)7 initiative is a collaboration between t
 
 
 
-Scalability
+## Scalability
 
 In case there’s an unexpectedly large interest from the audience to contribute towards a certain project, there are solutions to scale the project or at least realize new projects without significant delay, due to partnerships with companies that can provide Mpowa and its beneficiaries with similar technology.  
  Scalability and Technology  Scalability and technology blend well and are inseparable for an efficient transition during growth. A system may be considered scalable if it can adapt to the changing needs or patterns of its users. It is often a sign of competitiveness because a scalable network or system is ready to handle increased demand, trends, and needs, even with the emergence of new competitors.
@@ -1049,7 +1051,7 @@ The scalability of a business also depends on the effectiveness of communication
 
 
 
-SDG Impact 
+## SDG Impact 
 
 Contributing to the United Nations Sustainable Development Goals requires parties to follow certain data standards and methods of proceeding and documentation of projects. 
 One of which is the Data Standards Definition. The required data will be included in NFT’s that will be linked to products or services that beneficiaries will receive after a project is funded. 
@@ -1067,7 +1069,7 @@ The impact-calculation of projects and products that are offered by Mpowa will b
 
 
 
-SDG Impact Standards
+## SDG Impact Standards
 
 
 
@@ -1248,7 +1250,7 @@ DATA REQUIRED
 
 
 
-Data & Statistics
+## Data & Statistics
 
 Though environmental statistics is still a relatively new statistical domain, the demand for such statistics is increasing in conjunction with continuing environmental degradation and the obstacles associated with improved environmental management. The recognition that human well-being depends on the environment has led to an increasing list of environmental problems on which decisions must be taken, such as climate change, biodiversity loss and natural resource management. Given the need for governments, businesses, households and other decision makers to deal effectively with these issues, the environment statistics informing them must be of the highest quality possible.
 Environment statistics provide information about the state and changes of environmental conditions, the quality and availability of environmental resources, the impact of human activities and natural events on the environment and the impact of changing environmental conditions. They also provide information about the social actions and economic measures that societies take to avoid or mitigate these impacts and to restore and maintain the capacity of the environment to provide the services that are essential for life and human well-being.
@@ -1351,7 +1353,7 @@ Pilot project: Manual entry per batch of water cleaned.
 
 
 
-Quality Assurance
+## Quality Assurance
 
 
 Quality” is the degree to which a set of inherent characteristics of an object fulfills requirements.7 In the context of statistical organizations, and in this Manual, the object is the statistical output or product, the process, the institutional environment or the whole statistical system. A simple definition of quality is “fit for use” or “fit for purpose”. It is the users’ needs that define the quality. Different users may have different needs that must be balanced against each other to provide the quality concept with concrete content. Over the past 20 years, statistical agencies have arrived at the consensus that the concept of “quality of statistical information” is multidimensional, and that there is no one single measure of quality. For a statistical product, the general definition of quality is operationalized by specifying a set of factors or dimensions that characterize it: relevance; accuracy and reliability; timeliness and punctuality; accessibility and clarity; and coherence and comparability. The dimensions of quality are interrelated, and there are trade-offs between some of
@@ -1396,7 +1398,7 @@ Recommendations 13: In accordance with principle 9 of the Fundamental Prin- cipl
 Recommendation 14: In accordance with principle 10 of the Fundamental Prin- ciples of Official Statistics, it is recommended that countries participate in bilat- eral and multilateral cooperation in statistics to improve official statistics in all countries.
 
 
-The Platform
+## The Platform
 
 The purpose of the platform has been described already, yet here you’ll find a thoroughly descriptive version containing everything you need to know when interacting with the platform. 
 The purpose of the Mpowa platform is to connect the world and its issues to the right community of people who desire to make a swift impact without having to go through organizational hassles themselves. 
@@ -1499,7 +1501,8 @@ The Mpowa infrastructure will contain a costumer interface which is capable of m
 
 
 
-Decentralized Autonomous Organization (DAO)
+## Decentralized Autonomous Organization (DAO)
+
  Mpowa’s platform and tokens pairs with a blockchain based DAO (Decentralized Autonomous Organization), which gives the users control and transparency. Mpowa’s native blockchain is constructed using Parity Technology’s Substrate framework, elaborated upon in the chapter “The Technology”. 
 Several years after Bitcoin was launched, DAOs became a useful mechanism developers and adopters to work together in a harmonized and democratic way. The tech represents financial sovereignty and a digital data-currency instrument, thus Bitcoin opened up countless opportunities. Opportunities and innovative ideas find a ground wherein they can gather resources in a creative way to bring projects to life. DAOs promised to revolutionize how we structure socio-economic relationships. Facilitating solutions for ancient problems is where the DAO comes in, due to the (decentralized) power of many. Now the question arrises:   Key features and benefits of a DAO-structure  - The ability to structure large-scale, merit-based communities with minimal entrance barriers, factor in externalities, and – much in the Bitcoin spirit – break free from relying on traditional institutions. 
 - Organize and coordinate the efforts and resources of members via an a priori estimate, anonymous but formalized, and transparent set of rules that are agreed upon in a multilateral fashion.
@@ -1553,7 +1556,7 @@ The governance layer is responsible for essential functions which control the op
 
 
 
-Carbon Offset
+## Carbon Offset
 
 The practice of carbon offsetting has arisen in a world where far too little is being done to address climate change. At a global level, relatively few organizations have taken meaningful action to reduce GHG emissions. As a result, for companies committed to taking action, it has not been hard to find low-cost carbon offsets. The potential supply of GHG reductions is huge, because there are so many sources of GHG emissions that face no legal or economic incentives to reduce.
 
@@ -1606,7 +1609,7 @@ Carbon offset price per tonne, approximation by Gold Standard.
 
 
 
-ESG Fund
+## ESG Fund
 
 Scalingfunds to attract investors and in order to create a clear investment profile and indication of RoI. 
 
@@ -1623,7 +1626,7 @@ ScalingFunds was officially established in January 2018 by Jakob Drzazga, a form
 
 
 
-Decarbonizer App
+## Decarbonizer App
 
 
 
@@ -1639,7 +1642,7 @@ An IMPACTOR navigates through different projects, investigate the details, and f
 
 
 
-Impact-NFT Marketplace
+## Impact-NFT Marketplace
 
 
 
@@ -1650,7 +1653,7 @@ Impact-NFT Marketplace
 
 
 
-Geolocation
+## Geolocation
 
 Mpowa’s region of focus will primarily be Africa, due to the severe poverty that humanity is dealing with there in comparison to the rest of the world.
  For apparent reasons, Mpowa prioritizes to allocate its support to rural areas of Africa. Micro-particles, Co2 levels, and other greenhouse-gas emissions are at dangerously high levels, causing direct and indirect harm to its citizens and the environment in which they reside.
@@ -1660,8 +1663,9 @@ Mpowa’s team is international with the company ‘’Mpowa Ltd’’ being fou
 
 
 
-Methodology
- DATA COLLECTION METHODS FOR EACH GOAL !!!! 
+## Methodology
+
+DATA COLLECTION METHODS FOR EACH GOAL !!!! 
 Data Sources and Collection Method
 
 
@@ -1752,7 +1756,7 @@ The following pallets are stored in `pallets/`. They are designed for mpowa's sp
 
 
 
-Blockchain tech
+### Blockchain tech
 
 Plugging into a multi-chain framework. 
 
@@ -2009,7 +2013,7 @@ Tree Planting
 
 
 
-Market Analysis and potential
+## Market Analysis and potential
 
 
 Carbon market
@@ -2054,7 +2058,8 @@ Competitors
 
 
 
-Team
+## Team
+
  Ryan Lavelle: Co-founder / CEO  With 20 years in the banking industry, Ryan doesn’t crack under pressure. His focus is now on democratising and decentralising access to renewables. 
 
 
@@ -2132,7 +2137,7 @@ Jennifer Koster:
 
 
 
-Roadmap
+## Roadmap
 
 2022, Q2  Objectives to be reached in Q2 of 2022:  - Mpowa Blockchain, main-net & test-net running with multiple nodes. - Token launches: mUSD, mTE, mSDG, Project-NFT’s, mGOV, data tokens & mOCR’s.   - Smart Contracts: Treasuries, projects, escrow.   - Web3 Foundation - Grant submission. - Decabonizer App - Web, iOS, Android.  - NFT Marketplace
 
@@ -2160,7 +2165,7 @@ Omni, quanti.
 
 
 
-Tokenomics
+## Tokenomics
 
 
 
@@ -2202,7 +2207,7 @@ mUSD - Utility Token, stablecoin:   Stablecoin pegged by the United States
 
 
 
-Token Allocation
+## Token Allocation
 
 
 Private pre-sale ESG fund: 10% of the company’s equity is tokenized 
@@ -2220,7 +2225,7 @@ Total supply: X mTE Presale: X (10% of company’s equity) Presale Base pric
 
 
 
-Token Launches
+## Token Launches
 
 Launches & pre-sales before listing on centralized and decentralized exchanges.
 
@@ -2271,7 +2276,7 @@ environment enhances securities regulatory objectives of disclosure, fairness an
 
 
 
-SWOT Matrix
+## SWOT Matrix
 
 The name is an acronym for the four components the technique examines:
 Strengths: characteristics of the business or project that give it an advantage over others
@@ -2303,7 +2308,7 @@ Monitoring all results—mapping against plans, taking corrective action, which 
 
 
 
-Conglomerate: Partnerships & Involvement
+## Conglomerate: Partnerships & Involvement
 
 
 
@@ -2406,7 +2411,7 @@ Amazix
 
 
 
-Joining Mpowa
+## Joining Mpowa
 
 
 
@@ -2452,28 +2457,7 @@ Mpowa is always eager to get in contact with community leaders in order to facil
 
 
 
-This needs to be included as well
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## This needs to be included as well
 
 
 
@@ -2525,7 +2509,7 @@ Anti terrorism  CTF
 prospectus and transparency requirements
 
 
-Mpowa’s online resources
+## Mpowa’s online resources
 
 Main website
 
@@ -2564,7 +2548,7 @@ Instagram:
 
 
 
-Disclaimer
+## Disclaimer
 
 
 This Summary of Terms of the sale of Tokens (the “Token Term Sheet”) describes certain terms of your purchase of Tokens (“Mpowa Tokens” or “Tokens”) issued by MPOWA, Ltd., a BVI Business Company (the “Company”) under the terms described hereinafter and creates the right to receive Mpowa Tokens. The Tokens are designed to allow participants to utilize the blockchain (“Mpowa Chain” or “Blockchain”) which will allow holders to participate in a decentralized system wherein participants can tokenize numerous corporate finance documents, including, for example, accounts receivables. The Tokens will be delivered to you pursuant to a purchase agreement for the Tokens (the “Purchase Agreement”). This Token Term Sheet is subject to revision and is qualified in its entirety by reference to the Purchase Agreement. To the extent that the terms set forth in this Token Term Sheet are inconsistent with or contrary to the terms of the Purchase Agreement, the Purchase Agreement will control. 
