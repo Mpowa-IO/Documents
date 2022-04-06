@@ -108,10 +108,10 @@ beneficiary family). For certain projects, Tokenized Carbon Offset Credits will 
 Data-Logging Tokens are interlinked to specific NFT’s that facilitate the offset. These various ways of contributing to listed projects, 
 are more thoroughly described in the sections ‘’The Platform’’ and ‘’Tokenomics’’. 
 	Project-fund pools are better formulated as smart-contracts, which are financial software-programs that are continuously running on 
-the blockchain, once deployed. This will be further elucidated in the chapter ‘’The Technology’’. 	All contributions will be acquired from 
+the blockchain, once deployed. This will be further elucidated in the chapter ‘’The Technology’’.	All contributions will be acquired from 
 verified platform-users, which have successfully submitted their necessary information through the implemented KYC-protocol, 
 in order to ensure an entirely legitimate stack of contributions to ensure regulatory compliance. Mpowa has a strict and correct privacy policy 
-to ensure safety of their users’ data. Not all data will be stored on the blockchain, yet shall be encrypted to prevent data-theft. 	
+to ensure safety of their users’ data. Not all data will be stored on the blockchain, yet shall be encrypted to prevent data-theft.	
 Most contributions, with presumably different financial values, will have unique and fair voting properties carried with it, 
 concerning projects and questions that are presented by the Mpowa-DAO. After purchase, these voting rights will become available for the contributor, 
 through Governance Tokens. These project specific voting rights will be different for every project and every donation, 
@@ -119,31 +119,33 @@ carrying different properties that will be clearly described in the receipt befo
 Read more about these voting properties in the chapter “DAO’’. Please note that the voting rights / Governance Tokens that may be granted 
 to the contributor from acquiring a token or tokens only applies to matters/projects concerning the DAO and are not equal to possessing equity 
 or shareholder-rights in the company, Mpowa Ltd, itself.
+
 For a detailed disclaimer on token purchases, please read the chapter ‘’Disclaimer’’ and consult the additional documents available on the 
-Mpowa website, or the documents provided by the approved exchanges that have listed Mpowa’s tokens. 	
+Mpowa website, or the documents provided by the approved exchanges that have listed Mpowa’s tokens.	
 There are various methods to acquire the tokens that are issued by Mpowa, all which are described in the chapter ‘’Tokenomics’’. 
-Every contributor should consult with independent tax advisors as to the consequences of receiving the Mpowa Token(s).  	
+Every contributor should consult with independent tax advisors as to the consequences of receiving the Mpowa Token(s). 	
 It is anticipated that the value of the token(s) will fluctuate over time, except the Mpowa Utility Token (stablecoin) - which is 1:1 
 pegged with the Euro fiat currency. After delivery, the value of the tokens may be determined based on current pricing on third-party exchanges, 
 and in the absence of such pricing, the price of the tokens may be limited to what a buyer is willing to pay in a privately negotiated arms-length 
 transaction. The company is not under any obligation to provide token valuations to purchasers and provides no guarantees that it will 
 take affirmative steps to facilitate a secondary market for the tokens. There can be no guarantee that the tokens will hold their value or 
 increase in value. Many factors will influence this outcome, including increased activity on the blockchain, demand for the blockchain’s 
-services as blockchain projects proliferate, and other factors that are outside of the company’s control.  
+services as blockchain projects proliferate, and other factors that are outside of the company’s control.
+
 The first token we are launching is the Mpowa Utility Token (stablecoin for project contributions), followed by a security token, 
 the Mpowa SDG Impact Token - linked to the Mpowa Carbon Fund. This is an investment grade digital financial asset that is fully regulatory 
 compliant and linked to our Luxembourg domiciled AIFM ESG fund launched in partnership with Scaling Funds. The Mpowa Utility Tokens are used 
 in the Decarbonizer.app and the Decarbonizer Pro services to fund projects via the platform and provide complete traceability of funds from 
 investors to impact via the blockchain. Depending on the project and contribution size, a certain amount of Mpowa SDG Impact 
-Tokens will be transferred to the contributor. 	All Mpowa Tokens can used by enterprises, NGOs, charities and consumers to support 
+Tokens will be transferred to the contributor.	All Mpowa Tokens can used by enterprises, NGOs, charities and consumers to support 
 ESG-related energy and water projects in line with 17 SDGs. The SDG Impact Tokens and Tokenized Carbon Credits are minted dynamically, 
 according to the projects capacity.
 The cryptocurrencies created by Mpowa are among the first (crypto)currencies to be born as carbon negative, climate positive. 
-Users of the Mpowa platform can potentially utilize their contributions in a way to reduce their tax bill.	 	
+Users of the Mpowa platform can potentially utilize their contributions in a way to reduce their tax bill.		
 An additional token, the Mpowa Energy Coin, will be issued in late Q2 or Q3 of 2022. This currency will be created and used on the 
 Steroid 4.0 blockchain network, which guarantees regulatory approval, scalability, and security. Proof of Green is provided by the 
 Energy Web Foundation CCA Protocol. Tokens will be minted and mined on the global Mpowa HPC network with our first site likely being in RSA or Cyprus. 
-  The ESG Fund is where all fiat contributions are held - whether from investors in the overall company fund, or project specific treasuries. 
+	The ESG Fund is where all fiat contributions are held - whether from investors in the overall company fund, or project specific treasuries. 
 This fund is controlled by our partner, Scaling Funds, with full FATCA and CRS compliance.
 
 
@@ -151,7 +153,7 @@ This fund is controlled by our partner, Scaling Funds, with full FATCA and CRS c
 
 ### Vision
 
- Mpowa and its associates envision a future on earth where sufficient resources and ultimately abundance is realized and accessible for all. 
+Mpowa and its associates envision a future on earth where sufficient resources and ultimately abundance is realized and accessible for all. 
 With sufficient resources, we refer to basic components for human life (not to be considered as luxuries) such as clean drinking water, 
 sustainably farmed organic food, medical supplies, education, shelter and zero-emission energy / clean mobility. 
 Clean water is a key-component for maintaining overall public health, whether it is used for drinking, domestic use, 
@@ -167,7 +169,7 @@ The overall vision of Mpowa is a world of connected fully autonomous devices of 
  in some cases selling the surplus back to the grid (where local regulations and infrastructure permit), 
 all registered with Energy Web Chain for unique identification of the device, whilst metered and paid for in Mpowa cryptocurrency tokens.
 Having achieved global mass adoption of our device and blockchain infrastructure, by definition, 
-our utility token will in effect become a global digital “fully fungible energy based unit of account” currency (stablecoin) that can potentially be used as the international medium of exchange between national currencies – because energy consumption is the absolute holy grail indicator of economic activity and hence pure gold dust as far as economists and central bankers trying to define monetary and credit policy for their economies goes. This aligns well to the emerging trend of increased use of blockchain and AI within the financial sector for purposes of oversight and automation of the financial system and national currencies.  Sustainability is defined as the process of mankind's action to avoid the depletion of natural resources, to maintain the ecological balance and not to allow the quality of life to decline in today's modern society. A measure that does slightly less damage to the natural world, in the belief that ecosystems not only ensure that they continue to function and create the conditions that allow quality of life in modern society not to decline, but also to claim to be sustainable. Given the environmental and social problems faced by societies around the world, sustainability can be exploited in a specific way.  	Sustainability encourages people, politicians and businesses to make long-term decisions and take future generations into account. It encourages companies to make decisions about environmental, social and human impacts in the long term, rather than short-term profits. Sustainable development is the process of social progress that takes into account the needs of current and future generations by integrating economic, social and environmental considerations into decision-making. 	Companies that achieve corporate sustainability must reduce their emissions, reduce their energy consumption, source products from fair trade organizations, and ensure that their physical waste is disposed of with the lowest possible carbon footprint. Companies can make a public commitment to sustainability through measures such as waste reduction, investments in renewable energies and support organizations that offset carbon emissions. Even when big brands are committed to sustainability, it can take a long time to achieve sustainability goals, hence the creation of the carbon offset market to reach net-zero prior to demanding instant technological replacements to stop emissions. 
+our utility token will in effect become a global digital “fully fungible energy based unit of account” currency (stablecoin) that can potentially be used as the international medium of exchange between national currencies – because energy consumption is the absolute holy grail indicator of economic activity and hence pure gold dust as far as economists and central bankers trying to define monetary and credit policy for their economies goes. This aligns well to the emerging trend of increased use of blockchain and AI within the financial sector for purposes of oversight and automation of the financial system and national currencies. Sustainability is defined as the process of mankind's action to avoid the depletion of natural resources, to maintain the ecological balance and not to allow the quality of life to decline in today's modern society. A measure that does slightly less damage to the natural world, in the belief that ecosystems not only ensure that they continue to function and create the conditions that allow quality of life in modern society not to decline, but also to claim to be sustainable. Given the environmental and social problems faced by societies around the world, sustainability can be exploited in a specific way. 	Sustainability encourages people, politicians and businesses to make long-term decisions and take future generations into account. It encourages companies to make decisions about environmental, social and human impacts in the long term, rather than short-term profits. Sustainable development is the process of social progress that takes into account the needs of current and future generations by integrating economic, social and environmental considerations into decision-making.	Companies that achieve corporate sustainability must reduce their emissions, reduce their energy consumption, source products from fair trade organizations, and ensure that their physical waste is disposed of with the lowest possible carbon footprint. Companies can make a public commitment to sustainability through measures such as waste reduction, investments in renewable energies and support organizations that offset carbon emissions. Even when big brands are committed to sustainability, it can take a long time to achieve sustainability goals, hence the creation of the carbon offset market to reach net-zero prior to demanding instant technological replacements to stop emissions. 
 
 
 
@@ -185,7 +187,7 @@ our utility token will in effect become a global digital “fully fungible energ
 
 ### Mission
 
- Our long-term mission is to catalyze the mass adoption of new forms of clean sustainable energy and utilize the benefits of these technologies in best interest of the end-user. This is achieved by supporting the development and commercialization of disruptive new clean energy technologies. Ensuring that this technology won’t be corrupted by corporate monopolies or political agendas, Mpowa’s energy-generation devices connect to a decentralized autonomous platform, with its own currency.  	Mpowa is creating a platform for the world to combat energy scarcity and where every individual has the opportunity to choose energy sources that have no hidden side effects, in full respect of Health and Environment. By reducing or eliminating economic disparities caused by the lack of access to affordable clean energy, paired with decentralized technology to ensure social and environmental resilience. Mpowa is creating the foundation for an honest and equitable society. 	`The main objective of the pilot-project is to provide safe and sustainably available clean water, at locations where water-born diseases are a root cause for infant-mortality, e.g. rural areas of Africa. 	The goal is to also directly tackle fundamental socio-economic problems of energy scarcity, environmental destruction, financial exclusion, and help to mitigate/displace current CO2 intensive energy production technologies like coal and other fossil fuels. 
+Our long-term mission is to catalyze the mass adoption of new forms of clean sustainable energy and utilize the benefits of these technologies in best interest of the end-user. This is achieved by supporting the development and commercialization of disruptive new clean energy technologies. Ensuring that this technology won’t be corrupted by corporate monopolies or political agendas, Mpowa’s energy-generation devices connect to a decentralized autonomous platform, with its own currency. 	Mpowa is creating a platform for the world to combat energy scarcity and where every individual has the opportunity to choose energy sources that have no hidden side effects, in full respect of Health and Environment. By reducing or eliminating economic disparities caused by the lack of access to affordable clean energy, paired with decentralized technology to ensure social and environmental resilience. Mpowa is creating the foundation for an honest and equitable society.	`The main objective of the pilot-project is to provide safe and sustainably available clean water, at locations where water-born diseases are a root cause for infant-mortality, e.g. rural areas of Africa.	The goal is to also directly tackle fundamental socio-economic problems of energy scarcity, environmental destruction, financial exclusion, and help to mitigate/displace current CO2 intensive energy production technologies like coal and other fossil fuels. 
 Besides tackling problems through solutions and partnerships presented by the Mpowa platform, it’s the companies’ mission to spark global creativity and submit/suggest new projects for a better future on earth, through rewarding community engagement.  
 
 Long term: 
@@ -194,31 +196,31 @@ Long term:
 
 ### Values
 
- Mpowa aims to create genuine relationships with its customers by giving them the opportunity to really change human-lives for the better.  
+ Mpowa aims to create genuine relationships with its customers by giving them the opportunity to really change human-lives for the better.
 The Mpowa Team, being at its core humanitarian libertarians, fundamentally believes in the principles espoused in the US Declaration of Independence 
 – that all humanity should have the right to Life, Liberty and the Pursuit of Happiness. For far too long these inherent rights are abridged, 
-curtailed and threatened by the state and out of control economic and political actors.  	To supplement these fundamental rights, 
-FDR famously spoke of the 4 freedoms: Freedom of association, Freedom of conscience, Freedom from fear and, last but not least, Freedom from want. 
+curtailed and threatened by the state and out of control economic and political actors. To supplement these fundamental rights, 
+FDR famously spoke of the 4 freedoms: Freedom of association, Freedom of conscience, Freedom from fear and, last but not least, Freedom from want.
 It is in the last of these - in the field of energy systems - that we aim to make a fundamental shift in world socio-economic affairs from the present
  system of manufactured for-profit scarcity for the advantage of corporations to a system of autonomous energy abundance for the liberation of humanity.
- In doing so, we aim to tackle fundamental socio-economic problems of energy scarcity, environmental destruction, and help to mitigate/displace 
-current CO2 intensive energy production technologies like coal power.   
+In doing so, we aim to tackle fundamental socio-economic problems of energy scarcity, environmental destruction, and help to mitigate/displace 
+current CO2 intensive energy production technologies like coal power.
 
-#### Sovereignty   
+#### Sovereignty 
 
 The idea of sovereignty is closely related to the idea of freedom. 
 The sovereign is the only one who is free. He may be a king or queen, but he is also the only one who can make decisions without consulting anyone else.
- 	The idea of sovereignty is one that has been debated for centuries. It is a complicated concept, and many people have different views on 
+ The idea of sovereignty is one that has been debated for centuries. It is a complicated concept, and many people have different views on 
 what it means to be sovereign. The meaning of sovereignty changes depending on the context in which it is used. Sovereignty can be used as a 
-synonym for independence or autonomy, but it can also refer to the legal right of a state to govern itself without outside interference. 
-	For this purpose, sovereignty is defined as the ability to choose  
+synonym for independence or autonomy, but it can also refer to the legal right of a state to govern itself without outside interference.
+	For this purpose, sovereignty is defined as the ability to choose.
 
 
 
 #### Equality
 
 The world is changing and as such, we need to change the way we think about equality. We should not be focused on equality for the sake of equality,
- but instead focus on abundance and respect. 	Leaders cannot keep asking for more and more without giving anything in return. 
+ but instead focus on abundance and respect. Leaders cannot keep asking for more and more without giving anything in return. 
 Mpowa is here to create a balance between what we give and what we get.
 
 
@@ -254,13 +256,13 @@ much remains to be done. For example: to make the internet accessible to everyon
 	Progress is movement towards a purified, improved, or otherwise desired state. Recently, the concept of progress has been generalized to 
 psychology, since it is associated with the concept of a goal, that is, progress is understood as “what is considered a means of moving towards 
 the final result of a given specific goal.” Some 20th-century authors refer to The Myth of Progress, referring to the idea that 
-human conditions will inevitably improve. 	
+human conditions will inevitably improve.	
 In the 20th century, romantic critics charged that progress did not automatically improve people's conditions and might somehow make them worse. 
 Rogers was one of several reformers in the late 19th century who saw that America's ability to make progress could be greatly improved. 
 He envisioned progress as the process of human development through the search for philosophical truths and the introduction of an era 
 of material prosperity through technological progress. Marxists are vehemently opposed to capitalism, liberals are staunchly supporters of it, 
 but the only concept they can agree on is progress, which asserts that people have the ability to create, improve, and change their societies 
-through knowledge, science, technology, and practical experimentation. 	By "progress" we mean the combination of economic, technological, 
+through knowledge, science, technology, and practical experimentation.	By "progress" we mean the combination of economic, technological, 
 scientific, cultural and organizational progress that has changed our lives and raised our standard of living over the past two centuries. 
 The process of progress and how things move in a positive direction of improvement is called progress. 
 In particular, advancement to a higher or more developed state; development, growth. From Middle English progressie, 
@@ -271,33 +273,33 @@ from Old French progres ("to go forward"), from Latin progressus (“to move for
 
 ### Opportunity
 
-Referring back to abundance, opportunity is created by making clear calculations of available resources and making the most of it. 	
+Referring back to abundance, opportunity is created by making clear calculations of available resources and making the most of it.	
 Families in rural areas of Africa will hopefully remark that it's a great job and an opportunity to work alongside some people in the country who are 
-‘’better off’’. Mpowa strongly believes in strengthening equality of opportunity all around the world, and thus being a catalyst for major development. 
-	Focusing on what matters most can really make a difference in what kids learn. Accounting for the cost of opportunity costs can help individuals and organizations make better decisions. 	The purpose of calculating economic profit (and therefore opportunity cost) is to help improve business decision making by including opportunity cost, to get a clear vision of what the future may bring. To further improve business decision making, several measures of economic profit performance have been derived, such as risk-adjusted return on capital (RAROC) and economic value added (EVA), which directly include the quantification of opportunity costs to help companies manage risk and allocate resources. Accounting profits are the real costs (in real monetary terms) of businesses that are included in their balance sheets, financial statements, and income statements, and should be included as implicit costs accounted for by opportunity costs. 	When making major decisions, such as buying a home or starting a business, you are likely to carefully consider the pros and cons of your financial decision, but most day-to-day decisions are not made with a full understanding of the potential cost of the opportunity. After Coleman's 1966 Equality of Educational Opportunity report, another debate arose about whether money affects educational outcomes. The common notion of educational inequality, that it is mainly for students who come to school with insufficient skills to benefit from what the school has to offer, is still widely held because the degree of inequality in learning opportunities largely unknown. This makes it even more important that everyone around the world has internet access - to learn everything you want at your own pace.  
+‘’better off’’. Mpowa strongly believes in strengthening equality of opportunity all around the world, and thus being a catalyst for major development.
+	Focusing on what matters most can really make a difference in what kids learn. Accounting for the cost of opportunity costs can help individuals and organizations make better decisions.	The purpose of calculating economic profit (and therefore opportunity cost) is to help improve business decision making by including opportunity cost, to get a clear vision of what the future may bring. To further improve business decision making, several measures of economic profit performance have been derived, such as risk-adjusted return on capital (RAROC) and economic value added (EVA), which directly include the quantification of opportunity costs to help companies manage risk and allocate resources. Accounting profits are the real costs (in real monetary terms) of businesses that are included in their balance sheets, financial statements, and income statements, and should be included as implicit costs accounted for by opportunity costs.	When making major decisions, such as buying a home or starting a business, you are likely to carefully consider the pros and cons of your financial decision, but most day-to-day decisions are not made with a full understanding of the potential cost of the opportunity. After Coleman's 1966 Equality of Educational Opportunity report, another debate arose about whether money affects educational outcomes. The common notion of educational inequality, that it is mainly for students who come to school with insufficient skills to benefit from what the school has to offer, is still widely held because the degree of inequality in learning opportunities largely unknown. This makes it even more important that everyone around the world has internet access - to learn everything you want at your own pace.
 
 
 ### Collaboration
 
-Platform = constant collaborations   Research shows that collaboration can improve results and productivity. 
+Platform = constant collaborations . Research shows that collaboration can improve results and productivity. 
 In short, collaboration makes things easier, which helps us get more done in less time. At the end of the day, 
-collaboration is a skill that helps people work together, come up with new ideas, listen to each other, and learn from each other. 	
+collaboration is a skill that helps people work together, come up with new ideas, listen to each other, and learn from each other.	
 Collaboration skills enable you to successfully work with others to achieve common goals. Most work environments require collaboration, 
 so collaboration skills are critical. There are various collaboration skills and communication strategies that, if developed, 
 can help improve the overall effectiveness of a team. The United Nations has developed a refined framework for everyone globally to collectively 
 contribute and collaborate towards reaching massive goals. Mpowa brings people together to collect ideas, funding and other resources in order to 
-increase impact at a faster pace.  	Collaboration with this UN-created community is about learning from each other and sharing knowledge amongst 
+increase impact at a faster pace. 	Collaboration with this UN-created community is about learning from each other and sharing knowledge amongst 
 teams, not about completing tasks or reaching goals with one group. Effective collaboration is essentially. the exchange of ideas, tasks, 
-or skills for the purpose of developing processes, brainstorming, or completing projects.   Nature
+or skills for the purpose of developing processes, brainstorming, or completing projects. Nature
 Understanding how the natural world is presented, valued, and planned as a boon to human well-being is a disturbing challenge to my research. 
-Nature-Based Solutions (NbS) involves working with nature to solve social problems, benefiting both human well-being and biodiversity. 	
-Researchers are increasingly focusing on what they see as weaknesses in traditional reasoning about naturalness. In a recent study by Kevin, a lot of attention was paid to the benefits that people receive from nature, including those related to their health and well-being. A new report examines the impact of climate change on people and nature, and our ability to adapt to it. Environmental sociologist interested in the social and cultural aspects of natural resource management have been particularly involved in the development of an ecosystem approach to natural resource management, which seek to influence and shape from the social sciences and a key starting point. 	The British Ecological Society launched the People and Nature Project in recognition of the rapid growth of interdisciplinary and trans-disciplinary research on the relationship between man and nature, and that many of them touch on vital issues. 	People and Nature is a large-scale quarterly open access journal publication that explores the relationship between people and nature across all fields of research. 	Reported as part of the IPCC's Sixth Climate Science Assessment, humanity can adapt to a warming climate more easily than the natural world. The Persian Gulf will be the first to warm, but "it will become a problem in many parts of the world, including the United States," says Michael Oppenheimer. 	Regardless of the scenario, 1 billion people will be exposed to chronic flooding due to rising sea levels. Food insecurity will worsen as malnutrition rises in the global south. For example, ONeill notes, the number of people pushed into poverty in 15 years due to climate change could range from 10 million to 100 million, depending on their vulnerability and the vulnerability of their land. 
+Nature-Based Solutions (NbS) involves working with nature to solve social problems, benefiting both human well-being and biodiversity.	
+Researchers are increasingly focusing on what they see as weaknesses in traditional reasoning about naturalness. In a recent study by Kevin, a lot of attention was paid to the benefits that people receive from nature, including those related to their health and well-being. A new report examines the impact of climate change on people and nature, and our ability to adapt to it. Environmental sociologist interested in the social and cultural aspects of natural resource management have been particularly involved in the development of an ecosystem approach to natural resource management, which seek to influence and shape from the social sciences and a key starting point.	The British Ecological Society launched the People and Nature Project in recognition of the rapid growth of interdisciplinary and trans-disciplinary research on the relationship between man and nature, and that many of them touch on vital issues.	People and Nature is a large-scale quarterly open access journal publication that explores the relationship between people and nature across all fields of research.	Reported as part of the IPCC's Sixth Climate Science Assessment, humanity can adapt to a warming climate more easily than the natural world. The Persian Gulf will be the first to warm, but "it will become a problem in many parts of the world, including the United States," says Michael Oppenheimer.	Regardless of the scenario, 1 billion people will be exposed to chronic flooding due to rising sea levels. Food insecurity will worsen as malnutrition rises in the global south. For example, ONeill notes, the number of people pushed into poverty in 15 years due to climate change could range from 10 million to 100 million, depending on their vulnerability and the vulnerability of their land.
 
 
 #### Authenticity
 
-The word "authenticity" means the state in which something is authentic, legal, and true. Simply put, authenticity means being true to your personality, your values, and your spirit, no matter how much you are forced to act differently. Today, when people use the term "authenticity" they usually mean that they are honest and open. Their starting point is their perception that the term "authenticity" refers to what is the real, genuine or true term "authenticity". 	First, they argue that in order to understand the meaning of authenticity it is necessary to know who or what is the reference point for assessing authenticity, which can be either inside (i.e. the entity itself) or outside the entity (i.e. social category). judge. 	 In the descriptive use of authenticity, inauthenticity is simply the standard state of everyday life in which our personal relationships are mediated by others. Intellectual descriptions of abstract concepts that constitute authenticity often indicate descriptive limitations of language; in order to describe the negative space surrounding unreal states, unreal life examples illustrate states of real personality. When used in the latter sense, authenticity describes a person acting in accordance with desires, motives, ideals, or beliefs that not only belong to him (and not to others), but also expresses who he really is. 	Authenticity is more than making someone believe what they say or act in a way that is consistent with their beliefs. However, authenticity is likely to always mean different things to different people. True authenticity doesn't require you to share your values ​​with anyone because everyone can see your values ​​in the way you live. When you live with sincerity, you don’t have to worry about what you said (or didn't say), how you acted, or whether you did the right thing. 
-“Be authentic with Mpowa.” 
+The word "authenticity" means the state in which something is authentic, legal, and true. Simply put, authenticity means being true to your personality, your values, and your spirit, no matter how much you are forced to act differently. Today, when people use the term "authenticity" they usually mean that they are honest and open. Their starting point is their perception that the term "authenticity" refers to what is the real, genuine or true term "authenticity".	First, they argue that in order to understand the meaning of authenticity it is necessary to know who or what is the reference point for assessing authenticity, which can be either inside (i.e. the entity itself) or outside the entity (i.e. social category). judge.	In the descriptive use of authenticity, inauthenticity is simply the standard state of everyday life in which our personal relationships are mediated by others. Intellectual descriptions of abstract concepts that constitute authenticity often indicate descriptive limitations of language; in order to describe the negative space surrounding unreal states, unreal life examples illustrate states of real personality. When used in the latter sense, authenticity describes a person acting in accordance with desires, motives, ideals, or beliefs that not only belong to him (and not to others), but also expresses who he really is.	Authenticity is more than making someone believe what they say or act in a way that is consistent with their beliefs. However, authenticity is likely to always mean different things to different people. True authenticity doesn't require you to share your values with anyone because everyone can see your values in the way you live. When you live with sincerity, you don’t have to worry about what you said (or didn't say), how you acted, or whether you did the right thing. 
+“Be authentic with Mpowa.”
 
 
 
@@ -310,15 +312,15 @@ If you would like to learn more about how Mpowa users use services like Mpowa to
 please contact Mpowa users directly or review the Mpowa User Privacy Policy. Mpowa is responsible for respecting its users’ privacy rights, 
 including appropriate disclosures regarding the collection and use of data related to Mpowa user services. Mpowa is not responsible for the 
 processing of data by other controllers, including our customers, and you should contact them directly to inquire about how they handle your 
-personal information and exercise your privacy rights in relation to such processing, if you suspect them to do so.  	
+personal information and exercise your privacy rights in relation to such processing, if you suspect them to do so. 	
 Through the General Data Protection Regulation (GDPR), and other applicable laws and regulations, individuals may have data subject rights 
 that allow them to request access, delete, correct, remove or restrict use, or obtain copies its personal information held by Mpowa or for which 
 Mpowa is otherwise responsible. The Privacy Policy informs customers about the collection, use, and sharing of personal information in connection 
-with Mpowa provision of the Policy tools. 	Other controllers have the duties of other controllers in accordance with applicable privacy laws. 
+with Mpowa provision of the Policy tools.	Other controllers have the duties of other controllers in accordance with applicable privacy laws. 
 Confidentiality depends on the rules for disseminating information and whether it is appropriate. Privacy uses the theory of natural 
 rights and usually responds to new information and communication technologies. Invasion of privacy, a subset of the expectation of privacy, 
 is a concept distinct from the collection, aggregation, and dissemination of information, in that collection is the misuse of existing data, 
-while intrusion is an infringement on people's right to keep personal secrets. 	To help protect the privacy and security of your information, 
+while intrusion is an infringement on people's right to keep personal secrets.	To help protect the privacy and security of your information, 
 you may be asked to provide additional information to verify your identity and/or ownership before Mpowa exercises your data rights. 
 This is information that you provide to Mpowa that identifies you personally, such as your name, email address, or billing information, 
 or other data that Mpowa may reasonably associate with this information, such as information that we associate with an Mpowa account. 
@@ -340,10 +342,10 @@ specific disclosure may contain more detailed information about the applicable s
 
 Vulnerable communities in developing nations have limited to no incentive to maintain their local ecosystem and preserve the natural environment. 
 Due to extreme poverty and exclusion, pollution, environmental degradation and carbon intensive activities (wood, charcoal, kerosene burning), 
-these communities  are unhealthy and dangerous places for children to grow up, with high infant mortality rates and incidence of preventable disease. 
+these communities are unhealthy and dangerous places for children to grow up, with high infant mortality rates and incidence of preventable disease.
 	GHG emissions contribute to the overall carbon intensity of the South African economy, being 9th in the world overall and highest within 
 the G20 group of nations in segment “Destruction of the local ecosystem” which leads to a negative spiral of neglect and despondency, 
-species/wildlife depletion and unsanitary living conditions. 	Another example, when inspecting research data, is that only 7% of the population
+species/wildlife depletion and unsanitary living conditions.	Another example, when inspecting research data, is that only 7% of the population
  in Uganda has a had a sustainable form of clean water available for them. There’s a significant need for support in several African countries, 
 hence our pilot projects will likely take place that region of the world. 
 	Mpowa recognizes that poverty eradication, changing unsustainable and promoting sustainable patterns of consumption and production 
@@ -352,7 +354,7 @@ requirements for sustainable development. We also reaffirm the need to achieve s
 inclusive and equitable economic growth, creating greater opportunities for all, reducing inequalities, raising basic standards of living, 
 fostering equitable social development and inclusion, and promoting the integrated and sustainable management of natural resources and ecosystems 
 that supports, inter alia, economic, social and human development while facilitating ecosystem conservation, regeneration and restoration 
-and resilience in the face of new and emerging challenges. 	Mpowa reaffirms the importance of the Universal Declaration of Human Rights,
+and resilience in the face of new and emerging challenges.	Mpowa reaffirms the importance of the Universal Declaration of Human Rights,
 1 as well as other international instruments relating to human rights and international law. Mpowa emphasizes the responsibilities to respect, 
 protect and promote human rights and fundamental freedoms for all, without distinction of any kind as to race, color, sex, language, religion, 
 political or other opinion, national or social origin, property, birth, disability or other status.	
@@ -361,10 +363,10 @@ It is prospected that several rural areas in Africa, in different countries, wil
 By keeping the data and measurements conform to the Data Structure Definition (as defined by the UN), 
 Mpowa allows its projects to be officially regarded as legitimate and impactful, to ensure contributors that their contribution will result i
 nto legally verifiable impact. Mpowa’s approach of reporting and will be acquired once the technology has been funded for deployment, 
-to enable Mpowa to credibly present themselves to these organizations.   A specific set of SDG indicators is selected by Mpowa, 
+to enable Mpowa to credibly present themselves to these organizations. A specific set of SDG indicators is selected by Mpowa, 
 in terms of relevancy based on impact from projects that are currently on its agenda. Indicators are selected by applicability on and for 
 the projects that are currently managed by the platform and for prioritized future projects. Project impact is driven to certain indicators and 
-impact is noted and confirmed by official mathematical models.    Listed below are 17 problems, derived from statistical observations, 
+impact is noted and confirmed by official mathematical models. Listed below are 17 problems, derived from statistical observations, 
 by studying the United Nations Sustainability Development Goals and the issues that are addressed in the 2030 Agenda. 
 NFT’s will contain the necessary metadata according to the UN DSD’s for the impact to be processed and included into reports. 
 
@@ -374,17 +376,17 @@ NFT’s will contain the necessary metadata according to the UN DSD’s for the 
 
 #### Problem 1: 
 
-Poverty in all its forms.  The international poverty line is a threshold used to measure extreme poverty based on consumption or income levels. 
+Poverty in all its forms. The international poverty line is a threshold used to measure extreme poverty based on consumption or income levels. 
 A person is considered extremely poor if his or her consumption or income level falls below the minimum level necessary to meet basic needs. 
- International poverty line is the absolute global minimum is per 2022 $3,20 (in PPP).   The indicator is produced globally using micro-level data 
+International poverty line is the absolute global minimum is per 2022 $3,20 (in PPP). The indicator is produced globally using micro-level data 
 on household income or consumption expenditures from nationally representative household surveys, which is reported to the World Bank’s development 
 research group and/or the ILO (for working poverty). Only nationally representative surveys that contain sufficient information to produce a 
 comprehensive consumption or income aggregate (including consumption or income from own production) and allow for the construction of a correctly 
-weighted distribution of per capita consumption or income are used.  	
+weighted distribution of per capita consumption or income are used. 	
 Examples of surveys include household income and expenditure surveys (HIES), living standards measurement surveys (LSMS) with employment modules, 
 or labour force surveys (LFS) that collect information on household income. Such surveys also offer the benefit of allowing the employment status 
-and income (or consumption expenditure) variables to be derived from the same sampled households ideally for the same long observation period.  
-Poverty is basically result of resource scarcity.  National definitions of poverty vary amongst the globe.
+and income (or consumption expenditure) variables to be derived from the same sampled households ideally for the same long observation period. 
+Poverty is basically result of resource scarcity. National definitions of poverty vary amongst the globe.
 
 
 ##### Solution: Social protection systems, appropriately nationally implemented for all. 
@@ -419,16 +421,16 @@ In the chapter “The Technology” you will read about the implementation of go
 
 
 
-Problem 2: Hunger, food insecurity. Undernourishment.  
+Problem 2: Hunger, food insecurity. Undernourishment.
 The prevalence of undernourishment (PoU) is the proportion of the population whose habitual food consumption is insufficient to provide the 
-dietary energy levels that are required to maintain a normal active and healthy life. It is expressed as a percentage.  	
+dietary energy levels that are required to maintain a normal active and healthy life. It is expressed as a percentage. 
 Undernourishment is defined as chronic hunger, a condition where a person has inadequate access to food amounts necessary to provide the 
 energy required for conducting a normal, health and active life, given their individual dietary energy requirements over a period of at least one year. 
 The concept encompasses three aspects: availability of food, inequality in access to that food, and minimum dietary energy requirements 
-compatible with long term good health.   Undernourishment is prevalent globally, hence the pressing need for water/energy/agriculture solutions to be 
+compatible with long term good health. Undernourishment is prevalent globally, hence the pressing need for water/energy/agriculture solutions to be 
 deployed within a short time frame in order to combat malnutrition and the health/learning problems that arise from the issue. 
 
-Solution:   End hunger and ensure access by all people to safe, nutritious and sufficient food all year round. 
+Solution: End hunger and ensure access by all people to safe, nutritious and sufficient food all year round. 
 By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, 
 including infants, to safe, nutritious and sufficient food all year round
 
@@ -460,12 +462,12 @@ tree planting and doing research and for creating jobs by observation - to be va
 
 ### Problem 3: Preventable death and illness.
 
-This indicator monitors deaths related to pregnancy and childbirth. It reflects the capacity of health systems to provide effective health care in preventing and addressing the complications occurring during pregnancy and childbirth. 	Indicator values range from less than 10 in most developed countries, with an average of around 169 per 100,000 live births in the developing regions.  	Primarily due to lack of clean water and sanitation.  The under-five mortality rate (U5MR) is the probability (expressed as a rate per 1,000 live births) of a child born in a specified year or period dying before reaching the age of five if subject to current age-specific mortality rates.  	Mortality rates among young children are a key output indicator for child health and well-being, and, more broadly, for social and economic development. It is a closely watched public health indicator because it reflects the access of children and communities to basic health interventions such as sanitation, education, medical treatment of infectious diseases and adequate nutrition, natural supplementation and emergency-care (hospitals). 
+This indicator monitors deaths related to pregnancy and childbirth. It reflects the capacity of health systems to provide effective health care in preventing and addressing the complications occurring during pregnancy and childbirth.	Indicator values range from less than 10 in most developed countries, with an average of around 169 per 100,000 live births in the developing regions. 	Primarily due to lack of clean water and sanitation. The under-five mortality rate (U5MR) is the probability (expressed as a rate per 1,000 live births) of a child born in a specified year or period dying before reaching the age of five if subject to current age-specific mortality rates. 	Mortality rates among young children are a key output indicator for child health and well-being, and, more broadly, for social and economic development. It is a closely watched public health indicator because it reflects the access of children and communities to basic health interventions such as sanitation, education, medical treatment of infectious diseases and adequate nutrition, natural supplementation and emergency-care (hospitals). 
 
-By 2030, all countries are expected to reduce under-5 mortality to at least as low as 25 per 1,000 live births.  	The neonatal mortality rate (NMR) is the probability that a child born in a specific year or period will die during the first 28 completed days of life if subject to current age-specific mortality rates, expressed per 1000 live births.  	Human Immunodeficiency Virus (HIV) is a virus that weakens the immune system, ultimately leading to Acquired Immune Deficiency Syndrome (AIDS). HIV destroys the body’s ability to fight off infection and disease, which can ultimately lead to death. Without treatment, median survival from the time of infection is about 10.5 years for males and 11.5 years for females. Access to treatment improves the health of the individual, increases survival to near normal life expectancies, and greatly reduces the chance of onward transmission. Treatment coverage has increased rapidly since the early 2000s but still varies by region. No vaccine is currently available.  	By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases. 
+By 2030, all countries are expected to reduce under-5 mortality to at least as low as 25 per 1,000 live births. 	The neonatal mortality rate (NMR) is the probability that a child born in a specific year or period will die during the first 28 completed days of life if subject to current age-specific mortality rates, expressed per 1000 live births. 	Human Immunodeficiency Virus (HIV) is a virus that weakens the immune system, ultimately leading to Acquired Immune Deficiency Syndrome (AIDS). HIV destroys the body’s ability to fight off infection and disease, which can ultimately lead to death. Without treatment, median survival from the time of infection is about 10.5 years for males and 11.5 years for females. Access to treatment improves the health of the individual, increases survival to near normal life expectancies, and greatly reduces the chance of onward transmission. Treatment coverage has increased rapidly since the early 2000s but still varies by region. No vaccine is currently available. 	By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases. 
 
 Neglected tropical diseases (NTDs) are a diverse group of communicable diseases that prevail in tropical and subtropical conditions in more than 100 countries. They include the following diseases: Buruli ulcer, Chagas disease, dengue, dracunculiasis (guinea-worm disease), echinococcosis, foodborne trematodiases, human African trypanosomiasis (sleeping sickness), leishmaniases, leprosy, lymphatic filariasis, mycetoma, onchocerciasis (river blindness), rabies, schistosomiasis, soil-transmitted helminthiases, taeniasis and neurocysticercosis, trachoma, and yaws. An up-to-date list is available at http://www.who.int/neglected_diseases/diseases/en/. 
- Other key interventions against NTDs (e.g. vector management, veterinary public health, water, sanitation and hygiene) are to be addressed in the context of other targets and indicators, namely Universal Health Coverage (UHC) and universal access to water and sanitation.  	There are many more diseases that occur on this planet and negatively affect human beings, that find ground in bodies when the immune system of the person is compromised.  
+ Other key interventions against NTDs (e.g. vector management, veterinary public health, water, sanitation and hygiene) are to be addressed in the context of other targets and indicators, namely Universal Health Coverage (UHC) and universal access to water and sanitation. 	There are many more diseases that occur on this planet and negatively affect human beings, that find ground in bodies when the immune system of the person is compromised. 
  
  Besides that, there are still people who lose their lives by committing suicide, because of severely low levels of well being and lack of psychological guidance. This has to be countered and is a main mission of the Heroes Academy. 
 Ambient air pollution refers to outdoor pollution resulting from emissions from industrial activity, households, cars and trucks, etc. Household air pollution refers to indoor pollution resulting from the use of polluting cooking fuels such as kerosene, wood, coal animal dung, charcoal and crop wastes. Ambient and household are often treated separately, although they are strongly interlinked since household air pollution is a large –often underestimated – source of ambient air pollution. They have been dealt with separately by both scientist and policy makers for historical and practical reasons. Household air pollution also include the use of polluting fuels for lighting and heating purposes. 
@@ -489,22 +491,33 @@ Clean water, sanitation supplies, supplies for allowing safe child birth, increa
 TBC
 
 
-Mpowa’s Contribution:   Clean water, food, energy.
+Mpowa’s Contribution: Clean water, food, energy.
 SOLVATTEN, ECOLOO, ETC 
 
 
 
 #### Problem 4: Educational deficits 
 
-Minimum proficiency level corresponds to the minimum set of skills or knowledge required for a given subject such as reading or mathematics. Learning assessments are designed to measure a range of skill levels which are defined during the design of the assessment. As the assessment design can vary between national assessments and across international assessments ideally these benchmarks should to be aligned. Minimum proficiency levels for existing cross-national learning assessments have been provisionally adopted by the international community for interim reporting but in order to increase country coverage there is a need to achieve comparability across national and international assessments. 
+Minimum proficiency level corresponds to the minimum set of skills or knowledge required for a given subject such as reading or mathematics. Learning assessments are designed to measure a range of skill levels which are defined during the design of the assessment. As the assessment design can vary between national assessments and across international assessments ideally these benchmarks should to be aligned. Minimum proficiency levels for existing cross-national learning assessments have been provisionally adopted by the international community for interim reporting but in order to increase country coverage there is a need to achieve comparability across national and international assessments. 
 
-#### Solution:  Goal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
- 
-Relevant indicators for Mpowa:   Indicator 4.1.1: Proportion of children and young people (a) in Grades 2 /3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex.  Indicator 4.3.1: Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex.  Indicator 4.4.1: Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill.  Indicator 4.5.1: Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated.  Indicator 4.6.1: Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex. 
+#### Solution: Goal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
+
+Relevant indicators for Mpowa: 
+Indicator 4.1.1: Proportion of children and young people (a) in Grades 2 /3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex.
+
+Indicator 4.3.1: Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex.
+
+Indicator 4.4.1: Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill.
+
+Indicator 4.5.1: Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated. 
+
+Indicator 4.6.1: Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex. 
 
 
-Mpowa’s Contribution:   Mpowa EDU platform, through participation in the Decarbonizer app, educational material can be accessed by the users. Variety of topics: science, mathematics, languages, etc.   Heroes Academy: 
-Enable equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university. Facilitating that all girls and boys have access to quality early childhood development, care and pre‑primary education so that they are ready for primary education  Substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States. 
+Mpowa’s Contribution: Mpowa EDU platform, through participation in the Decarbonizer app, educational material can be accessed by the users. Variety of topics: science, mathematics, languages, etc.
+
+Heroes Academy: 
+Enable equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university. Facilitating that all girls and boys have access to quality early childhood development, care and pre‑primary education so that they are ready for primary education Substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States. 
 Online courses from the Mpowa EDU platform, video-call classes, etc. 
 Online Coaching and assessment.
 Distribution of computers with internet + library access, Udemy deals etc. 
@@ -515,9 +528,10 @@ Distribution of computers with internet + library access, Udemy deals etc.
 
 Equality and non-discrimination on the basis of sex are core principles under the international legal and policy framework, including the Convention on the Elimination of All Forms of Discrimination against Women (CEDAW), which has 189 States parties, and the Beijing Platform for Action. This framework sets out the commitments of States to eliminate discrimination against women and promote gender equality, including in the area of legal frameworks. 
 
-Solution:  Achieve gender equality and empower all women and girls  
+Solution: Achieve gender equality and empower all women and girls
 
 Relevant indicators for Mpowa:
+
 Indicator 5.1.1: Whether or not legal frameworks are in place to promote, enforce and monitor equality and non-discrimination on the basis of sex.
 
 
@@ -527,25 +541,28 @@ End all forms of discrimination against all women and girls everywhere, through 
 
 ### Problem 6: Water pollution and scarcity.
 
-This indicator is defined as the proportion of population using an improved drinking water source which is accessible on premises, available when needed and free from fecal and priority chemical contamination.  	Improved drinking water sources include piped water into dwelling, yard or plot (on premises); public taps or standpipes; boreholes or tube-wells; protected dug wells; protected springs; packaged water; delivered water and rainwater.  	A water source is considered to be accessible on premises if the point of collection is within the dwelling, yard, or plot. Available when needed implies that households are able to access sufficient quantities of water when needed. 	Free from fecal or chemical contamination refers to the compliance to relevant national and local standards. In cases where such standards do not exist, reference is made to the WHO Guidelines for Drinking Water Quality.  	This indicator adds additional normative dimensions of accessibility, availability and quality, interpreted as safely managed drinking water services, to the existing MDG metric that tracked use of ‘improved drinking water sources’. It is a proxy for measuring equitable access to safe and affordable drinking water. Improved drinking water sources are not necessarily safe, but are more likely to be protected from external contaminants than unimproved sources either by intervention or through their design and construction. Greater access to safely managed drinking water services is important as it contributes to lowering the incidence of many diseases throughout the world.  	Total freshwater withdrawal (TFWW) is the volume of freshwater extracted from its source (rivers, lakes, aquifers) for the following three main sectors: agriculture, industries and services (including municipalities and domestic water withdrawal). It is estimated at the country level and on an annual basis. The category of freshwater withdrawal includes withdrawals from surface freshwater, groundwater and fossil groundwater. It does not include direct use of non-conventional water, i.e. treated wastewater, agricultural drainage water and desalinated water. 
+This indicator is defined as the proportion of population using an improved drinking water source which is accessible on premises, available when needed and free from fecal and priority chemical contamination. 	Improved drinking water sources include piped water into dwelling, yard or plot (on premises); public taps or standpipes; boreholes or tube-wells; protected dug wells; protected springs; packaged water; delivered water and rainwater. 	A water source is considered to be accessible on premises if the point of collection is within the dwelling, yard, or plot. Available when needed implies that households are able to access sufficient quantities of water when needed.	Free from fecal or chemical contamination refers to the compliance to relevant national and local standards. In cases where such standards do not exist, reference is made to the WHO Guidelines for Drinking Water Quality. 	This indicator adds additional normative dimensions of accessibility, availability and quality, interpreted as safely managed drinking water services, to the existing MDG metric that tracked use of ‘improved drinking water sources’. It is a proxy for measuring equitable access to safe and affordable drinking water. Improved drinking water sources are not necessarily safe, but are more likely to be protected from external contaminants than unimproved sources either by intervention or through their design and construction. Greater access to safely managed drinking water services is important as it contributes to lowering the incidence of many diseases throughout the world. 	Total freshwater withdrawal (TFWW) is the volume of freshwater extracted from its source (rivers, lakes, aquifers) for the following three main sectors: agriculture, industries and services (including municipalities and domestic water withdrawal). It is estimated at the country level and on an annual basis. The category of freshwater withdrawal includes withdrawals from surface freshwater, groundwater and fossil groundwater. It does not include direct use of non-conventional water, i.e. treated wastewater, agricultural drainage water and desalinated water. 
 
 
 
 
 
-Solution:   Ensure availability and sustainable management of water and sanitation for all. 
+Solution: Ensure availability and sustainable management of water and sanitation for all.
 In addition, line ministries and water utility companies usually keep records based on the number and type of water supplies constructed or the number of piped household connections maintained. Provider-based data do not include what facilities are actually used, thus, they are only used for countries that have no survey or census data on access to or use of drinking water sources. However, such administrative sources may have much more data on water quality, especially for piped water supplies, which can be gained through household surveys. 
 The WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (JMP) estimates use of improved drinking water sources, as well as the extent to which such sources are located on premises, available when needed, and free from microbiological and chemical contamination, for each country. 
 
 
-Relevant indicators for Mpowa:
-Indicator 6.1.1: Proportion of population using safely managed drinking water services 
-Indicator 6.4.2: Level of water stress: freshwater withdrawal as a proportion of available freshwater resources 
+#### *Relevant indicators for Mpowa:*
+
+Indicator 6.1.1: Proportion of population using safely managed drinking water services
+
+Indicator 6.4.2: Level of water stress: freshwater withdrawal as a proportion of available freshwater resources
+
 
 Mpowa’s Contribution:
 
 Solvatten, other purifiers.. Funding, start - delivery. 
-Achieve universal and equitable access to safe and affordable drinking water for all through distributing water purification devices.   - Achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations  - Improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally.
+Achieve universal and equitable access to safe and affordable drinking water for all through distributing water purification devices. - Achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations - Improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally.
 
 - ECOLOO -
 
@@ -565,7 +582,7 @@ Solar energy consumption includes solar PV and solar thermal Liquid biofuel en
 
 
 
-Solution:   Ensure access to affordable, reliable, sustainable and modern energy for all
+Solution: Ensure access to affordable, reliable, sustainable and modern energy for all
 
 
 
@@ -573,7 +590,8 @@ Solution:   Ensure access to affordable, reliable, sustainable and modern en
 Relevant indicators for Mpowa: 
 
 Indicator 7.1.2: Proportion of population with primary reliance on clean fuels and technology
-Indicator 7.2.1: Renewable energy share in the total final energy consumption 
+
+Indicator 7.2.1: Renewable energy share in the total final energy consumption
 
 
 Mpowa’s Contribution: 
@@ -587,9 +605,9 @@ Long term vision.
 This indicator is defined as the percentage change in the real GDP per capita between two consecutive years. 
 Concepts: 
 GDP is the measure of the monetary value of final goods and services which are produced in an economic territory/country in a given time period. It is calculated without making deductions for depreciation of produced assets or for depletion and degradation of natural resources. It can be measured either by: 
-(1)  The expenditure method – the sum of expenditures on final consumption, gross capital formation and net exports; or  
-(2)  The production method – the value of final outputs minus any intermediate consumption, plus the net taxes (taxes minus subsidies); or  
-(3)  The income approach – the sum of compensation of employees, gross operating surplus, gross mixed incomes and the net taxes on both  
+(1)  The expenditure method – the sum of expenditures on final consumption, gross capital formation and net exports; or 
+(2)  The production method – the value of final outputs minus any intermediate consumption, plus the net taxes (taxes minus subsidies); or 
+(3)  The income approach – the sum of compensation of employees, gross operating surplus, gross mixed incomes and the net taxes on both 
 production and imports. 
 Real GDP is GDP adjusted for price changes using the ratio of prices in the current year to the prices in a given base year. Real GDP per capita is real GDP dividing by the population of a country. 
 The population of a country may comprise either all usual residents of the country or all persons present in the country at the time of a population census. 
@@ -598,28 +616,28 @@ The population of a country may comprise either all usual residents of the count
 
 
 
-Solution:   Target 8.1: Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries
- Goal 8: Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all 
+Solution: Target 8.1: Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries
+Goal 8: Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all 
 Target 8.3: Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity and innovation, and encourage the formalization and growth of micro-, small- and medium-sized enterprises, including through access to financial services
 However, labour input more widely refers to all persons who contribute to the production of goods and services within the SNA production boundary, not only the employed. In fact, according to the new standards laid out in the 2013 Resolution concerning statistics of work, employment and labour underutilization, the labour input contributing to the GDP comprises not only employment (work done for use by others for pay or profit) but also own-use production of goods, unpaid trainee work and some forms of volunteer work as well. 
 
- Target 8.5: By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value 
-Target 8.8: Protect labour rights and promote safe and secure working environments for all workers, including migrant workers, in particular women migrants, and those in precarious employment. 
+Target 8.5: By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value
+Target 8.8: Protect labour rights and promote safe and secure working environments for all workers, including migrant workers, in particular women migrants, and those in precarious employment.
 Indicator 8.a.1: Aid for Trade commitments and disbursements
- Target 8.a: Increase Aid for Trade support for developing countries, in particular least developed countries, including through the Enhanced.
+Target 8.a: Increase Aid for Trade support for developing countries, in particular least developed countries, including through the Enhanced.
 
 Relevant indicators for Mpowa: 
 
- Indicator 8.1.1: Annual growth rate of real GDP per capita
+Indicator 8.1.1: Annual growth rate of real GDP per capita
 Indicator 8.3.1: Proportion of informal employment in total employment, by sector and sex 
 
 Indicator 8.5.1: Average hourly earnings of employees, by sex, age, occupation and persons with disabilities
 
-Indicator 8.6.1: Proportion of youth (aged 15-24 years) not in education, employment or training 
+Indicator 8.6.1: Proportion of youth (aged 15-24 years) not in education, employment or training
 Indicator 8.7.1: Proportion and number of children aged 5-17 years engaged in child labour, by sex and age 
 
 Indicator 8.8.1: Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status
- 
+
 Mpowa’s Contribution:
 
 
@@ -672,7 +690,7 @@ Enhance scientific research, upgrade the technological capabilities of industria
 
 Description 
 
- 
+
 
 Solution:
 
@@ -708,7 +726,7 @@ Make cities and human settlements inclusive, safe, resilient and sustainable.
 Relevant indicators for Mpowa: 
 
 Indicator 11.6.1: Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities
-Indicator 11.6.2: Annual mean levels of fine particulate matter (eg. PM 2.5 and PM 10) in cities (population weighted) 
+Indicator 11.6.2: Annual mean levels of fine particulate matter (eg. PM 2.5 and PM 10) in cities (population weighted)
 Indicator 11.5.1: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population 
 
 
@@ -924,9 +942,9 @@ End abuse, exploitation, trafficking and all forms of violence against and tortu
 ### Problem 17: Absence or shortage of fruitful partnerships in order to reach and succeed the SDGs 
 
 This indicator is defined as the number of fixed internet broadband connections/subscriptions of different speed tiers per 100 inhabitants of a country. The speed tiers considered are advertised downstream speeds of: 
-(1)  256 Kilobits per second (Kbps) to 2Megabits per second (Mbps);  
-(2)  2Mbps to 10 Mbps; and  
-(3)  Greater than 10 Mbps.  
+(1)  256 Kilobits per second (Kbps) to 2Megabits per second (Mbps); 
+(2)  2Mbps to 10 Mbps; and 
+(3)  Greater than 10 Mbps. 
 
 Fixed internet broadband refers to subscriptions to high-speed access to public internet at downstream speeds greater than 256Kbps. It includes cable modem, DSL, fiber-to-the-home, other fixed (wired) broadband, satellite broadband and terrestrial fixed wireless broadband. It does not include internet access through mobile-cellular networks, and includes both residential and organizational subscriptions. 
 Advertised downstream speeds refers to the speed advertised by the Internet service providers at which data (including files, web sites, pictures, music, movies, etc) could be delivered to Internet subscribers. The advertised speed can differ from the actual speed of connection that a user may experience at the time of Internet use. 
@@ -936,7 +954,7 @@ The internet has become an increasingly important tool to provide access to info
 
 
 
-Solution:  
+Solution:
 Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 
 
 
@@ -959,7 +977,7 @@ The necessity for Mpowa’s existence
  Due to the global scale of the severe issues that the world is facing today, an all-encompassing platform to enable clean-tech innovation to step in and repair the damage that has been done, is necessary. Social-economic incentives, coordinated by DAO-imposed parameters is likely the most efficient strategy.
 It's impossible to provide an exhaustive list of what you can do to protect the environment, but here's Mpowa. The platform makes it relatively simple to reduce your carbon footprint, collectively take ‘’green’’ action, and drive huge change with the click of a few buttons. Additionally, there are many things you can do every day to help reduce your greenhouse gas and carbon footprint, thereby reducing your harmful impact on the environment. While many policies must come from our local, state, federal and global leaders, there is also a lot you can do to make a difference. By working together, citizens, businesses and governments can achieve great things.
 	These important climate conversations can happen naturally and randomly in your personal life, eventually triggered by Mpowa. By making a few small changes in your next conversation, mention that you can make a big impact on our planet without completely giving up convenience. 
-	With a broader understanding of the (climate/energy/resource) crisis at hand, customers can take conscious and deliberate action to change our culture as a whole, because the earth’s climate depends on it.   Mpowa is at core a company founded to support the commercialization of renewable energy technologies, starting with our own proprietary Omni home energy management solution which integrates a number of innovative hardware and software solutions to offer a groundbreaking customer experience. The commercial opportunity arising from this technology alone has unicorn potential. 	The fundamental challenge however is, aside from the “it sounds too good to be true because it violates the laws of physics” argument, that such technologies disrupt heavily entrenched ecosystems and industries with significant political-economic clout + control of governments / markets in which we wish to operate. Therefore in order to “shock the market” with a technology this disruptive, we have to think big and be ready to go to market in a way which takes no prisoners as far as the existing market players are concerned. Entering the market with a traditional business model/corporate structure will be rightly perceived as a massive threat and no doubt will trigger various forms of resistance, interference, or outright suppression.
+	With a broader understanding of the (climate/energy/resource) crisis at hand, customers can take conscious and deliberate action to change our culture as a whole, because the earth’s climate depends on it. Mpowa is at core a company founded to support the commercialization of renewable energy technologies, starting with our own proprietary Omni home energy management solution which integrates a number of innovative hardware and software solutions to offer a groundbreaking customer experience. The commercial opportunity arising from this technology alone has unicorn potential.	The fundamental challenge however is, aside from the “it sounds too good to be true because it violates the laws of physics” argument, that such technologies disrupt heavily entrenched ecosystems and industries with significant political-economic clout + control of governments / markets in which we wish to operate. Therefore in order to “shock the market” with a technology this disruptive, we have to think big and be ready to go to market in a way which takes no prisoners as far as the existing market players are concerned. Entering the market with a traditional business model/corporate structure will be rightly perceived as a massive threat and no doubt will trigger various forms of resistance, interference, or outright suppression.
 
 
 
@@ -974,10 +992,10 @@ Carbon offset SDG nature clean water platform technology opportunity.
 Customer profile - The problems we solve for them
 
 
-	  This project has been developed in order to contribute to the United Nations Sustainable Development Goals (SDGs) and it's doing so by providing clean water through Carbon Offset.
+	This project has been developed in order to contribute to the United Nations Sustainable Development Goals (SDGs) and it's doing so by providing clean water through Carbon Offset.
 
 It is the first project that integrates carbon offset, water purification and natural eco-system restoration into a single mechanism for sustainable development.
-The SDG Nature Clean Water Platform is a project that aims to provide clean water for the world. The platform is based on a new technology called Carbon Offset, which is an innovative way of solving the water crisis. 	A SaaS platform is a software that is designed to be accessed over the internet. It can be accessed by multiple users and has a subscription-based pricing model. The nature of a SaaS platform is that it's accessible from anywhere and it's scalable. This means that the more people who use the software, the more powerful it becomes for everyone who uses it.  The USP is the position of your small business as a whole, which can be incorporated into your products, your brand, the experiences you offer, and any other points of contact your customers have with your business. The USP should give you a good idea of ​​who the company's ideal client is. The USP for your business should be backed up by real customer experiences and competitor insights, not just telling the market what the market wants to hear. 
+The SDG Nature Clean Water Platform is a project that aims to provide clean water for the world. The platform is based on a new technology called Carbon Offset, which is an innovative way of solving the water crisis.	A SaaS platform is a software that is designed to be accessed over the internet. It can be accessed by multiple users and has a subscription-based pricing model. The nature of a SaaS platform is that it's accessible from anywhere and it's scalable. This means that the more people who use the software, the more powerful it becomes for everyone who uses it. The USP is the position of your small business as a whole, which can be incorporated into your products, your brand, the experiences you offer, and any other points of contact your customers have with your business. The USP should give you a good idea of who the company's ideal client is. The USP for your business should be backed up by real customer experiences and competitor insights, not just telling the market what the market wants to hear. 
 
 
 
@@ -985,12 +1003,12 @@ The SDG Nature Clean Water Platform is a project that aims to provide clean wate
 
 One of the requirements to register for Partnership for SDGs with the UN are a clearly defined set of data that is in accordance with the SMART criteria. 
 
-The Partnerships for SDGs online platform is United Nations’ global registry of voluntary commitments and multi-stakeholder partnerships made in support of sustainable development and the 17 Sustainable Development Goals. The Partnerships for SDGs platform also facilitates the sharing knowledge and expertise among multi-stakeholder SDG-related partnerships and voluntary commitments, and for providing periodic updates on their progress. 	The Partnership for SDGs platform is open to all stakeholders, including Member States, civil society, local authorities, private sector, scientific and technological community, academia, and others, to register a voluntary commitment or multi-stakeholder partnership which aims to drive the implementation of the 2030 Agenda and the 17 Sustainable Development Goals (SDGs) and to provide periodic updates on progress.
+The Partnerships for SDGs online platform is United Nations’ global registry of voluntary commitments and multi-stakeholder partnerships made in support of sustainable development and the 17 Sustainable Development Goals. The Partnerships for SDGs platform also facilitates the sharing knowledge and expertise among multi-stakeholder SDG-related partnerships and voluntary commitments, and for providing periodic updates on their progress.	The Partnership for SDGs platform is open to all stakeholders, including Member States, civil society, local authorities, private sector, scientific and technological community, academia, and others, to register a voluntary commitment or multi-stakeholder partnership which aims to drive the implementation of the 2030 Agenda and the 17 Sustainable Development Goals (SDGs) and to provide periodic updates on progress.
 
 
 
 Criteria for Registration
-The Partnership for SDGs online platform welcomes registration of partnerships and voluntary commitments undertaken by Governments, intergovernmental organizations, major groups and other stakeholders that are aligned with SMART deliverables - Specific, Measurable, Achievable, Resource-based, and Time-bound – and that aim to drive the implementation of the 17 Sustainable Development Goals of the 2030 Agenda. 	After a registration is submitted, the initiative will be reviewed by the UN secretariat, and if qualified, will be published in the online platform. Registered initiatives are encouraged to maintain up-to-date information and periodically self-report progress once a year through the online platform, focusing on how the initiative has contributed to the achievement of specific goals and targets in the 2030 Agenda.
+The Partnership for SDGs online platform welcomes registration of partnerships and voluntary commitments undertaken by Governments, intergovernmental organizations, major groups and other stakeholders that are aligned with SMART deliverables - Specific, Measurable, Achievable, Resource-based, and Time-bound – and that aim to drive the implementation of the 17 Sustainable Development Goals of the 2030 Agenda.	After a registration is submitted, the initiative will be reviewed by the UN secretariat, and if qualified, will be published in the online platform. Registered initiatives are encouraged to maintain up-to-date information and periodically self-report progress once a year through the online platform, focusing on how the initiative has contributed to the achievement of specific goals and targets in the 2030 Agenda.
 
 
 
@@ -1017,7 +1035,7 @@ Time-related – specify when the result(s) can be achieved.
 
 
 Partnership Data for SDGs
-The Partnership Data for SDGs (PD4SDGs)7 initiative is a collaboration between the Division for Sustainable Development Goals of UN-DESA, the UN Office for Partnerships and the UN Global Compact, aimed at improving the transparency, accountability and the sharing of experiences of the work being carried out by multi-stakeholder partnerships and voluntary commitments in their support to the implementation of the Sustainable Development Goals (SDGs). 	The initiative seeks to bring greater transparency, coherence, impact, and comparability of the work carried out by multi-stakeholder partnerships and voluntary commitments by promoting a system- wide use of the established SMART criteria – a partnership/commitment that is Specific, Measurable, Achievable, Resource-based, with clear and Time-based deliverables. 	There is a growing trend to collect voluntary commitments and partnerships in support of UN conferences and processes dealing with sustainable development, sometimes with varying degree of associated level of details, which could lead to difficulty in reviewing impact, track progress and conduct in-depth and global comparability analyses on announced commitments and partnerships. It is against this background the Partnership Data for SDGs initiative has been developed. 	The initiative is open for all entities within the United Nations that engage with, and promote the work of, multi-stakeholder partnerships and voluntary commitments in driving implementation of the SDGs.
+The Partnership Data for SDGs (PD4SDGs)7 initiative is a collaboration between the Division for Sustainable Development Goals of UN-DESA, the UN Office for Partnerships and the UN Global Compact, aimed at improving the transparency, accountability and the sharing of experiences of the work being carried out by multi-stakeholder partnerships and voluntary commitments in their support to the implementation of the Sustainable Development Goals (SDGs).	The initiative seeks to bring greater transparency, coherence, impact, and comparability of the work carried out by multi-stakeholder partnerships and voluntary commitments by promoting a system- wide use of the established SMART criteria – a partnership/commitment that is Specific, Measurable, Achievable, Resource-based, with clear and Time-based deliverables.	There is a growing trend to collect voluntary commitments and partnerships in support of UN conferences and processes dealing with sustainable development, sometimes with varying degree of associated level of details, which could lead to difficulty in reviewing impact, track progress and conduct in-depth and global comparability analyses on announced commitments and partnerships. It is against this background the Partnership Data for SDGs initiative has been developed.	The initiative is open for all entities within the United Nations that engage with, and promote the work of, multi-stakeholder partnerships and voluntary commitments in driving implementation of the SDGs.
 
 7 Partnership Data for SDGs (PD4SDGs) - https://sustainabledevelopment.un.org/sdinaction/pd4sdgs
 
@@ -1035,14 +1053,15 @@ The Partnership Data for SDGs (PD4SDGs)7 initiative is a collaboration between t
 ## Scalability
 
 In case there’s an unexpectedly large interest from the audience to contribute towards a certain project, there are solutions to scale the project or at least realize new projects without significant delay, due to partnerships with companies that can provide Mpowa and its beneficiaries with similar technology.  
- Scalability and Technology  Scalability and technology blend well and are inseparable for an efficient transition during growth. A system may be considered scalable if it can adapt to the changing needs or patterns of its users. It is often a sign of competitiveness because a scalable network or system is ready to handle increased demand, trends, and needs, even with the emergence of new competitors.
+
+Scalability and Technology Scalability and technology blend well and are inseparable for an efficient transition during growth. A system may be considered scalable if it can adapt to the changing needs or patterns of its users. It is often a sign of competitiveness because a scalable network or system is ready to handle increased demand, trends, and needs, even with the emergence of new competitors.
 Technology eases the process of scaling an entity. For instance, companies based on technology operations, e.g., information technology (IT) firms, find it easy to scale their processes. Since these companies are tech-savvy, they see huge growth opportunities. The main reason for their ease of scaling is the fact that these companies keep little or no inventory, while many of them also utilize the Software as a Service (SaaS) approach to dealing with stock. Other entities can incorporate technology into their operations to ease their work even as they plan to grow.
 Technology links businesses directly to clients, especially in the advertising world where the digital platform makes advertisements easy and affordable even for small and medium-sized enterprises. This makes technology a powerful tool that can benefit even those enterprises that are not directly connected to technology.
 Therefore, technology becomes a necessity in every business, with many businesses incorporating an IT department into their enterprises. It provides a platform to increase the customer base through online advertisement and signups, with some businesses even opting to go entirely online without any physical stores. The financial sector continues to increase its online presence by investing in online banking where customers can enroll and transact without physically going to the bank.
  
 
 
- What is a Scalable Business?  For a business to be scalable, it must focus on improving the profitability and efficiency of services even when its workload increases. The improvement of profitability and efficiency can only originate from the core of the business’ structure and workflow strategy.
+What is a Scalable Business? For a business to be scalable, it must focus on improving the profitability and efficiency of services even when its workload increases. The improvement of profitability and efficiency can only originate from the core of the business’ structure and workflow strategy.
 
 Scalability thus begins with the entity developing a set of leaders who run the operations with the necessary technical know-how. The leaders should understand their duties well and their respective hierarchies. All shareholders, including investors and advisors, should be involved in every part of the way as the strategy and direction of the entity is determined.
 
@@ -1056,8 +1075,9 @@ The scalability of a business also depends on the effectiveness of communication
 Contributing to the United Nations Sustainable Development Goals requires parties to follow certain data standards and methods of proceeding and documentation of projects. 
 One of which is the Data Standards Definition. The required data will be included in NFT’s that will be linked to products or services that beneficiaries will receive after a project is funded. 
 Impact is measured through sticking with guiding principles from the UN SDG Handbook and the indicators which are specifically mentioned and implemented into official reports by statisticians.
- The distribution of Mpowa SDG-Impact Tokens is done in a regulated manner where the contribution amount in Mpowa Utility Tokens is equivalent (a 1:1 ratio) to the amount of SDG-Impact Tokens that the contributor will receive. 
-Impact analysis is the act of studying the requirements’ data, to understand the pros and cons of any change. As the world keeps evolving, changes are to be expected, even in a well-developed system. 	Changes can happen for a variety of reasons: a change in a client’s requirements, adjustments to business needs or new technologies. Since changes can potentially result in a failure, it is prudent to proceed with proper planning when making necessary changes.
+
+The distribution of Mpowa SDG-Impact Tokens is done in a regulated manner where the contribution amount in Mpowa Utility Tokens is equivalent (a 1:1 ratio) to the amount of SDG-Impact Tokens that the contributor will receive. 
+Impact analysis is the act of studying the requirements’ data, to understand the pros and cons of any change. As the world keeps evolving, changes are to be expected, even in a well-developed system.	Changes can happen for a variety of reasons: a change in a client’s requirements, adjustments to business needs or new technologies. Since changes can potentially result in a failure, it is prudent to proceed with proper planning when making necessary changes.
 This is where “Impact Analysis” comes in.
 This is a technique that helps to identify the consequences of any changes being planned in software or a product.
 
@@ -1166,7 +1186,7 @@ Once completed, the impact analysis report must be shared with all stakeholders 
 
 
 The Importance of Impact Analysis
-An Impact Analysis is meant to provide a better overall understanding of the change request and system and reveal potential issues before taking any action. 	For example, let us assume a location change is required after an unexpected disaster. In this instance, an impact analysis can help the management understand the true cost of fixing the situation they are in and reveal the best way to move forward. 	But Impact analysis can help in making business decisions too. When a company is faced with a major change, an impact analysis can help lend clarity before making impactful decisions. 	An Impact Analysis also helps understand the possible outcomes of implementing the change request. By observing outcomes, the user can predict the overall performance of the product after a change is made. 	In software, this analysis can help identify all the files, documents, and models that may be affected. Based on this information, the development team may decide to make certain modifications to make the change implementation smoother.
+An Impact Analysis is meant to provide a better overall understanding of the change request and system and reveal potential issues before taking any action.	For example, let us assume a location change is required after an unexpected disaster. In this instance, an impact analysis can help the management understand the true cost of fixing the situation they are in and reveal the best way to move forward.	But Impact analysis can help in making business decisions too. When a company is faced with a major change, an impact analysis can help lend clarity before making impactful decisions.	An Impact Analysis also helps understand the possible outcomes of implementing the change request. By observing outcomes, the user can predict the overall performance of the product after a change is made.	In software, this analysis can help identify all the files, documents, and models that may be affected. Based on this information, the development team may decide to make certain modifications to make the change implementation smoother.
 The analysis will also help estimate the effort needed behind implementing the change and identify the tasks required to implement the change properly.
 
 To be included: 
@@ -1254,7 +1274,7 @@ DATA REQUIRED
 
 Though environmental statistics is still a relatively new statistical domain, the demand for such statistics is increasing in conjunction with continuing environmental degradation and the obstacles associated with improved environmental management. The recognition that human well-being depends on the environment has led to an increasing list of environmental problems on which decisions must be taken, such as climate change, biodiversity loss and natural resource management. Given the need for governments, businesses, households and other decision makers to deal effectively with these issues, the environment statistics informing them must be of the highest quality possible.
 Environment statistics provide information about the state and changes of environmental conditions, the quality and availability of environmental resources, the impact of human activities and natural events on the environment and the impact of changing environmental conditions. They also provide information about the social actions and economic measures that societies take to avoid or mitigate these impacts and to restore and maintain the capacity of the environment to provide the services that are essential for life and human well-being.
-Environment statistics thus cover a wide range of information and are multi- and inter- disciplinary in nature. They originate from a variety of institutions that collect data and, similarly, numerous methods are used to compile them. The field of environment statistics requires an appropriate framework to guide its  development, coordination and organization.  Framework for the Development of Environment Statistics (FDES 2013)
+Environment statistics thus cover a wide range of information and are multi- and inter- disciplinary in nature. They originate from a variety of institutions that collect data and, similarly, numerous methods are used to compile them. The field of environment statistics requires an appropriate framework to guide its development, coordination and organization. Framework for the Development of Environment Statistics (FDES 2013)
 This environment statistics framework (i) marks out the scope of environment statistics; (ii) facilitates a synthesized presentation of data from various subject areas and sources; (iii) simplifies the complexity of the environment appropriately so that it can be measured more easily; (iv) helps to identify the range of statistics relevant to societal decision-making regarding the environment; (v) is consistent with statistical frameworks already used in other domains to facilitate the integration of environment statistics; and (vi) is conceptually based.
 
 Environment statistics serve a variety of users, including but not limited to:
@@ -1307,8 +1327,9 @@ NSOs publish their statistics in aggregate form, thereby seeking to ensure the c
 
 
 
-Partnership with Ocean Protocol  One Example for Data Dissagregation 
- Ocean makes it easy to publish data services (deploy and mint ERC20 datatokens), and to consume data services (spend datatokens). Crypto wallets, exchanges, and DAOs become data wallets, exchanges, and DAOs.  Use Ocean Market to publish data, stake on data (curate), and buy data. Earn by selling, staking, or running your own fork of Ocean Market. Data has automatic price discovery. Data is published as interoperable ERC20 datatokens. Compute-to-data enables private data to be bought & sold. It's a decentralized exchange (DEX), tuned for data.  Earn by selling data, staking, or building & launching your own marketplace. Sellers get most of revenue when a dataset is sold. Stakers earn a % of the transaction fee, as do marketplace runners.
+Partnership with Ocean Protocol One Example for Data Dissagregation 
+
+Ocean makes it easy to publish data services (deploy and mint ERC20 datatokens), and to consume data services (spend datatokens). Crypto wallets, exchanges, and DAOs become data wallets, exchanges, and DAOs. Use Ocean Market to publish data, stake on data (curate), and buy data. Earn by selling, staking, or running your own fork of Ocean Market. Data has automatic price discovery. Data is published as interoperable ERC20 datatokens. Compute-to-data enables private data to be bought & sold. It's a decentralized exchange (DEX), tuned for data. Earn by selling data, staking, or building & launching your own marketplace. Sellers get most of revenue when a dataset is sold. Stakers earn a % of the transaction fee, as do marketplace runners.
 
 
 
@@ -1323,8 +1344,8 @@ Statistical organizations have been discussing at the sessions of the United Nat
 ISO20022
 
 ISO 20022 is an ISO standard for electronic data interchange between financial institutions. It describes a metadata repository containing descriptions of messages and business processes, and a maintenance process for the repository content. The standard covers financial information transferred between financial institutions that includes payment transactions, securities trading and settlement information, credit and debit card transactions and other financial information.
-The repository contains a huge amount of financial services metadata that has been shared and standardized across the industry. The metadata is stored in UML models with a special ISO 20022 UML Profile. Underlying all of this is the ISO 20022 metamodel - a model of the models. The UML profile is the metamodel transformed into UML. The metadata is transformed into the syntax of messages used in financial networks. The first syntax supported for messages was XML Schema.   Clear Overview in which Mpowa Describes:   Data quality and integrity;
-Data disaggregation; Data timeliness; Data transparency and openness; Data usability and curation; Data protection and privacy; Data governance and independence; Data resources and capacity; Data rights.
+The repository contains a huge amount of financial services metadata that has been shared and standardized across the industry. The metadata is stored in UML models with a special ISO 20022 UML Profile. Underlying all of this is the ISO 20022 metamodel - a model of the models. The UML profile is the metamodel transformed into UML. The metadata is transformed into the syntax of messages used in financial networks. The first syntax supported for messages was XML Schema. Clear Overview in which Mpowa Describes: Data quality and integrity;
+Data disaggregation; Data timeliness; Data transparency and openness; Data usability and curation; Data protection and privacy; Data governance and independence; Data resources and capacity; Data rights.
 
 
 1 Refer to decision 48/103, page 41 https://unstats.un.org/unsd/statcom/48th-session/documents/Report-on-the-48th-session- of-the-statistical-commission-E.pdf
@@ -1436,9 +1457,9 @@ Tokens are used by smart contracts to manage the ownership rights (and duties) o
 Before the Project Hero hands over the Solvatten device to the recipient family in Gambia, we have them sign an agreement in which they promise to declare usage data through our app. The application will stream the usage data to the Mpowa blockchain which will be picked up by the Mpowa-CarbonToken-Minting Contract and initiate a tokenMint according to the incoming data which will be deposited in a central Mpowa-Co2-offset wallet, which then will be equally distributed to the Value-Token holders.
 
 
-After downloading the app, and before you can use electricity, you create a user account (or login, if you have an account already). The app guides you through the onboarding and KYC process. After completing this, you’re ready to load Tokens onto your account. 
-The Mpowa infrastructure will contain a costumer interface which is capable of monitoring the energy generation and distribution back to the grid in real-time. The energy that is being generated will be tokenized which links a specific source device to which a device-specific NFT (which is registered on the EWC through EW-DOS) is assigned. Other meta data concerning the environment and operation of the unit will also be stored on-chain. 	The generated Energy Tokens will be priced in real-time via EWC, converted and magnetized through a DEX and resulting Mpowa utility tokens will be stored in a wallet app on the MPOWA network. The DEX will in effect source liquidity from the purchaser of the tokens (Utility Company and/or Grid Operator) custodial account to purchase the Mpowa tokens. 	As a secondary stretch goal, the DEX will generate carbon offset data tokens against a pre-configured NFT token smart contract that is associated to the device registration on the Energy Web. The methodology and formulas for how this offset is to be calculated will need to be specified and provided to Mpowa by IGES SMEs. As a concrete objective, Mpowa wishes to create a generalized framework for accurate, data driven (AI/ML based) pricing of carbon by defining an open standard which takes into account all known reference models as a “floor price” but adds in a (always net positive) market adjustment for various factors based on data sourced from the climate data warehouse. An outcome of the project will be to publish a joint white paper on this model and have this peer reviewed by stakeholders at the CCC and CDW. 	The Mpowa platform connects a wide variety of technologies to a single decentralized digitally tokenized energy ecosystem, be that domestic consumers, electric vehicle drivers, businesses or even individual electronic devices like mobile phones, laptops, tablets.
- 	The Platform manages and connects all Mpowa Energy Units to the blockchain, where supply and consumption are logged and controlled. Energy is tokenized and price is pegged to a stablecoin to counter volatility. The Mpowa infrastructure will contain a costumer interface which is capable of monitoring the energy generation and distribution back to the grid in real-time. The Mpowa participants (the “MPOWA’ers”) will be able to use clean, infinite, reliable low-cost energy, produced through the MPOWA’s devices, payable in tokens, and that generates data that can only be monetised by the owner. Mpowa is developing a number of tokens for our DAO ecosystem including a Utility token, Security token, Data token and Governance token for the management of the platform. 
+After downloading the app, and before you can use electricity, you create a user account (or login, if you have an account already). The app guides you through the onboarding and KYC process. After completing this, you’re ready to load Tokens onto your account.
+The Mpowa infrastructure will contain a costumer interface which is capable of monitoring the energy generation and distribution back to the grid in real-time. The energy that is being generated will be tokenized which links a specific source device to which a device-specific NFT (which is registered on the EWC through EW-DOS) is assigned. Other meta data concerning the environment and operation of the unit will also be stored on-chain.	The generated Energy Tokens will be priced in real-time via EWC, converted and magnetized through a DEX and resulting Mpowa utility tokens will be stored in a wallet app on the MPOWA network. The DEX will in effect source liquidity from the purchaser of the tokens (Utility Company and/or Grid Operator) custodial account to purchase the Mpowa tokens.	As a secondary stretch goal, the DEX will generate carbon offset data tokens against a pre-configured NFT token smart contract that is associated to the device registration on the Energy Web. The methodology and formulas for how this offset is to be calculated will need to be specified and provided to Mpowa by IGES SMEs. As a concrete objective, Mpowa wishes to create a generalized framework for accurate, data driven (AI/ML based) pricing of carbon by defining an open standard which takes into account all known reference models as a “floor price” but adds in a (always net positive) market adjustment for various factors based on data sourced from the climate data warehouse. An outcome of the project will be to publish a joint white paper on this model and have this peer reviewed by stakeholders at the CCC and CDW.	The Mpowa platform connects a wide variety of technologies to a single decentralized digitally tokenized energy ecosystem, be that domestic consumers, electric vehicle drivers, businesses or even individual electronic devices like mobile phones, laptops, tablets.
+	The Platform manages and connects all Mpowa Energy Units to the blockchain, where supply and consumption are logged and controlled. Energy is tokenized and price is pegged to a stablecoin to counter volatility. The Mpowa infrastructure will contain a costumer interface which is capable of monitoring the energy generation and distribution back to the grid in real-time. The Mpowa participants (the “MPOWA’ers”) will be able to use clean, infinite, reliable low-cost energy, produced through the MPOWA’s devices, payable in tokens, and that generates data that can only be monetised by the owner. Mpowa is developing a number of tokens for our DAO ecosystem including a Utility token, Security token, Data token and Governance token for the management of the platform.
 
 
 
@@ -1452,7 +1473,7 @@ An IMPACTOR navigates through different projects, investigate the details, and f
 Prospective partnership with acknowledged CTX Global Carbon Credit Exchange facilitate the platform-subscribers with a reward mechanism. The Carbon Offset that is generated through a specific Mpowa clean-tech project, will be listed in Carbon Credits on the CTX Global for purchase by SME’s and larger corporate organizations to reduce their Carbon Footprint. The profits that are generated by Mpowa for selling Carbon Credits will be forwarded to the reward-pool on the exchange where the Mpowa Security Token is listed. Rewards are allocated on to the stakeholders of a project as a reward for providing initial liquidity to enable the project to occur.
 For the pilot project the profits of the Carbon offset sale are not redirected to 
 
-The platform utilizes blockchain technology as a payment system to enable international participation, due to regulatory compliance, low transaction fees and instant transactions. Besides serving as a payment mechanism, we use the Mpowa Blockchain transactions as a transport layer for information exchange. The Mpowa Blockchain, a database, is a distributed ledger of trusted transactions. 	In addition to serving as a mechanism for payments and information the technology works as a value exchange protocol. It’s similar to TCP/IP as the foundational protocol for the exchange of digital information. Blockchain enables the exchange of digital value and digital representations of real-world value-backed assets.   The Mpowa platform makes use of project/object based Non-Fungible-Tokens, representing a specific clean-tech device and the costs that come alongside it, may it be for a project or for personal use. Each NFT is linked to a certificate of ownership, which carries certain rights and obligations in the DAO, and KYC information.  Another feature of our project-based NFT’s, is that they contain ownership-rights to tokenized representations of Carbon Offset Credits, which are minted upon data-retrieval.   For the pilot project we will launch a token-sale to spark the funding for platform and the project.   The project-based NFT’s will be listed on an NFT-Marketplace where costumers can purchase their share in a specific project. The assets available on the NFT-Marketplace can also be purchased through our platform App, which then will be stored in their Mpowa-Wallet. If one wishes to sell their NFT, they can do so by requesting a re-listing of their specific NFT on the NFT-Marketplace.
+The platform utilizes blockchain technology as a payment system to enable international participation, due to regulatory compliance, low transaction fees and instant transactions. Besides serving as a payment mechanism, we use the Mpowa Blockchain transactions as a transport layer for information exchange. The Mpowa Blockchain, a database, is a distributed ledger of trusted transactions. 	In addition to serving as a mechanism for payments and information the technology works as a value exchange protocol. It’s similar to TCP/IP as the foundational protocol for the exchange of digital information. Blockchain enables the exchange of digital value and digital representations of real-world value-backed assets. The Mpowa platform makes use of project/object based Non-Fungible-Tokens, representing a specific clean-tech device and the costs that come alongside it, may it be for a project or for personal use. Each NFT is linked to a certificate of ownership, which carries certain rights and obligations in the DAO, and KYC information. Another feature of our project-based NFT’s, is that they contain ownership-rights to tokenized representations of Carbon Offset Credits, which are minted upon data-retrieval. For the pilot project we will launch a token-sale to spark the funding for platform and the project. The project-based NFT’s will be listed on an NFT-Marketplace where costumers can purchase their share in a specific project. The assets available on the NFT-Marketplace can also be purchased through our platform App, which then will be stored in their Mpowa-Wallet. If one wishes to sell their NFT, they can do so by requesting a re-listing of their specific NFT on the NFT-Marketplace.
 
 A smart contract is a dynamic contract that is managed by an autonomous agent (off-chain representative) using the Access Controls. The smart contract operates on behalf of the issuer for all administrative tasks associated with maintaining and updating the contract's on-chain records. The smart contract service is responsible for monitoring data that effect the state of the smart contract and for incorporating those changes into the contract. The smart contract can also work with other autonomous agents working on behalf of the issuer or other contracting parties to fully automate all the various processes and tasks associated with the formation and performance of a contract. 
 
@@ -1486,13 +1507,14 @@ A similar method is used for our pilot project where recipients of the Solvatten
 
 
 
-  
+
 
 Long-term Platform vision 
 
-After downloading the app, and before you can use electricity, you create a user account (or login, if you have an account already). The app guides you through the onboarding and KYC process. After completing this, you’re ready to load Tokens onto your account. 
-The Mpowa infrastructure will contain a costumer interface which is capable of monitoring the energy generation and distribution back to the grid in real-time. The energy that is being generated will be tokenized which links a specific source device to which a device-specific NFT (which is registered on the EWC through EW-DOS) is assigned. Other meta data concerning the environment and operation of the unit will also be stored on-chain. 	The generated Energy Tokens will be priced in real-time via EWC, converted and magnetized through a DEX and resulting Mpowa utility tokens will be stored in a wallet app on the Steroid 4.0 network. The DEX will in effect source liquidity from the purchaser of the tokens (Utility Company and/or Grid Operator) custodial account to purchase the Mpowa tokens. 	As a secondary stretch goal, the DEX will generate carbon offset data tokens against a pre-configured NFT token smart contract that is associated to the device registration on the Energy Web. The methodology and formulas for how this offset is to be calculated will need to be specified and provided to Mpowa by IGES SMEs. As a concrete objective, Mpowa wishes to create a generalized framework for accurate, data driven (AI/ML based) pricing of carbon by defining an open standard which takes into account all known reference models as a “floor price” but adds in a (always net positive) market adjustment for various factors based on data sourced from the climate data warehouse. An outcome of the project will be to publish a joint white paper on this model and have this peer reviewed by stakeholders at the CCC and CDW. 	The Mpowa platform connects a wide variety of technologies to a single decentralized digitally tokenized energy ecosystem, be that domestic consumers, electric vehicle drivers, businesses or even individual electronic devices like mobile phones, laptops, tablets.
- 	The Platform manages and connects all Mpowa Energy Units to the blockchain, where supply and consumption are logged and controlled. Energy is tokenized and price is pegged to a stablecoin to counter volatility. The Mpowa infrastructure will contain a costumer interface which is capable of monitoring the energy generation and distribution back to the grid in real-time. The Mpowa participants (the “MPOWA’ers”) will be able to use clean, infinite, reliable low-cost energy, produced through the MPOWA’s devices, payable in tokens, and that generates data that can only be monetised by the owner. Mpowa is developing a number of tokens for our DAO ecosystem including a Utility token, Security token, Data token and Governance token for the management of the platform. 
+After downloading the app, and before you can use electricity, you create a user account (or login, if you have an account already). The app guides you through the onboarding and KYC process. After completing this, you’re ready to load Tokens onto your account.
+The Mpowa infrastructure will contain a costumer interface which is capable of monitoring the energy generation and distribution back to the grid in real-time. The energy that is being generated will be tokenized which links a specific source device to which a device-specific NFT (which is registered on the EWC through EW-DOS) is assigned. Other meta data concerning the environment and operation of the unit will also be stored on-chain.	The generated Energy Tokens will be priced in real-time via EWC, converted and magnetized through a DEX and resulting Mpowa utility tokens will be stored in a wallet app on the Steroid 4.0 network. The DEX will in effect source liquidity from the purchaser of the tokens (Utility Company and/or Grid Operator) custodial account to purchase the Mpowa tokens.	As a secondary stretch goal, the DEX will generate carbon offset data tokens against a pre-configured NFT token smart contract that is associated to the device registration on the Energy Web. The methodology and formulas for how this offset is to be calculated will need to be specified and provided to Mpowa by IGES SMEs. As a concrete objective, Mpowa wishes to create a generalized framework for accurate, data driven (AI/ML based) pricing of carbon by defining an open standard which takes into account all known reference models as a “floor price” but adds in a (always net positive) market adjustment for various factors based on data sourced from the climate data warehouse. An outcome of the project will be to publish a joint white paper on this model and have this peer reviewed by stakeholders at the CCC and CDW.	The Mpowa platform connects a wide variety of technologies to a single decentralized digitally tokenized energy ecosystem, be that domestic consumers, electric vehicle drivers, businesses or even individual electronic devices like mobile phones, laptops, tablets.
+
+	The Platform manages and connects all Mpowa Energy Units to the blockchain, where supply and consumption are logged and controlled. Energy is tokenized and price is pegged to a stablecoin to counter volatility. The Mpowa infrastructure will contain a costumer interface which is capable of monitoring the energy generation and distribution back to the grid in real-time. The Mpowa participants (the “MPOWA’ers”) will be able to use clean, infinite, reliable low-cost energy, produced through the MPOWA’s devices, payable in tokens, and that generates data that can only be monetised by the owner. Mpowa is developing a number of tokens for our DAO ecosystem including a Utility token, Security token, Data token and Governance token for the management of the platform.
 
 
 
@@ -1503,8 +1525,8 @@ The Mpowa infrastructure will contain a costumer interface which is capable of m
 
 ## Decentralized Autonomous Organization (DAO)
 
- Mpowa’s platform and tokens pairs with a blockchain based DAO (Decentralized Autonomous Organization), which gives the users control and transparency. Mpowa’s native blockchain is constructed using Parity Technology’s Substrate framework, elaborated upon in the chapter “The Technology”. 
-Several years after Bitcoin was launched, DAOs became a useful mechanism developers and adopters to work together in a harmonized and democratic way. The tech represents financial sovereignty and a digital data-currency instrument, thus Bitcoin opened up countless opportunities. Opportunities and innovative ideas find a ground wherein they can gather resources in a creative way to bring projects to life. DAOs promised to revolutionize how we structure socio-economic relationships. Facilitating solutions for ancient problems is where the DAO comes in, due to the (decentralized) power of many. Now the question arrises:   Key features and benefits of a DAO-structure  - The ability to structure large-scale, merit-based communities with minimal entrance barriers, factor in externalities, and – much in the Bitcoin spirit – break free from relying on traditional institutions. 
+ Mpowa’s platform and tokens pairs with a blockchain based DAO (Decentralized Autonomous Organization), which gives the users control and transparency. Mpowa’s native blockchain is constructed using Parity Technology’s Substrate framework, elaborated upon in the chapter “The Technology”.
+Several years after Bitcoin was launched, DAOs became a useful mechanism developers and adopters to work together in a harmonized and democratic way. The tech represents financial sovereignty and a digital data-currency instrument, thus Bitcoin opened up countless opportunities. Opportunities and innovative ideas find a ground wherein they can gather resources in a creative way to bring projects to life. DAOs promised to revolutionize how we structure socio-economic relationships. Facilitating solutions for ancient problems is where the DAO comes in, due to the (decentralized) power of many. Now the question arrises: Key features and benefits of a DAO-structure- The ability to structure large-scale, merit-based communities with minimal entrance barriers, factor in externalities, and – much in the Bitcoin spirit – break free from relying on traditional institutions. 
 - Organize and coordinate the efforts and resources of members via an a priori estimate, anonymous but formalized, and transparent set of rules that are agreed upon in a multilateral fashion.
 Usually, one of the core elements of any definition of a DAO is the notion of “decentralization”. This often talked about, yet poorly understood concept is avoided as it warrants a more detailed analysis on its own.
 Within the crypto-verse, the term “decentralization” either refers to the physical distribution of hardware (think: validating nodes & full nodes) or the diffusion of political influence. In this case, the latter is relevant. Instead of having a classical hierarchical power distribution, the common approach of any DAO is to foster coordination on a peer-to-peer basis. This element can be described as a multilateral decision-making process.
@@ -1550,7 +1572,7 @@ A more mature approach is to transform natural language agreements into machine-
 
 While incorporating smart contracts into wet law is still in a rather rudimentary stage, it is, nonetheless, a more pragmatic approach that reflects opinions stated in contemporary legal theory10.
 
-The governance layer is responsible for essential functions which control the operation of the DAO ecosystem like software platform updates, smart contract amendments and voting procedures. This is highly proprietary to Mpowa and based on a hybrid on/off-chain governance model combining the best aspects of legal constitutional systems and AI driven fuzzy decision making based on network heuristics. 
+The governance layer is responsible for essential functions which control the operation of the DAO ecosystem like software platform updates, smart contract amendments and voting procedures. This is highly proprietary to Mpowa and based on a hybrid on/off-chain governance model combining the best aspects of legal constitutional systems and AI driven fuzzy decision making based on network heuristics.
 
 
 
@@ -1614,8 +1636,12 @@ Carbon offset price per tonne, approximation by Gold Standard.
 Scalingfunds to attract investors and in order to create a clear investment profile and indication of RoI. 
 
 ScalingFunds builds software that advances the real estate and private equity industry
-ScalingFunds was officially established in January 2018 by Jakob Drzazga, a former real estate asset manager investing in impact projects around Germany. Out of the inefficiencies he experienced while launching his first real estate fund, he founded ScalingFunds. 	Jakob’s vision was to enable emerging local fund managers to pursue their passion without having a massive barrier to entry through enormous setup costs, intransparent processes and dependency on never-ending expensive legal advice. Enabling local experts to invest in regional projects would benefit communities outside of hotspots and allow impact projects to take place where they are needed the most.  	In recent years, with the growing demand for digital workflows within the fund industry, ScalingFunds has won the trust of established fund managers with more than €7bn AUM and fund administrators with more than €500bn. 
-	We are strong believers that Alternative Investment Funds will overtake their public counterparts in volume in the next decade. To achieve that, we need more automation and ease of use for General Partners (GPs), Limited Partners (LP) and Transfer Agents (TAs). ScalingFunds standardises the complex setup, capital raising and administrative processes to give investment managers and investors wider access to an industry that has more than tripled in size in the last decade. ‍ Supported by an experienced team and an Advisory Board of well established, experienced industry names, our solutions are helping clients to cut costs, save time and access capital faster.  Accept Any Investors From insurance companies to pension funds, family offices to HNWI, we offer a secure, compliant investment process for all LPs and investors.   Get Started In Days Answer a short questionnaire, we deploy your white labelled platform, and you are ready to go. The link to your portal can be added to your digital and print materials.  Scale Globally Increase your investor reach with predefined KYC and AML questions for all European countries and large parts of the Middle East, Africa and Asia Pacific.  Share your portal with investors The link to your portal can be added to all of your digital and printed marketing materials, including your website, emails and business cards.  Approve data room access Investors are able to review the teaser or request data room access. Approve their enquiry and let investors review your customised data room. Every reverse solicitation is documented in a secure audit trail.  Receive investment  Once investors have completed their due diligence and feel comfortable, they can invest without leaving the data room. We generate a pre-filled subscription form to sign digitally or by wet-ink.   You don't have subscription documents yet?  Replace the invest button with reserve allocation and launch your Fund or SPV within 6 weeks.
+ScalingFunds was officially established in January 2018 by Jakob Drzazga, a former real estate asset manager investing in impact projects around Germany. Out of the inefficiencies he experienced while launching his first real estate fund, he founded ScalingFunds.
+Jakob’s vision was to enable emerging local fund managers to pursue their passion without having a massive barrier to entry through enormous setup costs, intransparent processes and dependency on never-ending expensive legal advice. Enabling local experts to invest in regional projects would benefit communities outside of hotspots and allow impact projects to take place where they are needed the most. 	In recent years, with the growing demand for digital workflows within the fund industry, ScalingFunds has won the trust of established fund managers with more than €7bn AUM and fund administrators with more than €500bn.
+
+	We are strong believers that Alternative Investment Funds will overtake their public counterparts in volume in the next decade. To achieve that, we need more automation and ease of use for General Partners (GPs), Limited Partners (LP) and Transfer Agents (TAs). ScalingFunds standardises the complex setup, capital raising and administrative processes to give investment managers and investors wider access to an industry that has more than tripled in size in the last decade. Supported by an experienced team and an Advisory Board of well established, experienced industry names, our solutions are helping clients to cut costs, save time and access capital faster. Accept Any Investors From insurance companies to pension funds, family offices to HNWI, we offer a secure, compliant investment process for all LPs and investors 
+	
+	Get Started In Days Answer a short questionnaire, we deploy your white labelled platform, and you are ready to go. The link to your portal can be added to your digital and print materials. Scale Globally Increase your investor reach with predefined KYC and AML questions for all European countries and large parts of the Middle East, Africa and Asia Pacific. Share your portal with investors The link to your portal can be added to all of your digital and printed marketing materials, including your website, emails and business cards. Approve data room access Investors are able to review the teaser or request data room access. Approve their enquiry and let investors review your customised data room. Every reverse solicitation is documented in a secure audit trail. Receive investment Once investors have completed their due diligence and feel comfortable, they can invest without leaving the data room. We generate a pre-filled subscription form to sign digitally or by wet-ink. You don't have subscription documents yet?  Replace the invest button with reserve allocation and launch your Fund or SPV within 6 weeks.
 
 
 
