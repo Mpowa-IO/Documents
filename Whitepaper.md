@@ -410,7 +410,8 @@ Indicator 1.4.2: Proportion of total adult population with secure tenure rights 
 
 
 
-Mpowa’s Contribution: 
+#### Mpowa’s Contribution: 
+
 Local heroes can apply and submit to new projects in the area of their preference and get rewarded once a completed task has been verified by the DAO, funding can be raised prior to completion in order to create a strong incentive for the heroes to finalize the project and find additional people in the area to apply for the job that he/she has created. 
 In the chapter “The Technology” you will read about the implementation of goal indicators into smart-contracts for blockchain verification. 
 
@@ -425,20 +426,21 @@ Undernourishment is defined as chronic hunger, a condition where a person has in
 energy required for conducting a normal, health and active life, given their individual dietary energy requirements over a period of at least one year. 
 The concept encompasses three aspects: availability of food, inequality in access to that food, and minimum dietary energy requirements 
 compatible with long term good health.   Undernourishment is prevalent globally, hence the pressing need for water/energy/agriculture solutions to be 
-deployed within a short time frame in order to combat malnutrition and the health/learning problems that arise from the issue.    
+deployed within a short time frame in order to combat malnutrition and the health/learning problems that arise from the issue. 
 
 Solution:   End hunger and ensure access by all people to safe, nutritious and sufficient food all year round. 
 By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, 
-including infants, to safe, nutritious and sufficient food all year round  
+including infants, to safe, nutritious and sufficient food all year round
 
-Relevant indicators for Mpowa:   
+#### Relevant indicators for Mpowa:
 
-Indicator 2.1.1: Prevalence of undernourishment.  
-Indicator 2.3.2: Average income of small-scale food producers, by sex and indigenous status.  
+Indicator 2.1.1: Prevalence of undernourishment.
+Indicator 2.3.2: Average income of small-scale food producers, by sex and indigenous status.
 Indicator 2.4.1: Proportion of agricultural area under productive and sustainable agriculture.
 
- Mpowa’s Contribution:
- 
+#### Mpowa’s Contribution:
+
+ 
 Regenerative Agriculture
 
 
@@ -449,7 +451,7 @@ Food for Africa program
 Infrastructure + token-supermarkets
 
 
-Job Generation  Heroes missions defined: … Financial rewards for people in rural areas, such as cleaning, 
+Job Generation Heroes missions defined: … Financial rewards for people in rural areas, such as cleaning, 
 tree planting and doing research and for creating jobs by observation - to be validated by the DAO. 
 
 
@@ -457,10 +459,18 @@ tree planting and doing research and for creating jobs by observation - to be va
 
 
 Problem 3: Preventable death and illness.
+
 This indicator monitors deaths related to pregnancy and childbirth. It reflects the capacity of health systems to provide effective health care in preventing and addressing the complications occurring during pregnancy and childbirth. 	Indicator values range from less than 10 in most developed countries, with an average of around 169 per 100,000 live births in the developing regions.  	Primarily due to lack of clean water and sanitation.  The under-five mortality rate (U5MR) is the probability (expressed as a rate per 1,000 live births) of a child born in a specified year or period dying before reaching the age of five if subject to current age-specific mortality rates.  	Mortality rates among young children are a key output indicator for child health and well-being, and, more broadly, for social and economic development. It is a closely watched public health indicator because it reflects the access of children and communities to basic health interventions such as sanitation, education, medical treatment of infectious diseases and adequate nutrition, natural supplementation and emergency-care (hospitals). 
-By 2030, all countries are expected to reduce under-5 mortality to at least as low as 25 per 1,000 live births.  	The neonatal mortality rate (NMR) is the probability that a child born in a specific year or period will die during the first 28 completed days of life if subject to current age-specific mortality rates, expressed per 1000 live births.  	Human Immunodeficiency Virus (HIV) is a virus that weakens the immune system, ultimately leading to Acquired Immune Deficiency Syndrome (AIDS). HIV destroys the body’s ability to fight off infection and disease, which can ultimately lead to death. Without treatment, median survival from the time of infection is about 10.5 years for males and 11.5 years for females. Access to treatment improves the health of the individual, increases survival to near normal life expectancies, and greatly reduces the chance of onward transmission. Treatment coverage has increased rapidly since the early 2000s but still varies by region. No vaccine is currently available.  	By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases.    Neglected tropical diseases (NTDs) are a diverse group of communicable diseases that prevail in tropical and subtropical conditions in more than 100 countries. They include the following diseases: Buruli ulcer, Chagas disease, dengue, dracunculiasis (guinea-worm disease), echinococcosis, foodborne trematodiases, human African trypanosomiasis (sleeping sickness), leishmaniases, leprosy, lymphatic filariasis, mycetoma, onchocerciasis (river blindness), rabies, schistosomiasis, soil-transmitted helminthiases, taeniasis and neurocysticercosis, trachoma, and yaws. An up-to-date list is available at http://www.who.int/neglected_diseases/diseases/en/. 
- Other key interventions against NTDs (e.g. vector management, veterinary public health, water, sanitation and hygiene) are to be addressed in the context of other targets and indicators, namely Universal Health Coverage (UHC) and universal access to water and sanitation.  	There are many more diseases that occur on this planet and negatively affect human beings, that find ground in bodies when the immune system of the person is compromised.  	Besides that, there are still people who lose their lives by committing suicide, because of severely low levels of well being and lack of psychological guidance. This has to be countered and is a main mission of the Heroes Academy. 
+
+By 2030, all countries are expected to reduce under-5 mortality to at least as low as 25 per 1,000 live births.  	The neonatal mortality rate (NMR) is the probability that a child born in a specific year or period will die during the first 28 completed days of life if subject to current age-specific mortality rates, expressed per 1000 live births.  	Human Immunodeficiency Virus (HIV) is a virus that weakens the immune system, ultimately leading to Acquired Immune Deficiency Syndrome (AIDS). HIV destroys the body’s ability to fight off infection and disease, which can ultimately lead to death. Without treatment, median survival from the time of infection is about 10.5 years for males and 11.5 years for females. Access to treatment improves the health of the individual, increases survival to near normal life expectancies, and greatly reduces the chance of onward transmission. Treatment coverage has increased rapidly since the early 2000s but still varies by region. No vaccine is currently available.  	By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases. 
+
+Neglected tropical diseases (NTDs) are a diverse group of communicable diseases that prevail in tropical and subtropical conditions in more than 100 countries. They include the following diseases: Buruli ulcer, Chagas disease, dengue, dracunculiasis (guinea-worm disease), echinococcosis, foodborne trematodiases, human African trypanosomiasis (sleeping sickness), leishmaniases, leprosy, lymphatic filariasis, mycetoma, onchocerciasis (river blindness), rabies, schistosomiasis, soil-transmitted helminthiases, taeniasis and neurocysticercosis, trachoma, and yaws. An up-to-date list is available at http://www.who.int/neglected_diseases/diseases/en/. 
+ Other key interventions against NTDs (e.g. vector management, veterinary public health, water, sanitation and hygiene) are to be addressed in the context of other targets and indicators, namely Universal Health Coverage (UHC) and universal access to water and sanitation.  	There are many more diseases that occur on this planet and negatively affect human beings, that find ground in bodies when the immune system of the person is compromised.  
+ 
+ Besides that, there are still people who lose their lives by committing suicide, because of severely low levels of well being and lack of psychological guidance. This has to be countered and is a main mission of the Heroes Academy. 
 Ambient air pollution refers to outdoor pollution resulting from emissions from industrial activity, households, cars and trucks, etc. Household air pollution refers to indoor pollution resulting from the use of polluting cooking fuels such as kerosene, wood, coal animal dung, charcoal and crop wastes. Ambient and household are often treated separately, although they are strongly interlinked since household air pollution is a large –often underestimated – source of ambient air pollution. They have been dealt with separately by both scientist and policy makers for historical and practical reasons. Household air pollution also include the use of polluting fuels for lighting and heating purposes. 
+
+
 Rationale and Interpretation: 
 The target aims to reduce the number of deaths from hazardous air pollution. This indicator tracks mortality rates attributed to ambient and household air pollution, as air pollution is the biggest environmental risk to health. 
 Vital registration systems are the preferred source of data on under-five mortality because they collect information prospectively and cover the entire population. However, many low and lower middle income countries lack fully functioning vital registration systems that accurately record all births and deaths. Thus, household surveys, such as Demographic and Health Surveys (DHS) and Multiple Indicator Cluster Surveys (MICS), and periodic population censuses have become the primary source of data on child mortality in low and lower middle income countries. 
@@ -470,9 +480,11 @@ The number of deaths from unsafe water, sanitation and hygiene can be prevented 
 Most recent disease-specific national mortality figures can be downloaded from the website of the WHO Global Health Observatory’s (GHO) website: http://www.who.int/healthinfo/global_burden_disease/estimates/en/ 
 There’s a significant percentage of people dying from unintentional poisoning, hence the need for more environmental measurements that are all logged on the blockchain, in order to avoid further casualties in this area.
 
-Solution  Clean water, sanitation supplies, supplies for allowing safe child birth, increasing access to quality nutrition for all human beings. 
+#### Solution 
+Clean water, sanitation supplies, supplies for allowing safe child birth, increasing access to quality nutrition for all human beings. 
 
-Relevant indicators for Mpowa:
+
+#### Relevant indicators for Mpowa:
 
 TBC
 
@@ -482,11 +494,11 @@ SOLVATTEN, ECOLOO, ETC
 
 
 
-Problem 4: Educational deficits 
+#### Problem 4: Educational deficits 
 
 Minimum proficiency level corresponds to the minimum set of skills or knowledge required for a given subject such as reading or mathematics. Learning assessments are designed to measure a range of skill levels which are defined during the design of the assessment. As the assessment design can vary between national assessments and across international assessments ideally these benchmarks should to be aligned. Minimum proficiency levels for existing cross-national learning assessments have been provisionally adopted by the international community for interim reporting but in order to increase country coverage there is a need to achieve comparability across national and international assessments. 
 
-Solution:  Goal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
+#### Solution:  Goal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
  
 Relevant indicators for Mpowa:   Indicator 4.1.1: Proportion of children and young people (a) in Grades 2 /3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex.  Indicator 4.3.1: Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex.  Indicator 4.4.1: Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill.  Indicator 4.5.1: Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated.  Indicator 4.6.1: Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex. 
 
@@ -499,7 +511,7 @@ Distribution of computers with internet + library access, Udemy deals etc.
 
 
 
-Problem 5: Inequality 
+#### Problem 5: Inequality 
 
 Equality and non-discrimination on the basis of sex are core principles under the international legal and policy framework, including the Convention on the Elimination of All Forms of Discrimination against Women (CEDAW), which has 189 States parties, and the Beijing Platform for Action. This framework sets out the commitments of States to eliminate discrimination against women and promote gender equality, including in the area of legal frameworks. 
 
