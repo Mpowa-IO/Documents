@@ -38,7 +38,7 @@ project methodology towards contributors and auditors.
 - [Vision](#vision)<br>
 - [Mission](#mission)<br>
 - [Values](#values)<br>
-- [Problems and solutions](#problems and solutions)<br>
+- [Problems and solutions](#problems)<br>
 - [The necessity for Mpowa’s existence](#the necessity for Mpowa’s existence)<br>
 - [Unique Selling Point](#unique selling point)<br>	
 - [SDG Partnership registration](#sdg partnership registration)<br>
