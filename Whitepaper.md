@@ -44,10 +44,10 @@ project methodology towards contributors and auditors.
 - [SDG Partnership registration](#sdg partnership registration)<br>
 - [Scalability](#scalability)<br>	
 - [SDG Impact](#sdg impact)<br>
-Data & Statistics<br>
-Quality Assurance<br>
-The Platform<br>
-Decentralized Autonomous Organization (DAO)<br>	
+- [Data & Statistics](#data-&-statistics)<br>
+- [Quality Assurance](#quality-assurance)<br>
+- [The Platform](#the-platform)<br>
+- [Decentralized Autonomous Organization (DAO)](#decentralized-autonomous-prganization-(DAO))<br>	
 Carbon Offset<br>
 ESG Fund<br>	
 Decarbonizer App<br>
