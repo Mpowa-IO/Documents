@@ -5,6 +5,8 @@ Last updated: 06-04-2022
 
 ## A world without energy and water scarcity.
 
+Mpowa and its associates envision a future on earth where sufficient resources and ultimately abundance is realized and accessible for all. 
+
 ### Preface
 
 This blockchain-based interactive SaaS platform, 
