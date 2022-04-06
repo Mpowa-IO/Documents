@@ -1713,15 +1713,15 @@ https://globalgoals.goldstandard.org/402-1-luf-agr-am-increasing-soild-carbon-th
 
 
 
-The Technology 
+## The Technology 
 
 
 Overview of the technology that is used, modified and written in order for the Mpowa platform to function as it is supposed to.   The Substrate client is the software that runs the blockchain node, it includes the following components: storage, runtime, p2p network, consensus, RPC, telemetry. 
 
 
-## Runtime Architecture
+### Runtime Architecture
 
-The Moonbeam Runtime is built using FRAME and consists of pallets from substrate, frontier, cumulus, and `pallets/`.
+The mpowa Runtime is built using FRAME and consists of pallets from substrate, frontier, cumulus, and `pallets/`.
 
 From substrate:
 
@@ -1744,9 +1744,9 @@ From cumulus:
 - _ParachainUpgrade_: A helper to perform runtime upgrades on parachains
 - _ParachainInfo_: A place to store parachain-relevant constants like parachain id
 
-The following pallets are stored in `pallets/`. They are designed for Moonbeam's specific requirements:
+The following pallets are stored in `pallets/`. They are designed for mpowa's specific requirements:
 
-- _Ethereum Chain Id_: A place to store the chain id for each Moonbeam network
+- _Ethereum Chain Id_: A place to store the chain id for each mpowa network
 - _Author Inherent_: Allows block authors to include their identity in a block via an inherent
 - _Parachain Staking_: Minimal staking pallet that selects collators by total amount at stake
 
@@ -1878,7 +1878,7 @@ A similar method is used for our pilot project where recipients of the Solvatten
 
 
 
-Exemplary projects
+### Exemplary projects
 
 The pilot project is designed to validate our solution through manual execution of all critical steps from project formulation to funding and implementation, with the combined power of donor organizations and the general public. We will partner with Solvatten for our initial pilot(s) and kickoff the platform using their water purification device. 
 
