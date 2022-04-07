@@ -380,7 +380,7 @@ Through working together with local “Heroes” and NGO’s, Mpowa has the capa
 It is prospected that several rural areas in Africa, in different countries, will start to receive support from Q3 2022 onwards. 	
 By keeping the data and measurements conform to the Data Structure Definition (as defined by the UN), 
 
-> Mpowa allows its projects to be officially regarded as legitimate and impactful, to ensure contributors that their contribution will result i
+Mpowa allows its projects to be officially regarded as legitimate and impactful, to ensure contributors that their contribution will result i
 nto legally verifiable impact. Mpowa’s approach of reporting and will be acquired once the technology has been funded for deployment, 
 to enable Mpowa to credibly present themselves to these organizations. A specific set of SDG indicators is selected by Mpowa, 
 in terms of relevancy based on impact from projects that are currently on its agenda. Indicators are selected by applicability on and for 
