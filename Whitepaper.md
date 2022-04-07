@@ -484,7 +484,7 @@ The number of deaths from unsafe water, sanitation and hygiene can be prevented 
 Most recent disease-specific national mortality figures can be downloaded from the website of the WHO Global Health Observatory’s (GHO) website: http://www.who.int/healthinfo/global_burden_disease/estimates/en/ 
 There’s a significant percentage of people dying from unintentional poisoning, hence the need for more environmental measurements that are all logged on the blockchain, in order to avoid further casualties in this area.
 
-#### Solution 
+#### Solution
 Clean water, sanitation supplies, supplies for allowing safe child birth, increasing access to quality nutrition for all human beings. 
 
 
