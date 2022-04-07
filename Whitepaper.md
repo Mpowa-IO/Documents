@@ -1804,7 +1804,7 @@ An Ethereum compatible smart-contract Parachain on Polkadot.
 
 
 
-Substrate Chain
+### Substrate Chain
 
 Runtime
 
@@ -1814,51 +1814,48 @@ Each Substrate node contains a runtime. The runtime contains the business logic 
 
 
 
-Smart contracts
+### Smart contracts
 
 
 
-Tokens
-
-Metadata extensions ISO + DSD + ETC 
+### Tokens
 
 
-IoT layer
+### Metadata extensions ISO + DSD + ETC 
+
+
+### IoT layer
 
 Eventually.
 M2M sim
 
 
-Mobile Apps
+### Mobile Apps
 
 iOS -
 Android - 
 
 
-SaaS platform components
+
+### SaaS platform components
 
 
 
 
-iOS & Android App
 
-NFT Marketplace 
-
-
-Cybersecurity
+### NFT Marketplace 
 
 
-Metaverse
+### Cybersecurity
+
+
+### Metaverse
 
 A metaverse is a network of virtual worlds focused on social connection In futurism and science fiction, it is often described as a hypothetical iteration of the Internet as a single, universal virtual world that is facilitated by the use of virtual and augmented reality headsets.
 
 
 
-KYC Protocol 
-
-
-
-Bridge to Steroid 4.0 
+### KYC Protocol 
 
 
 
