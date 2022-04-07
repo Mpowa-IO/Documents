@@ -1584,6 +1584,19 @@ The Mpowa infrastructure will contain a costumer interface which is capable of m
 ## Decentralized Autonomous Organization (DAO)
 
 
+
+### Responsibility
+
+
+
+
+
+
+### Governance Model
+
+
+
+
 - Properties & Parameters!!
 
 
