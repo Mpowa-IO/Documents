@@ -325,7 +325,7 @@ you may be asked to provide additional information to verify your identity and/o
 This is information that you provide to Mpowa that identifies you personally, such as your name, email address, or billing information, 
 or other data that Mpowa may reasonably associate with this information, such as information that we associate with an Mpowa account. 
 This account information is used to authenticate you when you sign in to Mpowa services and to protect your account from unauthorized access by others.
-  Because circumstances may vary depending on the context and services, the information provided in the Privacy Policy or provided in a 
+Because circumstances may vary depending on the context and services, the information provided in the Privacy Policy or provided in a 
 specific disclosure may contain more detailed information about the applicable storage conditions.
 
 
@@ -374,7 +374,7 @@ NFT’s will contain the necessary metadata according to the UN DSD’s for the 
 
 
 
-#### Problem 1: 
+### Problem 1: 
 
 Poverty in all its forms. The international poverty line is a threshold used to measure extreme poverty based on consumption or income levels. 
 A person is considered extremely poor if his or her consumption or income level falls below the minimum level necessary to meet basic needs. 
@@ -421,7 +421,7 @@ In the chapter “The Technology” you will read about the implementation of go
 
 
 
-Problem 2: Hunger, food insecurity. Undernourishment.
+### Problem 2: Hunger, food insecurity. Undernourishment.
 The prevalence of undernourishment (PoU) is the proportion of the population whose habitual food consumption is insufficient to provide the 
 dietary energy levels that are required to maintain a normal active and healthy life. It is expressed as a percentage. 
 Undernourishment is defined as chronic hunger, a condition where a person has inadequate access to food amounts necessary to provide the 
@@ -496,7 +496,7 @@ SOLVATTEN, ECOLOO, ETC
 
 
 
-#### Problem 4: Educational deficits 
+### Problem 4: Educational deficits 
 
 Minimum proficiency level corresponds to the minimum set of skills or knowledge required for a given subject such as reading or mathematics. Learning assessments are designed to measure a range of skill levels which are defined during the design of the assessment. As the assessment design can vary between national assessments and across international assessments ideally these benchmarks should to be aligned. Minimum proficiency levels for existing cross-national learning assessments have been provisionally adopted by the international community for interim reporting but in order to increase country coverage there is a need to achieve comparability across national and international assessments. 
 
@@ -524,7 +524,7 @@ Distribution of computers with internet + library access, Udemy deals etc.
 
 
 
-#### Problem 5: Inequality 
+### Problem 5: Inequality 
 
 Equality and non-discrimination on the basis of sex are core principles under the international legal and policy framework, including the Convention on the Elimination of All Forms of Discrimination against Women (CEDAW), which has 189 States parties, and the Beijing Platform for Action. This framework sets out the commitments of States to eliminate discrimination against women and promote gender equality, including in the area of legal frameworks. 
 
@@ -714,11 +714,11 @@ Encourage official development assistance and financial flows, including foreign
 ### Problem 11: Unsafe and polluted cities
 
 This indicator measures the number of people who died, went missing or were directly affected by disasters per 100,000 population. 
- Death: The number of people who died during the disaster, or directly after, as a direct result of the hazardous event. 
+Death: The number of people who died during the disaster, or directly after, as a direct result of the hazardous event. 
 Missing: The number of people whose whereabouts is unknown since the hazardous event. It includes people who are presumed dead, for whom there is no physical evidence such as a body, and for which an official/legal report has been filed with competent authorities. 
 Directly affected: The number of people who have suffered injury, illness or other health effects; who were evacuated, displaced, relocated or have suffered direct damage to their livelihoods, economic, physical, social, cultural and environmental assets. Indirectly affected are people who have suffered consequences, other than or in addition to direct effects, over time, due to disruption or changes in economy, critical infrastructure, basic services, commerce or work, or social, health and psychological consequence 
 
- 
+
 Solution:
 Make cities and human settlements inclusive, safe, resilient and sustainable.
 
@@ -797,7 +797,7 @@ All projects, basically. Strengthen resilience and adaptive capacity to climate-
 
 
 ### Problem 14: Marine pollution
- “Marine pollution occurs when substances used or spread by humans, such as industrial, agricultural and residential waste, particles, noise, excess carbon dioxide or invasive organisms enter the ocean and cause harmful effects there. The majority of this waste (80%) comes from land-based activity, although marine transportation significantly contributes as well. Since most inputs come from land, either via the rivers, sewage or the atmosphere, it means that continental shelves are more vulnerable to pollution. Air pollution is also a contributing factor by carrying off iron, carbonic acid, nitrogen, silicon, sulfur, pesticides or dust particles into the ocean. The pollution often comes from nonpoint sources such as agricultural runoff, wind-blown debris, and dust. These non-point sources are largely due to runoff that enters the ocean through rivers, but wind-blown debris and dust can also play a role, as these pollutants can settle into waterways and oceans. Pathways of pollution include direct discharge, land runoff, ship pollution, atmospheric pollution and, potentially, deep sea mining."
+“Marine pollution occurs when substances used or spread by humans, such as industrial, agricultural and residential waste, particles, noise, excess carbon dioxide or invasive organisms enter the ocean and cause harmful effects there. The majority of this waste (80%) comes from land-based activity, although marine transportation significantly contributes as well. Since most inputs come from land, either via the rivers, sewage or the atmosphere, it means that continental shelves are more vulnerable to pollution. Air pollution is also a contributing factor by carrying off iron, carbonic acid, nitrogen, silicon, sulfur, pesticides or dust particles into the ocean. The pollution often comes from nonpoint sources such as agricultural runoff, wind-blown debris, and dust. These non-point sources are largely due to runoff that enters the ocean through rivers, but wind-blown debris and dust can also play a role, as these pollutants can settle into waterways and oceans. Pathways of pollution include direct discharge, land runoff, ship pollution, atmospheric pollution and, potentially, deep sea mining."
 
 
 Solution:
@@ -861,7 +861,7 @@ The data for this indicator comes from the ABS Clearing-House, which is maintain
 In order to ensure the accuracy of the information published in the ABS Clearing-House, all ABS frameworks are submitted to the clearing house by designated publishing authorities (a single authority for each country) 
 
 
-Solution: 
+Solution:
 Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss
 
 
