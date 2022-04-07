@@ -476,6 +476,7 @@ Ambient air pollution refers to outdoor pollution resulting from emissions from 
 
 
 Rationale and Interpretation: 
+
 The target aims to reduce the number of deaths from hazardous air pollution. This indicator tracks mortality rates attributed to ambient and household air pollution, as air pollution is the biggest environmental risk to health. 
 Vital registration systems are the preferred source of data on under-five mortality because they collect information prospectively and cover the entire population. However, many low and lower middle income countries lack fully functioning vital registration systems that accurately record all births and deaths. Thus, household surveys, such as Demographic and Health Surveys (DHS) and Multiple Indicator Cluster Surveys (MICS), and periodic population censuses have become the primary source of data on child mortality in low and lower middle income countries. 
 National Statistical Office or the Ministry of Health are mostly involved in generating under-five mortality data at the national level. 
@@ -505,19 +506,21 @@ Minimum proficiency level corresponds to the minimum set of skills or knowledge 
 #### Solution: Goal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
 
 #### Relevant indicators for Mpowa: 
-<br>
+
 Indicator 4.1.1: Proportion of children and young people (a) in Grades 2 /3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex.
-<br>
+
 Indicator 4.3.1: Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex.
-<br>
+
 Indicator 4.4.1: Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill.
-<br>
+
 Indicator 4.5.1: Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated. 
-<br>
+
 Indicator 4.6.1: Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex. 
 
 
-Mpowa’s Contribution: Mpowa EDU platform, through participation in the Decarbonizer app, educational material can be accessed by the users. Variety of topics: science, mathematics, languages, etc.
+#### Mpowa’s Contribution: 
+
+Mpowa EDU platform, through participation in the Decarbonizer app, educational material can be accessed by the users. Variety of topics: science, mathematics, languages, etc.
 
 Heroes Academy: 
 Enable equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university. Facilitating that all girls and boys have access to quality early childhood development, care and pre‑primary education so that they are ready for primary education Substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States. 
@@ -533,12 +536,12 @@ Equality and non-discrimination on the basis of sex are core principles under th
 
 Solution: Achieve gender equality and empower all women and girls
 
-Relevant indicators for Mpowa:
+#### Relevant indicators for Mpowa:
 
 Indicator 5.1.1: Whether or not legal frameworks are in place to promote, enforce and monitor equality and non-discrimination on the basis of sex.
 
 
-Mpowa’s Contribution:
+#### Mpowa’s Contribution:
 End all forms of discrimination against all women and girls everywhere, through AI and CCTV collaboration.
 
 
@@ -562,7 +565,7 @@ Indicator 6.1.1: Proportion of population using safely managed drinking water se
 Indicator 6.4.2: Level of water stress: freshwater withdrawal as a proportion of available freshwater resources
 
 
-Mpowa’s Contribution:
+#### Mpowa’s Contribution:
 
 Solvatten, other purifiers.. Funding, start - delivery. 
 Achieve universal and equitable access to safe and affordable drinking water for all through distributing water purification devices. - Achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations - Improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally.
