@@ -1911,13 +1911,13 @@ Android -
 
 A metaverse is a network of virtual worlds focused on social connection In futurism and science fiction, it is often described as a hypothetical iteration of the Internet as a single, universal virtual world that is facilitated by the use of virtual and augmented reality headsets.
 
-
+-------
 
 ### KYC Protocol 
 
 
 
-
+------
 
 
 
