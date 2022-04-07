@@ -67,6 +67,8 @@ project methodology towards contributors and auditors.
 - [Tokenomics](#tokenomics)<br>
 	- [mUSD](#musd)<br>
 	- [mSDG](#mSDG)<br>
+	- [MPWA](#mpwa)<br>
+	- [NFTs](#nfts)<br>
 - [Token Allocation](#token-allocation)<br>	
 - [Token Launches](#token-launches)<br>
 - [SWOT Matrix](#swot-matrix)<br>
