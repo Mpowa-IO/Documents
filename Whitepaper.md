@@ -56,6 +56,9 @@ project methodology towards contributors and auditors.
 - [Impact-NFT Marketplace](#impact-nft-marketplace)<br>
 - [Geolocation](#geolocation)<br>	
 - [Methodology](#methodology)<br>
+	- [Data Reporting](#data-reporting)
+	- [Economic Flow](#economic-flow)
+	- [Timeline](#timeline)
 - [The Technology](#the-technology)<br>
 	- [Blockchain Setup](#blockchain-setup)<br>
 	- [Smart Contracts[(#smart-contracts)<br>
