@@ -504,7 +504,7 @@ Minimum proficiency level corresponds to the minimum set of skills or knowledge 
 
 #### Solution: Goal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
 
-Relevant indicators for Mpowa: 
+#### Relevant indicators for Mpowa: 
 <br>
 Indicator 4.1.1: Proportion of children and young people (a) in Grades 2 /3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex.
 <br>
