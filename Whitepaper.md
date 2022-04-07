@@ -430,7 +430,9 @@ The concept encompasses three aspects: availability of food, inequality in acces
 compatible with long term good health. Undernourishment is prevalent globally, hence the pressing need for water/energy/agriculture solutions to be 
 deployed within a short time frame in order to combat malnutrition and the health/learning problems that arise from the issue. 
 
-Solution: End hunger and ensure access by all people to safe, nutritious and sufficient food all year round. 
+#### Solution: 
+
+End hunger and ensure access by all people to safe, nutritious and sufficient food all year round. 
 By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, 
 including infants, to safe, nutritious and sufficient food all year round
 
@@ -553,7 +555,9 @@ This indicator is defined as the proportion of population using an improved drin
 
 
 
-Solution: Ensure availability and sustainable management of water and sanitation for all.
+#### Solution: 
+
+Ensure availability and sustainable management of water and sanitation for all.
 In addition, line ministries and water utility companies usually keep records based on the number and type of water supplies constructed or the number of piped household connections maintained. Provider-based data do not include what facilities are actually used, thus, they are only used for countries that have no survey or census data on access to or use of drinking water sources. However, such administrative sources may have much more data on water quality, especially for piped water supplies, which can be gained through household surveys. 
 The WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (JMP) estimates use of improved drinking water sources, as well as the extent to which such sources are located on premises, available when needed, and free from microbiological and chemical contamination, for each country. 
 
@@ -588,19 +592,21 @@ Solar energy consumption includes solar PV and solar thermal Liquid biofuel en
 
 
 
-Solution: Ensure access to affordable, reliable, sustainable and modern energy for all
+#### Solution: 
+
+Ensure access to affordable, reliable, sustainable and modern energy for all
 
 
 
 
-Relevant indicators for Mpowa: 
+#### Relevant indicators for Mpowa: 
 
 Indicator 7.1.2: Proportion of population with primary reliance on clean fuels and technology
 
 Indicator 7.2.1: Renewable energy share in the total final energy consumption
 
 
-Mpowa’s Contribution: 
+#### Mpowa’s Contribution: 
 
 Long term vision. 
 
@@ -622,29 +628,40 @@ The population of a country may comprise either all usual residents of the count
 
 
 
-Solution: Target 8.1: Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries
+#### Solution: 
+
+Target 8.1: Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries
+
 Goal 8: Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all 
+
 Target 8.3: Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity and innovation, and encourage the formalization and growth of micro-, small- and medium-sized enterprises, including through access to financial services
+
 However, labour input more widely refers to all persons who contribute to the production of goods and services within the SNA production boundary, not only the employed. In fact, according to the new standards laid out in the 2013 Resolution concerning statistics of work, employment and labour underutilization, the labour input contributing to the GDP comprises not only employment (work done for use by others for pay or profit) but also own-use production of goods, unpaid trainee work and some forms of volunteer work as well. 
 
 Target 8.5: By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value
+
 Target 8.8: Protect labour rights and promote safe and secure working environments for all workers, including migrant workers, in particular women migrants, and those in precarious employment.
-Indicator 8.a.1: Aid for Trade commitments and disbursements
+
 Target 8.a: Increase Aid for Trade support for developing countries, in particular least developed countries, including through the Enhanced.
 
-Relevant indicators for Mpowa: 
+#### Relevant indicators for Mpowa: 
+
+Indicator 8.a.1: Aid for Trade commitments and disbursements
 
 Indicator 8.1.1: Annual growth rate of real GDP per capita
+
 Indicator 8.3.1: Proportion of informal employment in total employment, by sector and sex 
 
 Indicator 8.5.1: Average hourly earnings of employees, by sex, age, occupation and persons with disabilities
 
 Indicator 8.6.1: Proportion of youth (aged 15-24 years) not in education, employment or training
+
 Indicator 8.7.1: Proportion and number of children aged 5-17 years engaged in child labour, by sex and age 
 
 Indicator 8.8.1: Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status
 
-Mpowa’s Contribution:
+
+#### Mpowa’s Contribution:
 
 
 
@@ -660,23 +677,30 @@ Description!
 
 
 
-Solution:
+#### Solution:
 Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation
 
 
 
 
-Relevant indicators for Mpowa: 
+#### Relevant indicators for Mpowa: 
 
 Indicator 9.1.2: Passenger and freight volumes, by mode of transport
+
 Indicator 9.4.1: CO emissions per unit of value added 2 
+
 Indicator 9.5.1: Research and development expenditure as a proportion of GDP 
+
 Indicator 9.5.2: Researchers (in full-time equivalent) per million inhabitants 
+
 Indicator 9.a.1: Total official international support (official development assistance plus other official flows) to infrastructure
+
 Indicator 9.c.1: Proportion of population covered by a mobile network, by technology
 
 
-Mpowa’s Contribution:
+
+#### Mpowa’s Contribution:
+
 Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States
 Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries.
 Develop quality, reliable, sustainable and resilient infrastructure, including regional and trans-border infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all.
@@ -698,18 +722,21 @@ Description
 
 
 
-Solution:
+#### Solution:
 
 Reduce inequality within and among countries
 
-Relevant indicators for Mpowa: 
+#### Relevant indicators for Mpowa: 
 
 Indicator 10.6.1: Proportion of members and voting rights of developing countries in international organizations
+
 Indicator 10.b.1: Total resource flows for development, by recipient and donor countries and type of flow (e.g., official development assistance, foreign direct investment and other flows)
 
-Mpowa’s Contribution:
+#### Mpowa’s Contribution:
 
-TOKENIZED PRECIOUS METALS
+
+
+!!!! TOKENIZED PRECIOUS METALS???????
 Ensure enhanced representation and voice for developing countries in decision-making in global international economic and financial institutions in order to deliver more effective, credible, accountable and legitimate institutions 
 Encourage official development assistance and financial flows, including foreign direct investment, to States where the need is greatest, in particular least developed countries, African countries, small island developing States and landlocked developing countries, in accordance with their national plans and programs.
 
@@ -725,18 +752,21 @@ Missing: The number of people whose whereabouts is unknown since the hazardous e
 Directly affected: The number of people who have suffered injury, illness or other health effects; who were evacuated, displaced, relocated or have suffered direct damage to their livelihoods, economic, physical, social, cultural and environmental assets. Indirectly affected are people who have suffered consequences, other than or in addition to direct effects, over time, due to disruption or changes in economy, critical infrastructure, basic services, commerce or work, or social, health and psychological consequence 
 
 
-Solution:
+#### Solution:
 Make cities and human settlements inclusive, safe, resilient and sustainable.
 
 
-Relevant indicators for Mpowa: 
+#### Relevant indicators for Mpowa: 
 
 Indicator 11.6.1: Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities
+
 Indicator 11.6.2: Annual mean levels of fine particulate matter (eg. PM 2.5 and PM 10) in cities (population weighted)
+
 Indicator 11.5.1: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population 
 
 
-Mpowa’s Contribution:
+#### Mpowa’s Contribution:
+
 Significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations. SAMOA - SENDAI. 
 Reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management
 
@@ -747,16 +777,19 @@ Reduce the adverse per capita environmental impact of cities, including by payin
 DESCRIPTION 
 
 
-Solution:
+#### Solution:
 
 Ensure sustainable consumption and production patterns 
 
-Relevant indicators for Mpowa: 
+#### Relevant indicators for Mpowa: 
+
 Indicator 12.2.2: Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP 
+
 Indicator 12.4.1: Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement
 
 
-Mpowa’s Contribution:
+#### Mpowa’s Contribution:
+
 Achieve the sustainable management and efficient use of natural resources
 Achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment.
 
@@ -766,16 +799,20 @@ Achieve the environmentally sound management of chemicals and all wastes through
 This indicator measures the number of countries that adopt and implement national disaster risk reduction (DRR) strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030, with multiple dimensions of the level of implementation. 
 Disaster risk reduction strategies: define goals and objectives across different timescales and with concrete targets, indicators and time frames. In line with the Sendai Framework for Disaster Risk Reduction 2015-2030, these should be aimed at preventing the creation of disaster risk, the reduction of existing risk and the strengthening of economic, social, health and environmental resilience. 
 
-Solution:
+#### Solution:
+
 The Sendai Framework for Disaster Risk Reduction 2015-2030 was adopted by UN Member States in March 2015 as a global policy of disaster risk reduction. Among the global targets, “Target A: Substantially reduce global disaster mortality by 2030, aiming to lower average per 100,000 global mortality between 2020-2030 compared with 2005-2015” and “Target B: Substantially reduce the number of affected people globally by 2030, aiming to lower the average global figure per 100,000 between 2020-2030 compared with 2005-2015” will contribute to sustainable development and strengthen economic, social, health and environmental resilience. The economic, environmental and social perspectives would include poverty eradication, urban resilience, and climate change adaptation. 
- Goal 13: Take urgent action to combat climate change and its impact
+
+Goal 13: Take urgent action to combat climate change and its impact
 
 
 
-Relevant indicators for Mpowa:
+#### Relevant indicators for Mpowa:
+
 Indicator 13.1.1: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population
 
-Mpowa’s Contribution:
+#### Mpowa’s Contribution:
+
 All projects, basically. Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries
 
 
@@ -806,18 +843,20 @@ All projects, basically. Strengthen resilience and adaptive capacity to climate-
 “Marine pollution occurs when substances used or spread by humans, such as industrial, agricultural and residential waste, particles, noise, excess carbon dioxide or invasive organisms enter the ocean and cause harmful effects there. The majority of this waste (80%) comes from land-based activity, although marine transportation significantly contributes as well. Since most inputs come from land, either via the rivers, sewage or the atmosphere, it means that continental shelves are more vulnerable to pollution. Air pollution is also a contributing factor by carrying off iron, carbonic acid, nitrogen, silicon, sulfur, pesticides or dust particles into the ocean. The pollution often comes from nonpoint sources such as agricultural runoff, wind-blown debris, and dust. These non-point sources are largely due to runoff that enters the ocean through rivers, but wind-blown debris and dust can also play a role, as these pollutants can settle into waterways and oceans. Pathways of pollution include direct discharge, land runoff, ship pollution, atmospheric pollution and, potentially, deep sea mining."
 
 
-Solution:
+#### Solution:
+
 Conserve and sustainably use the oceans, seas and marine resources for sustainable development.
 
 
 
-Relevant indicators for Mpowa:
+#### Relevant indicators for Mpowa:
 
 Indicator 14.4.1: Proportion of fish stocks within biologically sustainable levels
+
 Indicator 14.5.1: Coverage of protected areas in relation to marine areas
 
 
-Mpowa’s Contribution:
+#### Mpowa’s Contribution:
 
 Blockchain integration for local fishing companies.   Effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum sustainable yield as determined by their biological characteristics. 
 
@@ -867,21 +906,24 @@ The data for this indicator comes from the ABS Clearing-House, which is maintain
 In order to ensure the accuracy of the information published in the ABS Clearing-House, all ABS frameworks are submitted to the clearing house by designated publishing authorities (a single authority for each country) 
 
 
-Solution:
+#### Solution:
 Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss
 
 
-Relevant indicators for Mpowa:
+#### Relevant indicators for Mpowa:
 
 Indicator 15.1.1: Forest area as a proportion of total land area
+
 Indicator 15.2.1: Progress towards sustainable forest management
+
 Indicator 15.5.1: Red List Index
+
 Indicator 15.6.1: Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits
 
 
 
 
-Mpowa’s Contribution:
+#### Mpowa’s Contribution:
 
 Ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements 
 Promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally
@@ -922,18 +964,20 @@ Accreditation by GANHRI entails determination whether NHRI are compliant, both i
 
 Accreditation of NHRIs shows that the government has a strong commitment to realize human rights in the country. Effective NHRIs are an important link between government and civil society. They contribute significantly to bridging the “protection gap” between the human rights of individuals and the State’s obligations under international law. Six models of NHRIs exist across all regions of the world today, namely: human rights commissions, human rights ombudsperson institutions, hybrid institutions, consultative and advisory bodies, institutes and centers and multiple institutions. This indicator expresses whether any of these models exist in a country and is independently functioning to protect and promote human rights, including by preventing and redressing their violations.
 
-Solution:
+#### Solution:
 Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels
 
 
-Relevant indicators for Mpowa:
+#### Relevant indicators for Mpowa:
 
 Indicator 16.a.1: Existence of independent national human rights institutions in compliance with the Paris Principles
+
 Indicator 16.2.1: Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month
+
 Indicator 16.2.3: Proportion of young women and men aged 18-29 years who experienced sexual violence by age 18
 
 
-Mpowa’s Contribution:
+#### Mpowa’s Contribution:
 
 Strengthen relevant national institutions, including through international cooperation, for building capacity at all levels, in particular in developing countries, to prevent violence and combat terrorism and crime
 End abuse, exploitation, trafficking and all forms of violence against and torture of children. 
