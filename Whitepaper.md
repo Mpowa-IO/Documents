@@ -47,6 +47,9 @@ project methodology towards contributors and auditors.
 - [Data & Statistics](#data-&-statistics)<br>
 - [Quality Assurance](#quality-assurance)<br>
 - [The Platform](#the-platform)<br>
+	- [Components](#components)<br>
+	- [Workflow](#workflow)<br>
+	- [Utility](#utility)<br>
 - [Decentralized Autonomous Organization (DAO)](#decentralized-autonomous-prganization-(DAO))<br>	
 	- [Responsibility](#responsibility)<br>
 	- [Governance Model](#governance-model)<br>
