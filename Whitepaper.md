@@ -40,8 +40,7 @@ project methodology towards contributors and auditors.
 - [Values](#values)<br>
 - [Problems and solutions](#problems-and-solutions)<br>
 - [The necessity for Mpowa’s existence](#the-necessity-for-Mpowa’s-existence)<br>
-- [Unique Selling Point](#uniqu-selling-point)<br>	
-- [Scalability](#scalability)<br>	
+- [Unique Selling Point](#uniqu-selling-point)<br>		
 - [SDG Impact](#sdg-impact)<br>
 	- [Overview](#overview)<br>
 	- [Participate](#participate)<br>
@@ -1048,23 +1047,6 @@ Not only serving merely as a project enabler on its SaaS platform, Mpowa is actu
 
 
 
-
-## Scalability
-
-In case there’s an unexpectedly large interest from the audience to contribute towards a certain project, there are solutions to scale the project or at least realize new projects without significant delay, due to partnerships with companies that can provide Mpowa and its beneficiaries with similar technology.  
-
-Scalability and Technology Scalability and technology blend well and are inseparable for an efficient transition during growth. A system may be considered scalable if it can adapt to the changing needs or patterns of its users. It is often a sign of competitiveness because a scalable network or system is ready to handle increased demand, trends, and needs, even with the emergence of new competitors.
-Technology eases the process of scaling an entity. For instance, companies based on technology operations, e.g., information technology (IT) firms, find it easy to scale their processes. Since these companies are tech-savvy, they see huge growth opportunities. The main reason for their ease of scaling is the fact that these companies keep little or no inventory, while many of them also utilize the Software as a Service (SaaS) approach to dealing with stock. Other entities can incorporate technology into their operations to ease their work even as they plan to grow.
-Technology links businesses directly to clients, especially in the advertising world where the digital platform makes advertisements easy and affordable even for small and medium-sized enterprises. This makes technology a powerful tool that can benefit even those enterprises that are not directly connected to technology.
-Therefore, technology becomes a necessity in every business, with many businesses incorporating an IT department into their enterprises. It provides a platform to increase the customer base through online advertisement and signups, with some businesses even opting to go entirely online without any physical stores. The financial sector continues to increase its online presence by investing in online banking where customers can enroll and transact without physically going to the bank.
- 
-
-
-What is a Scalable Business? For a business to be scalable, it must focus on improving the profitability and efficiency of services even when its workload increases. The improvement of profitability and efficiency can only originate from the core of the business’ structure and workflow strategy.
-
-Scalability thus begins with the entity developing a set of leaders who run the operations with the necessary technical know-how. The leaders should understand their duties well and their respective hierarchies. All shareholders, including investors and advisors, should be involved in every part of the way as the strategy and direction of the entity is determined.
-
-The scalability of a business also depends on the effectiveness of communication, whether internally to the workforce or externally to clients and investors. Consistency in brand messaging should persist, as it helps the public understand and become persuaded into liking the product.
 
 
 
@@ -2429,7 +2411,22 @@ Monitoring all results—mapping against plans, taking corrective action, which 
 
 
 
+## Scalability
 
+In case there’s an unexpectedly large interest from the audience to contribute towards a certain project, there are solutions to scale the project or at least realize new projects without significant delay, due to partnerships with companies that can provide Mpowa and its beneficiaries with similar technology.  
+
+Scalability and Technology Scalability and technology blend well and are inseparable for an efficient transition during growth. A system may be considered scalable if it can adapt to the changing needs or patterns of its users. It is often a sign of competitiveness because a scalable network or system is ready to handle increased demand, trends, and needs, even with the emergence of new competitors.
+Technology eases the process of scaling an entity. For instance, companies based on technology operations, e.g., information technology (IT) firms, find it easy to scale their processes. Since these companies are tech-savvy, they see huge growth opportunities. The main reason for their ease of scaling is the fact that these companies keep little or no inventory, while many of them also utilize the Software as a Service (SaaS) approach to dealing with stock. Other entities can incorporate technology into their operations to ease their work even as they plan to grow.
+Technology links businesses directly to clients, especially in the advertising world where the digital platform makes advertisements easy and affordable even for small and medium-sized enterprises. This makes technology a powerful tool that can benefit even those enterprises that are not directly connected to technology.
+Therefore, technology becomes a necessity in every business, with many businesses incorporating an IT department into their enterprises. It provides a platform to increase the customer base through online advertisement and signups, with some businesses even opting to go entirely online without any physical stores. The financial sector continues to increase its online presence by investing in online banking where customers can enroll and transact without physically going to the bank.
+ 
+
+
+What is a Scalable Business? For a business to be scalable, it must focus on improving the profitability and efficiency of services even when its workload increases. The improvement of profitability and efficiency can only originate from the core of the business’ structure and workflow strategy.
+
+Scalability thus begins with the entity developing a set of leaders who run the operations with the necessary technical know-how. The leaders should understand their duties well and their respective hierarchies. All shareholders, including investors and advisors, should be involved in every part of the way as the strategy and direction of the entity is determined.
+
+The scalability of a business also depends on the effectiveness of communication, whether internally to the workforce or externally to clients and investors. Consistency in brand messaging should persist, as it helps the public understand and become persuaded into liking the product.
 
 
 
