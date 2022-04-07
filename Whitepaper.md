@@ -41,7 +41,6 @@ project methodology towards contributors and auditors.
 - [Problems and solutions](#problems-and-solutions)<br>
 - [The necessity for Mpowa’s existence](#the-necessity-for-Mpowa’s-existence)<br>
 - [Unique Selling Point](#uniqu-selling-point)<br>	
-- [SDG Partnership registration](#sdg-partnership-registration)<br>
 - [Scalability](#scalability)<br>	
 - [SDG Impact](#sdg-impact)<br>
 - [Data & Statistics](#data-&-statistics)<br>
@@ -1056,6 +1055,49 @@ It's impossible to provide an exhaustive list of what you can do to protect the 
 Not only serving merely as a project enabler on its SaaS platform, Mpowa is actually concerned with the direct manifestation of projects by using a bottom-up approach. A complete range of disciplines and sectors are covered and included in the thought-process when Mpowa starts or receives a new project, in order to present something truly beneficial and feasible towards its investors. 			Mpowa has the infrastructure for collaborators to bring their projects up to a certain standard, to facilitate credible project-scaling. While Mpowa is doing things differently than most of its direct competitors, it is always designed for increased service towards the customer and the planet. Thus, writing about Mpowa’s Unique Selling Point forced the Management Team to think about exactly what value it brings to its customers and why they should start contributing to the platform and its related projects. 	An interesting and fairly unique feature is the implementation of an openly accessible product/service-demand submission form for people in need. Submissions will be verified for authenticity and correctness. If the submission comes from a person/entity in an area where Mpowa doesn’t have any projects planned, it can (depending on the severity of the situation) spark the company to start a project (in the area of the submission) or decide to serve the person individually. By demand and supply, NFT’s will be created and minted to serve the need and also contains a certificate for the purchaser that can be used to claim SDG Impact Tokens, Tokenized Carbon Credits and/or Governance Tokens. 	What really matters for contributors to the platform is that they each have a transparent overview of where they’ve sent their money, how it's being used and which impact their contribution has realized. Mpowa is selling impact, sustainability and health to those who care about planet earth and its inhabitants in an auditable and regulatory compliant way, with implementation of its project impact-data in UN SDG reporting. 
 
 
+
+
+
+
+
+
+
+
+## Scalability
+
+In case there’s an unexpectedly large interest from the audience to contribute towards a certain project, there are solutions to scale the project or at least realize new projects without significant delay, due to partnerships with companies that can provide Mpowa and its beneficiaries with similar technology.  
+
+Scalability and Technology Scalability and technology blend well and are inseparable for an efficient transition during growth. A system may be considered scalable if it can adapt to the changing needs or patterns of its users. It is often a sign of competitiveness because a scalable network or system is ready to handle increased demand, trends, and needs, even with the emergence of new competitors.
+Technology eases the process of scaling an entity. For instance, companies based on technology operations, e.g., information technology (IT) firms, find it easy to scale their processes. Since these companies are tech-savvy, they see huge growth opportunities. The main reason for their ease of scaling is the fact that these companies keep little or no inventory, while many of them also utilize the Software as a Service (SaaS) approach to dealing with stock. Other entities can incorporate technology into their operations to ease their work even as they plan to grow.
+Technology links businesses directly to clients, especially in the advertising world where the digital platform makes advertisements easy and affordable even for small and medium-sized enterprises. This makes technology a powerful tool that can benefit even those enterprises that are not directly connected to technology.
+Therefore, technology becomes a necessity in every business, with many businesses incorporating an IT department into their enterprises. It provides a platform to increase the customer base through online advertisement and signups, with some businesses even opting to go entirely online without any physical stores. The financial sector continues to increase its online presence by investing in online banking where customers can enroll and transact without physically going to the bank.
+ 
+
+
+What is a Scalable Business? For a business to be scalable, it must focus on improving the profitability and efficiency of services even when its workload increases. The improvement of profitability and efficiency can only originate from the core of the business’ structure and workflow strategy.
+
+Scalability thus begins with the entity developing a set of leaders who run the operations with the necessary technical know-how. The leaders should understand their duties well and their respective hierarchies. All shareholders, including investors and advisors, should be involved in every part of the way as the strategy and direction of the entity is determined.
+
+The scalability of a business also depends on the effectiveness of communication, whether internally to the workforce or externally to clients and investors. Consistency in brand messaging should persist, as it helps the public understand and become persuaded into liking the product.
+
+
+
+
+## SDG Impact 
+
+Contributing to the United Nations Sustainable Development Goals requires parties to follow certain data standards and methods of proceeding and documentation of projects. 
+One of which is the Data Standards Definition. The required data will be included in NFT’s that will be linked to products or services that beneficiaries will receive after a project is funded. 
+Impact is measured through sticking with guiding principles from the UN SDG Handbook and the indicators which are specifically mentioned and implemented into official reports by statisticians.
+
+The distribution of Mpowa SDG-Impact Tokens is done in a regulated manner where the contribution amount in Mpowa Utility Tokens is equivalent (a 1:1 ratio) to the amount of SDG-Impact Tokens that the contributor will receive. 
+Impact analysis is the act of studying the requirements’ data, to understand the pros and cons of any change. As the world keeps evolving, changes are to be expected, even in a well-developed system.	Changes can happen for a variety of reasons: a change in a client’s requirements, adjustments to business needs or new technologies. Since changes can potentially result in a failure, it is prudent to proceed with proper planning when making necessary changes.
+This is where “Impact Analysis” comes in.
+This is a technique that helps to identify the consequences of any changes being planned in software or a product.
+
+The impact-calculation of projects and products that are offered by Mpowa will be described in the chapter ‘’Methodology”.
+
+
+
 Marketing Strategy
 Carbon offset SDG nature clean water platform technology opportunity.
 
@@ -1108,52 +1150,6 @@ Partnership Data for SDGs
 The Partnership Data for SDGs (PD4SDGs)7 initiative is a collaboration between the Division for Sustainable Development Goals of UN-DESA, the UN Office for Partnerships and the UN Global Compact, aimed at improving the transparency, accountability and the sharing of experiences of the work being carried out by multi-stakeholder partnerships and voluntary commitments in their support to the implementation of the Sustainable Development Goals (SDGs).	The initiative seeks to bring greater transparency, coherence, impact, and comparability of the work carried out by multi-stakeholder partnerships and voluntary commitments by promoting a system- wide use of the established SMART criteria – a partnership/commitment that is Specific, Measurable, Achievable, Resource-based, with clear and Time-based deliverables.	There is a growing trend to collect voluntary commitments and partnerships in support of UN conferences and processes dealing with sustainable development, sometimes with varying degree of associated level of details, which could lead to difficulty in reviewing impact, track progress and conduct in-depth and global comparability analyses on announced commitments and partnerships. It is against this background the Partnership Data for SDGs initiative has been developed.	The initiative is open for all entities within the United Nations that engage with, and promote the work of, multi-stakeholder partnerships and voluntary commitments in driving implementation of the SDGs.
 
 7 Partnership Data for SDGs (PD4SDGs) - https://sustainabledevelopment.un.org/sdinaction/pd4sdgs
-
-
-
-
-
-
-
-
-
-
-
-
-## Scalability
-
-In case there’s an unexpectedly large interest from the audience to contribute towards a certain project, there are solutions to scale the project or at least realize new projects without significant delay, due to partnerships with companies that can provide Mpowa and its beneficiaries with similar technology.  
-
-Scalability and Technology Scalability and technology blend well and are inseparable for an efficient transition during growth. A system may be considered scalable if it can adapt to the changing needs or patterns of its users. It is often a sign of competitiveness because a scalable network or system is ready to handle increased demand, trends, and needs, even with the emergence of new competitors.
-Technology eases the process of scaling an entity. For instance, companies based on technology operations, e.g., information technology (IT) firms, find it easy to scale their processes. Since these companies are tech-savvy, they see huge growth opportunities. The main reason for their ease of scaling is the fact that these companies keep little or no inventory, while many of them also utilize the Software as a Service (SaaS) approach to dealing with stock. Other entities can incorporate technology into their operations to ease their work even as they plan to grow.
-Technology links businesses directly to clients, especially in the advertising world where the digital platform makes advertisements easy and affordable even for small and medium-sized enterprises. This makes technology a powerful tool that can benefit even those enterprises that are not directly connected to technology.
-Therefore, technology becomes a necessity in every business, with many businesses incorporating an IT department into their enterprises. It provides a platform to increase the customer base through online advertisement and signups, with some businesses even opting to go entirely online without any physical stores. The financial sector continues to increase its online presence by investing in online banking where customers can enroll and transact without physically going to the bank.
- 
-
-
-What is a Scalable Business? For a business to be scalable, it must focus on improving the profitability and efficiency of services even when its workload increases. The improvement of profitability and efficiency can only originate from the core of the business’ structure and workflow strategy.
-
-Scalability thus begins with the entity developing a set of leaders who run the operations with the necessary technical know-how. The leaders should understand their duties well and their respective hierarchies. All shareholders, including investors and advisors, should be involved in every part of the way as the strategy and direction of the entity is determined.
-
-The scalability of a business also depends on the effectiveness of communication, whether internally to the workforce or externally to clients and investors. Consistency in brand messaging should persist, as it helps the public understand and become persuaded into liking the product.
-
-
-
-
-## SDG Impact 
-
-Contributing to the United Nations Sustainable Development Goals requires parties to follow certain data standards and methods of proceeding and documentation of projects. 
-One of which is the Data Standards Definition. The required data will be included in NFT’s that will be linked to products or services that beneficiaries will receive after a project is funded. 
-Impact is measured through sticking with guiding principles from the UN SDG Handbook and the indicators which are specifically mentioned and implemented into official reports by statisticians.
-
-The distribution of Mpowa SDG-Impact Tokens is done in a regulated manner where the contribution amount in Mpowa Utility Tokens is equivalent (a 1:1 ratio) to the amount of SDG-Impact Tokens that the contributor will receive. 
-Impact analysis is the act of studying the requirements’ data, to understand the pros and cons of any change. As the world keeps evolving, changes are to be expected, even in a well-developed system.	Changes can happen for a variety of reasons: a change in a client’s requirements, adjustments to business needs or new technologies. Since changes can potentially result in a failure, it is prudent to proceed with proper planning when making necessary changes.
-This is where “Impact Analysis” comes in.
-This is a technique that helps to identify the consequences of any changes being planned in software or a product.
-
-The impact-calculation of projects and products that are offered by Mpowa will be described in the chapter ‘’Methodology”.
-
-
 
 
 
