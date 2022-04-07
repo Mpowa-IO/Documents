@@ -437,9 +437,9 @@ including infants, to safe, nutritious and sufficient food all year round
 #### Relevant indicators for Mpowa:
 
 Indicator 2.1.1: Prevalence of undernourishment.
-<br>
+
 Indicator 2.3.2: Average income of small-scale food producers, by sex and indigenous status.
-<br>
+
 Indicator 2.4.1: Proportion of agricultural area under productive and sustainable agriculture.
 
 #### Mpowa’s Contribution:
