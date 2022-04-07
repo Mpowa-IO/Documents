@@ -206,7 +206,7 @@ It is in the last of these - in the field of energy systems - that we aim to mak
 In doing so, we aim to tackle fundamental socio-economic problems of energy scarcity, environmental destruction, and help to mitigate/displace 
 current CO2 intensive energy production technologies like coal power.
 
-#### Sovereignty 
+### Sovereignty 
 
 The idea of sovereignty is closely related to the idea of freedom. 
 The sovereign is the only one who is free. He may be a king or queen, but he is also the only one who can make decisions without consulting anyone else.
@@ -217,7 +217,7 @@ synonym for independence or autonomy, but it can also refer to the legal right o
 
 
 
-#### Equality
+### Equality
 
 The world is changing and as such, we need to change the way we think about equality. We should not be focused on equality for the sake of equality,
  but instead focus on abundance and respect. Leaders cannot keep asking for more and more without giving anything in return. 
@@ -225,7 +225,7 @@ Mpowa is here to create a balance between what we give and what we get.
 
 
 
-#### Abundance
+### Abundance
 
 Fullness manifests itself in many other ways, and not only as an abundance of money and an abundance of goods. 
 Those with an abundance mindset believe that there is an abundance of everything in the world, from resources, love, 
@@ -296,7 +296,7 @@ Nature-Based Solutions (NbS) involves working with nature to solve social proble
 Researchers are increasingly focusing on what they see as weaknesses in traditional reasoning about naturalness. In a recent study by Kevin, a lot of attention was paid to the benefits that people receive from nature, including those related to their health and well-being. A new report examines the impact of climate change on people and nature, and our ability to adapt to it. Environmental sociologist interested in the social and cultural aspects of natural resource management have been particularly involved in the development of an ecosystem approach to natural resource management, which seek to influence and shape from the social sciences and a key starting point.	The British Ecological Society launched the People and Nature Project in recognition of the rapid growth of interdisciplinary and trans-disciplinary research on the relationship between man and nature, and that many of them touch on vital issues.	People and Nature is a large-scale quarterly open access journal publication that explores the relationship between people and nature across all fields of research.	Reported as part of the IPCC's Sixth Climate Science Assessment, humanity can adapt to a warming climate more easily than the natural world. The Persian Gulf will be the first to warm, but "it will become a problem in many parts of the world, including the United States," says Michael Oppenheimer.	Regardless of the scenario, 1 billion people will be exposed to chronic flooding due to rising sea levels. Food insecurity will worsen as malnutrition rises in the global south. For example, ONeill notes, the number of people pushed into poverty in 15 years due to climate change could range from 10 million to 100 million, depending on their vulnerability and the vulnerability of their land.
 
 
-#### Authenticity
+### Authenticity
 
 The word "authenticity" means the state in which something is authentic, legal, and true. Simply put, authenticity means being true to your personality, your values, and your spirit, no matter how much you are forced to act differently. Today, when people use the term "authenticity" they usually mean that they are honest and open. Their starting point is their perception that the term "authenticity" refers to what is the real, genuine or true term "authenticity".	First, they argue that in order to understand the meaning of authenticity it is necessary to know who or what is the reference point for assessing authenticity, which can be either inside (i.e. the entity itself) or outside the entity (i.e. social category). judge.	In the descriptive use of authenticity, inauthenticity is simply the standard state of everyday life in which our personal relationships are mediated by others. Intellectual descriptions of abstract concepts that constitute authenticity often indicate descriptive limitations of language; in order to describe the negative space surrounding unreal states, unreal life examples illustrate states of real personality. When used in the latter sense, authenticity describes a person acting in accordance with desires, motives, ideals, or beliefs that not only belong to him (and not to others), but also expresses who he really is.	Authenticity is more than making someone believe what they say or act in a way that is consistent with their beliefs. However, authenticity is likely to always mean different things to different people. True authenticity doesn't require you to share your values with anyone because everyone can see your values in the way you live. When you live with sincerity, you don’t have to worry about what you said (or didn't say), how you acted, or whether you did the right thing. 
 “Be authentic with Mpowa.”
@@ -306,7 +306,7 @@ The word "authenticity" means the state in which something is authentic, legal, 
 
 
 
-#### Privacy
+### Privacy
 
 If you would like to learn more about how Mpowa users use services like Mpowa to process your personal data in payment transactions, 
 please contact Mpowa users directly or review the Mpowa User Privacy Policy. Mpowa is responsible for respecting its users’ privacy rights, 
@@ -338,7 +338,7 @@ specific disclosure may contain more detailed information about the applicable s
 
 
 
-### Problems and solutions
+## Problems and solutions
 
 Vulnerable communities in developing nations have limited to no incentive to maintain their local ecosystem and preserve the natural environment. 
 Due to extreme poverty and exclusion, pollution, environmental degradation and carbon intensive activities (wood, charcoal, kerosene burning), 
