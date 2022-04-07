@@ -43,6 +43,10 @@ project methodology towards contributors and auditors.
 - [Unique Selling Point](#uniqu-selling-point)<br>	
 - [Scalability](#scalability)<br>	
 - [SDG Impact](#sdg-impact)<br>
+	- [Overview](#overview)<br>
+	- [Participate](#participate)<br>
+	- [Framework](#framework)<br>
+	- [SDK-Toolkit](#sdk-toolkit)<br>
 - [Data & Statistics](#data-&-statistics)<br>
 - [Quality Assurance](#quality-assurance)<br>
 - [The Platform](#the-platform)<br>
