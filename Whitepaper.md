@@ -72,7 +72,7 @@ project methodology towards contributors and auditors.
 
 
 
-### Introduction
+## Introduction
 
 This introduction will entail Mpowa’s core purpose, its SaaS-platform functionality with the appurtenant financial flow, 
 alongside complementary information such as strategic goals, partnerships (consortium) and research data.
@@ -151,7 +151,7 @@ This fund is controlled by our partner, Scaling Funds, with full FATCA and CRS c
 
 
 
-### Vision
+## Vision
 
 Mpowa and its associates envision a future on earth where sufficient resources and ultimately abundance is realized and accessible for all. 
 With sufficient resources, we refer to basic components for human life (not to be considered as luxuries) such as clean drinking water, 
@@ -185,7 +185,7 @@ our utility token will in effect become a global digital “fully fungible energ
 
 
 
-### Mission
+## Mission
 
 Our long-term mission is to catalyze the mass adoption of new forms of clean sustainable energy and utilize the benefits of these technologies in best interest of the end-user. This is achieved by supporting the development and commercialization of disruptive new clean energy technologies. Ensuring that this technology won’t be corrupted by corporate monopolies or political agendas, Mpowa’s energy-generation devices connect to a decentralized autonomous platform, with its own currency. 	Mpowa is creating a platform for the world to combat energy scarcity and where every individual has the opportunity to choose energy sources that have no hidden side effects, in full respect of Health and Environment. By reducing or eliminating economic disparities caused by the lack of access to affordable clean energy, paired with decentralized technology to ensure social and environmental resilience. Mpowa is creating the foundation for an honest and equitable society.	`The main objective of the pilot-project is to provide safe and sustainably available clean water, at locations where water-born diseases are a root cause for infant-mortality, e.g. rural areas of Africa.	The goal is to also directly tackle fundamental socio-economic problems of energy scarcity, environmental destruction, financial exclusion, and help to mitigate/displace current CO2 intensive energy production technologies like coal and other fossil fuels. 
 Besides tackling problems through solutions and partnerships presented by the Mpowa platform, it’s the companies’ mission to spark global creativity and submit/suggest new projects for a better future on earth, through rewarding community engagement.  
@@ -194,7 +194,7 @@ Long term:
 ... 
 
 
-### Values
+## Values
 
 Mpowa aims to create genuine relationships with its customers by giving them the opportunity to really change human-lives for the better.
 The Mpowa Team, being at its core humanitarian libertarians, fundamentally believes in the principles espoused in the US Declaration of Independence 
