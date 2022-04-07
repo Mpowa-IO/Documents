@@ -57,6 +57,9 @@ project methodology towards contributors and auditors.
 - [Geolocation](#geolocation)<br>	
 - [Methodology](#methodology)<br>
 - [The Technology](#the-technology)<br>
+	- [Blockchain Setup](#blockchain-setup)<br>
+	- [Smart Contracts[(#smart-contracts)<br>
+	- [Applications](#applications)<br>
 - [Exemplary projects](#exemplary-projects)<br>
 - [Market Analysis and potential](#market-analysis-and-potential)<br>
 - [Team](#team)<br>
