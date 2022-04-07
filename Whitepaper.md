@@ -48,6 +48,8 @@ project methodology towards contributors and auditors.
 - [Quality Assurance](#quality-assurance)<br>
 - [The Platform](#the-platform)<br>
 - [Decentralized Autonomous Organization (DAO)](#decentralized-autonomous-prganization-(DAO))<br>	
+	- [Responsibility](#responsibility)<br>
+	- [Governance Model](#governance-model)<br>
 - [Carbon Offset](#carbon-offset)<br>
 - [ESG Fund](#esg-fund)<br>	
 - [Decarbonizer App](#decarbonizer-app)<br>
