@@ -196,7 +196,7 @@ Long term:
 
 ### Values
 
- Mpowa aims to create genuine relationships with its customers by giving them the opportunity to really change human-lives for the better.
+Mpowa aims to create genuine relationships with its customers by giving them the opportunity to really change human-lives for the better.
 The Mpowa Team, being at its core humanitarian libertarians, fundamentally believes in the principles espoused in the US Declaration of Independence 
 – that all humanity should have the right to Life, Liberty and the Pursuit of Happiness. For far too long these inherent rights are abridged, 
 curtailed and threatened by the state and out of control economic and political actors. To supplement these fundamental rights, 
@@ -437,7 +437,9 @@ including infants, to safe, nutritious and sufficient food all year round
 #### Relevant indicators for Mpowa:
 
 Indicator 2.1.1: Prevalence of undernourishment.
+<br>
 Indicator 2.3.2: Average income of small-scale food producers, by sex and indigenous status.
+<br>
 Indicator 2.4.1: Proportion of agricultural area under productive and sustainable agriculture.
 
 #### Mpowa’s Contribution:
@@ -503,14 +505,15 @@ Minimum proficiency level corresponds to the minimum set of skills or knowledge 
 #### Solution: Goal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
 
 Relevant indicators for Mpowa: 
+<br>
 Indicator 4.1.1: Proportion of children and young people (a) in Grades 2 /3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex.
-
+<br>
 Indicator 4.3.1: Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex.
-
+<br>
 Indicator 4.4.1: Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill.
-
+<br>
 Indicator 4.5.1: Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated. 
-
+<br>
 Indicator 4.6.1: Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex. 
 
 
