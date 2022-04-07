@@ -2168,7 +2168,16 @@ Jennifer Koster:
 
 ## Roadmap
 
-2022, Q2  Objectives to be reached in Q2 of 2022:  - Mpowa Blockchain, main-net & test-net running with multiple nodes. - Token launches: mUSD, mTE, mSDG, Project-NFT’s, mGOV, data tokens & mOCR’s.   - Smart Contracts: Treasuries, projects, escrow.   - Web3 Foundation - Grant submission. - Decabonizer App - Web, iOS, Android.  - NFT Marketplace
+2022, Q2 Objectives to be reached in Q2 of 2022:
+
+- Mpowa Blockchain, main-net & test-net running with multiple nodes.
+- - Token launches: mUSD, mTE, mSDG, Project-NFT’s, mGOV, data tokens & mOCR’s.  
+- - Smart Contracts: Treasuries, projects, escrow.  
+- - Web3 Foundation - Grant submission.
+- - Decabonizer App - Web, iOS, Android. 
+- - NFT Marketplace
+
+
 
 2022, Q3
 South Africa - Pilot Project with water purification devices from Solvatten.
@@ -2224,9 +2233,9 @@ This proposal will make adding metadata to ERC20 tokens straightforward for deve
 
 
 
-mUSD - Utility Token, stablecoin:   Stablecoin pegged by the United States Dollar. 
+mUSD - Utility Token, stablecoin: Stablecoin pegged by the United States Dollar.
 
-   mOCR - Tokenized Carbon Offset Credit:
+mOCR - Tokenized Carbon Offset Credit:
 
 
 
@@ -2242,9 +2251,18 @@ mUSD - Utility Token, stablecoin:   Stablecoin pegged by the United States
 Private pre-sale ESG fund: 10% of the company’s equity is tokenized 
 
 Investment token
-1. Total Supply: X 2. Referral Fee - X% 3. Liquidity - X% 4. Staking - X% 
-5. Presale - X%  6. Bankroll - X%  7. Team - X% 8. Marketing - X%  9. Infrastructure - X% 
-Total supply: X mTE Presale: X (10% of company’s equity) Presale Base price: 1 X = 10 mTE Hard cap/Soft cap: 5  
+1. Total Supply: X 
+2. 2. Referral Fee - X%
+3. 3. Liquidity - X%
+4. 4. Staking - X% 
+5. Presale - X% 
+6. 6. Bankroll - X% 
+7. 7. Team - X%
+8. 8. Marketing - X% 
+9. 9. Infrastructure - X% 
+Total supply: X mTE
+Presale: X (10% of company’s equity)
+Presale Base price: 1 X = 10 mTE Hard cap/Soft cap: 5
 
 
 
@@ -2556,7 +2574,7 @@ NFT Marketplace:
 Mpowa DEX: 
 
 
-Github: 
+Github:
 LinkedIn:
 Twitter:
 Instagram:
