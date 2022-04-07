@@ -65,6 +65,8 @@ project methodology towards contributors and auditors.
 - [Team](#team)<br>
 - [Roadmap](#roadmap)<br>
 - [Tokenomics](#tokenomics)<br>
+	- [mUSD](#musd)<br>
+	- [mSDG](#mSDG)<br>
 - [Token Allocation](#token-allocation)<br>	
 - [Token Launches](#token-launches)<br>
 - [SWOT Matrix](#swot-matrix)<br>
