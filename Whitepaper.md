@@ -61,7 +61,7 @@ project methodology towards contributors and auditors.
 	- [Timeline](#timeline)
 - [The Technology](#the-technology)<br>
 	- [Blockchain Setup](#blockchain-setup)<br>
-	- [Smart Contracts[(#smart-contracts)<br>
+	- [Smart Contracts[(#smartcontracts)<br>
 	- [Applications](#applications)<br>
 - [Exemplary projects](#exemplary-projects)<br>
 - [Market Analysis and potential](#market-analysis-and-potential)<br>
