@@ -972,6 +972,7 @@ Indicator 17.6.1: Fixed internet broadband subscriptions per 100 inhabitants, by
 
 Indicator 17.8.1: Proportion of individuals using the internet.
 
+
 #### Mpowa’s Contribution:
 
 Enhance international cooperation on and access to science, technology and innovation and enhance knowledge-sharing on mutually agreed terms, including through improved collaboration through technology. 
@@ -1196,8 +1197,11 @@ Once completed, the impact analysis report must be shared with all stakeholders 
 
 
 The Importance of Impact Analysis
+
 An Impact Analysis is meant to provide a better overall understanding of the change request and system and reveal potential issues before taking any action.	For example, let us assume a location change is required after an unexpected disaster. In this instance, an impact analysis can help the management understand the true cost of fixing the situation they are in and reveal the best way to move forward.	But Impact analysis can help in making business decisions too. When a company is faced with a major change, an impact analysis can help lend clarity before making impactful decisions.	An Impact Analysis also helps understand the possible outcomes of implementing the change request. By observing outcomes, the user can predict the overall performance of the product after a change is made.	In software, this analysis can help identify all the files, documents, and models that may be affected. Based on this information, the development team may decide to make certain modifications to make the change implementation smoother.
 The analysis will also help estimate the effort needed behind implementing the change and identify the tasks required to implement the change properly.
+
+
 
 To be included: 
 It is not always important to document the analysis in a formal manner with all checkpoints. But a few checkpoints are applicable in showcasing the impact of a change request:
