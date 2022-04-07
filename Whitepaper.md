@@ -1881,37 +1881,49 @@ Each Substrate node contains a runtime. The runtime contains the business logic 
 
 ### Smart contracts
 
+Find parts in this doc!
 
 
 ### Tokens
 
 
+Explanation & code examples
+
+
 ### Metadata extensions ISO + DSD + ETC 
+
+Schematics
 
 
 ### IoT layer
 
-Eventually.
-M2M sim
+Once there's more budget for R&D:
+- M2M sim
+- B2B - Ocean pro.
 
 
 ### Mobile Apps
 
-iOS -
-Android - 
+Components - Decarb app. /alias
 
 
 
 ### SaaS platform components
 
-
+Repeat.
 
 
 
 ### NFT Marketplace 
 
+Detailed description
+
 
 ### Cybersecurity
+
+Node & contract security.
+
+Collateral.
 
 
 ### Metaverse
@@ -1922,7 +1934,9 @@ A metaverse is a network of virtual worlds focused on social connection In�
 
 ### KYC Protocol 
 
-
+Working together with:
+KYC required when:
+IF: 
 
 ------
 
