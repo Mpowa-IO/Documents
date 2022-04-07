@@ -281,7 +281,9 @@ Families in rural areas of Africa will hopefully remark that it's a great job an
 
 ### Collaboration
 
-Platform = constant collaborations . Research shows that collaboration can improve results and productivity. 
+Platform = Collaboration Hub. 
+
+Research shows that collaboration can improve results and productivity. 
 In short, collaboration makes things easier, which helps us get more done in less time. At the end of the day, 
 collaboration is a skill that helps people work together, come up with new ideas, listen to each other, and learn from each other.	
 Collaboration skills enable you to successfully work with others to achieve common goals. Most work environments require collaboration, 
