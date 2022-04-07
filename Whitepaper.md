@@ -957,27 +957,31 @@ The internet has become an increasingly important tool to provide access to info
 
 
 
-Solution:
+#### Solution:
 Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 
 
 
-Relevant indicators for Mpowa:
+#### Relevant indicators for Mpowa:
 
 Indicator 17.2.1: Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors' gross national income (GNI) 
+
 Indicator 17.6.1: Fixed internet broadband subscriptions per 100 inhabitants, by speed.
-Indicator 17.8.1: Proportion of individuals using the internet. 
 
-Mpowa’s Contribution:
+Indicator 17.8.1: Proportion of individuals using the internet.
 
-Enhance international cooperation on and access to science, technology and innovation and enhance knowledge-sharing on mutually agreed terms, including through improved collaboration through technology.    - Mobilizing additional financial resources for developing countries from multiple sources.
+#### Mpowa’s Contribution:
 
-
-
-
+Enhance international cooperation on and access to science, technology and innovation and enhance knowledge-sharing on mutually agreed terms, including through improved collaboration through technology. 
+- Mobilizing additional financial resources for developing countries from multiple sources.
 
 
-The necessity for Mpowa’s existence
- Due to the global scale of the severe issues that the world is facing today, an all-encompassing platform to enable clean-tech innovation to step in and repair the damage that has been done, is necessary. Social-economic incentives, coordinated by DAO-imposed parameters is likely the most efficient strategy.
+
+
+
+
+## The necessity for Mpowa’s existence
+
+Due to the global scale of the severe issues that the world is facing today, an all-encompassing platform to enable clean-tech innovation to step in and repair the damage that has been done, is necessary. Social-economic incentives, coordinated by DAO-imposed parameters is likely the most efficient strategy.
 It's impossible to provide an exhaustive list of what you can do to protect the environment, but here's Mpowa. The platform makes it relatively simple to reduce your carbon footprint, collectively take ‘’green’’ action, and drive huge change with the click of a few buttons. Additionally, there are many things you can do every day to help reduce your greenhouse gas and carbon footprint, thereby reducing your harmful impact on the environment. While many policies must come from our local, state, federal and global leaders, there is also a lot you can do to make a difference. By working together, citizens, businesses and governments can achieve great things.
 	These important climate conversations can happen naturally and randomly in your personal life, eventually triggered by Mpowa. By making a few small changes in your next conversation, mention that you can make a big impact on our planet without completely giving up convenience. 
 	With a broader understanding of the (climate/energy/resource) crisis at hand, customers can take conscious and deliberate action to change our culture as a whole, because the earth’s climate depends on it. Mpowa is at core a company founded to support the commercialization of renewable energy technologies, starting with our own proprietary Omni home energy management solution which integrates a number of innovative hardware and software solutions to offer a groundbreaking customer experience. The commercial opportunity arising from this technology alone has unicorn potential.	The fundamental challenge however is, aside from the “it sounds too good to be true because it violates the laws of physics” argument, that such technologies disrupt heavily entrenched ecosystems and industries with significant political-economic clout + control of governments / markets in which we wish to operate. Therefore in order to “shock the market” with a technology this disruptive, we have to think big and be ready to go to market in a way which takes no prisoners as far as the existing market players are concerned. Entering the market with a traditional business model/corporate structure will be rightly perceived as a massive threat and no doubt will trigger various forms of resistance, interference, or outright suppression.
