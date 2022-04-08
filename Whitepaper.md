@@ -43,7 +43,7 @@ project methodology towards contributors and auditors.
 - [Unique Selling Point](#uniqu-selling-point)<br>		
 - [SDG Impact](#sdg-impact)<br>
 	- [Overview](#overview)<br>
-	- [Participate](#participate)<br>
+	- [Partnership Registration](#partnership-registration)<br>
 	- [Framework](#framework)<br>
 	- [SDK-Toolkit](#sdk-toolkit)<br>
 - [Data & Statistics](#data-&-statistics)<br>
