@@ -1079,7 +1079,7 @@ The SDG Nature Clean Water Platform is a project that aims to provide clean wate
 
 
 
-## SDG Partnership registration
+### SDG Partnership registration
 
 One of the requirements to register for Partnership for SDGs with the UN are a clearly defined set of data that is in accordance with the SMART criteria. 
 
@@ -1123,7 +1123,7 @@ The Partnership Data for SDGs (PD4SDGs)7 initiative is a collaboration between t
 
 
 
-## SDG Impact Standards
+### SDG Impact Standards
 
 
 
@@ -1164,7 +1164,7 @@ Enterprises and investors increasingly recognize that sustainable development is
 The SDG Impact Standards are practice standards, revolving around internal decision-making, designed to transform how enterprises and investors think about value creation, and integrate impact management and contributing positively to the SDGs in their strategy, management approach, disclosure, and governance practices. Grounded in existing principles, standards and market best practices, the Standards provide context for applying other tools and frameworks, including metrics, taxonomies, and reporting frameworks.
 In addition to the Standards for Enterprises, SDG Impact is developing Standards for Bonds Issuers and Standards for Private Equity Funds. SDG Impact also collaborated with the OECD in the development of Impact Standards for Financing Sustainable Development (IS-FSD).
 
-About the Standards for Enterprises
+### About the Standards for Enterprises
 The Standards are for Enterprises committed to contributing positively to sustainable development and towards achieving the SDGs. All Enterprises – irrespective of size, geography, or sector – can use the Standards. This includes publicly listed enterprises, public-interest, and private entities (both for-profit or not-for-profit), non-governmental organizations (NGOs), small and medium enterprises (SMEs), and state-owned or other public-sector entities.
 The Standards set out a decision-making framework to help Enterprises integrate impact management into their strategy, management approach, disclosure, governance and decision-making practices. They help Enterprises link their approach to creating long-term, sustainable value for the Enterprise with contributing positively to sustainable development in line with the SDGs. They do this by directing attention and resources to where Enterprises can optimize their contribution by focusing on material positive and negative impacts. Embedding the Standards into management decision-making will strengthen impact performance and facilitate higher quality and more consistent disclosures.
 
@@ -1249,7 +1249,8 @@ It’s critical to understand the specific set of requirements and features that
 
 
 
-SDG Impact Token - Indicator implementation calculation
+### SDG Impact Token - Indicator implementation calculation
+
 Impact calculation per SDG and per project.
 
 https://futuremetrics.info/wp-content/uploads/2013/07/CO2-from-Wood-and-Coal-Combustion.pdf
