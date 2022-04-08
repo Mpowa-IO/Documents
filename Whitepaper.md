@@ -302,7 +302,7 @@ Families in rural areas of Africa will hopefully remark that it's a great job an
 
 ### Collaboration
 
-Platform = Collaboration Hub. 
+> Platform = Collaboration Hub. 
 
 Research shows that collaboration can improve results and productivity. 
 In short, collaboration makes things easier, which helps us get more done in less time. At the end of the day, 
