@@ -75,8 +75,9 @@ project methodology towards contributors and auditors.
 - [Tokenomics](#tokenomics)<br>
 	- [mUSD](#musd)<br>
 	- [mSDG](#mSDG)<br>
-	- [MPWA](#mpwa)<br>
+	- [mTE](#mte)<br>
 	- [NFTs](#nfts)<br>
+	- [mOCR](#mocr)<br>
 	- [mESG](#mesg)<br>
 	- [mGOV](#mgov)<br>
 - [Token Allocation](#token-allocation)<br>	
