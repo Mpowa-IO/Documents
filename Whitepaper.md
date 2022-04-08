@@ -1076,7 +1076,7 @@ Carbon offset SDG nature clean water platform technology opportunity.
 Customer profile - The problems we solve for them
 
 
-	This project has been developed in order to contribute to the United Nations Sustainable Development Goals (SDGs) and it's doing so by providing clean water through Carbon Offset.
+This project has been developed in order to contribute to the United Nations Sustainable Development Goals (SDGs) and it's doing so by providing clean water through Carbon Offset.
 
 It is the first project that integrates carbon offset, water purification and natural eco-system restoration into a single mechanism for sustainable development.
 The SDG Nature Clean Water Platform is a project that aims to provide clean water for the world. The platform is based on a new technology called Carbon Offset, which is an innovative way of solving the water crisis.	A SaaS platform is a software that is designed to be accessed over the internet. It can be accessed by multiple users and has a subscription-based pricing model. The nature of a SaaS platform is that it's accessible from anywhere and it's scalable. This means that the more people who use the software, the more powerful it becomes for everyone who uses it. The USP is the position of your small business as a whole, which can be incorporated into your products, your brand, the experiences you offer, and any other points of contact your customers have with your business. The USP should give you a good idea of who the company's ideal client is. The USP for your business should be backed up by real customer experiences and competitor insights, not just telling the market what the market wants to hear. 
