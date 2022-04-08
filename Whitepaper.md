@@ -2465,7 +2465,7 @@ Monitoring all results—mapping against plans, taking corrective action, which 
 
 
 
-## Scalability
+### Scalability
 
 In case there’s an unexpectedly large interest from the audience to contribute towards a certain project, there are solutions to scale the project or at least realize new projects without significant delay, due to partnerships with companies that can provide Mpowa and its beneficiaries with similar technology.  
 
