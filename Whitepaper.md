@@ -1,7 +1,7 @@
 # Mpowa Ltd Whitepaper | Version 1.0
 
 Written by: Mpowa MT | 
-Last updated: 08-04-2022, 11:12 CET.
+Last updated: 08-04-2022, 12:39 CET.
 
 ## A world without energy and water scarcity.
 
@@ -1064,17 +1064,12 @@ Impact is measured through sticking with guiding principles from the UN SDG Hand
 
 The distribution of Mpowa SDG-Impact Tokens is done in a regulated manner where the contribution amount in Mpowa Utility Tokens is equivalent (a 1:1 ratio) to the amount of SDG-Impact Tokens that the contributor will receive. 
 Impact analysis is the act of studying the requirements’ data, to understand the pros and cons of any change. As the world keeps evolving, changes are to be expected, even in a well-developed system.	Changes can happen for a variety of reasons: a change in a client’s requirements, adjustments to business needs or new technologies. Since changes can potentially result in a failure, it is prudent to proceed with proper planning when making necessary changes.
+
 This is where “Impact Analysis” comes in.
 This is a technique that helps to identify the consequences of any changes being planned in software or a product.
 
 The impact-calculation of projects and products that are offered by Mpowa will be described in the chapter ‘’Methodology”.
 
-
-
-Marketing Strategy
-Carbon offset SDG nature clean water platform technology opportunity.
-
-Customer profile - The problems we solve for them
 
 
 This project has been developed in order to contribute to the United Nations Sustainable Development Goals (SDGs) and it's doing so by providing clean water through Carbon Offset.
