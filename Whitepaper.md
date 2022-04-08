@@ -1,7 +1,7 @@
 # Mpowa Ltd Whitepaper | Version 1.0
 
 Written by: Mpowa MT | 
-Last updated: 06-04-2022
+Last updated: 08-04-2022, 09:57 CET.
 
 ## A world without energy and water scarcity.
 
