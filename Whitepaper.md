@@ -2116,6 +2116,7 @@ Tree Planting
 ### Tokenized Precious Metals
 
 Project in Congo, tba.
+According to NI 43 101.
 
 
 
