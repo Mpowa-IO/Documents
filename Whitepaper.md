@@ -1580,6 +1580,13 @@ The Mpowa infrastructure will contain a costumer interface which is capable of m
 
 
 
+An organization represented by rules encoded as a computer program that is transparent, controlled by the organization members and not influenced by a central government.
+A DAO's financial transaction record and program rules are maintained on a blockchain.  
+
+TBA
+
+
+
 - Properties & Parameters!!
 
 
@@ -1973,13 +1980,7 @@ For the pilot project the profits of the Carbon offset sale are not redirected t
 
 The platform utilizes blockchain as a payment system to enable international participation, due to regulatory compliance, low transaction fees and instant transactions. Besides serving as a payment mechanism, we use Bitcoin transactions as a transport layer for information exchange. The Bitcoin Blockchain, a database, is a distributed ledger of trusted transactions. 	In addition to serving as a mechanism for payments and information the technology works as a value exchange protocol. It’s similar to TCP/IP as the foundational protocol for the exchange of digital information. Blockchain enables the exchange of digital value and digital representations of real-world value-backed assets.   The Mpowa platform makes use of project/object based Non-Fungible-Tokens, representing a specific clean-tech device and the costs that come alongside it, may it be for a project or for personal use. Each NFT is linked to a certificate of ownership, which carries certain rights and obligations in the DAO, and KYC information.  Another feature of our project-based NFT’s, is that they contain ownership-rights to tokenized representations of Carbon Offset Credits, which are minted upon data-retrieval.   For the pilot project we will launch a token-sale to spark the funding for platform and the project.   The project-based NFT’s will be listed on an NFT-Marketplace where costumers can purchase their share in a specific project. The assets available on the NFT-Marketplace can also be purchased through our platform App, which then will be stored in their Mpowa-Wallet. If one wishes to sell their NFT, they can do so by requesting a re-listing of their specific NFT on the NFT-Marketplace.
 
-A
 
-An organization represented by rules encoded as a computer program that is transparent, controlled by the organization members and not influenced by a central government.
-A DAO's financial transaction record and program rules are maintained on a blockchain.  The precise legal status of this type of business organization is unclear. 
-The Mpowa Platform is a revolutionary new concept. A physical self powering blockchain ecosystem which monetizes free energy in the form of tokens, is self funded by its community and operates as a true exponential DAO.	
-Our platform is the core of the magic. The  Mpowa Energy Units connect to the platform which manages the tokenization of the energy. After getting online, the unit becomes available for use. The user installs a simple app from the AppStore or PlayStore and creates an account. After registration, the user receives some tokens for first use. Using the app, the QR code on the unit is scanned, and the unit (or socket on the unit) is unlocked. After plugging in an appliance, the tokens get consumed as the user draws electricity rom the unit. If the tokens run out, the user can buy new tokens in the app using a credit card or other payment methods. The energy tokens are not tied to your name, and can be transferred between users.
-A similar method is used for our pilot project where recipients of the Solvatten Unit have to login our their data-monitoring app where they manually declare their usage and receive tokens in accordance to the amount of water that has been purified with the device.
 
 
 
