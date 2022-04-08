@@ -1,7 +1,7 @@
 # Mpowa Ltd Whitepaper | Version 1.0
 
 Written by: Mpowa MT | 
-Last updated: 08-04-2022, 12:45 CET.
+Last updated: 08-04-2022, 13:03 CET.
 
 ## A world without energy and water scarcity.
 
@@ -1210,7 +1210,8 @@ Action 12. Ensure governing body leads by example
 
 
 
-To be Included!
+### To be Included!
+
 The current procedure that is followed that is considered as an effective analysis of impact:
 Determine the change request and check its feasibility in the system 
 Identify the sequence to perform a task and how to interrelate it with the current one.
@@ -1223,14 +1224,15 @@ Once completed, the impact analysis report must be shared with all stakeholders 
 
 
 
-The Importance of Impact Analysis
+### The Importance of Impact Analysis
 
 An Impact Analysis is meant to provide a better overall understanding of the change request and system and reveal potential issues before taking any action. For example, let us assume a location change is required after an unexpected disaster. In this instance, an impact analysis can help the management understand the true cost of fixing the situation they are in and reveal the best way to move forward. But Impact analysis can help in making business decisions too. When a company is faced with a major change, an impact analysis can help lend clarity before making impactful decisions.	An Impact Analysis also helps understand the possible outcomes of implementing the change request. By observing outcomes, the user can predict the overall performance of the product after a change is made. In software, this analysis can help identify all the files, documents, and models that may be affected. Based on this information, the development team may decide to make certain modifications to make the change implementation smoother.
 The analysis will also help estimate the effort needed behind implementing the change and identify the tasks required to implement the change properly.
 
 
 
-To be included: 
+### To be included - project analysis: 
+
 It is not always important to document the analysis in a formal manner with all checkpoints. But a few checkpoints are applicable in showcasing the impact of a change request:
 Description of an issue(Change request)
 Change request ID
@@ -1273,7 +1275,7 @@ https://www.carboncare.org/en/co2-emissions-calculator.html
 
 
 
-Solvatten Impact
+### Solvatten Impact
 10 Tonne per lifetime use.
 Approx 1,5 T per year. 
 
@@ -1294,20 +1296,20 @@ https://cordis.europa.eu/project/id/673583
 
 https://cordis.europa.eu/project/id/876908
 
-Stove impact
+### Stove impact
 
 Approved goals: 3, 5 , 7 , 8 , 11, 13 
 
 https://www.climateneutralgroup.com/en/climate-projects/solar-cooking-chad/
 
-Medical impact
+### Medical impact
 
 To be documented
 Enzymes, medical supplies, etc.
 DATA UNKNOWN
 
 
-Education
+### Education
 DATA REQUIRED
 
 
@@ -1319,7 +1321,7 @@ Environment statistics provide information about the state and changes of enviro
 Environment statistics thus cover a wide range of information and are multi- and inter- disciplinary in nature. They originate from a variety of institutions that collect data and, similarly, numerous methods are used to compile them. The field of environment statistics requires an appropriate framework to guide its development, coordination and organization. Framework for the Development of Environment Statistics (FDES 2013)
 This environment statistics framework (i) marks out the scope of environment statistics; (ii) facilitates a synthesized presentation of data from various subject areas and sources; (iii) simplifies the complexity of the environment appropriately so that it can be measured more easily; (iv) helps to identify the range of statistics relevant to societal decision-making regarding the environment; (v) is consistent with statistical frameworks already used in other domains to facilitate the integration of environment statistics; and (vi) is conceptually based.
 
-Environment statistics serve a variety of users, including but not limited to:
+### Environment statistics serve a variety of users, including but not limited to:
 i. Policy and decision makers at all levels;
 ii. The general public, including media and civil society;
 iii. Analysts, researchers and academia; and
@@ -1351,14 +1353,14 @@ Most countries have agencies that are primarily responsible for monitoring envir
 1.20. The use of estimates and modeling to generate environmental data can improve overall data quality, including accuracy and coverage, especially when models draw upon two or more sets of observations, such as field observations coupled with global satellite-based observations. Models may also incorporate administrative data or data resulting from statistical surveys or special projects.
 1.21. The main characteristics, advantages and disadvantages of these types of sources of environment statistics are discussed below.6
 
-Overview of Environment Statistics—Characteristics and Challenges
+### Overview of Environment Statistics—Characteristics and Challenges
 
 Global Data Structure Definition
 The 2030 Agenda for Sustainable Development underscores the national ownership of the SDGs and calls for “data which is high-quality, accessible, timely, reliable and disaggregated by income, sex, age, race, ethnicity, migration status, disability and geographic location and other characteristics relevant in national contexts.” Consequently, while the global SDG DSD sets a standard for global reporting, the Member States must be able to customize the DSD to suit its own national circumstances, in particular extend it with national indicators and disaggregation. This document outlines recommendations and guidance on how to customize the DSD.
 https://unstats.un.org/unsd/environment/FDES/FDES-2015-supporting-tools/FDES.pdf
 
 
-Fundamental principles of official statistics 
+### Fundamental principles of official statistics 
 
 Official statistics should be a cornerstone of a modern society by providing an unbiased and accurate picture of the economic, demographic, social and environmental situation and development in a country. To an increasing degree, high quality and comparable statistics are also important for analysis and decision-making at the international and global level. Thus, it is essential that official statistics can be trusted by all users and stakeholders and are made accessible and understandable for all users.
 A great deal of statistics is also being produced by private and public agencies that are not part of the system of official statistics. Statistics of questionable quality and proper documentation can be potentially confusing and lead to distrust of the national statistical office (NSO) which is supposed to produce unbiased and high-quality official statistics. Therefore, it is of utmost importance that those statistics considered to be ‘official’ follow strict and well-defined principles and standards.
@@ -1369,13 +1371,13 @@ NSOs publish their statistics in aggregate form, thereby seeking to ensure the c
 
 
 
-Partnership with Ocean Protocol One Example for Data Dissagregation 
+### Partnership with Ocean Protocol One Example for Data Dissagregation 
 
 Ocean makes it easy to publish data services (deploy and mint ERC20 datatokens), and to consume data services (spend datatokens). Crypto wallets, exchanges, and DAOs become data wallets, exchanges, and DAOs. Use Ocean Market to publish data, stake on data (curate), and buy data. Earn by selling, staking, or running your own fork of Ocean Market. Data has automatic price discovery. Data is published as interoperable ERC20 datatokens. Compute-to-data enables private data to be bought & sold. It's a decentralized exchange (DEX), tuned for data. Earn by selling data, staking, or building & launching your own marketplace. Sellers get most of revenue when a dataset is sold. Stakers earn a % of the transaction fee, as do marketplace runners.
 
 
 
-Data standards United Nations 
+### Data standards United Nations 
 
 In the discussions that have taken place since, the principle of data interoperability has been added to the above. It is defined as ensuring that systems are using the same set of definitions, classifications and methodology, as well as technologically compatible platforms allowing for full harmonization of interfaces and access protocols 
 
@@ -1383,7 +1385,7 @@ The principle of data disaggregation underpins the data requirements of the Leav
 Statistical organizations have been discussing at the sessions of the United Nations Statistical Commission (UNSC), either in special-topic forums or as part of work under the formal agenda, what these principles mean for national statistical offices and national statistical systems.
 
 
-ISO20022
+### ISO20022
 
 ISO 20022 is an ISO standard for electronic data interchange between financial institutions. It describes a metadata repository containing descriptions of messages and business processes, and a maintenance process for the repository content. The standard covers financial information transferred between financial institutions that includes payment transactions, securities trading and settlement information, credit and debit card transactions and other financial information.
 The repository contains a huge amount of financial services metadata that has been shared and standardized across the industry. The metadata is stored in UML models with a special ISO 20022 UML Profile. Underlying all of this is the ISO 20022 metamodel - a model of the models. The UML profile is the metamodel transformed into UML. The metadata is transformed into the syntax of messages used in financial networks. The first syntax supported for messages was XML Schema. Clear Overview in which Mpowa Describes: Data quality and integrity;
@@ -1395,13 +1397,13 @@ Data disaggregation; Data timeliness; Data transparency and openness; Data usabi
 
 
 
-Data Dissagregation 
+### Data Dissagregation 
 Ocean pro, Chainlink, World Bank Data Warehouse, etc. 
 
 
 
 
-Mpowa data collection methods
+### Mpowa data collection methods
 Pilot project: Manual entry per batch of water cleaned.
 
 
@@ -1425,7 +1427,7 @@ Content and use of the Manual 3
 United Nations National Quality Assurance Frameworks Manual for Official Statistics
 There are different relevant ISO standards for quality and other management areas; in addition to covering quality manage- ment, including customer satis- faction, they comprise market, opinion and social research and risk management.
 The Deming Prize Committee, revised 1998.
-The various quality assurance frameworks cover the same or similar aspects of statistical quality. Some are referred to as codes of practice, stressing their normative character. Adequate management of each of them is essential. At the same time, they must be seen in relation to each other within the statistical production processes.
+The various quality assurance frameworks cover the same or similar aspects of statistical quality. Some are referred to as codes of practice, stressing their normative character. Adequate management of each of them is essential. At the same time, they must be seen in relation to each other within the statistical production processes.
 Quality management frameworks and quality management. Quality man- agreement frameworks provide a coherent and holistic system as a basis for quality management (see definition in section 1.C.). There are various general quality management frameworks applicable to any organization, such as total quality management, International Organization for Standardization (ISO),8 Six Sigma, European Foundation for Quality Management, Balanced Scorecard, Lean and Lean Six Sigma. These frameworks are largely based on common definitions and principles, but their main focus and formalization vary. For example, ISO emphasizes certification and standardization of “processes”, while Six Sigma focuses on quality control of the “products/ outputs” using statistical methods. Lean emphasizes improvement in efficiency by reducing waste.
 In many ways, total quality management, which was developed in the previous century, is the foundation of all general quality frameworks. Total quality management is defined as “a set of systematic activities carried out by the entire organization to effectively and efficiently achieve company objectives so as to provide products and services with a level of quality that satisfies customers, at the appropriate time and price”.9 The strategic core of all major total quality management models is continuous improvement, often illustrated with reference to the “Plan-Do-Check- Act” cycle made popular by W. Edwards Deming. This cycle is a four-step process that guides all changes for continuous improvement.
 Statistical quality frameworks. The above-mentioned general quality frameworks inspired statistical quality frameworks such as the European Statistics Code of Practice, the International Monetary Fund (IMF) Data Quality Assessment Framework, the Recommendation of the Organization for Economic Cooperation and Development (OECD) Council on Good Statistical Practice and the UN-NQAF presented in chapter 3.10 These are also inspired by and consistent with the Fundamental Principles of Official Statistics, which emphasize independence, impartiality and the protection of data of individuals. Such requirements of official statistics were first formulated jointly in the Fundamental Principles of Official Statistics in 1992.
