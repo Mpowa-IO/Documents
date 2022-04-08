@@ -620,15 +620,6 @@ Long term vision.
 ### Problem 8: Economic collapse / stagnation
 
 This indicator is defined as the percentage change in the real GDP per capita between two consecutive years. 
-Concepts: 
-GDP is the measure of the monetary value of final goods and services which are produced in an economic territory/country in a given time period. It is calculated without making deductions for depreciation of produced assets or for depletion and degradation of natural resources. It can be measured either by: 
-(1)  The expenditure method – the sum of expenditures on final consumption, gross capital formation and net exports; or 
-(2)  The production method – the value of final outputs minus any intermediate consumption, plus the net taxes (taxes minus subsidies); or 
-(3)  The income approach – the sum of compensation of employees, gross operating surplus, gross mixed incomes and the net taxes on both 
-production and imports. 
-Real GDP is GDP adjusted for price changes using the ratio of prices in the current year to the prices in a given base year. Real GDP per capita is real GDP dividing by the population of a country. 
-The population of a country may comprise either all usual residents of the country or all persons present in the country at the time of a population census. 
-
 
 
 
@@ -1782,6 +1773,14 @@ The Kyoto Protocol to the United Nations Framework Convention on Climate Change 
 
 
 
+Concepts: 
+GDP is the measure of the monetary value of final goods and services which are produced in an economic territory/country in a given time period. It is calculated without making deductions for depreciation of produced assets or for depletion and degradation of natural resources. It can be measured either by: 
+(1)  The expenditure method – the sum of expenditures on final consumption, gross capital formation and net exports; or 
+(2)  The production method – the value of final outputs minus any intermediate consumption, plus the net taxes (taxes minus subsidies); or 
+(3)  The income approach – the sum of compensation of employees, gross operating surplus, gross mixed incomes and the net taxes on both 
+production and imports. 
+Real GDP is GDP adjusted for price changes using the ratio of prices in the current year to the prices in a given base year. Real GDP per capita is real GDP dividing by the population of a country. 
+The population of a country may comprise either all usual residents of the country or all persons present in the country at the time of a population census. 
 
 
 
