@@ -736,7 +736,6 @@ Indicator 10.b.1: Total resource flows for development, by recipient and donor c
 
 
 
-!!!! TOKENIZED PRECIOUS METALS???????
 Ensure enhanced representation and voice for developing countries in decision-making in global international economic and financial institutions in order to deliver more effective, credible, accountable and legitimate institutions 
 Encourage official development assistance and financial flows, including foreign direct investment, to States where the need is greatest, in particular least developed countries, African countries, small island developing States and landlocked developing countries, in accordance with their national plans and programs.
 
@@ -1995,9 +1994,12 @@ The lack of safe water leading to poor hygiene and poor health are daily challen
 
 
 
+
+
 Water - surveys on what’s being burned. 
 
 Differences per kg of tree species per UI and coal etc 
+
 
 
 
@@ -2110,6 +2112,10 @@ Tree Planting
 
 
 
+
+### Tokenized Precious Metals
+
+Project in Congo, tba.
 
 
 
