@@ -42,7 +42,7 @@ project methodology towards contributors and auditors.
 - [The necessity for Mpowa’s existence](#the-necessity-for-Mpowa’s-existence)<br>
 - [Unique Selling Point](#uniqu-selling-point)<br>		
 - [SDG Impact](#sdg-impact)<br>
-	- [Overview](#overview)<br>
+	- [Overview & Sector Standards](#overview-&-sector-standards)<br>
 	- [Partnership Registration](#partnership-registration)<br>
 	- [Framework](#framework)<br>
 	- [SDK-Toolkit](#sdk-toolkit)<br>
