@@ -502,7 +502,7 @@ Clean water, sanitation supplies, supplies for allowing safe child birth, increa
 
 #### Relevant indicators for Mpowa:
 
-TBC
+These have to be customized. TBA
 
 
 Mpowa’s Contribution: Clean water, food, energy.
