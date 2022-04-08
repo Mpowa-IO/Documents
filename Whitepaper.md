@@ -1091,8 +1091,8 @@ The Partnerships for SDGs online platform is United Nations’ global registry o
 
 
 
-Criteria for Registration
-The Partnership for SDGs online platform welcomes registration of partnerships and voluntary commitments undertaken by Governments, intergovernmental organizations, major groups and other stakeholders that are aligned with SMART deliverables - Specific, Measurable, Achievable, Resource-based, and Time-bound – and that aim to drive the implementation of the 17 Sustainable Development Goals of the 2030 Agenda.	After a registration is submitted, the initiative will be reviewed by the UN secretariat, and if qualified, will be published in the online platform. Registered initiatives are encouraged to maintain up-to-date information and periodically self-report progress once a year through the online platform, focusing on how the initiative has contributed to the achievement of specific goals and targets in the 2030 Agenda.
+## Criteria for Registration
+The Partnership for SDGs online platform welcomes registration of partnerships and voluntary commitments undertaken by Governments, intergovernmental organizations, major groups and other stakeholders that are aligned with SMART deliverables - Specific, Measurable, Achievable, Resource-based, and Time-bound – and that aim to drive the implementation of the 17 Sustainable Development Goals of the 2030 Agenda. After a registration is submitted, the initiative will be reviewed by the UN secretariat, and if qualified, will be published in the online platform. Registered initiatives are encouraged to maintain up-to-date information and periodically self-report progress once a year through the online platform, focusing on how the initiative has contributed to the achievement of specific goals and targets in the 2030 Agenda.
 
 
 
@@ -1233,24 +1233,10 @@ The analysis will also help estimate the effort needed behind implementing the c
 
 ### To be included - project analysis: 
 
-It is not always important to document the analysis in a formal manner with all checkpoints. But a few checkpoints are applicable in showcasing the impact of a change request:
-Description of an issue(Change request)
-Change request ID
-Title
-Description
-Prepared date
-Estimates: This includes relative benefit, relative penalty, relative cost, and relative risk
-Estimated total efforts: Time in hrs
-Estimated lost efforts: Time in hrs
-Estimated Schedule impact: in days
-Quality impacted
-Another requirement affected
-Another task impacted
-Integration issues
 
 
 Requirements changes are a part of the development cycle. The concerned stakeholders coordinate with software engineers to identify the requirements defects, changes, adding new requirements, and requirement prioritizing.
-In product development, surprises are rarely good news. Before a developer says, “Sure, no problem” in response to a change request, he or she should spend a little time on impact analysis.
+
 It’s critical to understand the specific set of requirements and features that need to be retested after a change is implemented. Skipping impact analysis doesn’t change the size of the task. It just turns the size into a surprise.
 
 
