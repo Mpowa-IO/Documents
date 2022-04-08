@@ -637,19 +637,19 @@ This indicator is defined as the percentage change in the real GDP per capita be
 
 ------
 
-Target 8.1: Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries
+Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries
 
-Goal 8: Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all 
+Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all 
 
-Target 8.3: Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity and innovation, and encourage the formalization and growth of micro-, small- and medium-sized enterprises, including through access to financial services
+Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity and innovation, and encourage the formalization and growth of micro-, small- and medium-sized enterprises, including through access to financial services
 
 However, labour input more widely refers to all persons who contribute to the production of goods and services within the SNA production boundary, not only the employed. In fact, according to the new standards laid out in the 2013 Resolution concerning statistics of work, employment and labour underutilization, the labour input contributing to the GDP comprises not only employment (work done for use by others for pay or profit) but also own-use production of goods, unpaid trainee work and some forms of volunteer work as well. 
 
-Target 8.5: By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value
+By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value
 
-Target 8.8: Protect labour rights and promote safe and secure working environments for all workers, including migrant workers, in particular women migrants, and those in precarious employment.
+Protect labour rights and promote safe and secure working environments for all workers, including migrant workers, in particular women migrants, and those in precarious employment.
 
-Target 8.a: Increase Aid for Trade support for developing countries, in particular least developed countries, including through the Enhanced.
+Increase Aid for Trade support for developing countries, in particular least developed countries, including through the Enhanced.
 
 ------
 
