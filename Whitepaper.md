@@ -635,6 +635,8 @@ This indicator is defined as the percentage change in the real GDP per capita be
 
 #### Solution: 
 
+------
+
 Target 8.1: Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries
 
 Goal 8: Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all 
@@ -648,6 +650,8 @@ Target 8.5: By 2030, achieve full and productive employment and decent work for 
 Target 8.8: Protect labour rights and promote safe and secure working environments for all workers, including migrant workers, in particular women migrants, and those in precarious employment.
 
 Target 8.a: Increase Aid for Trade support for developing countries, in particular least developed countries, including through the Enhanced.
+
+------
 
 #### Relevant indicators for Mpowa: 
 
