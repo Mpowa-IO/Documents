@@ -40,7 +40,7 @@ project methodology towards contributors and auditors.
 - [Values](#values)<br>
 - [Problems and solutions](#problems-and-solutions)<br>
 - [The necessity for Mpowa’s existence](#the-necessity-for-Mpowa’s-existence)<br>
-- [Unique Selling Point](#uniqu-selling-point)<br>		
+- [Unique Selling Point](#unique-selling-point)<br>		
 - [SDG Impact](#sdg-impact)<br>
 	- [Overview & Sector Standards](#overview-&-sector-standards)<br>
 	- [Partnership Registration](#partnership-registration)<br>
