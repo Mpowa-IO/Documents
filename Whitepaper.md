@@ -77,6 +77,7 @@ project methodology towards contributors and auditors.
 	- [mSDG](#mSDG)<br>
 	- [mTE](#mte)<br>
 	- [NFTs](#nfts)<br>
+		- [mDAT](#mdat)<br>
 	- [mOCR](#mocr)<br>
 	- [mESG](#mesg)<br>
 	- [mGOV](#mgov)<br>
