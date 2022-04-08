@@ -1,7 +1,7 @@
 # Mpowa Ltd Whitepaper | Version 1.0
 
 Written by: Mpowa MT | 
-Last updated: 08-04-2022, 12:42 CET.
+Last updated: 08-04-2022, 12:45 CET.
 
 ## A world without energy and water scarcity.
 
@@ -479,17 +479,17 @@ Indicator 2.4.1: Proportion of agricultural area under productive and sustainabl
 Regenerative Agriculture
 
 
-Food for Africa program 
+Food for Africa program. Research!
 
 
 
 Infrastructure + token-supermarkets
 
 
-Job Generation Heroes missions defined: … Financial rewards for people in rural areas, such as cleaning, 
+Job Generation Heroes missions defined: Financial rewards for people in rural areas, such as cleaning, 
 tree planting and doing research and for creating jobs by observation - to be validated by the DAO. 
 
-
+Elaborate! <-
 
 
 
@@ -591,7 +591,7 @@ Achieve universal and equitable access to safe and affordable drinking water for
 - Other water purifiers, Tba.
 
 
-Funding, start - delivery. tba
+
 
 
 ### Problem 7: Energy deficits, high prices and from unsustainable sources
@@ -622,7 +622,7 @@ Indicator 7.2.1: Renewable energy share in the total final energy consumption
 
 #### Mpowa’s Contribution: 
 
-Long term vision. 
+Long term vision and 2023 projects. 
 
 
 
@@ -676,7 +676,7 @@ Indicator 8.8.1: Fatal and non-fatal occupational injuries per 100,000 workers, 
 
 ### Problem 9: Housing shortage, infrastructure problems 
 
-Description!
+Not enough protection from environmental hazards, not clean enough for infants. Elaborate.
 
 
 
