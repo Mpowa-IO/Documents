@@ -50,6 +50,8 @@ project methodology towards contributors and auditors.
 	- [Disaggregation](#disaggregation)<br>
 	- [Public & Private Metadata](#public-&-private-metadata)<br>
 - [Quality Assurance](#quality-assurance)<br>
+	- [Standards](#standards)<br>
+	- [Transparency](#transparency)<br>
 - [The Platform](#the-platform)<br>
 	- [Components](#components)<br>
 	- [Workflow](#workflow)<br>
