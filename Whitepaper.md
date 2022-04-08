@@ -2280,24 +2280,54 @@ Omni, quanti.
 
 
 Mpowa’s Tokens:
-Tokenized Equity: Mpowa TE, mTE
-SDG-Impact Token: mSDG
-Utility Token, stablecoin: mUSD
-Tokenized Carbon Offset Credit: mOCR
-Governance Token: mGOV
-Project-based NFT’s
-Data Tokens 
+
+
+### Tokenized Equity: Mpowa TE, mTE
+
+These are tokenized shares from the company Mpowa Ltd, more info tba.
+
+
+### SDG-Impact Token: mSDG
+
+Tokens, representing impact, according to internationally defined data standard for complete transparency of business impact and activity.
+
+
+
+### Utility Token, stablecoin: mUSD
+
+A stablecoin used to contribute to projects, to make sure your donation remains its value and is not subject to any volatility.
+
+
+### Tokenized Carbon Offset Credit: mOCR
+
+As it says. tba
+
+
+### Governance Token: mGOV
+
+
+
+
+### Project-based NFT’s
+
+
+
+
+### mDAT - Data Tokens 
+
+Usage data, etc.
+
 
 
 Mpowa’s Treasuries:
 Smart Contracts for Projects, CCR profits, voting pools, unexpected costs, team, etc.  
 
 MTE - Mpowa’s Tokenized Equity:
-Note that 10% of the company’s equity will be tokenized. This is a security token, to be registered at the FCA & ESMA. 
+This is a security token, to be registered at the FCA, ESMA and FINMA.
 
 
 mSDG - SDG-Impact Token:
-20% of the carbon offset profits into liquidity. 
+20% of the carbon offset profits into liquidity?? No.
 
 
 EIP-1046 
