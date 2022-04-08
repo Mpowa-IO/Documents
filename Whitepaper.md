@@ -1750,9 +1750,12 @@ Mpowa’s team is international with the company ‘’Mpowa Ltd’’ being fou
 
 ## Methodology
 
-DATA COLLECTION METHODS FOR EACH GOAL !!!! 
-Data Sources and Collection Method
+> This chapter will contain the data collection method for each indicator, and the workflow of the project.
 
+
+### Data Sources and Collection Method
+
+Indicator 1: tba
 
 In order to actually attach verifiable impact to Mpowa platform contributions, we work together with the United Nations program Sustainable Development Goals, in line with the goals set in Agenda 2030. 
 
