@@ -1,7 +1,7 @@
 # Mpowa Ltd Whitepaper | Version 1.0
 
 Written by: Mpowa MT | 
-Last updated: 08-04-2022, 13:58 CET.
+Last updated: 10-04-2022, 15:16 CET.
 
 ## A world without energy and water scarcity.
 
@@ -1091,7 +1091,7 @@ The Partnerships for SDGs online platform is United Nations’ global registry o
 
 
 
-## Criteria for Registration
+### Criteria for Registration
 The Partnership for SDGs online platform welcomes registration of partnerships and voluntary commitments undertaken by Governments, intergovernmental organizations, major groups and other stakeholders that are aligned with SMART deliverables - Specific, Measurable, Achievable, Resource-based, and Time-bound – and that aim to drive the implementation of the 17 Sustainable Development Goals of the 2030 Agenda. After a registration is submitted, the initiative will be reviewed by the UN secretariat, and if qualified, will be published in the online platform. Registered initiatives are encouraged to maintain up-to-date information and periodically self-report progress once a year through the online platform, focusing on how the initiative has contributed to the achievement of specific goals and targets in the 2030 Agenda.
 
 
