@@ -1902,7 +1902,7 @@ Substrate can be described as a blockchain framework — specifically, a framewo
 That means Polkadot can be used as a kind of bridge between blockchains, taking care of the communication layer between chains and making it possible to interact between different blockchains (even systems such as Ethereum and Bitcoin). This represents significant progress toward making the vision of Web3 — a decentralized, blockchain-based version of the internet — a reality.
 Since they were developed by the same people, Substrate has first-class support for integrating with Polkadot, so any blockchain you create with Substrate can seamlessly be hooked into Polkadot.
 
-Mpowa's Ethereum compatible smart-contract Parachain on Polkadot, with the name "Felloqual". o
+Mpowa's Ethereum compatible smart-contract Parachain on Polkadot, with the name "Mpowa". 
 
 
 
