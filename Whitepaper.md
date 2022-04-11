@@ -1062,12 +1062,22 @@ Not only serving merely as a project enabler on its SaaS platform, Mpowa is actu
 
 ## SDG Impact 
 
+
+
+### Overview & Sector Standards
+
 Contributing to the United Nations Sustainable Development Goals requires parties to follow certain data standards and methods of proceeding and documentation of projects. 
 One of which is the Data Standards Definition. The required data will be included in NFT’s that will be linked to products or services that beneficiaries will receive after a project is funded. 
 Impact is measured through sticking with guiding principles from the UN SDG Handbook and the indicators which are specifically mentioned and implemented into official reports by statisticians.
 
 The distribution of Mpowa SDG-Impact Tokens is done in a regulated manner where the contribution amount in Mpowa Utility Tokens is equivalent (a 1:1 ratio) to the amount of SDG-Impact Tokens that the contributor will receive. 
 Impact analysis is the act of studying the requirements’ data, to understand the pros and cons of any change. As the world keeps evolving, changes are to be expected, even in a well-developed system.	Changes can happen for a variety of reasons: a change in a client’s requirements, adjustments to business needs or new technologies. Since changes can potentially result in a failure, it is prudent to proceed with proper planning when making necessary changes.
+
+
+
+### Partnership Registration
+
+
 
 This is where “Impact Analysis” comes in.
 This is a technique that helps to identify the consequences of any changes being planned in software or a product.
@@ -1096,6 +1106,9 @@ The Partnership for SDGs online platform welcomes registration of partnerships a
 
 
 
+### Framework 
+
+Way of going about it
 
 
 The SMART criteria
@@ -1155,7 +1168,7 @@ The SDG Impact Standards aim to provide the building blocks for an internal impa
 
 
 
-
+### SDK-Toolkit
 
 
 
