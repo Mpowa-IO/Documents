@@ -1093,7 +1093,7 @@ The SDG Nature Clean Water Platform is a project that aims to provide clean wate
 
 
 
-### SDG Partnership registration
+#### SDG Partnership registration
 
 One of the requirements to register for Partnership for SDGs with the UN are a clearly defined set of data that is in accordance with the SMART criteria. 
 
@@ -1101,7 +1101,7 @@ The Partnerships for SDGs online platform is United Nations’ global registry o
 
 
 
-### Criteria for Registration
+#### Criteria for Registration
 The Partnership for SDGs online platform welcomes registration of partnerships and voluntary commitments undertaken by Governments, intergovernmental organizations, major groups and other stakeholders that are aligned with SMART deliverables - Specific, Measurable, Achievable, Resource-based, and Time-bound – and that aim to drive the implementation of the 17 Sustainable Development Goals of the 2030 Agenda. After a registration is submitted, the initiative will be reviewed by the UN secretariat, and if qualified, will be published in the online platform. Registered initiatives are encouraged to maintain up-to-date information and periodically self-report progress once a year through the online platform, focusing on how the initiative has contributed to the achievement of specific goals and targets in the 2030 Agenda.
 
 
@@ -1131,7 +1131,7 @@ Time-related – specify when the result(s) can be achieved.
 
 
 
-Partnership Data for SDGs
+#### Partnership Data for SDGs
 The Partnership Data for SDGs (PD4SDGs)7 initiative is a collaboration between the Division for Sustainable Development Goals of UN-DESA, the UN Office for Partnerships and the UN Global Compact, aimed at improving the transparency, accountability and the sharing of experiences of the work being carried out by multi-stakeholder partnerships and voluntary commitments in their support to the implementation of the Sustainable Development Goals (SDGs).	The initiative seeks to bring greater transparency, coherence, impact, and comparability of the work carried out by multi-stakeholder partnerships and voluntary commitments by promoting a system- wide use of the established SMART criteria – a partnership/commitment that is Specific, Measurable, Achievable, Resource-based, with clear and Time-based deliverables.	There is a growing trend to collect voluntary commitments and partnerships in support of UN conferences and processes dealing with sustainable development, sometimes with varying degree of associated level of details, which could lead to difficulty in reviewing impact, track progress and conduct in-depth and global comparability analyses on announced commitments and partnerships. It is against this background the Partnership Data for SDGs initiative has been developed.	The initiative is open for all entities within the United Nations that engage with, and promote the work of, multi-stakeholder partnerships and voluntary commitments in driving implementation of the SDGs.
 
 7 Partnership Data for SDGs (PD4SDGs) - https://sustainabledevelopment.un.org/sdinaction/pd4sdgs
@@ -1140,7 +1140,7 @@ The Partnership Data for SDGs (PD4SDGs)7 initiative is a collaboration between t
 
 
 
-### SDG Impact Standards
+#### SDG Impact Standards
 
 
 
@@ -1181,7 +1181,7 @@ Enterprises and investors increasingly recognize that sustainable development is
 The SDG Impact Standards are practice standards, revolving around internal decision-making, designed to transform how enterprises and investors think about value creation, and integrate impact management and contributing positively to the SDGs in their strategy, management approach, disclosure, and governance practices. Grounded in existing principles, standards and market best practices, the Standards provide context for applying other tools and frameworks, including metrics, taxonomies, and reporting frameworks.
 In addition to the Standards for Enterprises, SDG Impact is developing Standards for Bonds Issuers and Standards for Private Equity Funds. SDG Impact also collaborated with the OECD in the development of Impact Standards for Financing Sustainable Development (IS-FSD).
 
-### About the Standards for Enterprises
+#### About the Standards for Enterprises
 The Standards are for Enterprises committed to contributing positively to sustainable development and towards achieving the SDGs. All Enterprises – irrespective of size, geography, or sector – can use the Standards. This includes publicly listed enterprises, public-interest, and private entities (both for-profit or not-for-profit), non-governmental organizations (NGOs), small and medium enterprises (SMEs), and state-owned or other public-sector entities.
 The Standards set out a decision-making framework to help Enterprises integrate impact management into their strategy, management approach, disclosure, governance and decision-making practices. They help Enterprises link their approach to creating long-term, sustainable value for the Enterprise with contributing positively to sustainable development in line with the SDGs. They do this by directing attention and resources to where Enterprises can optimize their contribution by focusing on material positive and negative impacts. Embedding the Standards into management decision-making will strengthen impact performance and facilitate higher quality and more consistent disclosures.
 
@@ -1223,7 +1223,7 @@ Action 12. Ensure governing body leads by example
 
 
 
-### To be Included!
+#### To be Included!
 
 The current procedure that is followed that is considered as an effective analysis of impact:
 Determine the change request and check its feasibility in the system 
@@ -1237,14 +1237,14 @@ Once completed, the impact analysis report must be shared with all stakeholders 
 
 
 
-### The Importance of Impact Analysis
+#### The Importance of Impact Analysis
 
 An Impact Analysis is meant to provide a better overall understanding of the change request and system and reveal potential issues before taking any action. For example, let us assume a location change is required after an unexpected disaster. In this instance, an impact analysis can help the management understand the true cost of fixing the situation they are in and reveal the best way to move forward. But Impact analysis can help in making business decisions too. When a company is faced with a major change, an impact analysis can help lend clarity before making impactful decisions.	An Impact Analysis also helps understand the possible outcomes of implementing the change request. By observing outcomes, the user can predict the overall performance of the product after a change is made. In software, this analysis can help identify all the files, documents, and models that may be affected. Based on this information, the development team may decide to make certain modifications to make the change implementation smoother.
 The analysis will also help estimate the effort needed behind implementing the change and identify the tasks required to implement the change properly.
 
 
 
-### To be included - project analysis: 
+#### To be included - project analysis: 
 
 
 
@@ -1254,7 +1254,7 @@ It’s critical to understand the specific set of requirements and features that
 
 
 
-### SDG Impact Token - Indicator implementation calculation
+#### SDG Impact Token - Indicator implementation calculation
 
 Impact calculation per SDG and per project.
 
