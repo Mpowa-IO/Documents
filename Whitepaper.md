@@ -114,9 +114,12 @@ Mpowa is planning to develop and launch a suite of digital tokens covering three
 Each token is designed to address specific aspects of the NetZero transition to a sustainable circular economy, 
 with the investment and data tokens working in tandem to provide end-to-end traceability of ESG investment flows from 
 external funds through to the underlying economy as measured physically via IoT sensors and consecutively reported through defined SDG parameters. 
-	Additionally, Mpowa’s goal is to launch an ISO20022 compliant zero carbon payment token for energy generation and 
+	Additionally, Mpowa’s goal is to launch an ISO20022[^2] compliant zero carbon payment token for energy generation and 
 consumption in Q3 of 2022, minted and mined on a global and distributed trustless network of interconnected Zero-Emission crypto-mining devices. 
-This is realized through partnerships with Energy Web Foundation Crypto Climate Accord and Steroid 4.0 blockchain, amongst others.    
+This is realized through partnerships with Energy Web Foundation Crypto Climate Accord and Steroid 4.0 blockchain, amongst others.  
+
+[^2] ISO 20022 definition 
+
 
 > Transparency and auditability are key features of blockchain technology, which provide traceability of funds (resource allocation) and 
 verifiable Proof of Impact. Through monitoring and verifying project-data on the blockchain, 
