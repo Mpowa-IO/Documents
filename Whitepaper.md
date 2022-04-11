@@ -1696,7 +1696,7 @@ Not associated with significant social or environmental harms
 
 
 
-
+### Gold Standard or Verra ?
 
 
 
