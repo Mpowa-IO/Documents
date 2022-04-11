@@ -2085,7 +2085,6 @@ resources, and eventually local activities around three innovation areas: circul
 
 ### REGENERATIVE AGRI CALCULATIONS
 
-Soil pollution
 
 Soil pollution is typically caused by chemicals and other residuals disposed of by humans. The most common sources of soil contamination include leakage from underground storage tanks and pipelines, the use of pesticides in agriculture and forestry, the percolation of polluted waters, oil and fuel dumping, direct discharges of wastewater and industrial residuals to the soil, and deposition from air pollution.
 
@@ -2105,6 +2104,7 @@ The application of biotechnology in the agriculture sector has led to the increa
 
 Genetic
 
+### Parameters 
 
 Main annual and perennial crops 1. Area planted
 2. Area harvested
@@ -2148,17 +2148,9 @@ The main provider of data for livestock statistics is usually the agricultural a
 
 
 
+### Uganda Trees
 
-
-### Uganda Trees 
- 
-
-
-
-
-
-
-
+For calculations of actual carbon offset, we need to not make uneducated guesses but research which tree-species are actually being cut down, since each species emits a different amount of carbon dioxide when it is burned, hence the probable difference in offset for different areas.
 
 
 ### Tree Planting
