@@ -2637,9 +2637,15 @@ Mpowa is always eager to get in contact with community leaders in order to facil
 
 Legislation, Taxes - Notes & Specifications
 
+Disect:
+
 https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52020PC0594
+
 https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020PC0593
+
 https://www.fca.org.uk/publication/finalised-guidance/fca-approach-payment-services-electronic-money-2017.pdf
+
+
 
 Available in countries: 
 
