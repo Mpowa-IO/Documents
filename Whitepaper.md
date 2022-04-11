@@ -1693,11 +1693,11 @@ A variety of terms are frequently used to define quality criteria for carbon off
 
 For this guide, therefore, we have distilled the essential elements of carbon offset quality down to five criteria. In short, quality carbon offset credits must be associated with GHG reductions or removals that are:
 
-Additional
-Not overestimated
-Permanent
-Not claimed by another entity
-Not associated with significant social or environmental harms
+- Additional
+- Not overestimated
+- Permanent - Actual
+- Not claimed by another entity
+- Not associated with significant social or environmental harms
 
 
 
