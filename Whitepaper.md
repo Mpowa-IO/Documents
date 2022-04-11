@@ -1963,7 +1963,7 @@ Components - Decarb app. /alias
 
 ### SaaS platform components
 
-Repeat.
+Apps, .. 
 
 
 
