@@ -118,7 +118,7 @@ external funds through to the underlying economy as measured physically via IoT 
 consumption in Q3 of 2022, minted and mined on a global and distributed trustless network of interconnected Zero-Emission crypto-mining devices. 
 This is realized through partnerships with Energy Web Foundation Crypto Climate Accord and Steroid 4.0 blockchain, amongst others.  
 
-[^2] ISO 20022 definition 
+[^2]: ISO 20022 definition 
 
 
 > Transparency and auditability are key features of blockchain technology, which provide traceability of funds (resource allocation) and 
