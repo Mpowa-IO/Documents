@@ -1963,13 +1963,18 @@ Components - Decarb app. /alias
 
 ### SaaS platform components
 
-Apps, .. 
+Decarbonizer app, NFT platform, Toucan connection, etc
 
 
 
 ### NFT Marketplace 
 
-Detailed description
+Participants can purchase project-based NFT’s in a separate marketplace, to directly fund a project of their preference, and receive additional benefits. The marketplace will contain a unique NFT-Builder function to mint tokens accordingly depending on what regional demands are at a current moment in time.
+
+Through research, suggestions will be given to marketplace participants in terms of necessity of projects. If there’s a higher necessity for a certain NFT-kit to be minted or a higher participation rate (meaning the project will be realized sooner), implementing those suggestions in your NFT-Mint will result into receiving a larger amount of Impact Tokens, because Carbon Offset profits will be generated sooner than later, and logically, the impact will happen sooner. 
+
+
+We've utilized the following tech: ..
 
 
 ### Cybersecurity
