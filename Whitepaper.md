@@ -87,6 +87,7 @@ project methodology towards contributors and auditors.
 	- [mGOV](#mgov)<br>
 - [Token Allocation](#token-allocation)<br>	
 - [Token Launches](#token-launches)<br>
+- [DLT Evironmental Impact](#dlt-environmental-impact)<br>
 - [SWOT Matrix](#swot-matrix)<br>
 - [Conglomerate: Partnerships & Involvement](#Conglomerate)<br>
 - [Joining Mpowa](#joining-mpowa)<br>
@@ -1424,6 +1425,8 @@ Pilot project: Manual entry per batch of water cleaned.
 
 ### Public & Private Metadata
 
+An overview of the data that will be accesible for everyone, to validate our project, and the data that can only be seen by parties that are entitled to viewing it.
+
 
 
 
@@ -2471,10 +2474,10 @@ environment enhances securities regulatory objectives of disclosure, fairness an
 
 
 
+## DLT Evironmental Impact
 
 
-
-
+This is why we work with Delegated PoS, carbon offset is reserved and not sold to reduce the company's footprint for net 0.
 
 
 
