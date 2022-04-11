@@ -1894,16 +1894,15 @@ The following pallets are stored in `pallets/`. They are designed for mpowa's sp
 
 ### Blockchain tech
 
-Plugging into a multi-chain framework. 
 
-Mpowa is utilizing Party Technology’s Substrate Node pallet to create a blockchain that is fully customizable to what the company needs. 
+Mpowa is utilizing Party Technology’s Substrate Node pallet to create a blockchain that is fully customizable to what the company needs. Based on security principles, Mpowa has decided to work with EVM-based smart-contracts, due to quantitative proof of stability, instead of newer token protocols that are native to Substrate. Mpowa will nevertheless work and create a similar set of smart contracts with these new protocols, in order to support their ecosystem and provide a testing ground for these protocols to improve and professionalize.  
 
-Substrate can be described as a blockchain framework — specifically, a framework for building customized blockchains. These blockchains can be run entirely autonomously, which means they don't depend on any external technology to run
+Substrate can be described as a blockchain framework — specifically, a framework for building customized blockchains. These blockchains can be run entirely autonomously, which means they don't depend on any external technology to run, apart from the hardware that it is going to be hosted on. 
 
 That means Polkadot can be used as a kind of bridge between blockchains, taking care of the communication layer between chains and making it possible to interact between different blockchains (even systems such as Ethereum and Bitcoin). This represents significant progress toward making the vision of Web3 — a decentralized, blockchain-based version of the internet — a reality.
 Since they were developed by the same people, Substrate has first-class support for integrating with Polkadot, so any blockchain you create with Substrate can seamlessly be hooked into Polkadot.
 
-An Ethereum compatible smart-contract Parachain on Polkadot. 
+Mpowa's Ethereum compatible smart-contract Parachain on Polkadot, with the name "Felloqual". o
 
 
 
