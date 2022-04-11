@@ -1315,10 +1315,20 @@ DATA REQUIRED
 
 ## Data & Statistics
 
+
+
+
 Though environmental statistics is still a relatively new statistical domain, the demand for such statistics is increasing in conjunction with continuing environmental degradation and the obstacles associated with improved environmental management. The recognition that human well-being depends on the environment has led to an increasing list of environmental problems on which decisions must be taken, such as climate change, biodiversity loss and natural resource management. Given the need for governments, businesses, households and other decision makers to deal effectively with these issues, the environment statistics informing them must be of the highest quality possible.
 Environment statistics provide information about the state and changes of environmental conditions, the quality and availability of environmental resources, the impact of human activities and natural events on the environment and the impact of changing environmental conditions. They also provide information about the social actions and economic measures that societies take to avoid or mitigate these impacts and to restore and maintain the capacity of the environment to provide the services that are essential for life and human well-being.
 Environment statistics thus cover a wide range of information and are multi- and inter- disciplinary in nature. They originate from a variety of institutions that collect data and, similarly, numerous methods are used to compile them. The field of environment statistics requires an appropriate framework to guide its development, coordination and organization. Framework for the Development of Environment Statistics (FDES 2013)
 This environment statistics framework (i) marks out the scope of environment statistics; (ii) facilitates a synthesized presentation of data from various subject areas and sources; (iii) simplifies the complexity of the environment appropriately so that it can be measured more easily; (iv) helps to identify the range of statistics relevant to societal decision-making regarding the environment; (v) is consistent with statistical frameworks already used in other domains to facilitate the integration of environment statistics; and (vi) is conceptually based.
+
+
+### Dissaggregation
+
+How is the platform data distributed and verified?
+
+
 
 ### Environment statistics serve a variety of users, including but not limited to:
 i. Policy and decision makers at all levels;
@@ -1409,7 +1419,7 @@ Pilot project: Manual entry per batch of water cleaned.
 
 
 
-
+### Public & Private Metadata
 
 
 
