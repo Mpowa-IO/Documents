@@ -1416,8 +1416,7 @@ Recommendation 14: In accordance with principle 10 of the Fundamental Prin- cipl
 The purpose of the platform has been described already, yet here you’ll find a thoroughly descriptive version containing everything you need to know when interacting with the platform. 
 The purpose of the Mpowa platform is to connect the world and its issues to the right community of people who desire to make a swift impact without having to go through organizational hassles themselves. 
 
-
-#### Market Mechanism
+### Mechanism
 
 Through tokenization of carbon offset we enhance the capacities for the carbon offset market through providing specific individual proof-of-offset which will mitigate double-spending issues. 
 The funds that Mpowa, and its platform participants, will acquire through selling (tokenized) carbon offset credits, shall partially function as a means to kickstart new projects and decrease the timeframe in which the project can be successfully  realized. Our Mpowa-Solvatten project-based NFT’s will be carrying a legitimate and tradable certificate of ownership of the specific carbon offset tokens and data tokens, linked to the specific serial number of a water-purification device, that is manufactured Solvatten.
@@ -1501,7 +1500,7 @@ A similar method is used for our pilot project where recipients of the Solvatten
 
 
 
-Long-term Platform vision 
+#### Long-term Platform vision 
 
 After downloading the app, and before you can use electricity, you create a user account (or login, if you have an account already). The app guides you through the onboarding and KYC process. After completing this, you’re ready to load Tokens onto your account.
 The Mpowa infrastructure will contain a costumer interface which is capable of monitoring the energy generation and distribution back to the grid in real-time. The energy that is being generated will be tokenized which links a specific source device to which a device-specific NFT (which is registered on the EWC through EW-DOS) is assigned. Other meta data concerning the environment and operation of the unit will also be stored on-chain. The generated Energy Tokens will be priced in real-time via EWC, converted and magnetized through a DEX and resulting Mpowa utility tokens will be stored in a wallet app on the Steroid 4.0 network. The DEX will in effect source liquidity from the purchaser of the tokens (Utility Company and/or Grid Operator) custodial account to purchase the Mpowa tokens.	As a secondary stretch goal, the DEX will generate carbon offset data tokens against a pre-configured NFT token smart contract that is associated to the device registration on the Energy Web. The methodology and formulas for how this offset is to be calculated will need to be specified and provided to Mpowa by IGES SMEs. As a concrete objective, Mpowa wishes to create a generalized framework for accurate, data driven (AI/ML based) pricing of carbon by defining an open standard which takes into account all known reference models as a “floor price” but adds in a (always net positive) market adjustment for various factors based on data sourced from the climate data warehouse. An outcome of the project will be to publish a joint white paper on this model and have this peer reviewed by stakeholders at the CCC and CDW. The Mpowa platform connects a wide variety of technologies to a single decentralized digitally tokenized energy ecosystem, be that domestic consumers, electric vehicle drivers, businesses or even individual electronic devices like mobile phones, laptops, tablets.
