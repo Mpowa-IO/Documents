@@ -93,7 +93,7 @@ When you create an account, we create a basic profile page for you on Mpowa, con
 - Comments you’ve posted on Mpowa; and
 - If you have “Liked” a project update.
 
-If you would like to have a public profile, but don’t want others to see your name or profile image on a project’s Community tab, you may choose an account image or name that is not identifiable (e.g., CatLuvr88). You can modify or delete certain information associated with your account (such as your username, profile image, biography and location) from your account settings, and you can change your privacy settings if you want to make your profile private or adjust the default settings.
+If you would like to have a public profile, but don’t want others to see your name or profile image on a project’s Community tab, you may choose an account image or name that is not identifiable (e.g., SuperHero86). You can modify or delete certain information associated with your account (such as your username, profile image, biography and location) from your account settings, and you can change your privacy settings if you want to make your profile private or adjust the default settings.
 
 Creators are also asked to verify their identities before launching a project. Once this has been done, the creator’s Verified Name will be publicly displayed on their account profile and on any projects they launch.
 
