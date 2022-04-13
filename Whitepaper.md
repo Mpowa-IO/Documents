@@ -1,7 +1,7 @@
 # Mpowa Ltd Whitepaper | Version 1.0
 
 Written by: Mpowa MT | 
-Last updated: 12-04-2022, 15:10 CET.
+Last updated: 13-04-2022, 10:10 CET.
 
 ## A world without energy and water scarcity.
 
@@ -1427,19 +1427,21 @@ An overview of the data that will be accesible for everyone, to validate our pro
 ### Standards
 
 
-
-
-
-### Transparency 
-
-
-Quality” is the degree to which a set of inherent characteristics of an object fulfills requirements.7 In the context of statistical organizations, and in this Manual, the object is the statistical output or product, the process, the institutional environment or the whole statistical system. A simple definition of quality is “fit for use” or “fit for purpose”. It is the users’ needs that define the quality. Different users may have different needs that must be balanced against each other to provide the quality concept with concrete content. Over the past 20 years, statistical agencies have arrived at the consensus that the concept of “quality of statistical information” is multidimensional, and that there is no one single measure of quality. For a statistical product, the general definition of quality is operationalized by specifying a set of factors or dimensions that characterize it: relevance; accuracy and reliability; timeliness and punctuality; accessibility and clarity; and coherence and comparability. The dimensions of quality are interrelated, and there are trade-offs between some of
-See International Organization for Standardization (ISO) 9000:2015.
-Content and use of the Manual 3
 United Nations National Quality Assurance Frameworks Manual for Official Statistics
 There are different relevant ISO standards for quality and other management areas; in addition to covering quality manage- ment, including customer satis- faction, they comprise market, opinion and social research and risk management.
 The Deming Prize Committee, revised 1998.
 The various quality assurance frameworks cover the same or similar aspects of statistical quality. Some are referred to as codes of practice, stressing their normative character. Adequate management of each of them is essential. At the same time, they must be seen in relation to each other within the statistical production processes.
+
+See International Organization for Standardization (ISO) 9000:2015.
+
+For a statistical product, the general definition of quality is operationalized by specifying a set of factors or dimensions that characterize it: relevance; accuracy and reliability; timeliness and punctuality; accessibility and clarity; and coherence and comparability. The dimensions of quality are interrelated, and there are trade-offs between some.
+
+
+### Transparency 
+
+And also the other characteristics of quality, each with their own section and explained.
+
+
 
 ### Quality management frameworks and quality management.
 Quality man- agreement frameworks provide a coherent and holistic system as a basis for quality management (see definition in section 1.C.). There are various general quality management frameworks applicable to any organization, such as total quality management, International Organization for Standardization (ISO),8 Six Sigma, European Foundation for Quality Management, Balanced Scorecard, Lean and Lean Six Sigma. These frameworks are largely based on common definitions and principles, but their main focus and formalization vary. For example, ISO emphasizes certification and standardization of “processes”, while Six Sigma focuses on quality control of the “products/ outputs” using statistical methods. Lean emphasizes improvement in efficiency by reducing waste.
