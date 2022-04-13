@@ -107,7 +107,8 @@ The following data will not be publicly displayed or revealed to other users:
 - Your date of birth and other identity verification documentation (for creators);
 - Private profile information, in accordance with your preferences; and
 - Communications you send to us (for example, when you ask for support, send us questions or comments, or report a problem);
-- 
+
+
 ### Information that’s shared with trusted third-party services
 
 We may share your information with certain trusted third-party services to help us provide, improve, promote, or protect Mpowa’s Services (like when we partner with payment processors, or use services that help us manage our ads on other sites). When we share data with third-party services that support our delivery of the Mpowa's Services, we require that they use your information only for the purposes we’ve authorized, and that they protect your personal information at least to the same standards we do. We may also share information that’s aggregated and anonymized in a way that it doesn’t directly identify you.
@@ -118,7 +119,7 @@ We may share your information with certain trusted third-party services to help 
 
 - If a project you have backed is successfully funded, the creator will receive the email address associated with your Mpowa account. They may also send you a survey requesting information needed to provide your reward. (For instance, they may need your mailing address, or T-shirt size.) Any information you provide in such surveys will be received by the creator.
 
-- Creators are required to keep backer information confidential, except as strictly necessary to communicate with backers directly and fulfill rewards. Creators should not ask for personal information that isn’t necessary to provide your reward, and should never request sensitive personal information such as your Social Security number or payment information. Contact us at support@kickstarter.com if you receive a request for information that seems inappropriate or excessive.
+- Creators are required to keep backer information confidential, except as strictly necessary to communicate with backers directly and fulfill rewards. Creators should not ask for personal information that isn’t necessary to provide your reward, and should never request sensitive personal information such as your Social Security number or payment information. Contact us at support@mpowa.io if you receive a request for information that seems inappropriate or excessive.
 
 - Collaborators are third parties that creators can appoint to help manage their project. These collaborators may be able to access the information available to creators (including backers’ names, email addresses, pledge amounts, reward selections, messages, and survey responses), and are required to treat backers’ personal information with the same care and respect as creators are.
 
