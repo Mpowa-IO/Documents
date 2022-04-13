@@ -1227,9 +1227,6 @@ The analysis will also help estimate the effort needed behind implementing the c
 
 
 
-#### To be included - project analysis: 
-
-
 
 Requirements changes are a part of the development cycle. The concerned stakeholders coordinate with software engineers to identify the requirements defects, changes, adding new requirements, and requirement prioritizing.
 
@@ -1237,68 +1234,9 @@ It’s critical to understand the specific set of requirements and features that
 
 
 
-#### SDG Impact Token - Indicator implementation calculation
-
-Impact calculation per SDG and per project.
-
-https://futuremetrics.info/wp-content/uploads/2013/07/CO2-from-Wood-and-Coal-Combustion.pdf
-
-https://marketplace.goldstandard.org/collections/projects
-
-https://cleancooking.org/binary-data/RESOURCE/file/000/000/381-1.pdf
-
-
-
-https://home.kuehne-nagel.com/
-
-
-https://www.carboncare.org/en/co2-emissions-calculator.html
-
-
-
-
-### Solvatten Impact
-10 Tonne per lifetime use.
-Approx 1,5 T per year. 
-
-Approved goals: 2, 6, 7. 
-
-
-Stats per device:
-
-https://www.engineeringforchange.org/solutions/product/solar-safe-water-system/
-
-https://www.isp.uu.se/digitalAssets/511/c_511130-l_1-k_erika-lundgren.pdf
-
-https://books.google.com.pa/books?id=NgGfDwAAQBAJ&pg=PA338&lpg=PA338&dq=solvatten+data+models&source=bl&ots=UpgVSj5_cU&sig=ACfU3U3m2Hwv0UtPDPi8GLpHmSLD01jyig&hl=en&sa=X&ved=2ahUKEwjFnuGs-Lv2AhW-AxAIHcNTBqwQ6AF6BAgCEAM#v=onepage&q=solvatten%20data%20models&f=false
-
-https://www.diva-portal.org/smash/get/diva2:645248/FULLTEXT01.pdf
-
-https://cordis.europa.eu/project/id/673583
-
-https://cordis.europa.eu/project/id/876908
-
-### Stove impact
-
-Approved goals: 3, 5 , 7 , 8 , 11, 13 
-
-https://www.climateneutralgroup.com/en/climate-projects/solar-cooking-chad/
-
-### Medical impact
-
-To be documented
-Enzymes, medical supplies, etc.
-DATA UNKNOWN
-
-
-### Education
-DATA REQUIRED
-
 
 
 ## Data & Statistics
-
-
 
 
 Though environmental statistics is still a relatively new statistical domain, the demand for such statistics is increasing in conjunction with continuing environmental degradation and the obstacles associated with improved environmental management. The recognition that human well-being depends on the environment has led to an increasing list of environmental problems on which decisions must be taken, such as climate change, biodiversity loss and natural resource management. Given the need for governments, businesses, households and other decision makers to deal effectively with these issues, the environment statistics informing them must be of the highest quality possible.
@@ -1831,6 +1769,60 @@ https://globalgoals.goldstandard.org/402-1-luf-agr-am-increasing-soild-carbon-th
 
 
 
+Impact calculation per SDG and per project.
+
+https://futuremetrics.info/wp-content/uploads/2013/07/CO2-from-Wood-and-Coal-Combustion.pdf
+
+https://marketplace.goldstandard.org/collections/projects
+
+https://cleancooking.org/binary-data/RESOURCE/file/000/000/381-1.pdf
+
+
+
+https://home.kuehne-nagel.com/
+
+
+https://www.carboncare.org/en/co2-emissions-calculator.html
+
+
+
+
+### Solvatten Impact
+10 Tonne per lifetime use.
+Approx 1,5 T per year. 
+
+Approved goals: 2, 6, 7. 
+
+
+Stats per device:
+
+https://www.engineeringforchange.org/solutions/product/solar-safe-water-system/
+
+https://www.isp.uu.se/digitalAssets/511/c_511130-l_1-k_erika-lundgren.pdf
+
+https://books.google.com.pa/books?id=NgGfDwAAQBAJ&pg=PA338&lpg=PA338&dq=solvatten+data+models&source=bl&ots=UpgVSj5_cU&sig=ACfU3U3m2Hwv0UtPDPi8GLpHmSLD01jyig&hl=en&sa=X&ved=2ahUKEwjFnuGs-Lv2AhW-AxAIHcNTBqwQ6AF6BAgCEAM#v=onepage&q=solvatten%20data%20models&f=false
+
+https://www.diva-portal.org/smash/get/diva2:645248/FULLTEXT01.pdf
+
+https://cordis.europa.eu/project/id/673583
+
+https://cordis.europa.eu/project/id/876908
+
+### Stove impact
+
+Approved goals: 3, 5 , 7 , 8 , 11, 13 
+
+https://www.climateneutralgroup.com/en/climate-projects/solar-cooking-chad/
+
+### Medical impact
+
+To be documented
+Enzymes, medical supplies, etc.
+DATA UNKNOWN
+
+
+### Education
+DATA REQUIRED
 
 
 
