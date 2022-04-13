@@ -1105,15 +1105,18 @@ They are not reporting standards. They focus on the internal management and deci
 The Standards embed the SDGs and the Impact Management Project’s norms as the shared language to understand, manage and communicate impact. The Standards also embed the United Nations Guiding Principles for Business and Human Rights and the Ten Principles of the United Nations Global Compact, to underscore the importance of respect for human rights and other responsible business practices in contributing positively to sustainable development and achieving the SDGs.
 
 
-### Standard 1 (Strategy): Embedding foundational elements into purpose and strategy
 
+### Standard 1 (Strategy): 
+Embedding foundational elements into purpose and strategy
 
+### Standard 2 (Management Approach): I
+ntegrating foundational elements into operations and management approach
 
-### Standard 2 (Management Approach): Integrating foundational elements into operations and management approach
+### Standard 3 (Transparency): 
+Disclosing how foundational elements are integrated into purpose, strategy, management approach and governance, and reporting on performance
 
-### Standard 3 (Transparency): Disclosing how foundational elements are integrated into purpose, strategy, management approach and governance, and reporting on performance
-
-### Standard 4 (Governance): Reinforcing commitment to foundational elements through governance practices
+### Standard 4 (Governance): 
+Reinforcing commitment to foundational elements through governance practices
 
 
 
