@@ -465,21 +465,16 @@ Indicator 2.4.1: Proportion of agricultural area under productive and sustainabl
 
 #### Mpowa’s Contribution:
 
- 
-Regenerative Agriculture projects: examples.
+Regenerative Agriculture projects: Agri ReGen.
 
-
-Food for Africa program. Research!
+Food for Africa program. 
 
 Partnerships and programs. Enough food is being produced to feed the world population, it's just not properly distributed.
 
 Infrastructure + token-supermarkets
 
-
 Job Generation Heroes missions defined: Financial rewards for people in rural areas, such as cleaning, 
 tree planting and doing research and for creating jobs by observation - to be validated by the DAO. 
-
-Elaborate! <-
 
 
 
