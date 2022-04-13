@@ -2308,7 +2308,7 @@ Omni, quanti.
 
 ---
 
-Mpowa’s Tokens:
+*Mpowa’s Tokens*
 
 ---
 
