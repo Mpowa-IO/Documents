@@ -1141,8 +1141,6 @@ The SDG Impact Standards are practice standards, revolving around internal decis
 
 In addition to the Standards for Enterprises, SDG Impact is developing Standards for Bonds Issuers and Standards for Private Equity Funds. SDG Impact also collaborated with the OECD in the development of Impact Standards for Financing Sustainable Development (IS-FSD).
 
-
-
 The Standards are for Enterprises committed to contributing positively to sustainable development and towards achieving the SDGs. All Enterprises – irrespective of size, geography, or sector – can use the Standards. This includes publicly listed enterprises, public-interest, and private entities (both for-profit or not-for-profit), non-governmental organizations (NGOs), small and medium enterprises (SMEs), and state-owned or other public-sector entities.
 The Standards set out a decision-making framework to help Enterprises integrate impact management into their strategy, management approach, disclosure, governance and decision-making practices. They help Enterprises link their approach to creating long-term, sustainable value for the Enterprise with contributing positively to sustainable development in line with the SDGs. They do this by directing attention and resources to where Enterprises can optimize their contribution by focusing on material positive and negative impacts. Embedding the Standards into management decision-making will strengthen impact performance and facilitate higher quality and more consistent disclosures.
 
@@ -1151,13 +1149,10 @@ contributing positively to sustainable development and achieving the SDGs
 which cannot be achieved without demonstrating respect for human rights, planetary boundaries and other responsible business practices
 and is realized through effective impact management and decision-making
 
-
-
-
-
 SDG Impact Standards for Enterprises – Enterprise Actions
 The Standards are provided to organizations as a ‘best practice’ guide to help them operate more sustainably and optimize their contribution to sustainable development and the SDGs by integrating responsible business and impact management practices into their organizational systems and internal decision-making.
 Enterprises can follow the following actions to properly integrate operating sustainably and contributing positively to sustainable development and the SDGs into their organizational systems and decision-making.
+
 
 
 
@@ -1180,9 +1175,6 @@ Once completed, the impact analysis report must be shared with all stakeholders 
 
 An Impact Analysis is meant to provide a better overall understanding of the change request and system and reveal potential issues before taking any action. For example, let us assume a location change is required after an unexpected disaster. In this instance, an impact analysis can help the management understand the true cost of fixing the situation they are in and reveal the best way to move forward. But Impact analysis can help in making business decisions too. When a company is faced with a major change, an impact analysis can help lend clarity before making impactful decisions.	An Impact Analysis also helps understand the possible outcomes of implementing the change request. By observing outcomes, the user can predict the overall performance of the product after a change is made. In software, this analysis can help identify all the files, documents, and models that may be affected. Based on this information, the development team may decide to make certain modifications to make the change implementation smoother.
 The analysis will also help estimate the effort needed behind implementing the change and identify the tasks required to implement the change properly.
-
-
-
 
 Requirements changes are a part of the development cycle. The concerned stakeholders coordinate with software engineers to identify the requirements defects, changes, adding new requirements, and requirement prioritizing.
 
