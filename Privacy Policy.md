@@ -135,7 +135,7 @@ We may share your information with certain trusted third-party services to help 
     
 ### Retention
 
-We will retain your information as long as your account is active, as necessary to provide you with the Services or as otherwise set forth in this Policy. We will also retain and use this information as necessary for the purposes set out in this Policy and to the extent necessary to comply with our legal obligations, resolve disputes, enforce our agreements and protect Kickstarter’s legal rights.
+We will retain your information as long as your account is active, as necessary to provide you with the Services or as otherwise set forth in this Policy. We will also retain and use this information as necessary for the purposes set out in this Policy and to the extent necessary to comply with our legal obligations, resolve disputes, enforce our agreements and protect Mpowa’s legal rights.
 
 We also collect and maintain aggregated, anonymized or pseudonymized information which we may retain indefinitely to protect the safety and security of our Site, improve our Services or comply with legal obligations.
 
@@ -193,7 +193,7 @@ The California “Shine the Light” law gives residents of California the right
 
 We want to communicate with you only if you want to hear from us. We try to keep emails to a minimum and give you the ability to opt in to any marketing communications we send.
 
-We will send you email relating to your transactions on Kickstarter. You may also elect to receive certain marketing email communications, in accordance with your preferences, and from which you may opt out at any time by adjusting your notification settings. If you download the Kickstarter app, you can manage the notifications you receive on your mobile device in your profile settings.
+We will send you email relating to your transactions on Mpowa. You may also elect to receive certain marketing email communications, in accordance with your preferences, and from which you may opt out at any time by adjusting your notification settings. If you download the Mpowa app, you can manage the notifications you receive on your mobile device in your profile settings.
 
 We’ll also send you service-related announcements when it’s necessary to do so.
 
