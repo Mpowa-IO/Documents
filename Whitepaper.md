@@ -1068,7 +1068,7 @@ Contributing to the United Nations Sustainable Development Goals requires partie
 The required data will be included in NFT’s that will be linked to products or services that beneficiaries will receive after a project is funded. 
 Impact is measured through sticking with guiding principles from the UN SDG Handbook and the indicators which are specifically mentioned and implemented into official reports by statisticians.
 
-The distribution of Mpowa SDG-Impact Tokens is done in a regulated manner where the contribution amount in Mpowa Utility Tokens is equivalent (a 1:1 ratio) to the amount of SDG-Impact Tokens that the contributor will receive. 
+
 Impact analysis is the act of studying the requirements’ data, to understand the pros and cons of any change. As the world keeps evolving, changes are to be expected, even in a well-developed system.	Changes can happen for a variety of reasons: a change in a client’s requirements, adjustments to business needs or new technologies. Since changes can potentially result in a failure, it is prudent to proceed with proper planning when making necessary changes.
 
 his is where “Impact Analysis” comes in.
@@ -2348,6 +2348,7 @@ As it says. tba
 ### Governance Token: mGOV
 
 
+The distribution of Mpowa Governance Tokens is done in a regulated manner where the contribution amount in Mpowa Utility Tokens is equivalent (a 1:1 ratio) to the amount of Governance Tokens that the contributor will receive. 
 
 
 ### Project-based NFT’s
