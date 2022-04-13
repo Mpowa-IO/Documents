@@ -596,13 +596,13 @@ The renewable energy share in total final consumption is the percentage of final
 Concepts: 
 Renewable energy consumption includes consumption of energy derived from: hydro, solid biofuels, wind, solar, liquid biofuels, biogas, geothermal, marine and waste. Total final energy consumption is calculated from national balances and statistics as total final consumption minus non-energy use. 
 Comments with regard to specific renewable energy resources: 
-Solar energy consumption includes solar PV and solar thermal Liquid biofuel energy consumption includes biogasoline, biodiesels and other liquid biofuels Solid biofuel consumption includes fuelwood, animal waste, vegetable waste, black liquor, bagasse and charcoal Waste energy covers energy from renewable municipal waste
+Solar energy consumption includes solar PV and solar thermal Liquid biofuel energy consumption includes biogasoline, biodiesels and other liquid biofuels Solid biofuel consumption includes fuelwood, animal waste, vegetable waste, black liquor, bagasse and charcoal Waste energy covers energy from renewable municipal waste
 
 
 
 #### Solution: 
 
-Ensure access to affordable, reliable, sustainable and modern energy for all
+Utilizing the African deserts (enourmous landmass), which in order for this project to succeed - have to be flattened. On the flattened or otherwize stabilized ground a solar-panel farm should be installed. This, then extra-generated electrical energy, can be utilized to provide for African and European daily electricity requirements. Due to the scalability of the project this could result into a drastically less need for the use of fossil fuels and thus a lowering of the Kw/h price in all regions. By leveraging this unused and vast area of land, the entire African population should have equal are fairly priced access to electrical energy. Through the increased energy supply (and lowering of usage price) and economical stimulations that come with that additional tax-revenue can be earned from an increased econoic activity and thus pay a compensatition fee to businesses and governments that are income-dependent on the fossil fuels market, to allow for equal and smooth transition into an abundant and healthy planet earth. 
 
 
 
