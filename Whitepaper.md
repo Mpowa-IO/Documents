@@ -412,7 +412,7 @@ Poverty is basically result of resource scarcity. National definitions of povert
 
 
 ##### Solution: Social protection systems, appropriately nationally implemented for all. 
-Equal rights to economic resources and access to basic services, ownership and control over land and other forms 
+Equal rights to economic resources and access to basic services, ownership and control over land and other forms. 
 
 
 ##### Relevant indicators for Mpowa:
@@ -505,7 +505,8 @@ SOLVATTEN, ECOLOO, ETC
 
 Minimum proficiency level corresponds to the minimum set of skills or knowledge required for a given subject such as reading or mathematics. Learning assessments are designed to measure a range of skill levels which are defined during the design of the assessment. As the assessment design can vary between national assessments and across international assessments ideally these benchmarks should to be aligned. Minimum proficiency levels for existing cross-national learning assessments have been provisionally adopted by the international community for interim reporting but in order to increase country coverage there is a need to achieve comparability across national and international assessments. 
 
-#### Solution: Goal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
+#### Solution: 
+Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.
 
 #### Relevant indicators for Mpowa: 
 
