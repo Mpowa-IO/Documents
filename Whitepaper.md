@@ -466,12 +466,12 @@ Indicator 2.4.1: Proportion of agricultural area under productive and sustainabl
 #### Mpowa’s Contribution:
 
  
-Regenerative Agriculture
+Regenerative Agriculture projects: examples.
 
 
 Food for Africa program. Research!
 
-
+Partnerships and programs. Enough food is being produced to feed the world population, it's just not properly distributed.
 
 Infrastructure + token-supermarkets
 
@@ -717,7 +717,7 @@ Enhance scientific research, upgrade the technological capabilities of industria
 
 ### Problem 10: Country-based inequality
 
-Description 
+Large differences between the upper class and lower class. This should be compressed / equalized to ensure food/water security and protection against natural threats - strong housing and infrastructure. 
 
 
 
