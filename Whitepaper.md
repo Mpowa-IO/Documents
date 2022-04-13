@@ -525,11 +525,11 @@ Indicator 4.6.1: Proportion of population in a given age group achieving at leas
 
 Mpowa EDU platform, through participation in the Decarbonizer app, educational material can be accessed by the users. Variety of topics: science, mathematics, languages, etc.
 
-Heroes Academy: 
+- Heroes Academy: 
 Enable equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university. Facilitating that all girls and boys have access to quality early childhood development, care and pre‑primary education so that they are ready for primary education Substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States. 
 Online courses from the Mpowa EDU platform, video-call classes, etc. 
 Online Coaching and assessment.
-Distribution of computers with internet + library access, Udemy deals etc. 
+- Distribution of computers with internet + library access, Udemy deals etc. 
 
 
 
