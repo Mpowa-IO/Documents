@@ -68,7 +68,7 @@ You may decline to provide us with your information. However, this will limit yo
 We use the information we collect for the following purposes:
 To keep your account secure and protect our Services (including to verify the identities of creators and prevent fraud and abuse);
 To enable us to provide you with our Services, and to improve and promote our Services;
-To create and administer your account, contact you, and customize your experience on Kickstarter (for example, to show you projects that we think may interest you based on your previous use); and
+To create and administer your account, contact you, and customize your experience on Mpowa (for example, to show you projects that we think may interest you based on your previous use); and
 To track and analyze use of the Services so that we can improve how Kickstarter is performing and provide users with the best experience possible.
 
 ### European Union Users
