@@ -199,7 +199,7 @@ We’ll also send you service-related announcements when it’s necessary to do 
 
 ### Security
 
-We take security seriously, and the security of your personal data is important to us. We follow industry-standard practices to protect the data we collect and maintain, including using Transport Layer Security (TLS) to encrypt information as it travels over the internet. No method of transmission over the internet or electronic storage is completely secure, so Kickstarter cannot guarantee its absolute security. Your account information is protected by a password, which you should choose carefully and keep secure. We encourage all users to enable two-factor authentication in account settings to further protect their account.
+We take security seriously, and the security of your personal data is important to us. We follow industry-standard practices to protect the data we collect and maintain, including using Transport Layer Security (TLS) to encrypt information as it travels over the internet. No method of transmission over the internet or electronic storage is completely secure, so Mpowa cannot guarantee its absolute security. Your account information is protected by a password, which you should choose carefully and keep secure. We encourage all users to enable two-factor authentication in account settings to further protect their account.
 
 We have a Security Incident Response Team (SIRT) and protocol in place in the event of a data breach. We encourage the responsible disclosure of vulnerabilities of our Services by emailing security@mpowa.io, and we will invite valid disclosures to our bug bounty program.
 
