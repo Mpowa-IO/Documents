@@ -2303,10 +2303,11 @@ Omni, quanti.
 
 ## Tokenomics
 
-
+---
 
 Mpowa’s Tokens:
 
+---
 
 ### Tokenized Equity: Mpowa TE, mTE
 
@@ -2346,31 +2347,25 @@ Usage data, etc.
 
 
 
-Mpowa’s Treasuries:
+### Mpowa’s Treasuries:
 Smart Contracts for Projects, CCR profits, voting pools, unexpected costs, team, etc.  
 
-MTE - Mpowa’s Tokenized Equity:
+### MTE - Mpowa’s Tokenized Equity:
 This is a security token, to be registered at the FCA, ESMA and FINMA.
 
 
-mSDG - SDG-Impact Token:
+### mSDG - SDG-Impact Token:
 20% of the carbon offset profits into liquidity?? No.
 
 
-EIP-1046 
+### EIP-1046 
 This proposal will make adding metadata to ERC20 tokens straightforward for developers with minimal-to-no disruption to the overall ecosystem. By using the same parameter name and by consolidating the underlying Token JSON Metadata Standard, developers will confidently understand how to add and interpret token metadata between ERC20 and ERC721 tokens.
 
 
 
-mUSD - Utility Token, stablecoin: Stablecoin pegged by the United States Dollar. Backed by Tron USD.
+### mUSD - Utility Token, stablecoin: Stablecoin pegged by the United States Dollar. Backed by Tron USD.
 
-mOCR - Tokenized Carbon Offset Credit:
-
-
-
-
-
-
+### mOCR - Tokenized Carbon Offset Credit:
 
 
 
@@ -2392,11 +2387,6 @@ Investment token
 Total supply: X mTE
 Presale: X (10% of company’s equity)
 Presale Base price: 1 X = 10 mTE Hard cap/Soft cap: 5
-
-
-
-
-
 
 
 
@@ -2424,14 +2414,10 @@ Investors can participate in voting while abiding by securities laws.
 Startups have access to new and, potentially, more democratized fundraising models.
 Regulators have a new and more transparent framework for evaluating the fundraising of a project.
 
-
-
 Security Token Offerings (STOs) combine the technology of blockchain with the requirements of regulated securities markets to support liquidity of assets and
 wider availability of finance. STOs are typically the issuance of digital tokens in a blockchain environment in the form of regulated securities. The blockchain
 environment enhances securities regulatory objectives of disclosure, fairness and market integrity and supports innovation and efficiency through automation and
 “smart contracts”. In terms of the token aspect, an STO is essentially the digital representations of ownership of assets (e.g. gold, real estate) or economic rights (e.g. a share of profits or revenue). The goal of this publication is to serve as a guide to promoting deeper discussion and fostering the active participation of all stakeholders in the future evolution of the industry.
-
-
 
 
 
@@ -2446,43 +2432,11 @@ This is why we work with Delegated PoS, carbon offset is reserved and not sold t
 
 
 
-
-
-
-
-
-
 ## SWOT Matrix
 
 The name is an acronym for the four components the technique examines:
 
 ### Strengths: 
-characteristics of the business or project that give it an advantage over others
-
-
-### Weaknesses: 
-Characteristics that place the business or project at a disadvantage relative to others
-
-
-### Opportunities: 
-Elements in the environment that the business or project could exploit to its advantage
-
-
-### Threats: elements in the environment that could cause trouble for the business or project
-
-
-
-
-### Corporate planning includes steps such as:[18]
-Setting objectives—defining what the organization is going to do
-Environmental scanning
-Internal appraisals of the organization—an assessment of the present situation as well as a portfolio of products/services and an analysis of the product/service lifecycle
-Analysis of existing strategies—this should determine relevance from the results of an internal/external appraisal, and may include gap analysis of environmental factors
-Defining strategic issues—key factors in the development of a corporate plan that the organization must address
-Developing new/revised strategies—revised analysis of strategic issues may mean the objectives need to change
-Establishing critical success factors—the achievement of objectives and strategy implementation
-Preparation of operational, resource, and projects plans for strategy implementation
-Monitoring all results—mapping against plans, taking corrective action, which may mean amending objectives/strategies
 
 
 
@@ -2495,13 +2449,46 @@ Technology eases the process of scaling an entity. For instance, companies based
 Technology links businesses directly to clients, especially in the advertising world where the digital platform makes advertisements easy and affordable even for small and medium-sized enterprises. This makes technology a powerful tool that can benefit even those enterprises that are not directly connected to technology.
 Therefore, technology becomes a necessity in every business, with many businesses incorporating an IT department into their enterprises. It provides a platform to increase the customer base through online advertisement and signups, with some businesses even opting to go entirely online without any physical stores. The financial sector continues to increase its online presence by investing in online banking where customers can enroll and transact without physically going to the bank.
  
-
-
 What is a Scalable Business? For a business to be scalable, it must focus on improving the profitability and efficiency of services even when its workload increases. The improvement of profitability and efficiency can only originate from the core of the business’ structure and workflow strategy.
 
 Scalability thus begins with the entity developing a set of leaders who run the operations with the necessary technical know-how. The leaders should understand their duties well and their respective hierarchies. All shareholders, including investors and advisors, should be involved in every part of the way as the strategy and direction of the entity is determined.
 
 The scalability of a business also depends on the effectiveness of communication, whether internally to the workforce or externally to clients and investors. Consistency in brand messaging should persist, as it helps the public understand and become persuaded into liking the product.
+
+
+### Weaknesses: 
+
+No weakness.
+
+
+### Opportunities: 
+
+There's plenty of work to be done.
+
+
+### Threats: elements in the environment that could cause trouble for the business or project
+
+Not many. Very likely even helping already established platforms alike.
+
+
+### Corporate planning includes steps such as:[18]
+
+Setting objectives—defining what the organization is going to do
+Environmental scanning
+
+Internal appraisals of the organization—an assessment of the present situation as well as a portfolio of products/services and an analysis of the product/service lifecycle
+
+Analysis of existing strategies—this should determine relevance from the results of an internal/external appraisal, and may include gap analysis of environmental factors
+
+Defining strategic issues—key factors in the development of a corporate plan that the organization must address
+
+Developing new/revised strategies—revised analysis of strategic issues may mean the objectives need to change
+
+Establishing critical success factors—the achievement of objectives and strategy implementation
+
+Preparation of operational, resource, and projects plans for strategy implementation
+
+Monitoring all results—mapping against plans, taking corrective action, which may mean amending objectives/strategies
 
 
 
