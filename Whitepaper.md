@@ -1071,9 +1071,6 @@ Impact is measured through sticking with guiding principles from the UN SDG Hand
 
 Impact analysis is the act of studying the requirements’ data, to understand the pros and cons of any change. As the world keeps evolving, changes are to be expected, even in a well-developed system.	Changes can happen for a variety of reasons: a change in a client’s requirements, adjustments to business needs or new technologies. Since changes can potentially result in a failure, it is prudent to proceed with proper planning when making necessary changes.
 
-his is where “Impact Analysis” comes in.
-This is a technique that helps to identify the consequences of any changes being planned in software or a product.
-
 The impact-calculation of projects and products that are offered by Mpowa will be described in the chapter ‘’Methodology”.
 
 
