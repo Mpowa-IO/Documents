@@ -537,7 +537,8 @@ Distribution of computers with internet + library access, Udemy deals etc.
 
 Equality and non-discrimination on the basis of sex are core principles under the international legal and policy framework, including the Convention on the Elimination of All Forms of Discrimination against Women (CEDAW), which has 189 States parties, and the Beijing Platform for Action. This framework sets out the commitments of States to eliminate discrimination against women and promote gender equality, including in the area of legal frameworks. 
 
-Solution: Achieve gender equality and empower all women and girls
+#### Solution: 
+Achieve gender equality and empower all women and girls, through equal access to education and resources.
 
 #### Relevant indicators for Mpowa:
 
