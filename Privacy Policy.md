@@ -23,7 +23,7 @@ Information that’s shared publicly
 Information that isn’t shared publicly
 Information that’s shared with trusted third-party services
 Information that’s shared with creators and collaborators
-Information that’s shared to protect Kickstarter and comply with the law
+Information that’s shared to protect Mpowa and comply with the law
 Links to other websites and services
 Retention
 Data Transfers
