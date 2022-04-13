@@ -4,20 +4,20 @@
 
 Thanks for visiting Mpowa’s Privacy Policy. This is the first version of our Policy as of April 13, 2022.
 
-    We’ve updated the Policy to reflect changes in data privacy laws.
-    We’ve added additional detail about the categories of information you share with us, and the tools we offer to help you manage it.
+We’ve updated the Policy to reflect changes in data privacy laws.
+We’ve added additional detail about the categories of information you share with us, and the tools we offer to help you manage it.
 
 
 You can read the Privacy Policy below, and please let us know if you have any questions or feedback.
 
 ### Table of Contents
 
-    Changes to This Policy
-    Who We Are
-    How This Policy Applies
-    What We Collect and Receive
-    How We Use This Information
-    European Union Users
+Changes to This Policy
+Who We Are
+How This Policy Applies
+What We Collect and Receive
+How We Use This Information
+European Union Users
     How This Information Is Shared
         Information that’s shared publicly
         Information that isn’t shared publicly
