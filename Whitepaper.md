@@ -89,7 +89,7 @@ project methodology towards contributors and auditors.
 - [Token Launches](#token-launches)<br>
 - [DLT Evironmental Impact](#dlt-environmental-impact)<br>
 - [SWOT Matrix](#swot-matrix)<br>
-- [Conglomerate: Partnerships & Involvement](#conglomerate: partnerships-&-involvement)<br>
+- [Conglomerate: Partnerships & Involvement](#conglomerate:-partnerships-&-involvement)<br>
 - [Joining Mpowa](#joining-mpowa)<br>
 - [This needs to be included as well](#this-needs-to-be-included-as-well)<br>	
 - [Legislation, Taxes - Notes & Specifications](#legislation,-laxes-notes-&-Ssecifications)<br>
