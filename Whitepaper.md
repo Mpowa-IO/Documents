@@ -622,14 +622,16 @@ Long term vision and 2023 projects.
 
 ### Problem 8: Economic collapse / stagnation
 
+
+
+
+
 This indicator is defined as the percentage change in the real GDP per capita between two consecutive years. 
 
 
 
 
 #### Solution: 
-
-------
 
 Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries
 
@@ -645,7 +647,6 @@ Protect labour rights and promote safe and secure working environments for all w
 
 Increase Aid for Trade support for developing countries, in particular least developed countries, including through the Enhanced.
 
-------
 
 #### Relevant indicators for Mpowa: 
 
@@ -779,12 +780,12 @@ Reduce the adverse per capita environmental impact of cities, including by payin
 
 ### Problem 12: Unsustainable consumption and production
 
-DESCRIPTION 
+By utilizing out-dated and non-organic farming mthods, the soil get depleted of valuable minerals that are essential for the quality of the food that is consumed. 
 
 
 #### Solution:
 
-Ensure sustainable consumption and production patterns 
+Providing modern farming technologies and mechanisms by which both the quality and the amount harvested is increased.  
 
 #### Relevant indicators for Mpowa: 
 
@@ -795,8 +796,11 @@ Indicator 12.4.1: Number of parties to international multilateral environmental 
 
 #### Mpowa’s Contribution:
 
-Achieve the sustainable management and efficient use of natural resources
-Achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment.
+Collaborating with communities for improving sustainable management and efficient use of natural resources, through which quality and quantity can be ensured for all new generations to come. Both an insurance for accessibility,   
+
+Assisting in the management of chemicals that negatively affect the environment, including the additional wastes throughout their economic life-cycle. This will be done in accordance with agreed international frameworks to raise the necessary external funding for a project of this scale.
+
+It's Mpowa's goal to significantly help at the reduction of toxic chemicals to be releases into the air, water and soil in order to minimize their adverse impacts on human health and the environment.
 
 
 ### Problem 13: Climate change
