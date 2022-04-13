@@ -1047,9 +1047,7 @@ It's impossible to provide an exhaustive list of what you can do to protect the 
 An interesting and fairly unique feature is the implementation of an openly accessible product/service-demand submission form for people in need. Submissions will be verified for authenticity and correctness. If the submission comes from a person/entity in an area where Mpowa doesn’t have any projects planned, it can (depending on the severity of the situation) spark the company to start a project (in the area of the submission) or decide to serve the person individually. By demand and supply, NFT’s will be created and minted to serve the need and also contains a certificate for the purchaser that can be used to claim SDG Impact Tokens, Tokenized Carbon Credits and/or Governance Tokens. What really matters for contributors to the platform is that they each have a transparent overview of where they’ve sent their money, how it's being used and which impact their contribution has realized. Mpowa is selling impact, sustainability and health to those who care about planet earth and its inhabitants in an auditable and regulatory compliant way, with implementation of its project impact-data in UN SDG reporting. 
 
 
-A SaaS platform is a software that is designed to be accessed over the internet. It can be accessed by multiple users and has a subscription-based pricing model. The nature of a SaaS platform is that it's accessible from anywhere and it's scalable. This means that the more people who use the software, the more powerful it becomes for everyone who uses it.
-
-
+The nature of Mpowa's platform is that it's accessible from anywhere and it's scalable, after the necessary agreements with local regulators have been made and once equal/global internet access is available. 
 
 
 
@@ -1064,7 +1062,10 @@ A SaaS platform is a software that is designed to be accessed over the internet.
 ### Overview & Sector Standards
 
 Contributing to the United Nations Sustainable Development Goals requires parties to follow certain data standards and methods of proceeding and documentation of projects. 
-One of which is the Data Standards Definition. The required data will be included in NFT’s that will be linked to products or services that beneficiaries will receive after a project is funded. 
+
+> One of which is the Data Standards Definition. 
+
+The required data will be included in NFT’s that will be linked to products or services that beneficiaries will receive after a project is funded. 
 Impact is measured through sticking with guiding principles from the UN SDG Handbook and the indicators which are specifically mentioned and implemented into official reports by statisticians.
 
 The distribution of Mpowa SDG-Impact Tokens is done in a regulated manner where the contribution amount in Mpowa Utility Tokens is equivalent (a 1:1 ratio) to the amount of SDG-Impact Tokens that the contributor will receive. 
@@ -1078,11 +1079,11 @@ The impact-calculation of projects and products that are offered by Mpowa will b
 
 
 
+
 ### Partnership Registration
 
 
 The pilot project is a project that integrates carbon offset, water purification and natural eco-system restoration into an automated and transparent mechanism for sustainable development.
-
 
 
 One of the requirements to register for Partnership for SDGs with the UN are a clearly defined set of data that is in accordance with the SMART criteria. 
