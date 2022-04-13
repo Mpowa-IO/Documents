@@ -1039,10 +1039,10 @@ It's impossible to provide an exhaustive list of what you can do to protect the 
 Not only serving merely as a project enabler on its SaaS platform, Mpowa is actually concerned with the direct manifestation of projects by using a bottom-up approach. A complete range of disciplines and sectors are covered and included in the thought-process when Mpowa starts or receives a new project, in order to present something truly beneficial and feasible towards its investors. Mpowa has the infrastructure for collaborators to bring their projects up to a certain standard, to facilitate credible project-scaling. While Mpowa is doing things differently than most of its direct competitors, it is always designed for increased service towards the customer and the planet. Thus, writing about Mpowa’s Unique Selling Point forced the Management Team to think about exactly what value it brings to its customers and why they should start contributing to the platform and its related projects. An interesting and fairly unique feature is the implementation of an openly accessible product/service-demand submission form for people in need. Submissions will be verified for authenticity and correctness. If the submission comes from a person/entity in an area where Mpowa doesn’t have any projects planned, it can (depending on the severity of the situation) spark the company to start a project (in the area of the submission) or decide to serve the person individually. By demand and supply, NFT’s will be created and minted to serve the need and also contains a certificate for the purchaser that can be used to claim SDG Impact Tokens, Tokenized Carbon Credits and/or Governance Tokens. What really matters for contributors to the platform is that they each have a transparent overview of where they’ve sent their money, how it's being used and which impact their contribution has realized. Mpowa is selling impact, sustainability and health to those who care about planet earth and its inhabitants in an auditable and regulatory compliant way, with implementation of its project impact-data in UN SDG reporting. 
 
 
+A SaaS platform is a software that is designed to be accessed over the internet. It can be accessed by multiple users and has a subscription-based pricing model. The nature of a SaaS platform is that it's accessible from anywhere and it's scalable. This means that the more people who use the software, the more powerful it becomes for everyone who uses it.
 
 
-
-
+The USP is the position of your small business as a whole, which can be incorporated into your products, your brand, the experiences you offer, and any other points of contact your customers have with your business. The USP should give you a good idea of who the company's ideal client is. The USP for your business should be backed up by real customer experiences and competitor insights, not just telling the market what the market wants to hear. 
 
 
 
@@ -1063,35 +1063,26 @@ Impact is measured through sticking with guiding principles from the UN SDG Hand
 The distribution of Mpowa SDG-Impact Tokens is done in a regulated manner where the contribution amount in Mpowa Utility Tokens is equivalent (a 1:1 ratio) to the amount of SDG-Impact Tokens that the contributor will receive. 
 Impact analysis is the act of studying the requirements’ data, to understand the pros and cons of any change. As the world keeps evolving, changes are to be expected, even in a well-developed system.	Changes can happen for a variety of reasons: a change in a client’s requirements, adjustments to business needs or new technologies. Since changes can potentially result in a failure, it is prudent to proceed with proper planning when making necessary changes.
 
-
-
-### Partnership Registration
-
-
-
-This is where “Impact Analysis” comes in.
+his is where “Impact Analysis” comes in.
 This is a technique that helps to identify the consequences of any changes being planned in software or a product.
 
 The impact-calculation of projects and products that are offered by Mpowa will be described in the chapter ‘’Methodology”.
 
 
 
-This project has been developed in order to contribute to the United Nations Sustainable Development Goals (SDGs) and it's doing so by providing clean water through Carbon Offset.
 
-It is the first project that integrates carbon offset, water purification and natural eco-system restoration into a single mechanism for sustainable development.
-The SDG Nature Clean Water Platform is a project that aims to provide clean water for the world. The platform is based on a new technology called Carbon Offset, which is an innovative way of solving the water crisis.	A SaaS platform is a software that is designed to be accessed over the internet. It can be accessed by multiple users and has a subscription-based pricing model. The nature of a SaaS platform is that it's accessible from anywhere and it's scalable. This means that the more people who use the software, the more powerful it becomes for everyone who uses it. The USP is the position of your small business as a whole, which can be incorporated into your products, your brand, the experiences you offer, and any other points of contact your customers have with your business. The USP should give you a good idea of who the company's ideal client is. The USP for your business should be backed up by real customer experiences and competitor insights, not just telling the market what the market wants to hear. 
+### Partnership Registration
 
 
+The pilot project is a project that integrates carbon offset, water purification and natural eco-system restoration into an automated and transparent mechanism for sustainable development.
 
-#### SDG Partnership registration
+
 
 One of the requirements to register for Partnership for SDGs with the UN are a clearly defined set of data that is in accordance with the SMART criteria. 
 
 The Partnerships for SDGs online platform is United Nations’ global registry of voluntary commitments and multi-stakeholder partnerships made in support of sustainable development and the 17 Sustainable Development Goals. The Partnerships for SDGs platform also facilitates the sharing knowledge and expertise among multi-stakeholder SDG-related partnerships and voluntary commitments, and for providing periodic updates on their progress.	The Partnership for SDGs platform is open to all stakeholders, including Member States, civil society, local authorities, private sector, scientific and technological community, academia, and others, to register a voluntary commitment or multi-stakeholder partnership which aims to drive the implementation of the 2030 Agenda and the 17 Sustainable Development Goals (SDGs) and to provide periodic updates on progress.
 
 
-
-#### Criteria for Registration
 The Partnership for SDGs online platform welcomes registration of partnerships and voluntary commitments undertaken by Governments, intergovernmental organizations, major groups and other stakeholders that are aligned with SMART deliverables - Specific, Measurable, Achievable, Resource-based, and Time-bound – and that aim to drive the implementation of the 17 Sustainable Development Goals of the 2030 Agenda. After a registration is submitted, the initiative will be reviewed by the UN secretariat, and if qualified, will be published in the online platform. Registered initiatives are encouraged to maintain up-to-date information and periodically self-report progress once a year through the online platform, focusing on how the initiative has contributed to the achievement of specific goals and targets in the 2030 Agenda.
 
 
