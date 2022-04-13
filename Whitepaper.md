@@ -2522,85 +2522,88 @@ The scalability of a business also depends on the effectiveness of communication
 
 
 
-Solvatten
+### Solvatten
 
 
-Equal Aqua 
+### Equal Aqua 
 
 
 
 
-United Nations - Partnership explained 
+### United Nations - Partnership explained 
 Partnership with UN SIDS SAMOA Pathway, for Small Island Developing States.
 
 
 
 
-IGES
+### IGES
 
 
 
-ScalingFunds
+### ScalingFunds
 
 
 
-NGO’s
+### NGO’s
 
 
 
-Ocean Protocol
+### Ocean Protocol
 
 
 
-Parity Technology
+### Parity Technology
 
 
 
-Sovereign Nature’s Initiative
+### Sovereign Nature’s Initiative
 
 
 
-Greendeeds
+### Greendeeds
 
 
 
-Digifinex 
+### Digifinex 
 
 
 
-Green Cross UK
+### Green Cross UK
 
 
 
-Steroid 4.0 Blockchain
+### Steroid 4.0 Blockchain
 
 
 
-Fractal KYC
+### KYC External
 
 
 
-Ayakha Foundation
+### Ayakha Foundation
 
 
 
-Ajunabeats
+### Ajunabeats
 
 
 
-World Bank - Climate Data Warehouse
+### World Bank - Climate Data Warehouse
 
 
 
-CTX Carbon Exchange
+### CTX Carbon Exchange
+
+
+### Toucan 
 
 
 
-HSBC 
+### HSBC 
 
 
 
-Amazix
+
 
 
 
