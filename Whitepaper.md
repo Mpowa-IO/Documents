@@ -575,10 +575,10 @@ Indicator 6.4.2: Level of water stress: freshwater withdrawal as a proportion of
 - Solvatten
 Achieve universal and equitable access to safe and affordable drinking water for all through distributing water purification devices. - Achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations - Improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally.
 
-- ECOLOO
+- ECOLOO: description required.
 
 
-- Other water purifiers, Tba.
+- Other water purifiers: names, manufacturers, deals. In order to scale the project.
 
 
 
