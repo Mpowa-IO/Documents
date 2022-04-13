@@ -574,6 +574,8 @@ Indicator 6.4.2: Level of water stress: freshwater withdrawal as a proportion of
 
 #### Mpowa’s Contribution:
 
+By working with several technology partners, Mpowa aims to contribute to these indicators.
+
 - Solvatten
 Achieve universal and equitable access to safe and affordable drinking water for all through distributing water purification devices. - Achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations - Improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally.
 
