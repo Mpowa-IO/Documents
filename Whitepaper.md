@@ -673,14 +673,14 @@ The DAO ecosystem will select their preferences out of the created jobs / projec
 
 ### Problem 9: Housing shortage, infrastructure problems 
 
-Not enough protection from environmental hazards, not clean enough for infants. Elaborate.
-
+Current housing and sheltering options, in several areas, do not provide enough protection from environmental hazards, are not safe and clean enough for infants, and lower the overal well-beings of its inhabitants.
 
 
 
 
 #### Solution:
-Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation
+
+Raising enough funding to build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation. Health and safety levels will both increase to socially acceptable standards.
 
 
 
