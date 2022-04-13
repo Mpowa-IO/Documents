@@ -2466,22 +2466,24 @@ This is why we work with Delegated PoS, carbon offset is reserved and not sold t
 
 The name is an acronym for the four components the technique examines:
 
-### Strengths: characteristics of the business or project that give it an advantage over others
+### Strengths: 
+characteristics of the business or project that give it an advantage over others
 
 
-### Weaknesses: characteristics that place the business or project at a disadvantage relative to others
+### Weaknesses: 
+Characteristics that place the business or project at a disadvantage relative to others
 
 
-### Opportunities: elements in the environment that the business or project could exploit to its advantage
+### Opportunities: 
+Elements in the environment that the business or project could exploit to its advantage
 
 
-Threats: elements in the environment that could cause trouble for the business or project
-
-SWOT analysis (or SWOT matrix) is a strategic planning and strategic management technique used to help a person or organization identify strengths, weaknesses, opportunities, and threats related to business competition or project planning. It is sometimes called situational assessment or situational analysis.[1] Additional acronyms using the same components include TOWS and WOTS-UP.[2][3]
-This technique is designed for use in the preliminary stages of decision-making processes and can be used as a tool for evaluation of the strategic position of organizations of many kinds (for-profit enterprises, local and national governments, NGOs, etc.).[4] It is intended to identify the internal and external factors that are favorable and unfavorable to achieving the objectives of the venture or project. Users of a SWOT analysis often ask and answer questions to generate meaningful information for each category to make the tool useful and identify their competitive advantage. SWOT has been described as a tried-and-true tool of strategic analysis,[5] but has also been criticized for its limitations, and alternatives have been developed.
+### Threats: elements in the environment that could cause trouble for the business or project
 
 
-Corporate planning includes steps such as:[18]
+
+
+### Corporate planning includes steps such as:[18]
 Setting objectives—defining what the organization is going to do
 Environmental scanning
 Internal appraisals of the organization—an assessment of the present situation as well as a portfolio of products/services and an analysis of the product/service lifecycle
