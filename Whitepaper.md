@@ -615,8 +615,7 @@ Indicator 7.2.1: Renewable energy share in the total final energy consumption
 
 
 #### Mpowa’s Contribution: 
-
-Long term vision and 2023 projects. 
+Many additional partships and agreements have to be made before Mpowa can utilize groundbraking technologies to drastically accelerate the supply of sustainably generated energy. In order to contribute to the supply of clean energy and thus assist in the equally abundantly-available and affordable access to sustainably generated energy and electricity, current partnerships will be utilized and compensated to the fullest to ensure co-operability and good-will from areas where the partnerships have yet to get established. 
 
 
 
@@ -624,11 +623,7 @@ Long term vision and 2023 projects.
 
 
 
-
-
 This indicator is defined as the percentage change in the real GDP per capita between two consecutive years. 
-
-
 
 
 #### Solution: 
