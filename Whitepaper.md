@@ -666,6 +666,9 @@ Indicator 8.8.1: Fatal and non-fatal occupational injuries per 100,000 workers, 
 
 #### Mpowa’s Contribution:
 
+Job creation in areas where Mpowa is active, a variety of these jobs can then be funded and managed through the platform.
+The DAO ecosystem will select their preferences out of the created jobs / projects that will get their priority for funding allocation by external investors and investor representatives. 
+
 
 
 
