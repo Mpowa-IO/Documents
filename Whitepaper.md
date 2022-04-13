@@ -1551,11 +1551,8 @@ The Platform manages and connects all Mpowa Energy Units to the blockchain, wher
 
 
 
-
 An organization represented by rules encoded as a computer program that is transparent, controlled by the organization members and not influenced by a central government.
 A DAO's financial transaction record and program rules are maintained on a blockchain.  
-
-TBA
 
 
 
@@ -1564,15 +1561,26 @@ TBA
 
 
  Mpowa’s platform and tokens pairs with a blockchain based DAO (Decentralized Autonomous Organization), which gives the users control and transparency. Mpowa’s native blockchain is constructed using Parity Technology’s Substrate framework, elaborated upon in the chapter “The Technology”.
-Several years after Bitcoin was launched, DAOs became a useful mechanism developers and adopters to work together in a harmonized and democratic way. The tech represents financial sovereignty and a digital data-currency instrument, thus Bitcoin opened up countless opportunities. Opportunities and innovative ideas find a ground wherein they can gather resources in a creative way to bring projects to life. DAOs promised to revolutionize how we structure socio-economic relationships. Facilitating solutions for ancient problems is where the DAO comes in, due to the (decentralized) power of many. Now the question arrises: Key features and benefits of a DAO-structure- The ability to structure large-scale, merit-based communities with minimal entrance barriers, factor in externalities, and – much in the Bitcoin spirit – break free from relying on traditional institutions. 
+Several years after Bitcoin was launched, DAOs became a useful mechanism developers and adopters to work together in a harmonized and democratic way. 
+
+The tech represents financial sovereignty and a digital data-currency instrument, thus Bitcoin opened up countless opportunities. Opportunities and innovative ideas find a ground wherein they can gather resources in a creative way to bring projects to life. DAOs promised to revolutionize how we structure socio-economic relationships. Facilitating solutions for ancient problems is where the DAO comes in, due to the (decentralized) power of many. Now the question arrises: Key features and benefits of a DAO-structure- The ability to structure large-scale, merit-based communities with minimal entrance barriers, factor in externalities, and – much in the Bitcoin spirit – break free from relying on traditional institutions. 
 - Organize and coordinate the efforts and resources of members via an a priori estimate, anonymous but formalized, and transparent set of rules that are agreed upon in a multilateral fashion.
+
+
+
 Usually, one of the core elements of any definition of a DAO is the notion of “decentralization”. This often talked about, yet poorly understood concept is avoided as it warrants a more detailed analysis on its own.
 Within the crypto-verse, the term “decentralization” either refers to the physical distribution of hardware (think: validating nodes & full nodes) or the diffusion of political influence. In this case, the latter is relevant. Instead of having a classical hierarchical power distribution, the common approach of any DAO is to foster coordination on a peer-to-peer basis. This element can be described as a multilateral decision-making process.
 The second major component of any DAO is “autonomy”, which can be best described by the ability to govern itself.
 This ability to be self-governed arises from using smart contracts to stipulate software encoded “rules of the game” for any given DAO. Accordingly, a DAO is governed by an a priori binding, formalized, and transparent set of rules. The respective smart contracts may execute organizational functions in an automated manner, irrespective of the involvement or absence of any other party.
+
+
+
 The autonomy of any DAO could thus be generalized as “the degree to which smart contracts govern activity”.
 When adopting a new institutional economics perspective, it is possible to describe all activities by value streams. This description is especially apt for a transactional ecosystem that is not based on (interpersonal) trust. The ability of a DAO to initiate value streams - i.e., to act and therefore be autonomous - thus hinges on the ability to allocate and manage resources (i.e., funds). The autonomy of any DAO is consequently inherently linked to the DAO’s direct control over resources.
 By focusing on what is governed by multilateral agreements and how a DAO exerts control over resources, these first two components are foremost defining the scope of any DAO.
+
+
+
 Besides the scope, there must be an eventual consensus on how to act within this “multilaterally agreed upon autonomy”. Essentially the question is: how can a DAO decide over what components it has control?
 In order to answer this question, some deliberation and a subsequent decision-making process must be present.
 The deliberation must formalize some agreed-upon discussion process, which could be either discretionary or rule-based. Usually, discussed upon proposals are subsequently voted on. By definition, this voting process has to be conducted on-chain, as it would otherwise not be possible to have certainty about rule adherence.
@@ -1627,10 +1635,6 @@ The Paris Agreement complicates this older picture considerably. The fact that e
 Currently, it is envisioned that double counting will be avoided through “robust” accounting methods (the language used in Article 6). Specifically, if a country transfers an emission reduction, it will adjust its GHG balance sheets so that the reduction is not counted toward its pledged “contribution,” while a country receiving the transfer can apply the reduction to its own GHG balance sheet.[1] Similar accounting will likely be done for emission reductions funded by the international aviation industry, which has pledged to offset any increase in its GHG emissions after 2020.[2] In principle, the same methods could be applied to backstop claims for carbon offset credits purchased by private voluntary buyers.
 
 
-
-
-
-
 A variety of terms are frequently used to define quality criteria for carbon offsets, including that associated GHG reductions must be “real,” “quantifiable,” and “verifiable.” Most of these terms have their origin in regulatory criteria established for air pollutant credits under the U.S. Clean Air Act (going back to 1977). However, these terms have distinct regulatory meanings under U.S. law that do not always translate meaningfully to carbon offsets. The term “real,” for example, has no commonly agreed definition across carbon offset programs and standards, and is often used as a vague catch-all.[2]
 
 For this guide, therefore, we have distilled the essential elements of carbon offset quality down to five criteria. In short, quality carbon offset credits must be associated with GHG reductions or removals that are:
@@ -1645,25 +1649,9 @@ For this guide, therefore, we have distilled the essential elements of carbon of
 
 ### Gold Standard or Verra ?
 
-
-
-
 https://www.goldstandard.org/blog-item/carbon-pricing-what-carbon-credit-worth
 
-
-
-
-
-
-
-
-
 Carbon offset price per tonne, approximation by Gold Standard. 
-
-
-
-
-
 
 
 
@@ -1688,12 +1676,7 @@ ScalingFunds standardises the complex setup, capital raising and administrative 
 
 
 
-
-
 ## Decarbonizer App
-
-
-
 
 A disruptive new Blockchain-based Application that empowers users to have an impact by financing clean-tech projects and become part of a collective force developing a decentralized, autonomous organization that facilitates the transition towards resource abundance. 
 Our dApp has an integrated wallet that will represent your Mpowa Utility Tokens, Project Tokens and Data tokens.
@@ -1704,14 +1687,7 @@ An IMPACTOR navigates through different projects, investigate the details, and f
 
 
 
-
-
 ## Impact-NFT Marketplace
-
-
-
-
-
 
 
 
@@ -1725,8 +1701,6 @@ Mpowa’s team is international with the company ‘’Mpowa Ltd’’ being fou
 
 
 
-
-
 ## Methodology
 
 > This chapter will contain the data collection method for each indicator, and the workflow of the project.
@@ -1734,7 +1708,7 @@ Mpowa’s team is international with the company ‘’Mpowa Ltd’’ being fou
 
 ### Data Sources and Collection Method
 
-Indicator 1: tba
+Indicator 1: 
 
 In order to actually attach verifiable impact to Mpowa platform contributions, we work together with the United Nations program Sustainable Development Goals, in line with the goals set in Agenda 2030. 
 
@@ -1808,6 +1782,7 @@ https://www.carboncare.org/en/co2-emissions-calculator.html
 
 
 ### Solvatten Impact
+
 10 Tonne per lifetime use.
 Approx 1,5 T per year. 
 
@@ -1838,12 +1813,11 @@ https://www.climateneutralgroup.com/en/climate-projects/solar-cooking-chad/
 
 To be documented
 Enzymes, medical supplies, etc.
-DATA UNKNOWN
+
 
 
 ### Education
-DATA REQUIRED
-
+//NAN
 
 
 ## The Technology 
@@ -1940,12 +1914,9 @@ Tokens are used by smart contracts to manage the ownership rights (and duties) o
 
 
 
-
-
 ### Tokens
 
-
-Our tokens are based on recognized and validated standards, such as the ERC20 and the ERC721, to attest to a certain safety standard. Of course there are alterations made to the open source code, because we need a different model for each token.
+Mpowa's tokens are based on recognized and validated standards, such as the ERC20 and the ERC721, to attest to a certain safety standard. Of course there are alterations made to the open source code, because we need a different model for each token.
 
 
 
@@ -1984,8 +1955,6 @@ Participants can purchase project-based NFT’s in a separate marketplace, to di
 
 Through research, suggestions will be given to marketplace participants in terms of necessity of projects. If there’s a higher necessity for a certain NFT-kit to be minted or a higher participation rate (meaning the project will be realized sooner), implementing those suggestions in your NFT-Mint will result into receiving a larger amount of Impact Tokens, because Carbon Offset profits will be generated sooner than later, and logically, the impact will happen sooner. 
 
-
-We've utilized the following tech: ..
 
 
 ### Cybersecurity
