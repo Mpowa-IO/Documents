@@ -1075,13 +1075,9 @@ The impact-calculation of projects and products that are offered by Mpowa will b
 ### Partnership Registration
 
 
-The pilot project is a project that integrates carbon offset, water purification and natural eco-system restoration into an automated and transparent mechanism for sustainable development.
-
-
 One of the requirements to register for Partnership for SDGs with the UN are a clearly defined set of data that is in accordance with the SMART criteria. 
 
 The Partnerships for SDGs online platform is United Nations’ global registry of voluntary commitments and multi-stakeholder partnerships made in support of sustainable development and the 17 Sustainable Development Goals. The Partnerships for SDGs platform also facilitates the sharing knowledge and expertise among multi-stakeholder SDG-related partnerships and voluntary commitments, and for providing periodic updates on their progress.	The Partnership for SDGs platform is open to all stakeholders, including Member States, civil society, local authorities, private sector, scientific and technological community, academia, and others, to register a voluntary commitment or multi-stakeholder partnership which aims to drive the implementation of the 2030 Agenda and the 17 Sustainable Development Goals (SDGs) and to provide periodic updates on progress.
-
 
 The Partnership for SDGs online platform welcomes registration of partnerships and voluntary commitments undertaken by Governments, intergovernmental organizations, major groups and other stakeholders that are aligned with SMART deliverables - Specific, Measurable, Achievable, Resource-based, and Time-bound – and that aim to drive the implementation of the 17 Sustainable Development Goals of the 2030 Agenda. After a registration is submitted, the initiative will be reviewed by the UN secretariat, and if qualified, will be published in the online platform. Registered initiatives are encouraged to maintain up-to-date information and periodically self-report progress once a year through the online platform, focusing on how the initiative has contributed to the achievement of specific goals and targets in the 2030 Agenda.
 
@@ -1091,54 +1087,33 @@ The Partnership for SDGs online platform welcomes registration of partnerships a
 
 Way of going about it
 
-
-The SMART criteria
-Specific: Registered initiatives should aim for concrete deliverables, contributing to specific goals and targets under the 2030 Agenda. In the case of multi-stakeholder partnerships, each partner should have a clear role to play.
-Measurable: To facilitate review of progress, registered initiatives should set measurable progress indicators.
-Achievable: Registered initiatives should set attainable goals and strive to deliver results.
-Resource-based: Initiatives should have a secured resource base, rather than merely project proposals,
-Time-bound: Deliverables should be time-specific.
+Data standards and metadata.
+Data reporting, inclusion. SDK-toolkit explanation.
 
 
 
-The November 1981 issue of Management Review contained a paper by George T. Doran called There's a S.M.A.R.T. way to write management's goals and objectives.[1][4] It discussed the importance of objectives and the difficulty of setting them.
-Ideally speaking, each corporate, department, and section objective should be:
-Specific – target a specific area for improvement.
-Measurable – quantify or at least suggest an indicator of progress.
-Assignable – specify who will do it.
-Realistic – state what results can realistically be achieved, given available resources.
-Time-related – specify when the result(s) can be achieved.
-
-
-
-
-#### Partnership Data for SDGs
-The Partnership Data for SDGs (PD4SDGs)7 initiative is a collaboration between the Division for Sustainable Development Goals of UN-DESA, the UN Office for Partnerships and the UN Global Compact, aimed at improving the transparency, accountability and the sharing of experiences of the work being carried out by multi-stakeholder partnerships and voluntary commitments in their support to the implementation of the Sustainable Development Goals (SDGs).	The initiative seeks to bring greater transparency, coherence, impact, and comparability of the work carried out by multi-stakeholder partnerships and voluntary commitments by promoting a system- wide use of the established SMART criteria – a partnership/commitment that is Specific, Measurable, Achievable, Resource-based, with clear and Time-based deliverables.	There is a growing trend to collect voluntary commitments and partnerships in support of UN conferences and processes dealing with sustainable development, sometimes with varying degree of associated level of details, which could lead to difficulty in reviewing impact, track progress and conduct in-depth and global comparability analyses on announced commitments and partnerships. It is against this background the Partnership Data for SDGs initiative has been developed.	The initiative is open for all entities within the United Nations that engage with, and promote the work of, multi-stakeholder partnerships and voluntary commitments in driving implementation of the SDGs.
+The initiative is open for all entities within the United Nations that engage with, and promote the work of, multi-stakeholder partnerships and voluntary commitments in driving implementation of the SDGs.
 
 7 Partnership Data for SDGs (PD4SDGs) - https://sustainabledevelopment.un.org/sdinaction/pd4sdgs
 
 
 
-
-
 #### SDG Impact Standards
-
-
 
 The SDG Impact Standards are best practice standards for entities wanting to embed contributing positively to sustainable development and achieving the SDGs into their approach to creating value for themselves and for Stakeholders (people and planet).
 They are not reporting standards. They focus on the internal management and decision-making practices that are needed to support more informed and accountable internal decision making and choices in line with achieving the SDGs and other sustainable development outcomes.
 The Standards embed the SDGs and the Impact Management Project’s norms as the shared language to understand, manage and communicate impact. The Standards also embed the United Nations Guiding Principles for Business and Human Rights and the Ten Principles of the United Nations Global Compact, to underscore the importance of respect for human rights and other responsible business practices in contributing positively to sustainable development and achieving the SDGs.
 
 
+### Standard 1 (Strategy): Embedding foundational elements into purpose and strategy
 
 
-Standard 1 (Strategy): Embedding foundational elements into purpose and strategy
 
-Standard 2 (Management Approach): Integrating foundational elements into operations and management approach
+### Standard 2 (Management Approach): Integrating foundational elements into operations and management approach
 
-Standard 3 (Transparency): Disclosing how foundational elements are integrated into purpose, strategy, management approach and governance, and reporting on performance
+### Standard 3 (Transparency): Disclosing how foundational elements are integrated into purpose, strategy, management approach and governance, and reporting on performance
 
-Standard 4 (Governance): Reinforcing commitment to foundational elements through governance practices
+### Standard 4 (Governance): Reinforcing commitment to foundational elements through governance practices
 
 
 
@@ -1152,17 +1127,19 @@ The SDG Impact Standards aim to provide the building blocks for an internal impa
 ### SDK-Toolkit
 
 
-
 SDG Impact Standards for Enterprises
 UNDP is pleased to release Version 1.0 of the SDG Impact Standards for Enterprises, following two rounds of public consultation. We are thankful that so many individuals and organizations took the time for thoughtful reflection and comment through the development of the SDG Impact Standards for Enterprises and on both rounds of public consultation. This has had a significant influence on the Standards. Thank you.
 We encourage robust feedback and input through the public consultation process, including written responses to the consultation questions and look forward to further feedback from all.
 
 About the SDG Impact Standards
 Enterprises and investors increasingly recognize that sustainable development is at the core of long-term value creation but are not yet systematically integrating sustainability and impact considerations in their decision-making. SDG Impact aims to help make this process easier through SDG Impact Standards.
+
 The SDG Impact Standards are practice standards, revolving around internal decision-making, designed to transform how enterprises and investors think about value creation, and integrate impact management and contributing positively to the SDGs in their strategy, management approach, disclosure, and governance practices. Grounded in existing principles, standards and market best practices, the Standards provide context for applying other tools and frameworks, including metrics, taxonomies, and reporting frameworks.
+
 In addition to the Standards for Enterprises, SDG Impact is developing Standards for Bonds Issuers and Standards for Private Equity Funds. SDG Impact also collaborated with the OECD in the development of Impact Standards for Financing Sustainable Development (IS-FSD).
 
-#### About the Standards for Enterprises
+
+
 The Standards are for Enterprises committed to contributing positively to sustainable development and towards achieving the SDGs. All Enterprises – irrespective of size, geography, or sector – can use the Standards. This includes publicly listed enterprises, public-interest, and private entities (both for-profit or not-for-profit), non-governmental organizations (NGOs), small and medium enterprises (SMEs), and state-owned or other public-sector entities.
 The Standards set out a decision-making framework to help Enterprises integrate impact management into their strategy, management approach, disclosure, governance and decision-making practices. They help Enterprises link their approach to creating long-term, sustainable value for the Enterprise with contributing positively to sustainable development in line with the SDGs. They do this by directing attention and resources to where Enterprises can optimize their contribution by focusing on material positive and negative impacts. Embedding the Standards into management decision-making will strengthen impact performance and facilitate higher quality and more consistent disclosures.
 
@@ -1174,33 +1151,11 @@ and is realized through effective impact management and decision-making
 
 
 
-Standard 1 (Strategy): Embedding foundational elements into purpose and strategy
-Standard 2 (Management Approach): Integrating foundational elements into operations and management approach
-Standard 3 (Transparency): Disclosing how foundational elements are integrated into purpose, strategy, management approach and governance, and reporting on performance
-Standard 4 (Governance): Reinforcing commitment to foundational elements through governance practices
-
-
 
 SDG Impact Standards for Enterprises – Enterprise Actions
 The Standards are provided to organizations as a ‘best practice’ guide to help them operate more sustainably and optimize their contribution to sustainable development and the SDGs by integrating responsible business and impact management practices into their organizational systems and internal decision-making.
 Enterprises can follow the following actions to properly integrate operating sustainably and contributing positively to sustainable development and the SDGs into their organizational systems and decision-making.
 
-STRATEGY
-Action 1. Commit to operating responsibly and sustainably, contributing positively to the SDGs, and optimizing impact
-Action 2. Understand what’s important to Stakeholders and achievement of the SDGs, and where the Enterprise is making impacts to determine where material impact can be made in the future
-Action 3. Embed impact into purpose and strategy
-Action 4. Set impact goals in line with now integrated purpose and strategy
-Action 5. Adjust strategy and impact goals as needed to optimize impact
-MANAGEMENT APPROACH
-Action 6. Align organizational culture, structure, capabilities, systems, and incentives with purpose and strategy
-Action 7. Develop methodology, processes, and systems to effectively measure impacts, and integrate into business decision-making
-Action 8. Assess, compare, and monitor material impacts over time, with external benchmarks and between stakeholder groups and subgroups, generate options for increasing impact and make choices between options
-Action 9. Embed continuous improvement, updating impact management practices as needed
-TRANSPARENCY
-Action 10. Disclose how responsible business practices, sustainability and contributing positively to the SDGs are integrated into decision-making and report on performance
-GOVERNANCE
-Action 11. Integrate responsible business and impact management practices into governance framework
-Action 12. Ensure governing body leads by example
 
 
 
@@ -1250,35 +1205,55 @@ How is the platform data distributed and verified?
 
 
 ### Environment statistics serve a variety of users, including but not limited to:
+
 i. Policy and decision makers at all levels;
 ii. The general public, including media and civil society;
 iii. Analysts, researchers and academia; and
 iv. International agencies.
-1.7. Different users need environment statistics at different levels of aggregation and depths of information. They may need cross-cutting environment statistics data sets, for instance regarding climate change. In other cases, they may be interested only in particular topics and themes pertaining to specific sectoral analysis and policymaking. Policy- and decision-makers at the highest levels and the general public would tend to use environmental indicators and more aggregated statistics. Environmental administration, researchers, analysts and academics may be more inclined to examine extensive and detailed environment statistics. International agencies typically have well-articulated needs for environment statistics based on environmental agreements or international data collection processes.
+
+1.7. Different users need environment statistics at different levels of aggregation and depths of information. 
+They may need cross-cutting environment statistics data sets, for instance regarding climate change. In other cases, they may be interested only in particular topics and themes pertaining to specific sectoral analysis and policymaking. Policy- and decision-makers at the highest levels and the general public would tend to use environmental indicators and more aggregated statistics. Environmental administration, researchers, analysts and academics may be more inclined to examine extensive and detailed environment statistics. International agencies typically have well-articulated needs for environment statistics based on environmental agreements or international data collection processes.
 Overview of Environment Statistics—Characteristics and Challenges 7
+
 1.8. Environment statistics support evidence-based policymaking by making it possible to identify environmental policy issues and quantify the measures and impacts of policy initiatives objectively. They strengthen assessments through quantitative metrics, making analyses more robust through the use of timely and comparable data. The type; level of thematic, spatial and temporal aggregation; and format of environment statistics depend on the type of user and intended use. The main products of environment statistics are detailed tabulated environment statistics series and environmental indicators, both of which can be stored in multipurpose databases and disseminated in the form of online databases, as well as different types of publications, such as compendiums, yearbooks, thematic reports, and analytical publications, such as state of the environment reports.
+
 1.4. Environmental information, data, statistics and indicators
+
 1.9. Environmental information includes quantitative and qualitative facts describing the state of the environment and its changes. Quantitative environmental information is generally produced in the form of data, statistics and indicators, and is generally disseminated through databases, spreadsheets, compendiums and yearbooks. Qualitative environmental information consists of descriptions (e.g., textual or pictorial) of the environment or its constituent parts that cannot be adequately represented by accurate quantitative descriptors.
+
 1.10. Environmental data are large amounts of unprocessed observations and measurements about the environment and related processes. They may be collected or compiled via statistical surveys (censuses or sample surveys) by the national statistical system or may originate from administrative records, geographic databases, registers, inventories, monitoring networks, thematic mapping, remote sensing, scientific research and field studies.
+
 1.11. Environment statistics are environmental data that have been structured, synthesized and aggregated according to statistical methods, standards and procedures. The role of environment statistics is to process environmental and other data into meaningful statistics that describe the state of and trends in the environment and the main processes affecting them. Not all environmental data are used to produce environment statistics. The FDES provides a frame- work that identifies environmental and other data that fall within its scope and then contributes to structuring, synthesizing and aggregating the data into statistical series and indicators.
+
 1.12. Environmental indicators are environment statistics that have been selected for their ability to depict important phenomena or dynamics. Environmental indicators are used to synthesize and present complex environment and other statistics in a simple, direct, clear and relevant way. Environmental indicators are generated because environment statistics are usually too numerous and detailed to meet the needs of policymakers and the general public, and often require further processing and interpretation to be meaningful. Environmental indica- tors may take various forms such as rates, ratios or proportions, and be constructed at different levels of aggregation. The purpose of these indicators is to assess present and future directions with respect to goals and targets, evaluate and determine the impact of specific programs, monitor progress, measure changes in a specific condition or situation over time, and con- vey messages. Policy frameworks such as the Millennium Development Goals (MDGs) and Sustainable Development Goals (SDGs), the Driving force-Pressure-State-Impact-Response (DPSIR) framework and national environment/sustainable development indicator sets, are typically used to identify and structure indicators.
+
 1.13. Environmental indices are composite or more complex measures that combine and synthesize more than one environmental indicator or statistic and are weighted according to different methods. An index can provide a valuable summary measure to communicate important messages in an accessible way and, thus, raise awareness. However, they often raise questions regarding their proper interpretation, methodological soundness, subjectivity of the weighting, and the quality of the underlying statistics.
+
 1.14. Environment statistics organized primarily within the FDES may be structured for specific analytical purposes based on different analytical frameworks, such as the DPSIR framework, issue-based frameworks which focus on specific environmental problems (e.g., climate change, air pollution and land degradation), policy-based frameworks such as sus- tainable development strategies, or assessment frameworks such as those used in state of the environment reports.
+
 1.15. Accounting frameworks, such as the SEEA, reorganize the relevant environment statistics according to stocks and flows within and between the environment and the economy, based on the principles of the System of National Accounts (SNA). In this way, it creates links between environment statistics and the SNA and facilitates the analysis of relationships between the economy and the environment.
+
 1.16. These types of environment statistics are all important and interdependent. They feed back into each other to produce diverse and complementary products that can be used for different purposes and that fit specific user needs and resources of countries or agencies. Ideally, information about the environment should be produced and used as a multipurpose information system which would increase synergy, consistency and efficiency in the use of limited financial resources.
+
 1.5. Sources of environment statistics
+
 1.17. Environment statistics synthesize data originating from various types of sources. Thus, the data used to produce environment statistics are not only compiled by different collection techniques, but also by various institutions. Types of sources include:
+
 i. statistical surveys (e.g., censuses or sample surveys of population, housing, agriculture, enterprises, households, employment, and different aspects of environment management);
 ii. administrative records of government and non-government agencies responsible for natural resources, as well as other ministries and authorities;
 iii. remote sensing and thematic mapping (e.g., satellite imaging and mapping of land use and land cover, water bodies or forest cover);
 iv. monitoring systems (e.g., field-monitoring stations for water quality, air pollution or climate);
 v. scientific research and special projects undertaken to fulfill domestic or international demand.
+
 1.18.
 mating certain types of emissions to the air, statistical surveys are used in combination with scientific research. While statistical surveys and administrative records are commonly used in all areas of statistics (economic, social and environment) and the use of remote sensing data has become widespread, the use of data from monitoring networks, scientific research and special projects are specific mostly to the production of environment statistics.
+
 1.19. Environment statistics rely considerably on data that are collected by direct measurements using a variety of methods, including remote sensing and field-monitoring stations.
 
 Most countries have agencies that are primarily responsible for monitoring environmental resources and conditions. They may be entities in their own right or government agencies with other primary functions that also have departments concerned with environmental matters. These agencies typically produce two main types of data: (i) measured data (obtained by direct observation, field measurements and remote sensing); and (ii) calculated data (derived using estimates and modeling).
+
 1.20. The use of estimates and modeling to generate environmental data can improve overall data quality, including accuracy and coverage, especially when models draw upon two or more sets of observations, such as field observations coupled with global satellite-based observations. Models may also incorporate administrative data or data resulting from statistical surveys or special projects.
+
 1.21. The main characteristics, advantages and disadvantages of these types of sources of environment statistics are discussed below.6
 
 ### Overview of Environment Statistics—Characteristics and Challenges
@@ -1332,9 +1307,9 @@ Ocean pro, Chainlink, World Bank Data Warehouse, etc.
 
 
 ### Mpowa data collection methods
-Pilot project: Manual entry per batch of water cleaned.
 
-
+Through the Decarbonizer app, where for each project a specific project-area can be accessed through the app to provide validated project-data.
+Not to forget the additional applications that are going to be created using our SDK-Toolkit from which data will be received in order to distribute transparent and verified SDG Impact-tokens. 
 
 
 
@@ -1342,6 +1317,54 @@ Pilot project: Manual entry per batch of water cleaned.
 
 An overview of the data that will be accesible for everyone, to validate our project, and the data that can only be seen by parties that are entitled to viewing it.
 
+### NFTs:
+
+Public:
+
+
+
+
+Private:
+
+
+
+### SDG Impact Tokens:
+
+Public:
+
+
+
+
+Private:
+
+
+
+
+### mUSD, stablecoin:
+
+Public:
+
+
+
+
+### mGOV:
+
+
+Public:
+
+
+
+Private:
+
+
+
+### mTE:
+
+
+Public:
+
+
+Private: 
 
 
 
