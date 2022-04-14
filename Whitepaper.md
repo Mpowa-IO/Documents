@@ -1198,14 +1198,20 @@ It’s critical to understand the specific set of requirements and features that
 
 ## Data & Statistics
 
-
 Though environmental statistics is still a relatively new statistical domain, the demand for such statistics is increasing in conjunction with continuing environmental degradation and the obstacles associated with improved environmental management. The recognition that human well-being depends on the environment has led to an increasing list of environmental problems on which decisions must be taken, such as climate change, biodiversity loss and natural resource management. Given the need for governments, businesses, households and other decision makers to deal effectively with these issues, the environment statistics informing them must be of the highest quality possible.
 
-Environment statistics provide information about the state and changes of environmental conditions, the quality and availability of environmental resources, the impact of human activities and natural events on the environment and the impact of changing environmental conditions. They also provide information about the social actions and economic measures that societies take to avoid or mitigate these impacts and to restore and maintain the capacity of the environment to provide the services that are essential for life and human well-being.
+Environmental statistics provide information about the state and changes of environmental conditions, the quality and availability of environmental resources, the impact of human activities and natural events on the environment and the impact of changing environmental conditions. They also provide information about the social actions and economic measures that societies take to avoid or mitigate these (negative) impacts and to restore and maintain the capacity of the environment to provide the services that are essential for life and human well-being.
 
+### FDES
 Environment statistics thus cover a wide range of information and are multi- and inter- disciplinary in nature. They originate from a variety of institutions that collect data and, similarly, numerous methods are used to compile them. The field of environment statistics requires an appropriate framework to guide its development, coordination and organization. Framework for the Development of Environment Statistics (FDES 2013)
 
-This environment statistics framework (i) marks out the scope of environment statistics; (ii) facilitates a synthesized presentation of data from various subject areas and sources; (iii) simplifies the complexity of the environment appropriately so that it can be measured more easily; (iv) helps to identify the range of statistics relevant to societal decision-making regarding the environment; (v) is consistent with statistical frameworks already used in other domains to facilitate the integration of environment statistics; and (vi) is conceptually based.
+Framework:
+- marks out the scope of environment statistics; 
+- facilitates a synthesized presentation of data from various subject areas and sources; 
+- simplifies the complexity of the environment appropriately so that it can be measured more easily; 
+- helps to identify the range of statistics relevant to societal decision-making regarding the environment; 
+- is consistent with statistical frameworks already used in other domains to facilitate the integration of environment statistics; and 
+- is conceptually based.
 
 
 ### Dissaggregation
@@ -1219,39 +1225,36 @@ How is the platform data distributed and verified is displayed below:
 
 
 
-1.8. Environment statistics support evidence-based policymaking by making it possible to identify environmental policy issues and quantify the measures and impacts of policy initiatives objectively. They strengthen assessments through quantitative metrics, making analyses more robust through the use of timely and comparable data. The type; level of thematic, spatial and temporal aggregation; and format of environment statistics depend on the type of user and intended use. The main products of environment statistics are detailed tabulated environment statistics series and environmental indicators, both of which can be stored in multipurpose databases and disseminated in the form of online databases, as well as different types of publications, such as compendiums, yearbooks, thematic reports, and analytical publications, such as state of the environment reports.
+Environment statistics support evidence-based policymaking by making it possible to identify environmental policy issues and quantify the measures and impacts of policy initiatives objectively. They strengthen assessments through quantitative metrics, making analyses more robust through the use of timely and comparable data. The type; level of thematic, spatial and temporal aggregation; and format of environment statistics depend on the type of user and intended use. The main products of environment statistics are detailed tabulated environment statistics series and environmental indicators, both of which can be stored in multipurpose databases and disseminated in the form of online databases, as well as different types of publications, such as compendiums, yearbooks, thematic reports, and analytical publications, such as state of the environment reports.
 
 
-1.9. Environmental information includes quantitative and qualitative facts describing the state of the environment and its changes. Quantitative environmental information is generally produced in the form of data, statistics and indicators, and is generally disseminated through databases, spreadsheets, compendiums and yearbooks. Qualitative environmental information consists of descriptions (e.g., textual or pictorial) of the environment or its constituent parts that cannot be adequately represented by accurate quantitative descriptors.
+Environmental information includes quantitative and qualitative facts describing the state of the environment and its changes. Quantitative environmental information is generally produced in the form of data, statistics and indicators, and is generally disseminated through databases, spreadsheets, compendiums and yearbooks. Qualitative environmental information consists of descriptions (e.g., textual or pictorial) of the environment or its constituent parts that cannot be adequately represented by accurate quantitative descriptors.
 
-1.10. Environmental data are large amounts of unprocessed observations and measurements about the environment and related processes. They may be collected or compiled via statistical surveys (censuses or sample surveys) by the national statistical system or may originate from administrative records, geographic databases, registers, inventories, monitoring networks, thematic mapping, remote sensing, scientific research and field studies.
-
-
-FDES framework!
+Environmental data are large amounts of unprocessed observations and measurements about the environment and related processes. They may be collected or compiled via statistical surveys (censuses or sample surveys) by the national statistical system or may originate from administrative records, geographic databases, registers, inventories, monitoring networks, thematic mapping, remote sensing, scientific research and field studies.
 
 
-1.12. Environmental indicators are environment statistics that have been selected for their ability to depict important phenomena or dynamics. Environmental indicators are used to synthesize and present complex environment and other statistics in a simple, direct, clear and relevant way. Environmental indicators are generated because environment statistics are usually too numerous and detailed to meet the needs of policymakers and the general public, and often require further processing and interpretation to be meaningful. Environmental indica- tors may take various forms such as rates, ratios or proportions, and be constructed at different levels of aggregation. The purpose of these indicators is to assess present and future directions with respect to goals and targets, evaluate and determine the impact of specific programs, monitor progress, measure changes in a specific condition or situation over time, and con- vey messages. Policy frameworks such as the Millennium Development Goals (MDGs) and Sustainable Development Goals (SDGs), the Driving force-Pressure-State-Impact-Response (DPSIR) framework and national environment/sustainable development indicator sets, are typically used to identify and structure indicators.
 
-1.13. Environmental indices are composite or more complex measures that combine and synthesize more than one environmental indicator or statistic and are weighted according to different methods. An index can provide a valuable summary measure to communicate important messages in an accessible way and, thus, raise awareness. However, they often raise questions regarding their proper interpretation, methodological soundness, subjectivity of the weighting, and the quality of the underlying statistics.
+Environmental indicators are environment statistics that have been selected for their ability to depict important phenomena or dynamics. Environmental indicators are used to synthesize and present complex environment and other statistics in a simple, direct, clear and relevant way. Environmental indicators are generated because environment statistics are usually too numerous and detailed to meet the needs of policymakers and the general public, and often require further processing and interpretation to be meaningful. Environmental indica- tors may take various forms such as rates, ratios or proportions, and be constructed at different levels of aggregation. The purpose of these indicators is to assess present and future directions with respect to goals and targets, evaluate and determine the impact of specific programs, monitor progress, measure changes in a specific condition or situation over time, and con- vey messages. Policy frameworks such as the Millennium Development Goals (MDGs) and Sustainable Development Goals (SDGs), the Driving force-Pressure-State-Impact-Response (DPSIR) framework and national environment/sustainable development indicator sets, are typically used to identify and structure indicators.
 
-1.14. Environment statistics organized primarily within the FDES may be structured for specific analytical purposes based on different analytical frameworks, such as the DPSIR framework, issue-based frameworks which focus on specific environmental problems (e.g., climate change, air pollution and land degradation), policy-based frameworks such as sus- tainable development strategies, or assessment frameworks such as those used in state of the environment reports.
+Environmental indices are composite or more complex measures that combine and synthesize more than one environmental indicator or statistic and are weighted according to different methods. An index can provide a valuable summary measure to communicate important messages in an accessible way and, thus, raise awareness. However, they often raise questions regarding their proper interpretation, methodological soundness, subjectivity of the weighting, and the quality of the underlying statistics.
 
-1.15. Accounting frameworks, such as the SEEA, reorganize the relevant environment statistics according to stocks and flows within and between the environment and the economy, based on the principles of the System of National Accounts (SNA). In this way, it creates links between environment statistics and the SNA and facilitates the analysis of relationships between the economy and the environment.
+Environment statistics organized primarily within the FDES may be structured for specific analytical purposes based on different analytical frameworks, such as the DPSIR framework, issue-based frameworks which focus on specific environmental problems (e.g., climate change, air pollution and land degradation), policy-based frameworks such as sus- tainable development strategies, or assessment frameworks such as those used in state of the environment reports.
 
-1.16. These types of environment statistics are all important and interdependent. They feed back into each other to produce diverse and complementary products that can be used for different purposes and that fit specific user needs and resources of countries or agencies. Ideally, information about the environment should be produced and used as a multipurpose information system which would increase synergy, consistency and efficiency in the use of limited financial resources.
+Accounting frameworks, such as the SEEA, reorganize the relevant environment statistics according to stocks and flows within and between the environment and the economy, based on the principles of the System of National Accounts (SNA). In this way, it creates links between environment statistics and the SNA and facilitates the analysis of relationships between the economy and the environment.
+These types of environment statistics are all important and interdependent. They feed back into each other to produce diverse and complementary products that can be used for different purposes and that fit specific user needs and resources of countries or agencies. Ideally, information about the environment should be produced and used as a multipurpose information system which would increase synergy, consistency and efficiency in the use of limited financial resources.
 
-1.5. Sources of environment statistics
 
-1.17. Environment statistics synthesize data originating from various types of sources. Thus, the data used to produce environment statistics are not only compiled by different collection techniques, but also by various institutions. Types of sources include:
 
-i. statistical surveys (e.g., censuses or sample surveys of population, housing, agriculture, enterprises, households, employment, and different aspects of environment management);
-ii. administrative records of government and non-government agencies responsible for natural resources, as well as other ministries and authorities;
-iii. remote sensing and thematic mapping (e.g., satellite imaging and mapping of land use and land cover, water bodies or forest cover);
-iv. monitoring systems (e.g., field-monitoring stations for water quality, air pollution or climate);
-v. scientific research and special projects undertaken to fulfill domestic or international demand.
+Environment statistics synthesize data originating from various types of sources. Thus, the data used to produce environment statistics are not only compiled by different collection techniques, but also by various institutions. Types of sources include:
 
-1.18.
-mating certain types of emissions to the air, statistical surveys are used in combination with scientific research. While statistical surveys and administrative records are commonly used in all areas of statistics (economic, social and environment) and the use of remote sensing data has become widespread, the use of data from monitoring networks, scientific research and special projects are specific mostly to the production of environment statistics.
+- statistical surveys (e.g., censuses or sample surveys of population, housing, agriculture, enterprises, households, employment, and different aspects of environment management);
+- administrative records of government and non-government agencies responsible for natural resources, as well as other ministries and authorities;
+- remote sensing and thematic mapping (e.g., satellite imaging and mapping of land use and land cover, water bodies or forest cover);
+- monitoring systems (e.g., field-monitoring stations for water quality, air pollution or climate);
+- scientific research and special projects undertaken to fulfill domestic or international demand.
+
+
+Mking certain types of emissions to the air, statistical surveys are used in combination with scientific research. While statistical surveys and administrative records are commonly used in all areas of statistics (economic, social and environment) and the use of remote sensing data has become widespread, the use of data from monitoring networks, scientific research and special projects are specific mostly to the production of environment statistics.
 
 Environment statistics rely considerably on data that are collected by direct measurements using a variety of methods, including remote sensing and field-monitoring stations.
 
@@ -1262,9 +1265,7 @@ Most countries have agencies that are primarily responsible for monitoring envir
 The use of estimates and modeling to generate environmental data can improve overall data quality, including accuracy and coverage, especially when models draw upon two or more sets of observations, such as field observations coupled with global satellite-based observations. Models may also incorporate administrative data or data resulting from statistical surveys or special projects.
 
 
-The main characteristics, advantages and disadvantages of these types of sources of environment statistics are discussed below.6
-
-
+The main characteristics, advantages and disadvantages of these types of sources of environment statistics are discussed below.
 
 
 
