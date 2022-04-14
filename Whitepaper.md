@@ -2248,7 +2248,7 @@ Omni, quanti.
 
 ### Tokenized Equity: Mpowa TE, mTE
 
-These are tokenized shares from the company Mpowa Ltd, more info tba.
+These are tokenized shares from the company Mpowa Ltd. This is a security token, to be registered at the FCA, ESMA, SEC and FINMA.
 
 
 ### SDG-Impact Token: mSDG
@@ -2297,9 +2297,6 @@ Usage data, etc.
 
 ### Mpowa’s Treasuries:
 Smart Contracts for Projects, CCR profits, voting pools, unexpected costs, team, etc.  
-
-### MTE - Mpowa’s Tokenized Equity:
-This is a security token, to be registered at the FCA, ESMA and FINMA.
 
 
 ### mSDG - SDG-Impact Token:
