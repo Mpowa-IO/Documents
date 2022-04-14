@@ -88,7 +88,7 @@ project methodology towards contributors and auditors.
 	- [mGOV](#mgov)<br>
 - [Token Allocation](#token-allocation)<br>	
 - [Token Launches](#token-launches)<br>
-- [DLT Evironmental Impact](#dlt-environmental-impact)<br>
+- [DLT Environmental Impact](#dlt-environmental-impact)<br>
 - [Scalability](#scalability)<br>
 - [Conglomerate, Partnerships & Involvement](#conglomerate-partnerships--involvement)<br>
 - [Joining Mpowa](#joining-mpowa)<br>
