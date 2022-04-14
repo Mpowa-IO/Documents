@@ -319,17 +319,23 @@ The common notion of educational inequality, that it is mainly for students who 
 Research shows that collaboration can improve results and productivity. 
 In short, collaboration makes things easier, which helps us get more done in less time. At the end of the day, 
 collaboration is a skill that helps people work together, come up with new ideas, listen to each other, and learn from each other.	
+
 Collaboration skills enable you to successfully work with others to achieve common goals. Most work environments require collaboration, 
 so collaboration skills are critical. There are various collaboration skills and communication strategies that, if developed, 
 can help improve the overall effectiveness of a team. The United Nations has developed a refined framework for everyone globally to collectively 
 contribute and collaborate towards reaching massive goals. Mpowa brings people together to collect ideas, funding and other resources in order to 
-increase impact at a faster pace. Collaboration with this UN-created community is about learning from each other and sharing knowledge amongst 
-teams, not about completing tasks or reaching goals with one group. Effective collaboration is essentially. the exchange of ideas, tasks, 
-or skills for the purpose of developing processes, brainstorming, or completing projects. Nature
+increase impact at a faster pace. 
+
+Collaboration with this UN-created community is about learning from each other and sharing knowledge amongst 
+teams, not about completing tasks or reaching goals with one group. Effective collaboration is essentially the exchange of ideas, tasks, 
+or skills for the purpose of developing processes, brainstorming, or completing projects. 
+
+Nature
 Understanding how the natural world is presented, valued, and planned as a boon to human well-being is a disturbing challenge to my research. 
 Nature-Based Solutions (NbS) involves working with nature to solve social problems, benefiting both human well-being and biodiversity.	
-Researchers are increasingly focusing on what they see as weaknesses in traditional reasoning about naturalness. In a recent study by Kevin, a lot of attention was paid to the benefits that people receive from nature, including those related to their health and well-being. A new report examines the impact of climate change on people and nature, and our ability to adapt to it. Environmental sociologist interested in the social and cultural aspects of natural resource management have been particularly involved in the development of an ecosystem approach to natural resource management, which seek to influence and shape from the social sciences and a key starting point. The British Ecological Society launched the People and Nature Project in recognition of the rapid growth of interdisciplinary and trans-disciplinary research on the relationship between man and nature, and that many of them touch on vital issues. <br>
-	People and Nature is a large-scale quarterly open access journal publication that explores the relationship between people and nature across all fields of research. Reported as part of the IPCC's Sixth Climate Science Assessment, humanity can adapt to a warming climate more easily than the natural world. The Persian Gulf will be the first to warm, but "it will become a problem in many parts of the world, including the United States," says Michael Oppenheimer.	Regardless of the scenario, 1 billion people will be exposed to chronic flooding due to rising sea levels. Food insecurity will worsen as malnutrition rises in the global south. For example, ONeill notes, the number of people pushed into poverty in 15 years due to climate change could range from 10 million to 100 million, depending on their vulnerability and the vulnerability of their land.
+Researchers are increasingly focusing on what they see as weaknesses in traditional reasoning about naturalness. In a recent study by Kevin, a lot of attention was paid to the benefits that people receive from nature, including those related to their health and well-being. A new report examines the impact of climate change on people and nature, and our ability to adapt to it. Environmental sociologist interested in the social and cultural aspects of natural resource management have been particularly involved in the development of an ecosystem approach to natural resource management, which seek to influence and shape from the social sciences and a key starting point. The British Ecological Society launched the People and Nature Project in recognition of the rapid growth of interdisciplinary and trans-disciplinary research on the relationship between man and nature, and that many of them touch on vital issues.
+<br>
+People and Nature is a large-scale quarterly open access journal publication that explores the relationship between people and nature across all fields of research. Reported as part of the IPCC's Sixth Climate Science Assessment, humanity can adapt to a warming climate more easily than the natural world. The Persian Gulf will be the first to warm, but "it will become a problem in many parts of the world, including the United States," says Michael Oppenheimer.	Regardless of the scenario, 1 billion people will be exposed to chronic flooding due to rising sea levels. Food insecurity will worsen as malnutrition rises in the global south. For example, ONeill notes, the number of people pushed into poverty in 15 years due to climate change could range from 10 million to 100 million, depending on their vulnerability and the vulnerability of their land.
 
 
 ### Authenticity
@@ -379,12 +385,14 @@ specific disclosure may contain more detailed information about the applicable s
 Vulnerable communities in developing nations have limited to no incentive to maintain their local ecosystem and preserve the natural environment. 
 Due to extreme poverty and exclusion, pollution, environmental degradation and carbon intensive activities (wood, charcoal, kerosene burning), 
 these communities are unhealthy and dangerous places for children to grow up, with high infant mortality rates and incidence of preventable disease.
-	GHG emissions contribute to the overall carbon intensity of the South African economy, being 9th in the world overall and highest within 
+<br>
+GHG emissions contribute to the overall carbon intensity of the South African economy, being 9th in the world overall and highest within 
 the G20 group of nations in segment “Destruction of the local ecosystem” which leads to a negative spiral of neglect and despondency, 
 species/wildlife depletion and unsanitary living conditions. Another example, when inspecting research data, is that only 7% of the population
  in Uganda has a had a sustainable form of clean water available for them. There’s a significant need for support in several African countries, 
 hence our pilot projects will likely take place that region of the world. 
-	Mpowa recognizes that poverty eradication, changing unsustainable and promoting sustainable patterns of consumption and production 
+<br>
+Mpowa recognizes that poverty eradication, changing unsustainable and promoting sustainable patterns of consumption and production 
 and protecting and managing the natural resource base of economic and social development are the overarching objectives of and essential 
 requirements for sustainable development. We also reaffirm the need to achieve sustainable development by promoting sustained, 
 inclusive and equitable economic growth, creating greater opportunities for all, reducing inequalities, raising basic standards of living, 
@@ -393,7 +401,8 @@ that supports, inter alia, economic, social and human development while facilita
 and resilience in the face of new and emerging challenges. Mpowa reaffirms the importance of the Universal Declaration of Human Rights,
 1 as well as other international instruments relating to human rights and international law. Mpowa emphasizes the responsibilities to respect, 
 protect and promote human rights and fundamental freedoms for all, without distinction of any kind as to race, color, sex, language, religion, 
-political or other opinion, national or social origin, property, birth, disability or other status.	
+political or other opinion, national or social origin, property, birth, disability or other status.
+<br>
 Through working together with local “Heroes” and NGO’s, Mpowa has the capacity to scale its area of contribution to a large extend. 
 It is prospected that several rural areas in Africa, in different countries, will start to receive support from Q3 2022 onwards. 	
 By keeping the data and measurements conform to the Data Structure Definition (as defined by the UN), 
