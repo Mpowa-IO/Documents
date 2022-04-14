@@ -98,7 +98,7 @@ project methodology towards contributors and auditors.
 
 
 
-## Introduction
+## Introduction									[Table of Contents](#table-of-contents)
 
 This introduction will entail Mpowa’s core purpose, its SaaS-platform functionality with the appurtenant financial flow, 
 alongside complementary information such as strategic goals, partnerships (consortium) and research data.
