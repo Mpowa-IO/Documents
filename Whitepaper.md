@@ -2632,122 +2632,22 @@ Mpowa is always eager to get in contact with community leaders in order to facil
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## This needs to be included as well
-
-
-
-Legislation, Taxes - Notes & Specifications
-
-Disect:
-
-https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52020PC0594
-
-https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020PC0593
-
-https://www.fca.org.uk/publication/finalised-guidance/fca-approach-payment-services-electronic-money-2017.pdf
-
-
-
-Available in countries: 
-
-Not available in: USA, Russia, China. 
-
-Security Token:
-Needs to be registered at the FCA and ESMA. 
-https://www.fca.org.uk/publication/consultation/cp19-03.pdf
-
-Tax reduction: 
-
-
-Specified Investments’ under
-the Regulated Activities Order (RAO),3 ‘Financial Instruments’ such as ‘Transferable Securities’ under the Markets in Financial Instruments Directive II (MiFID II),4 or captured under the Payment Services Regulations (PSRs),5 or the E-Money Regulations (EMRs)
-
-Payment Services Directive 2 (PSD2)
-Retail Payments Strategy for Europe
-The ‘Regulation on Markets in Crypto Assets' (MiCA)
-
-Today's proposed ‘Digital Operational Resilience Act' (DORA) aims to ensure that all participants in the financial system have the necessary safeguards in place to mitigate cyber-attacks and other risks. The proposed legislation will require all firms to ensure that they can withstand all types of Information and Communication Technology (ICT)
-
-Section 23 of FSMA sets out the legal consequences for breaching the general prohibition. It provides that a person who contravenes the general prohibition is guilty of an offence and may face up to 2 years’ imprisonment or an unlimited fine, or both.
-
-article 53 of the RAO)
- Specified Investments in Part III of the RAO
-
-Section 21 of FSMA
-article 76 of the RAO
- investments set out in the FSMA and the RAO
-
-Financial Services and Markets Act 2000 purpose of fca 
-Specified Investments under the RAO 
-Financial Instruments under MiFID II 
-E-Money under the EMRs
-captured under the PSRs
-
-
-5AMLD 
-
-Anti terrorism  CTF
-prospectus and transparency requirements
-
-
 ## Mpowa’s online resources
 
 Main website
 
-
-
 Decarbonizer website:
 Decarbonizer webApp:
 
-
-
-
 NFT Marketplace:
-
 
 Mpowa DEX: 
 
 
-Github:
-LinkedIn:
-Twitter:
-Instagram:
+Github: https://www.github.com/Mpowa-IO/
+LinkedIn: 
+Twitter: 
+Instagram: 
 
 
 
