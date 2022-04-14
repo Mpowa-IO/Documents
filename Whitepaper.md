@@ -180,7 +180,8 @@ Users of the Mpowa platform can potentially utilize their contributions in a way
 An additional token, the Mpowa Energy Coin, will be issued in late Q2 or Q3 of 2022. This currency will be created and used on the 
 Steroid 4.0 blockchain network, which guarantees regulatory approval, scalability, and security. Proof of Green is provided by the 
 Energy Web Foundation CCA Protocol. Tokens will be minted and mined on the global Mpowa HPC network with our first site likely being in RSA or Cyprus. 
-	The ESG Fund is where all fiat contributions are held - whether from investors in the overall company fund, or project specific treasuries. 
+	
+The ESG Fund is where all fiat contributions are held - whether from investors in the overall company fund, or project specific treasuries. 
 This fund is controlled by our partner, Scaling Funds, with full FATCA and CRS compliance.
 
 
@@ -195,17 +196,19 @@ Clean water is a key-component for maintaining overall public health, whether it
 food production or recreational purposes. Improved clean-water supply and sanitation, and better management of water resources, 
 can boost countries’ economic growth and can contribute greatly to poverty reduction, hence the focus on distributing water purification devices 
 during the pilot projects.
+<br><br>
 The future of power generation is 100% sustainable and maintenance free.
- We believe everybody should have access to an abundant source of clean, carbon-neutral energy. 
+We believe everybody should have access to an abundant source of clean, carbon-neutral energy. 
 Mpowa will contribute to the decentralization of power generation and return the power back to the people. 
 Mpowa will create the first self-powering, carbon-neutral blockchain- based energy grid, based upon a global network of autonomous 
 self-powering generator devices.
+<br><br>
 The overall vision of Mpowa is a world of connected fully autonomous devices of various type which produce and consume their own energy,
  in some cases selling the surplus back to the grid (where local regulations and infrastructure permit), 
 all registered with Energy Web Chain for unique identification of the device, whilst metered and paid for in Mpowa cryptocurrency tokens.
 Having achieved global mass adoption of our device and blockchain infrastructure, by definition, 
 our utility token will in effect become a global digital “fully fungible energy based unit of account” currency (stablecoin) that can potentially be used as the international medium of exchange between national currencies – because energy consumption is the absolute holy grail indicator of economic activity and hence pure gold dust as far as economists and central bankers trying to define monetary and credit policy for their economies goes. This aligns well to the emerging trend of increased use of blockchain and AI within the financial sector for purposes of oversight and automation of the financial system and national currencies. Sustainability is defined as the process of mankind's action to avoid the depletion of natural resources, to maintain the ecological balance and not to allow the quality of life to decline in today's modern society. A measure that does slightly less damage to the natural world, in the belief that ecosystems not only ensure that they continue to function and create the conditions that allow quality of life in modern society not to decline, but also to claim to be sustainable. Given the environmental and social problems faced by societies around the world, sustainability can be exploited in a specific way.  
-
+<br><br>
 Sustainability encourages people, politicians and businesses to make long-term decisions and take future generations into account. It encourages companies to make decisions about environmental, social and human impacts in the long term, rather than short-term profits. Sustainable development is the process of social progress that takes into account the needs of current and future generations by integrating economic, social and environmental considerations into decision-making. Companies that achieve corporate sustainability must reduce their emissions, reduce their energy consumption, source products from fair trade organizations, and ensure that their physical waste is disposed of with the lowest possible carbon footprint. Companies can make a public commitment to sustainability through measures such as waste reduction, investments in renewable energies and support organizations that offset carbon emissions. Even when big brands are committed to sustainability, it can take a long time to achieve sustainability goals, hence the creation of the carbon offset market to reach net-zero prior to demanding instant technological replacements to stop emissions. 
 
 
