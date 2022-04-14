@@ -93,7 +93,7 @@ project methodology towards contributors and auditors.
 - [Conglomerate, Partnerships & Involvement](#conglomerate-partnerships--involvement)<br>
 - [Joining Mpowa](#joining-mpowa)<br>
 - [Legislation, Taxes - Notes & Specifications](#legislation-taxes---notes--Specifications)<br>
-- [Mpowa’s online resources](#mpowa's-online-resources)<br>
+- [Mpowa’s online resources](#mpowas-online-resources)<br>
 - [Disclaimer](#disclaimer)<br>
 
 
