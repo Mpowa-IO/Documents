@@ -47,7 +47,7 @@ project methodology towards contributors and auditors.
 	- [Partnership Registration](#partnership-registration)<br>
 	- [Framework](#framework)<br>
 	- [SDK-Toolkit](#sdk-toolkit)<br>
-- [Data & Statistics](#data-&-statistics)<br>
+- [Data & Statistics](#data--statistics)<br>
 	- [Disaggregation](#disaggregation)<br>
 	- [Public & Private Metadata](#public-&-private-metadata)<br>
 - [Quality Assurance](#quality-assurance)<br>
