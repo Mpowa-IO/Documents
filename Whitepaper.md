@@ -1086,12 +1086,9 @@ Contributing to the United Nations Sustainable Development Goals requires partie
 The required data will be included in NFT’s that will be linked to products or services that beneficiaries will receive after a project is funded. 
 Impact is measured through sticking with guiding principles from the UN SDG Handbook and the indicators which are specifically mentioned and implemented into official reports by statisticians.
 
-
 Impact analysis is the act of studying the requirements’ data, to understand the pros and cons of any change. As the world keeps evolving, changes are to be expected, even in a well-developed system.	Changes can happen for a variety of reasons: a change in a client’s requirements, adjustments to business needs or new technologies. Since changes can potentially result in a failure, it is prudent to proceed with proper planning when making necessary changes.
 
 The impact-calculation of projects and products that are offered by Mpowa will be described in the chapter ‘’Methodology”.
-
-
 
 
 
@@ -1120,10 +1117,6 @@ The initiative is open for all entities within the United Nations that engage wi
 
 #### The SDG Impact Standards 
 
-Best practice standards for entities wanting to embed contributing positively to sustainable development and achieving the SDGs into their approach to creating value for themselves and for Stakeholders (people and planet).
-
-They are not reporting standards. They focus on the internal management and decision-making practices that are needed to support more informed and accountable internal decision making and choices in line with achieving the SDGs and other sustainable development outcomes.
-
 The Standards embed the SDGs and the Impact Management Project’s norms as the shared language to understand, manage and communicate impact. The Standards also embed the United Nations Guiding Principles for Business and Human Rights and the Ten Principles of the United Nations Global Compact, to underscore the importance of respect for human rights and other responsible business practices in contributing positively to sustainable development and achieving the SDGs.
 
 - Standard 1 (Strategy): 
@@ -1138,12 +1131,12 @@ Complete lifecycle of products and projects is included in the calculations.
 - Standard 4 (Governance): 
 
 
+#### Ten Principles
+
+
 The SDG Impact Standards aim to help operationalize high level principles of practice in a consistent way and bridge the gap between high level principles of practice and relevant tools and reporting frameworks. The OPIM provides the overarching architecture or principles for best practice within impact management systems. The SDG Impact Standards provide more detailed and specific practice guidance around how organizations develop the internal management and decision making systems to measure and manage impact, consistent with OPIM and other high level principles of practice. 
 
-The Standards also embed the SDGs and Impact Management Project as the shared language to understand and communicate impact.
-
 OPIM focuses on the management systems specific to the fund being designated as ‘impact’. The SDG Impact Standards provide the building blocks for the management systems for specific funds linking to the SDGs, as well as certain governance practices of the Fund Manager. This includes an organizational commitment to human rights in line with UN Global Compact, the UN Universal Declaration of Human Rights, grievance mechanisms, etc.
-
 
 The SDG Impact Standards aim to provide the building blocks for an internal impact management system that helps organizations make better decisions, and that provides high quality inputs to support consistent reporting and disclosures under multiple external disclosure and reporting frameworks.
 
@@ -1153,6 +1146,7 @@ The SDG Impact Standards aim to provide the building blocks for an internal impa
 Environment statistics thus cover a wide range of information and are multi- and inter- disciplinary in nature. They originate from a variety of institutions that collect data and, similarly, numerous methods are used to compile them. The field of environment statistics requires an appropriate framework to guide its development, coordination and organization. Framework for the Development of Environment Statistics (FDES 2013)
 
 Framework:
+
 - marks out the scope of environment statistics; 
 - facilitates a synthesized presentation of data from various subject areas and sources; 
 - simplifies the complexity of the environment appropriately so that it can be measured more easily; 
@@ -1236,9 +1230,15 @@ Environmental data are large amounts of unprocessed observations and measurement
 
 
 
-Environmental indicators are environment statistics that have been selected for their ability to depict important phenomena or dynamics. Environmental indicators are used to synthesize and present complex environment and other statistics in a simple, direct, clear and relevant way. Environmental indicators are generated because environment statistics are usually too numerous and detailed to meet the needs of policymakers and the general public, and often require further processing and interpretation to be meaningful. Environmental indica- tors may take various forms such as rates, ratios or proportions, and be constructed at different levels of aggregation. The purpose of these indicators is to assess present and future directions with respect to goals and targets, evaluate and determine the impact of specific programs, monitor progress, measure changes in a specific condition or situation over time, and con- vey messages. Policy frameworks such as the Millennium Development Goals (MDGs) and Sustainable Development Goals (SDGs), the Driving force-Pressure-State-Impact-Response (DPSIR) framework and national environment/sustainable development indicator sets, are typically used to identify and structure indicators.
+Environmental indicators are environment statistics that have been selected for their ability to depict important phenomena or dynamics. Environmental indicators are used to synthesize and present complex environment and other statistics in a simple, direct, clear and relevant way. 
 
-Environmental indices are composite or more complex measures that combine and synthesize more than one environmental indicator or statistic and are weighted according to different methods. An index can provide a valuable summary measure to communicate important messages in an accessible way and, thus, raise awareness. However, they often raise questions regarding their proper interpretation, methodological soundness, subjectivity of the weighting, and the quality of the underlying statistics.
+Environmental indicators are generated because environment statistics are usually too numerous and detailed to meet the needs of policymakers and the general public, and often require further processing and interpretation to be meaningful. 
+
+Environmental indicators may take various forms such as rates, ratios or proportions, and be constructed at different levels of aggregation. The purpose of these indicators is to assess present and future directions with respect to goals and targets, evaluate and determine the impact of specific programs, monitor progress, measure changes in a specific condition or situation over time, and con- vey messages. 
+
+Policy frameworks such as the Millennium Development Goals (MDGs) and Sustainable Development Goals (SDGs), the Driving force-Pressure-State-Impact-Response (DPSIR) framework and national environment/sustainable development indicator sets, are typically used to identify and structure indicators.
+
+- Environmental indices are composite or more complex measures that combine and synthesize more than one environmental indicator or statistic and are weighted according to different methods.  - An index can provide a valuable summary measure to communicate important messages in an accessible way and, thus, raise awareness. However, they often raise questions regarding their proper interpretation, methodological soundness, subjectivity of the weighting, and the quality of the underlying statistics.
 
 Environment statistics organized primarily within the FDES may be structured for specific analytical purposes based on different analytical frameworks, such as the DPSIR framework, issue-based frameworks which focus on specific environmental problems (e.g., climate change, air pollution and land degradation), policy-based frameworks such as sus- tainable development strategies, or assessment frameworks such as those used in state of the environment reports.
 
@@ -1256,7 +1256,7 @@ Environment statistics synthesize data originating from various types of sources
 - scientific research and special projects undertaken to fulfill domestic or international demand.
 
 
-Mking certain types of emissions to the air, statistical surveys are used in combination with scientific research. While statistical surveys and administrative records are commonly used in all areas of statistics (economic, social and environment) and the use of remote sensing data has become widespread, the use of data from monitoring networks, scientific research and special projects are specific mostly to the production of environment statistics.
+Making certain types of emissions to the air, statistical surveys are used in combination with scientific research. While statistical surveys and administrative records are commonly used in all areas of statistics (economic, social and environment) and the use of remote sensing data has become widespread, the use of data from monitoring networks, scientific research and special projects are specific mostly to the production of environment statistics.
 
 Environment statistics rely considerably on data that are collected by direct measurements using a variety of methods, including remote sensing and field-monitoring stations.
 
@@ -1268,8 +1268,6 @@ The use of estimates and modeling to generate environmental data can improve ove
 
 
 The main characteristics, advantages and disadvantages of these types of sources of environment statistics are discussed below.
-
-
 
 A great deal of statistics is also being produced by private and public agencies that are not part of the system of official statistics. Statistics of questionable quality and proper documentation can be potentially confusing and lead to distrust of the national statistical office (NSO) which is supposed to produce unbiased and high-quality official statistics. Therefore, it is of utmost importance that those statistics considered to be ‘official’ follow strict and well-defined principles and standards.
 
