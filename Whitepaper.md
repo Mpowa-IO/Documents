@@ -1100,8 +1100,6 @@ The Partnership for SDGs online platform welcomes registration of partnerships a
 
 The initiative is open for all entities within the United Nations that engage with, and promote the work of, multi-stakeholder partnerships and voluntary commitments in driving implementation of the SDGs.
 
-7 Partnership Data for SDGs (PD4SDGs) - https://sustainabledevelopment.un.org/sdinaction/pd4sdgs
-
 
 
 #### SDG Impact Standards
