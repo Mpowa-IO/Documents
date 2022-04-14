@@ -1194,16 +1194,7 @@ Though environmental statistics is still a relatively new statistical domain, th
 
 Environmental statistics provide information about the state and changes of environmental conditions, the quality and availability of environmental resources, the impact of human activities and natural events on the environment and the impact of changing environmental conditions. They also provide information about the social actions and economic measures that societies take to avoid or mitigate these (negative) impacts and to restore and maintain the capacity of the environment to provide the services that are essential for life and human well-being.
 
-### FDES
-Environment statistics thus cover a wide range of information and are multi- and inter- disciplinary in nature. They originate from a variety of institutions that collect data and, similarly, numerous methods are used to compile them. The field of environment statistics requires an appropriate framework to guide its development, coordination and organization. Framework for the Development of Environment Statistics (FDES 2013)
 
-Framework:
-- marks out the scope of environment statistics; 
-- facilitates a synthesized presentation of data from various subject areas and sources; 
-- simplifies the complexity of the environment appropriately so that it can be measured more easily; 
-- helps to identify the range of statistics relevant to societal decision-making regarding the environment; 
-- is consistent with statistical frameworks already used in other domains to facilitate the integration of environment statistics; and 
-- is conceptually based.
 
 
 ### Dissaggregation
