@@ -1151,6 +1151,10 @@ Framework:
 - is conceptually based.
 
 
+#### DSD
+
+Coming
+
 
 
 ### Data Reporting, data inclusion.
@@ -1169,7 +1173,7 @@ The Standards are for Enterprises committed to contributing positively to sustai
 
 
 
-#### DAO Validation
+### DAO Validation
 
 > This is part of the DAO's interaction and voting mechanism, rating the projects if they are efficiently presented and managed in a way that the generated funds actually deliver the most amount of impact in a sustainabke way.
 
