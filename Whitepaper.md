@@ -2398,24 +2398,27 @@ The scalability of a business also depends on the effectiveness of communication
 
 
 
-### Corporate planning includes steps such as:[18]
+### Additionally
 
-Setting objectives—defining what the organization is going to do
-Environmental scanning
+For validation and regulatory/financial insurance.
 
-Internal appraisals of the organization—an assessment of the present situation as well as a portfolio of products/services and an analysis of the product/service lifecycle
+- Setting objectives—defining what the organization is going to do
 
-Analysis of existing strategies—this should determine relevance from the results of an internal/external appraisal, and may include gap analysis of environmental factors
+- Environmental scanning
 
-Defining strategic issues—key factors in the development of a corporate plan that the organization must address
+- Internal appraisals of the organization—an assessment of the present situation as well as a portfolio of products/services and an analysis of the product/service lifecycle
 
-Developing new/revised strategies—revised analysis of strategic issues may mean the objectives need to change
+- Analysis of existing strategies—this should determine relevance from the results of an internal/external appraisal, and may include gap analysis of environmental factors
 
-Establishing critical success factors—the achievement of objectives and strategy implementation
+- Defining strategic issues—key factors in the development of a corporate plan that the organization must address
 
-Preparation of operational, resource, and projects plans for strategy implementation
+- Developing new/revised strategies—revised analysis of strategic issues may mean the objectives need to change
 
-Monitoring all results—mapping against plans, taking corrective action, which may mean amending objectives/strategies
+- Establishing critical success factors—the achievement of objectives and strategy implementation
+
+- Preparation of operational, resource, and projects plans for strategy implementation
+
+- Monitoring all results—mapping against plans, taking corrective action, which may mean amending objectives/strategies
 
 
 
