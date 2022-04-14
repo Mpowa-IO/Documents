@@ -279,19 +279,20 @@ The world will soon have the opportunity to meet and exceed the basic needs of e
 ### Progress
   
 Whether progress is seen in terms of big or small improvements, it matters a lot. However, while we continue to move towards the final goal, 
-much remains to be done. For example: to make the internet accessible to everyone, many more systemic changes are needed, but progress is being made. 
-	Progress is movement towards a purified, improved, or otherwise desired state. Recently, the concept of progress has been generalized to 
+much remains to be done. For example: to make the internet accessible to everyone, many more systemic changes are needed, but progress is being made.
+<br>
+Progress is movement towards a purified, improved, or otherwise desired state. Recently, the concept of progress has been generalized to 
 psychology, since it is associated with the concept of a goal, that is, progress is understood as “what is considered a means of moving towards 
 the final result of a given specific goal.” Some 20th-century authors refer to The Myth of Progress, referring to the idea that 
 human conditions will inevitably improve.	
+<br>
 In the 20th century, romantic critics charged that progress did not automatically improve people's conditions and might somehow make them worse. 
 Rogers was one of several reformers in the late 19th century who saw that America's ability to make progress could be greatly improved. 
 He envisioned progress as the process of human development through the search for philosophical truths and the introduction of an era 
-of material prosperity through technological progress. Marxists are vehemently opposed to capitalism, liberals are staunchly supporters of it, 
-but the only concept they can agree on is progress, which asserts that people have the ability to create, improve, and change their societies 
-through knowledge, science, technology, and practical experimentation.	By "progress" we mean the combination of economic, technological, 
-scientific, cultural and organizational progress that has changed our lives and raised our standard of living over the past two centuries. 
-The process of progress and how things move in a positive direction of improvement is called progress. 
+of material prosperity through technological progress. 
+<br>
+By "progress" we mean the combination of economic, technological, scientific, cultural and organizational progress that has changed our lives and raised our standard of living over the past two centuries. The process of progress and how things move in a positive direction of improvement is called progress. 
+<br>
 In particular, advancement to a higher or more developed state; development, growth. From Middle English progressie, 
 from Old French progres ("to go forward"), from Latin progressus (“to move forward"), from the root participle progress 
 ("to go forward, to advance, to develop"), from pro- (``forward, before' ‘) + degrees (``go, go'') root participle progredi 
@@ -303,7 +304,12 @@ from Old French progres ("to go forward"), from Latin progressus (“to move for
 Referring back to abundance, opportunity is created by making clear calculations of available resources and making the most of it.	
 Families in rural areas of Africa will hopefully remark that it's a great job and an opportunity to work alongside some people in the country who are 
 ‘’better off’’. Mpowa strongly believes in strengthening equality of opportunity all around the world, and thus being a catalyst for major development.
-	Focusing on what matters most can really make a difference in what kids learn. Accounting for the cost of opportunity costs can help individuals and organizations make better decisions. The purpose of calculating economic profit (and therefore opportunity cost) is to help improve business decision making by including opportunity cost, to get a clear vision of what the future may bring. To further improve business decision making, several measures of economic profit performance have been derived, such as risk-adjusted return on capital (RAROC) and economic value added (EVA), which directly include the quantification of opportunity costs to help companies manage risk and allocate resources. Accounting profits are the real costs (in real monetary terms) of businesses that are included in their balance sheets, financial statements, and income statements, and should be included as implicit costs accounted for by opportunity costs. When making major decisions, such as buying a home or starting a business, you are likely to carefully consider the pros and cons of your financial decision, but most day-to-day decisions are not made with a full understanding of the potential cost of the opportunity. After Coleman's 1966 Equality of Educational Opportunity report, another debate arose about whether money affects educational outcomes. The common notion of educational inequality, that it is mainly for students who come to school with insufficient skills to benefit from what the school has to offer, is still widely held because the degree of inequality in learning opportunities largely unknown. This makes it even more important that everyone around the world has internet access - to learn everything you want at your own pace.
+<br>
+Focusing on what matters most can really make a difference in what kids learn. Accounting for the cost of opportunity costs can help individuals and organizations make better decisions. The purpose of calculating economic profit (and therefore opportunity cost) is to help improve business decision making by including opportunity cost, to get a clear vision of what the future may bring. To further improve business decision making, several measures of economic profit performance have been derived, such as risk-adjusted return on capital (RAROC) and economic value added (EVA), which directly include the quantification of opportunity costs to help companies manage risk and allocate resources.
+
+Accounting profits are the real costs (in real monetary terms) of businesses that are included in their balance sheets, financial statements, and income statements, and should be included as implicit costs accounted for by opportunity costs. When making major decisions, such as buying a home or starting a business, you are likely to carefully consider the pros and cons of your financial decision, but most day-to-day decisions are not made with a full understanding of the potential cost of the opportunity. After Coleman's 1966 Equality of Educational Opportunity report, another debate arose about whether money affects educational outcomes. 
+
+The common notion of educational inequality, that it is mainly for students who come to school with insufficient skills to benefit from what the school has to offer, is still widely held because the degree of inequality in learning opportunities largely unknown. This makes it even more important that everyone around the world has access to clean water, shelter, organic food and internet access - to learn everything necessary to thrive and contribute in modern society, in a healthy way.
 
 
 ### Collaboration
