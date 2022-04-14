@@ -258,19 +258,19 @@ Fullness manifests itself in many other ways, and not only as an abundance of mo
 Those with an abundance mindset believe that there is an abundance of everything in the world, from resources, love, 
 relationships, wealth, and opportunity. 
 Due to the positive attitude of people with rich mindsets, they take an active approach to life. 
-A person with an abundance mindset understands that change is an integral part of life, accepts and accepts change.   
-	As in science, progress in life is much easier when you are willing to let go of past beliefs and embrace change. 
+A person with an abundance mindset understands that change is an integral part of life, accepts and accepts change.   	
+<br><br>
+As in science, progress in life is much easier when you are willing to let go of past beliefs and embrace change. 
 Thinking broadly also requires us to let go of past beliefs and assumptions and be open to new facts and ideas. 
-Enriched thinking is based on the desire to change our thinking patterns and make room for new ones.    
-	If you want to make significant changes in your life, you need to be honest about your way of thinking. 
+Enriched thinking is based on the desire to change our thinking patterns and make room for new ones.   
+<br><br>
+If you want to make significant changes in your life, you need to be honest about your way of thinking. 
 Think about how the practice affects your future life and dreams.  
 It is also contagious and generative, creating a thriving environment and community around us. Abundance manifests itself as many trees, plants, 
 animals and various life forms, as well as an infinite number of stars and universes. It is the innate tendency of nature and life to manifest, 
 grow and become larger.  
-	Abundance is the tendency of life force to produce more and create more out of everything. 
-Abundance is a clear concoction that can help you attract wealth and health into your life. 
-Abundance nourishes our self-esteem and self-confidence, and helps us remain resilient in times of trouble.
-	It is associated with positive thinking and generosity, with a core belief that there is enough for everyone. 
+<br><br>
+It is associated with positive thinking and generosity, with a core belief that there is enough for everyone. 
 There is abundance in the Universe, and everyone is a part of it, wherever they live, and regardless of his position and circumstances. 
 The world will soon have the opportunity to meet and exceed the basic needs of every man, woman and child on the planet. 
 
