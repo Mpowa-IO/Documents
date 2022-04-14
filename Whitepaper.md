@@ -1585,11 +1585,11 @@ For this guide, therefore, we have distilled the essential elements of carbon of
 
 
 
-### Gold Standard or Verra ?
+### The Gold Standard Impact Registry:
 
 https://www.goldstandard.org/blog-item/carbon-pricing-what-carbon-credit-worth
 
-Carbon offset price per tonne, approximation by Gold Standard. 
+Carbon offset price per tonne, approximation.
 
 
 
