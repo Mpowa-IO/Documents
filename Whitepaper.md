@@ -1094,18 +1094,14 @@ The impact-calculation of projects and products that are offered by Mpowa will b
 
 ### Partnership Registration
 
-One of the requirements to register for Partnership for SDGs with the UN are a clearly defined set of data that is in accordance with the SMART criteria. 
+*Below is described how Mpowa's projects adhere to the standards set by the UN.*
 
 
 ### Framework 
 
-
 - Project & Data Standards
-
 - Data reporting, inclusion.
-
 - DAO Validation
-
 - Diagram
 
 The initiative is open for all entities within the United Nations that engage with, and promote the work of, multi-stakeholder partnerships and voluntary commitments in driving implementation of the SDGs.
