@@ -385,13 +385,13 @@ specific disclosure may contain more detailed information about the applicable s
 Vulnerable communities in developing nations have limited to no incentive to maintain their local ecosystem and preserve the natural environment. 
 Due to extreme poverty and exclusion, pollution, environmental degradation and carbon intensive activities (wood, charcoal, kerosene burning), 
 these communities are unhealthy and dangerous places for children to grow up, with high infant mortality rates and incidence of preventable disease.
-<br>
+<br><br>
 GHG emissions contribute to the overall carbon intensity of the South African economy, being 9th in the world overall and highest within 
 the G20 group of nations in segment “Destruction of the local ecosystem” which leads to a negative spiral of neglect and despondency, 
 species/wildlife depletion and unsanitary living conditions. Another example, when inspecting research data, is that only 7% of the population
  in Uganda has a had a sustainable form of clean water available for them. There’s a significant need for support in several African countries, 
 hence our pilot projects will likely take place that region of the world. 
-<br>
+<br><br>
 Mpowa recognizes that poverty eradication, changing unsustainable and promoting sustainable patterns of consumption and production 
 and protecting and managing the natural resource base of economic and social development are the overarching objectives of and essential 
 requirements for sustainable development. We also reaffirm the need to achieve sustainable development by promoting sustained, 
@@ -402,11 +402,11 @@ and resilience in the face of new and emerging challenges. Mpowa reaffirms the i
 1 as well as other international instruments relating to human rights and international law. Mpowa emphasizes the responsibilities to respect, 
 protect and promote human rights and fundamental freedoms for all, without distinction of any kind as to race, color, sex, language, religion, 
 political or other opinion, national or social origin, property, birth, disability or other status.
-<br>
+<br><br>
 Through working together with local “Heroes” and NGO’s, Mpowa has the capacity to scale its area of contribution to a large extend. 
 It is prospected that several rural areas in Africa, in different countries, will start to receive support from Q3 2022 onwards. 	
 By keeping the data and measurements conform to the Data Structure Definition (as defined by the UN), 
-
+<br><br>
 Mpowa allows its projects to be officially regarded as legitimate and impactful, to ensure contributors that their contribution will result into legally verifiable impact. Mpowa’s approach of reporting and will be acquired once the technology has been funded for deployment, 
 to enable Mpowa to credibly present themselves to these organizations. A specific set of SDG indicators is selected by Mpowa, 
 in terms of relevancy based on impact from projects that are currently on its agenda. Indicators are selected by applicability on and for 
