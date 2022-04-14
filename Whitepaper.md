@@ -1,7 +1,7 @@
 # Mpowa Ltd Whitepaper | Version 1.0
 
 This draft is written by: Mpowa MT | 
-Last updated: 13-04-2022, 18:54 CET.
+Last updated: 14-04-2022, 12:25 CET.
 
 ## A world without energy and water scarcity.
 
@@ -247,9 +247,8 @@ Mpowa is here to create a balance between what we give and what we get.
 
 Fullness manifests itself in many other ways, and not only as an abundance of money and an abundance of goods. 
 Those with an abundance mindset believe that there is an abundance of everything in the world, from resources, love, 
-relationships, wealth, and opportunity. Those with an abundance mindset are often visionaries and see limitless possibilities in the world.   
-	Those with an abundance mindset are known for thinking big, it's part of their DNA. 
-Because of the positive attitude of people with rich mindsets, they take an active approach to life. 
+relationships, wealth, and opportunity. 
+Due to the positive attitude of people with rich mindsets, they take an active approach to life. 
 A person with an abundance mindset understands that change is an integral part of life, accepts and accepts change.   
 	As in science, progress in life is much easier when you are willing to let go of past beliefs and embrace change. 
 Thinking broadly also requires us to let go of past beliefs and assumptions and be open to new facts and ideas. 
@@ -1255,16 +1254,20 @@ Most countries have agencies that are primarily responsible for monitoring envir
 
 Global Data Structure Definition
 The 2030 Agenda for Sustainable Development underscores the national ownership of the SDGs and calls for “data which is high-quality, accessible, timely, reliable and disaggregated by income, sex, age, race, ethnicity, migration status, disability and geographic location and other characteristics relevant in national contexts.” Consequently, while the global SDG DSD sets a standard for global reporting, the Member States must be able to customize the DSD to suit its own national circumstances, in particular extend it with national indicators and disaggregation. This document outlines recommendations and guidance on how to customize the DSD.
+
 https://unstats.un.org/unsd/environment/FDES/FDES-2015-supporting-tools/FDES.pdf
 
 
 ### Fundamental principles of official statistics 
 
 Official statistics should be a cornerstone of a modern society by providing an unbiased and accurate picture of the economic, demographic, social and environmental situation and development in a country. To an increasing degree, high quality and comparable statistics are also important for analysis and decision-making at the international and global level. Thus, it is essential that official statistics can be trusted by all users and stakeholders and are made accessible and understandable for all users.
+
 A great deal of statistics is also being produced by private and public agencies that are not part of the system of official statistics. Statistics of questionable quality and proper documentation can be potentially confusing and lead to distrust of the national statistical office (NSO) which is supposed to produce unbiased and high-quality official statistics. Therefore, it is of utmost importance that those statistics considered to be ‘official’ follow strict and well-defined principles and standards.
 
 The European Statistics Code of Practice (ESS CoP) contains, among other things, specific principles and guidance relevant to the dissemination of the statistics. The ESS CoP lays down specific requirements for clarifying the statistical outputs, their regularity, timeliness, and how they are released. All NSOs and other producers of official statistics within the European Statistical System follow and respect these requirements.
+
 Recommended international practice reinforced by ESS CoP and dissemination standards discussed above, require NSOs and other producers of official statistics to publish metadata on their statistics along with the statistics themselves. Most NSOs strive to compile product metadata, at least that pertaining to the statistics most used, and publish them on the web.
+
 NSOs publish their statistics in aggregate form, thereby seeking to ensure the confidentiality of the data providers and the subjects they refer to. There is, however, substantial demand for microdata for research purposes. Several NSOs have in recent years started to release or grant access to microdata to researchers. For some years, some NSOs have been preparing a specific set of microdata for research, initially to be handed over to recognised researchers, more recently for release on the web. The data set has then been prepared specifically for such use by anonymisation, i.e., removing identifiers of individuals, households, and businesses, and removing variables that would have allowed indirect identification. Some NSOs have also granted on-line access to such microdata for research. Granting access to microdata is usually also accompanied by documentation signed by the researcher specifying the datasets that are made available, the purpose of use of the data, the safeguarding of the data as well as a pledge to respect rules of statistical confidentiality and the privacy of respondents. Granting access to microdata for research purposes entails a significant addition to the utilisation of the data and the value of the statistical production.
 
 
