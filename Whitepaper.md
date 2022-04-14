@@ -1103,9 +1103,9 @@ One of the requirements to register for Partnership for SDGs with the UN are a c
 ### Framework 
 
 
-- Data standards and metadata.
+- Project & Data Standards
 
-- Data reporting, inclusion. SDK-toolkit explanation.
+- Data reporting, inclusion. SDK-toolkit explanation
 
 - DAO Validation
 
@@ -1114,7 +1114,7 @@ One of the requirements to register for Partnership for SDGs with the UN are a c
 The initiative is open for all entities within the United Nations that engage with, and promote the work of, multi-stakeholder partnerships and voluntary commitments in driving implementation of the SDGs.
 
 
-### Data standards and metadata.
+### Project & Data Standards
 
 *The following protocols are used for this purpose.*
 
