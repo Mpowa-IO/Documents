@@ -2542,6 +2542,20 @@ Both the company and the DAO are welcoming new individuals who wish to contribut
 Mpowa is always eager to get in contact with community leaders in order to facilitate a streamlined project-process in the shortest amount of time. 
 
 
+## Legislation, Taxes - Notes & Specifications
+
+FCA
+
+
+ESMA
+
+
+
+SEC
+
+
+FINMA
+
 
 
 ## Mpowa’s online resources
