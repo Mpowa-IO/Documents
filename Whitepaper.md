@@ -2513,7 +2513,7 @@ Monitoring all results—mapping against plans, taking corrective action, which 
 
 
 
-## Conglomerate: Partnerships & Involvement
+## Conglomerate, Partnerships & Involvement
 
 The following partners are crucial to Mpowa's success:
 
