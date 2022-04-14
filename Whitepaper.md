@@ -1114,51 +1114,33 @@ One of the requirements to register for Partnership for SDGs with the UN are a c
 The initiative is open for all entities within the United Nations that engage with, and promote the work of, multi-stakeholder partnerships and voluntary commitments in driving implementation of the SDGs.
 
 
+### Data standards and metadata.
 
-#### SDG Impact Standards
+*The following protocols are used for this purpose.*
 
-The SDG Impact Standards are best practice standards for entities wanting to embed contributing positively to sustainable development and achieving the SDGs into their approach to creating value for themselves and for Stakeholders (people and planet).
+#### The SDG Impact Standards 
+
+Best practice standards for entities wanting to embed contributing positively to sustainable development and achieving the SDGs into their approach to creating value for themselves and for Stakeholders (people and planet).
 
 They are not reporting standards. They focus on the internal management and decision-making practices that are needed to support more informed and accountable internal decision making and choices in line with achieving the SDGs and other sustainable development outcomes.
 
 The Standards embed the SDGs and the Impact Management Project’s norms as the shared language to understand, manage and communicate impact. The Standards also embed the United Nations Guiding Principles for Business and Human Rights and the Ten Principles of the United Nations Global Compact, to underscore the importance of respect for human rights and other responsible business practices in contributing positively to sustainable development and achieving the SDGs.
 
-
-
 - Standard 1 (Strategy): 
 Long term vision for projects.
-
-
 
 - Standard 2 (Management Approach): 
 Complete lifecycle of products and projects is included in the calculations. 
 
-
-
-
-
-
-
 - Standard 3 (Transparency): 
-
-
-
-
-
 
 
 - Standard 4 (Governance): 
 
 
-
-
-
-
-
 The SDG Impact Standards aim to help operationalize high level principles of practice in a consistent way and bridge the gap between high level principles of practice and relevant tools and reporting frameworks. The OPIM provides the overarching architecture or principles for best practice within impact management systems. The SDG Impact Standards provide more detailed and specific practice guidance around how organizations develop the internal management and decision making systems to measure and manage impact, consistent with OPIM and other high level principles of practice. 
 
 The Standards also embed the SDGs and Impact Management Project as the shared language to understand and communicate impact.
-
 
 OPIM focuses on the management systems specific to the fund being designated as ‘impact’. The SDG Impact Standards provide the building blocks for the management systems for specific funds linking to the SDGs, as well as certain governance practices of the Fund Manager. This includes an organizational commitment to human rights in line with UN Global Compact, the UN Universal Declaration of Human Rights, grievance mechanisms, etc.
 
@@ -1167,8 +1149,21 @@ The SDG Impact Standards aim to provide the building blocks for an internal impa
 
 
 
+#### FDES
+Environment statistics thus cover a wide range of information and are multi- and inter- disciplinary in nature. They originate from a variety of institutions that collect data and, similarly, numerous methods are used to compile them. The field of environment statistics requires an appropriate framework to guide its development, coordination and organization. Framework for the Development of Environment Statistics (FDES 2013)
 
-### SDK-Toolkit
+Framework:
+- marks out the scope of environment statistics; 
+- facilitates a synthesized presentation of data from various subject areas and sources; 
+- simplifies the complexity of the environment appropriately so that it can be measured more easily; 
+- helps to identify the range of statistics relevant to societal decision-making regarding the environment; 
+- is consistent with statistical frameworks already used in other domains to facilitate the integration of environment statistics; and 
+- is conceptually based.
+
+
+
+
+### Data Reporting, data inclusion, SDK-Toolkit
 
 
 Enterprises and investors increasingly recognize that sustainable development is at the core of long-term value creation but are not yet systematically integrating sustainability and impact considerations in their decision-making. SDG Impact aims to help make this process easier through SDG Impact Standards.
