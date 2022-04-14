@@ -2305,6 +2305,9 @@ This is a security token, to be registered at the FCA, ESMA and FINMA.
 ### mSDG - SDG-Impact Token:
 20% of the carbon offset profits into liquidity?? No.
 
+### mESG - ESG fund
+Funds raised through the Scalingfunds ESG fund, represented on the Mpowa Chain.
+
 
 ### EIP-1046 
 This proposal will make adding metadata to ERC20 tokens straightforward for developers with minimal-to-no disruption to the overall ecosystem. By using the same parameter name and by consolidating the underlying Token JSON Metadata Standard, developers will confidently understand how to add and interpret token metadata between ERC20 and ERC721 tokens.
