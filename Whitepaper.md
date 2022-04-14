@@ -24,7 +24,7 @@ Transparency and auditability are key features of blockchain technology,
 which provide traceability of funds (resource allocation can be tracked from start to finish) and verifiable Proof of Impact.
 Constant transparency and credibility also differentiates the SaaS platform from established competitors and well known large-scale 
 foundations that utilize traditional banking technology. 
-<br>
+<br><br>
 Mpowa’s data-driven approach is in line with UN’s DSDs to match the United Nations National Quality Assurance Frameworks Manual for Official Statistics. 
 By utilizing blockchain technology, 
 Mpowa provides an additional credibility layer to ensure data quality, transparency of set definitions and important terms and 
