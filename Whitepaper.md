@@ -1457,68 +1457,62 @@ The purpose of the Mpowa platform is to connect the world and its issues to the 
 
 ### Mechanism
 
-Through tokenization of carbon offset we enhance the capacities for the carbon offset market through providing specific individual proof-of-offset which will mitigate double-spending issues. 
-
-The funds that Mpowa, and its platform participants, will acquire through selling (tokenized) carbon offset credits, shall partially function as a means to kickstart new projects and decrease the timeframe in which the project can be successfully  realized. Our Mpowa-Solvatten project-based NFT’s will be carrying a legitimate and tradable certificate of ownership of the specific carbon offset tokens and data tokens, linked to the specific serial number of a water-purification device, that is manufactured Solvatten.
-
-Through Tokenization of carbon offset we enhance the capacities for the carbon offset market through providing specific individual proof-of-offset which will mitigate double-spending issues.
-
-The Decarbonizer-Application contains a non-custodial wallet for cryptocurrency-tokens (+ purchasing options), users’ impactor-profile, Mpowa’s current and upcoming projects and an investor-leaderboard. For each impactor-type there are additional features that come with it that will be described later in this paper.
+The Decarbonizer-Application contains a non-custodial wallet for cryptocurrency-tokens (+ purchasing options), users’ impactor-profile, Mpowa’s current and upcoming projects and an investor-leaderboard. Payments in the app are made with mUSD, a stablecoin on the Mpowa Blockchain.
 
 Participants can purchase project-based NFT’s in a separate marketplace, to directly fund a project of their preference, and receive additional benefits. The marketplace will contain a unique NFT-Builder function to mint tokens accordingly depending on what regional demands are at a current moment in time.
 
 Through research, suggestions will be given to marketplace participants in terms of necessity of projects. If there’s a higher necessity for a certain NFT-kit to be minted or a higher participation rate (meaning the project will be realized sooner), implementing those suggestions in your NFT-Mint will result into receiving a larger amount of Impact Tokens, because Carbon Offset profits will be generated sooner than later, and logically, the impact will happen sooner. 
 
-The NFT’s purchased in the mentioned marketplace will be transferred to your Decarbonizer-App Wallet, alongside the Impact Tokens. Specific traits and additional information regards your Impact-Certificate will be available off-chain outside the application. If mGOV tokens are assigned to a specific project, these represents your share in the project and rights in the DAO that is created for the specific project.
+The NFT’s purchased in the mentioned marketplace will be transferred to your Decarbonizer-App Wallet, alongside the Governance Tokens and Impact 
+Tokens - once the data is available. Specific traits and additional information regards your Impact-Certificate will be available off-chain outside the application. If mGOV tokens are assigned to a specific project, these represents your voting in the project and rights in the DAO that is created for the governance of all projects.
 
-The platform application is directly linked to the project marketplace, which lists all the different projects that Mpowa is currently running. This marketplace is also accessible from outside the application, on a delegated website, and can directly interact with the same Mpowa-Wallet. 
+The platform application is directly linked to the project marketplace, which lists all the different projects that Mpowa is currently running, through a project-API. This marketplace is accessible from outside the application, on a delegated website, and can directly interact with the same Mpowa-Wallet. 
 
 Each project will contain a brief and extensive description, depending on what the participant desires to view, alongside a progression bar to see how far along the funding is for a certain project and all the partners that are working with Mpowa to make the project come to realization.
 
-The utility tokens can be purchased manually on the Mpowa-Website and through the mobile application, with both fiat and cryptocurrencies. Once the project has liquidity that is provided for a specific projects is locked until the project comes to realization, when the funds will be assigned to the parties involved after completing their work and getting sufficient approval from the DAO that they did so, or when the necessary funds to launch the project are not raised before a specific date - in which case the utility tokens will be refunded to everyone who has purchased an NFT to participate in the project.
+The utility tokens can be purchased manually on the Mpowa-Website and through the mobile application, with both fiat and cryptocurrencies. Once the project has liquidity that is provided for a specific projects is locked until the project comes to realization, when the funds will be assigned to the parties involved after completing their work and getting sufficient approval from the DAO that they did so, or when the necessary funds to launch the project are not raised before a specific date - in which case the utility tokens will be refunded to everyone who has purchased an NFT to participate in the project, subscription or application-based contributions can also be transferred into a kickstarter pool for a new project or returned to the individuals, depending on the preference of the DAO.
 
-In order to participate on the Mpowa platform, each costumer has to follow the necessary KYC-protocols, including which will be described on our platform website and application. The services we use for KYC, AML and CTF are GDPR-compliant. 
+In order to participate on the Mpowa platform, each costumer has to follow the necessary KYC-protocols, including which will be described on our platform website and application. The services we use for KYC, AML and CTF are GDPR-compliant.
+
 The various tokens that are interconnected through the Mpowa platform will be thoroughly described in this paper, with all containing ‘decentralized’ governance properties. Providing decentralized governance is a means to allow for effective, legitimate and transparent interaction and transaction. 
 
-Tokens are used by smart contracts to manage the ownership rights (and duties) of a contract. The downside of smart contracts is the ongoing costs of operating the service, but these costs are much, much cheaper than alternative/traditional means.
+Tokens are used by smart contracts to manage the ownership rights (and duties) of a contract. The downside of smart contracts are the small costs of operating the service, but these costs are considerably cheaper than alternative/traditional means.
 
-Before the Project Hero hands over the Solvatten device to the recipient family in Gambia, we have them sign an agreement in which they promise to declare usage data through our app. The application will stream the usage data to the Mpowa blockchain which will be picked up by the Mpowa-CarbonToken-Minting Contract and initiate a tokenMint according to the incoming data which will be deposited in a central Mpowa-Co2-offset wallet, which then will be equally distributed to the Value-Token holders.
+Before the Project Hero hands over the Solvatten device to the recipient family in Gambia, Mpowa has them sign an agreement in which they promise to declare usage data through our app. The application will stream the usage data to the Mpowa blockchain which will be picked up by the Mpowa-CarbonToken-Minting Contract and initiate a tokenMint according to the incoming data which will be deposited in a central Mpowa-Co2-offset wallet, which then will be equally distributed to the Value-Token holders.
 
-A disruptive new Blockchain-based Application that empowers users to have an impact by financing clean-tech projects and become part of a collective force developing a decentralized, autonomous organization that facilitates the transition towards resource abundance. 
 The web-dApp has an integrated web3-wallet connector which functions to represent your Mpowa Tokens in the platform and in the users (non-custodial) wallet, once the correct custom RPC has been declared in the selected browser-wallet.
-
-Users can purchase tokens by credit-card or other supported payment methods. Tokens will be loaded onto your account after payment, and you can then immediately use them to invest in projects of interest, and earn Governance Tokens.
 
 As a new user, you will be asked to select your role within the platform environment. For now, let us start with the IMPACTOR profile, which is focussed on participation by the public. An IMPACTOR holds a critical role in funding the right projects and ensuring that the initiative stays true to its mission and purpose. 
 
-An IMPACTOR navigates through different projects, investigate the details, and facilitate the finance though the MPOWA-tokens, which can be tracked for complete TRANSPARENCY and TRUST. The entire experience is gamified to increase the level of participation, motivation and inclusion. 
+An IMPACTOR navigates through different projects, investigate the details, and facilitate the finance though the MPOWA-tokens (mUSD), which can be tracked for complete TRANSPARENCY and TRUST. The entire experience is gamified to increase the level of participation, motivation and inclusion. 
 
-Prospective partnership with acknowledged CTX Global Carbon Credit Exchange facilitate the platform-subscribers with a reward mechanism. The Carbon Offset that is generated through a specific Mpowa clean-tech project, will be listed in Carbon Credits on the CTX Global for purchase by SME’s and larger corporate organizations to reduce their Carbon Footprint. The profits that are generated by Mpowa for selling Carbon Credits will be forwarded to the reward-pool on the exchange where the Mpowa Security Token is listed. Rewards are allocated on to the stakeholders of a project as a reward for providing initial liquidity to enable the project to occur.
-For the pilot project the profits of the Carbon offset sale are not redirected to 
+Prospective partnership with acknowledged CTX Global Carbon Credit Exchange and Toucan Protocol facilitate the platform-subscribers with a reward mechanism. 
 
-The platform utilizes blockchain technology as a payment system to enable international participation, due to regulatory compliance, low transaction fees and instant transactions. Besides serving as a payment mechanism, we use the Mpowa Blockchain transactions as a transport layer for information exchange. The Mpowa Blockchain, a database, is a distributed ledger of trusted transactions.	In addition to serving as a mechanism for payments and information the technology works as a value exchange protocol. It’s similar to TCP/IP as the foundational protocol for the exchange of digital information. Blockchain enables the exchange of digital value and digital representations of real-world value-backed assets. The Mpowa platform makes use of project/object based Non-Fungible-Tokens, representing a specific clean-tech device and the costs that come alongside it, may it be for a project or for personal use. Each NFT is linked to a certificate of ownership, which carries certain rights and obligations in the DAO, and KYC information. Another feature of our project-based NFT’s, is that they contain ownership-rights to tokenized representations of Carbon Offset Credits, which are minted upon data-retrieval. For the pilot project we will launch a token-sale to spark the funding for platform and the project. The project-based NFT’s will be listed on an NFT-Marketplace where costumers can purchase their share in a specific project. The assets available on the NFT-Marketplace can also be purchased through our platform App, which then will be stored in their Mpowa-Wallet. If one wishes to sell their NFT, they can do so by requesting a re-listing of their specific NFT on the NFT-Marketplace.
+The Carbon Offset, which is allocated towards Mpowa itself, that is generated through a specific project, will be listed in Carbon Credits on the CTX Global or Toucan Protocol for purchase by SME’s and larger corporate organizations to reduce their Carbon Footprint. 
 
+The profits that are generated by Mpowa for selling Carbon Credits will be forwarded to the reward-pool on the exchange where the Mpowa Security Token is listed. Rewards are allocated on to the stakeholders of a project as a reward for providing initial liquidity to enable the project to occur.
 
-An organization represented by rules encoded as a computer program that is transparent, controlled by the organization members and not influenced by a central government.
+The platform utilizes blockchain technology as a payment system to enable international participation, due to regulatory compliance, low transaction fees and instant transactions. Besides serving as a payment mechanism, we use the Mpowa Blockchain transactions as a transport layer for information exchange. The Mpowa Blockchain, a database, is a distributed ledger of trusted transactions.	
 
-A DAO's financial transaction record and program rules are maintained on a blockchain.  The precise legal status of this type of business organization is unclear.
+> In addition to serving as a mechanism for payments and information the technology works as a value exchange protocol. It’s similar to TCP/IP as the foundational protocol for the exchange of digital information. Blockchain enables the exchange of digital value and digital representations of real-world value-backed assets. The Mpowa platform makes use of project/object based Non-Fungible-Tokens, representing a specific clean-tech device and the costs that come alongside it, may it be for a project or for personal use. 
 
-The Mpowa Platform is a revolutionary new concept. A physical self powering blockchain ecosystem which monetizes free energy in the form of tokens, is self funded by its community and operates as a true exponential DAO.	
+Each NFT is linked to a certificate of ownership, which carries certain rights and obligations in the DAO, and KYC information. Another feature of our project-based NFT’s, is that they contain ownership-rights to tokenized representations of Carbon Offset Credits, which are minted upon data-retrieval. 
 
-Our platform is the core of the magic. The  Mpowa Energy Units connect to the platform which manages the tokenization of the energy. After getting online, the unit becomes available for use. The user installs a simple app from the AppStore or PlayStore and creates an account. After registration, the user receives some tokens for first use. 
-
-Using the app, the QR code on the unit is scanned, and the unit (or socket on the unit) is unlocked. After plugging in an appliance, the tokens get consumed as the user draws electricity rom the unit. If the tokens run out, the user can buy new tokens in the app using a credit card or other payment methods. The energy tokens are not tied to your name, and can be transferred between users.
-
-A similar method is used for our pilot project where recipients of the Solvatten Unit have to login our their data-monitoring app where they manually declare their usage and receive tokens in accordance to the amount of water that has been purified with the device.
+For the pilot project we will launch a token-sale, through the ESG Fund, to spark the funding for platform and the project. The project-based NFT’s will be listed on an NFT-Marketplace where costumers can purchase their share in a specific project. The assets available on the NFT-Marketplace can eventually also be purchased through our platform App, which then will be stored in their Mpowa-Wallet. If one wishes to sell their NFT, they can do so by requesting a re-listing of their specific NFT on the NFT-Marketplace. 
 
 
+#### Noteworthy:
+
+- An organization represented by rules encoded as a computer program that is transparent, controlled by the organization members and not influenced by a central government.
+
+- A DAO's financial transaction record and program rules are maintained on a blockchain. The precise legal status of this type of business organization is unclear.
 
 
 
 
 ## Decentralized Autonomous Organization (DAO)
 
-
+*Some key elements of the Mpowa DAO.*
 
 
 ### Responsibility
