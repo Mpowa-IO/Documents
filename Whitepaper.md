@@ -106,16 +106,19 @@ Written to inform the readers about the company and the complementary DAO,
 in order to increase the readers’ knowledge and create a valuable risk-assessment. 
 MPOWA Ltd is exclusively a technology company, with all financial activity provided by third parties. 
 MPOWA Ltd is not controlled or owned by any other organization which provides financial services. 
-	The future of (cash) money will predominantly be digital, hence Mpowa’s choice of utilizing blockchain technology. 
+
+The future of (cash) money will predominantly be digital, hence Mpowa’s choice of utilizing blockchain technology. 
 Global adoption of blockchain technology to gain financial sovereignty through tokens, 
 tokenized assets and DeFi applications is increasing at a fast pace. Also notable are the upcoming central bank digital currencies (CDBC), 
 after many years of resistance. 
-	As the regulatory and technological maturity levels stabilize globally in preparation for the mass adoption of these new digital technologies,
+
+As the regulatory and technological maturity levels stabilize globally in preparation for the mass adoption of these new digital technologies,
 Mpowa is planning to develop and launch a suite of digital tokens covering three major use cases: investment, data and payments. 
 Each token is designed to address specific aspects of the NetZero transition to a sustainable circular economy, 
 with the investment and data tokens working in tandem to provide end-to-end traceability of ESG investment flows from 
 external funds through to the underlying economy as measured physically via IoT sensors and consecutively reported through defined SDG parameters. 
-	Additionally, Mpowa’s goal is to launch an ISO20022[^2] compliant zero carbon payment token for energy generation and 
+
+Additionally, Mpowa’s goal is to launch an ISO20022[^2] compliant zero carbon payment token for energy generation and 
 consumption in Q3 of 2022, minted and mined on a global and distributed trustless network of interconnected Zero-Emission crypto-mining devices. 
 This is realized through partnerships with Energy Web Foundation Crypto Climate Accord and Steroid 4.0 blockchain, amongst others.  
 
@@ -136,7 +139,8 @@ the user may receive an additional SDG Impact Token or a Non-Fungible Token (a c
 beneficiary family). For certain projects, Tokenized Carbon Offset Credits will be distributed once the offset is realized. Data Tokens and 
 Data-Logging Tokens are interlinked to specific NFT’s that facilitate the offset. These various ways of contributing to listed projects, 
 are more thoroughly described in the sections ‘’The Platform’’ and ‘’Tokenomics’’. 
-	Project-fund pools are better formulated as smart-contracts, which are financial software-programs that are continuously running on 
+
+Project-fund pools are better formulated as smart-contracts, which are financial software-programs that are continuously running on 
 the blockchain, once deployed. This will be further elucidated in the chapter ‘’The Technology’’. All contributions will be acquired from 
 verified platform-users, which have successfully submitted their necessary information through the implemented KYC-protocol, 
 in order to ensure an entirely legitimate stack of contributions to ensure regulatory compliance. Mpowa has a strict and correct privacy policy 
@@ -169,6 +173,7 @@ investors to impact via the blockchain. Depending on the project and contributi
 Tokens will be transferred to the contributor. All Mpowa Tokens can used by enterprises, NGOs, charities and consumers to support 
 ESG-related energy and water projects in line with 17 SDGs. The SDG Impact Tokens and Tokenized Carbon Credits are minted dynamically, 
 according to the projects capacity.
+
 The cryptocurrencies created by Mpowa are among the first (crypto)currencies to be born as carbon negative, climate positive. 
 Users of the Mpowa platform can potentially utilize their contributions in a way to reduce their tax bill.		
 An additional token, the Mpowa Energy Coin, will be issued in late Q2 or Q3 of 2022. This currency will be created and used on the 
