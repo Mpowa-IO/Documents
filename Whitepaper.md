@@ -1097,13 +1097,7 @@ The impact-calculation of projects and products that are offered by Mpowa will b
 
 ### Partnership Registration
 
-
 One of the requirements to register for Partnership for SDGs with the UN are a clearly defined set of data that is in accordance with the SMART criteria. 
-
-The Partnerships for SDGs online platform is United Nations’ global registry of voluntary commitments and multi-stakeholder partnerships made in support of sustainable development and the 17 Sustainable Development Goals. The Partnerships for SDGs platform also facilitates the sharing knowledge and expertise among multi-stakeholder SDG-related partnerships and voluntary commitments, and for providing periodic updates on their progress.	The Partnership for SDGs platform is open to all stakeholders, including Member States, civil society, local authorities, private sector, scientific and technological community, academia, and others, to register a voluntary commitment or multi-stakeholder partnership which aims to drive the implementation of the 2030 Agenda and the 17 Sustainable Development Goals (SDGs) and to provide periodic updates on progress.
-
-The Partnership for SDGs online platform welcomes registration of partnerships and voluntary commitments undertaken by Governments, intergovernmental organizations, major groups and other stakeholders that are aligned with SMART deliverables - Specific, Measurable, Achievable, Resource-based, and Time-bound – and that aim to drive the implementation of the 17 Sustainable Development Goals of the 2030 Agenda. After a registration is submitted, the initiative will be reviewed by the UN secretariat, and if qualified, will be published in the online platform. Registered initiatives are encouraged to maintain up-to-date information and periodically self-report progress once a year through the online platform, focusing on how the initiative has contributed to the achievement of specific goals and targets in the 2030 Agenda.
-
 
 
 ### Framework 
@@ -1137,6 +1131,7 @@ Long term vision for projects.
 
 
 - Standard 2 (Management Approach): 
+Complete lifecycle of products and projects is included in the calculations. 
 
 
 
@@ -1176,8 +1171,6 @@ The SDG Impact Standards aim to provide the building blocks for an internal impa
 ### SDK-Toolkit
 
 
-About the SDG Impact Standards
-
 Enterprises and investors increasingly recognize that sustainable development is at the core of long-term value creation but are not yet systematically integrating sustainability and impact considerations in their decision-making. SDG Impact aims to help make this process easier through SDG Impact Standards.
 
 The SDG Impact Standards are practice standards, revolving around internal decision-making, designed to transform how enterprises and investors think about value creation, and integrate impact management and contributing positively to the SDGs in their strategy, management approach, disclosure, and governance practices. Grounded in existing principles, standards and market best practices, the Standards provide context for applying other tools and frameworks, including metrics, taxonomies, and reporting frameworks.
@@ -1187,16 +1180,11 @@ The solution or answer to conclude the beginning of the paragraph thus is optima
 In addition to the Standards for Enterprises, SDG Impact is developing Standards for Bonds Issuers and Standards for Private Equity Funds. SDG Impact also collaborated with the OECD in the development of Impact Standards for Financing Sustainable Development (IS-FSD).
 
 The Standards are for Enterprises committed to contributing positively to sustainable development and towards achieving the SDGs. All Enterprises – irrespective of size, geography, or sector – can use the Standards. This includes publicly listed enterprises, public-interest, and private entities (both for-profit or not-for-profit), non-governmental organizations (NGOs), small and medium enterprises (SMEs), and state-owned or other public-sector entities.
-The Standards set out a decision-making framework to help Enterprises integrate impact management into their strategy, management approach, disclosure, governance and decision-making practices. They help Enterprises link their approach to creating long-term, sustainable value for the Enterprise with contributing positively to sustainable development in line with the SDGs. They do this by directing attention and resources to where Enterprises can optimize their contribution by focusing on material positive and negative impacts. Embedding the Standards into management decision-making will strengthen impact performance and facilitate higher quality and more consistent disclosures.
 
-The foundational elements of the Standards are:
-contributing positively to sustainable development and achieving the SDGs
-which cannot be achieved without demonstrating respect for human rights, planetary boundaries and other responsible business practices
-and is realized through effective impact management and decision-making
 
-SDG Impact Standards for Enterprises – Enterprise Actions
-The Standards are provided to organizations as a ‘best practice’ guide to help them operate more sustainably and optimize their contribution to sustainable development and the SDGs by integrating responsible business and impact management practices into their organizational systems and internal decision-making.
-Enterprises can follow the following actions to properly integrate operating sustainably and contributing positively to sustainable development and the SDGs into their organizational systems and decision-making.
+#### Why?
+
+The Partnerships for SDGs online platform is United Nations’ global registry of voluntary commitments and multi-stakeholder partnerships made in support of sustainable development and the 17 Sustainable Development Goals. The Partnerships for SDGs platform also facilitates the sharing knowledge and expertise among multi-stakeholder SDG-related partnerships and voluntary commitments, and for providing periodic updates on their progress.	The Partnership for SDGs platform is open to all stakeholders, including Member States, civil society, local authorities, private sector, scientific and technological community, academia, and others, to register a voluntary commitment or multi-stakeholder partnership which aims to drive the implementation of the 2030 Agenda and the 17 Sustainable Development Goals (SDGs) and to provide periodic updates on progress.
 
 
 
