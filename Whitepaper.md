@@ -1127,14 +1127,44 @@ Complete lifecycle of products and projects is included in the calculations.
 - Standard 4 (Governance): 
 
 
-#### Ten Principles
-
-
 The SDG Impact Standards aim to help operationalize high level principles of practice in a consistent way and bridge the gap between high level principles of practice and relevant tools and reporting frameworks. The OPIM provides the overarching architecture or principles for best practice within impact management systems. The SDG Impact Standards provide more detailed and specific practice guidance around how organizations develop the internal management and decision making systems to measure and manage impact, consistent with OPIM and other high level principles of practice. 
 
 OPIM focuses on the management systems specific to the fund being designated as ‘impact’. The SDG Impact Standards provide the building blocks for the management systems for specific funds linking to the SDGs, as well as certain governance practices of the Fund Manager. This includes an organizational commitment to human rights in line with UN Global Compact, the UN Universal Declaration of Human Rights, grievance mechanisms, etc.
 
 The SDG Impact Standards aim to provide the building blocks for an internal impact management system that helps organizations make better decisions, and that provides high quality inputs to support consistent reporting and disclosures under multiple external disclosure and reporting frameworks.
+
+
+#### Ten Principles
+
+The Ten Principles of the UN Global Compact
+
+Corporate sustainability starts with a company’s value system and a principles-based approach to doing business. This means operating in ways that, at a minimum, meet fundamental responsibilities in the areas of human rights, labour, environment and anti-corruption. Responsible businesses enact the same values and principles wherever they have a presence, and know that good practices in one area do not offset harm in another. By incorporating the Ten Principles of the UN Global Compact into strategies, policies and procedures, and establishing a culture of integrity, companies are not only upholding their basic responsibilities to people and planet, but also setting the stage for long-term success. 
+
+Principle 1: Businesses should support and respect the protection of internationally proclaimed human rights; and
+
+Principle 2: make sure that they are not complicit in human rights abuses.
+Labour
+
+Principle 3: Businesses should uphold the freedom of association and the effective recognition of the right to collective bargaining;
+
+Principle 4: the elimination of all forms of forced and compulsory labour;
+
+Principle 5: the effective abolition of child labour; and
+
+Principle 6: the elimination of discrimination in respect of employment and occupation.
+Environment
+
+Principle 7: Businesses should support a precautionary approach to environmental challenges;
+
+Principle 8: undertake initiatives to promote greater environmental responsibility; and
+
+Principle 9: encourage the development and diffusion of environmentally friendly technologies.
+Anti-Corruption
+
+Principle 10: Businesses should work against corruption in all its forms, including extortion and bribery.
+
+
+
 
 
 
