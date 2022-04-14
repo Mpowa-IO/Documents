@@ -1475,43 +1475,49 @@ A similar method is used for our pilot project where recipients of the Solvatten
 ### Responsibility
 
 
+Resource management
 
+As sketched out earlier, resource management matters, as it profoundly impacts the autonomy of any DAO.
+The exclusive usage of on-chain resources allows a DAO to directly exert control and initiate action via a smart contract that may or may not be upgradeable. Depending on the exact set-up of the respective smart-contract, a trade-off between the level of multilateral agreement and practicability (i.e., upgradeability) can be ensured, while counterparty risk could be avoided.
+When using off-chain assets (such as fiat currencies), a natural person or legal entity (in jargon “legal personhood”) must be assigned control over the respective assets. This legally identifiable point of contact has legal control over off-chain assets and thus introduces counterparty risk. It would be possible to abuse the legal authority over the DAO’s assets and disregard decisions of the DAO (i.e., do a good old exit scam)9.
+
+Discussions
+
+Rule-based discussions can be executed on-chain via pre-voting. The core idea is that a smart contract is used for implementations such as token curated registries or prediction markets. As these implementations are based on smart contracts, they all are binding, formalized, and transparent.
+Alternatively, a rule-based discussion could also be executed off-chain by linking a smart contract event to a legal contract.
+If the discussion is not rule-based, it must be discretionary. By definition, discretionary discussions must be based on an off-chain medium. These could either be legal contracts that are not initiated or otherwise directly linked to smart contracts of the DAO, or - more commonly - various fora or messenger services.
+
+Interestingly, the connection between DAOs and the legislative environment is currently in flux. The very first “connection” was, in fact, an attempt to deny such connection and simply disregard the legal environment. The DAO, for example, wanted to exist independent of any legislation. However, such a strategy merely results in giving up control over how the DAO will is treated under the law.
+
+
+Established DAO Voting/Governance Topics:
+
+- 
+- 
+- 
 
 
 
 ### Governance Model
 
-
-
 An organization represented by rules encoded as a computer program that is transparent, controlled by the organization members and not influenced by a central government.
 A DAO's financial transaction record and program rules are maintained on a blockchain.  
 
 
-
-- Properties & Parameters!!
-
-
-
- Mpowa’s platform and tokens pairs with a blockchain based DAO (Decentralized Autonomous Organization), which gives the users control and transparency. Mpowa’s native blockchain is constructed using Parity Technology’s Substrate framework, elaborated upon in the chapter “The Technology”.
+Mpowa’s platform and tokens pairs with a blockchain based DAO (Decentralized Autonomous Organization), which gives the users control and transparency. Mpowa’s native blockchain is constructed using Parity Technology’s Substrate framework, elaborated upon in the chapter “The Technology”.
 Several years after Bitcoin was launched, DAOs became a useful mechanism developers and adopters to work together in a harmonized and democratic way. 
 
 The tech represents financial sovereignty and a digital data-currency instrument, thus Bitcoin opened up countless opportunities. Opportunities and innovative ideas find a ground wherein they can gather resources in a creative way to bring projects to life. DAOs promised to revolutionize how we structure socio-economic relationships. Facilitating solutions for ancient problems is where the DAO comes in, due to the (decentralized) power of many. Now the question arrises: Key features and benefits of a DAO-structure- The ability to structure large-scale, merit-based communities with minimal entrance barriers, factor in externalities, and – much in the Bitcoin spirit – break free from relying on traditional institutions. 
 - Organize and coordinate the efforts and resources of members via an a priori estimate, anonymous but formalized, and transparent set of rules that are agreed upon in a multilateral fashion.
-
-
 
 Usually, one of the core elements of any definition of a DAO is the notion of “decentralization”. This often talked about, yet poorly understood concept is avoided as it warrants a more detailed analysis on its own.
 Within the crypto-verse, the term “decentralization” either refers to the physical distribution of hardware (think: validating nodes & full nodes) or the diffusion of political influence. In this case, the latter is relevant. Instead of having a classical hierarchical power distribution, the common approach of any DAO is to foster coordination on a peer-to-peer basis. This element can be described as a multilateral decision-making process.
 The second major component of any DAO is “autonomy”, which can be best described by the ability to govern itself.
 This ability to be self-governed arises from using smart contracts to stipulate software encoded “rules of the game” for any given DAO. Accordingly, a DAO is governed by an a priori binding, formalized, and transparent set of rules. The respective smart contracts may execute organizational functions in an automated manner, irrespective of the involvement or absence of any other party.
 
-
-
 The autonomy of any DAO could thus be generalized as “the degree to which smart contracts govern activity”.
 When adopting a new institutional economics perspective, it is possible to describe all activities by value streams. This description is especially apt for a transactional ecosystem that is not based on (interpersonal) trust. The ability of a DAO to initiate value streams - i.e., to act and therefore be autonomous - thus hinges on the ability to allocate and manage resources (i.e., funds). The autonomy of any DAO is consequently inherently linked to the DAO’s direct control over resources.
 By focusing on what is governed by multilateral agreements and how a DAO exerts control over resources, these first two components are foremost defining the scope of any DAO.
-
-
 
 Besides the scope, there must be an eventual consensus on how to act within this “multilaterally agreed upon autonomy”. Essentially the question is: how can a DAO decide over what components it has control?
 In order to answer this question, some deliberation and a subsequent decision-making process must be present.
@@ -1519,32 +1525,15 @@ The deliberation must formalize some agreed-upon discussion process, which could
 
 Generally, the only way to bootstrap this organizational form - the DAO - is by using decentralized ledger technology that is capable of executing smart contracts. Contractual arrangements also protect the involved parties against contract breaches by providing means of retaliation that go as far as to state coercion. Unlike smart contracts, they can, however, not restrict the scope of eligible action a priori by testing requests against business validation rules and thus render (smart) contract breaches impossible.
 
-
-Resource management
-As sketched out earlier, resource management matters, as it profoundly impacts the autonomy of any DAO.
-The exclusive usage of on-chain resources allows a DAO to directly exert control and initiate action via a smart contract that may or may not be upgradeable. Depending on the exact set-up of the respective smart-contract, a trade-off between the level of multilateral agreement and practicability (i.e., upgradeability) can be ensured, while counterparty risk could be avoided.
-When using off-chain assets (such as fiat currencies), a natural person or legal entity (in jargon “legal personhood”) must be assigned control over the respective assets. This legally identifiable point of contact has legal control over off-chain assets and thus introduces counterparty risk. It would be possible to abuse the legal authority over the DAO’s assets and disregard decisions of the DAO (i.e., do a good old exit scam)9.
-
-Discussions
-Rule-based discussions can be executed on-chain via pre-voting. The core idea is that a smart contract is used for implementations such as token curated registries or prediction markets. As these implementations are based on smart contracts, they all are binding, formalized, and transparent.
-Alternatively, a rule-based discussion could also be executed off-chain by linking a smart contract event to a legal contract.
-If the discussion is not rule-based, it must be discretionary. By definition, discretionary discussions must be based on an off-chain medium. These could either be legal contracts that are not initiated or otherwise directly linked to smart contracts of the DAO, or - more commonly - various fora or messenger services.
-
-Legislation 
-Interestingly, the connection between DAOs and the legislative environment is currently in flux. The very first “connection” was, in fact, an attempt to deny such connection and simply disregard the legal environment. The DAO, for example, wanted to exist independent of any legislation. However, such a strategy merely results in giving up control over how the DAO will is treated under the law.
-
 Fundamentally, DAO’s must have a legal entity. A legal entity also allows DAOs to subsequently integrate legal and smart contracts. As of now, the following two strategies can be identified:
 DAOs can form a legal entity that will enable them to opt-out of any legal jurisdiction. This will, however, have repercussions on the DAO’s ability to manage off-chain funds.
 
 DAOs can attempt to fully integrate and leverage one of the recently created legal entity structures to obtain legal personhood.
 
-
 Once a DAO is incorporated and has legal personhood, it may wish to integrate legal contracts (in jargon “wet law”) and smart contracts. Various attempts have been made to achieve this goal:
 An initial starting point was the attempt to - instead of writing smart contract code - merely write a written text that would express a legal intent.
 
-
 Alternatively, “code” could be a written text that merely describes a contractual arrangement. Instead, however, being legally binding these first efforts were rather initial attempts resembling quick hacks and not binding solutions.
-
 
 A more mature approach is to transform natural language agreements into machine-readable contract objects.
 
