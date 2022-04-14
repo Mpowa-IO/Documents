@@ -1648,20 +1648,7 @@ Carbon offset price per tonne, approximation by Gold Standard.
 
 ## ESG Fund
 
---''Scalingfunds to attract investors and in order to create a clear investment profile and indication of RoI. 
-
-ScalingFunds builds software that advances the real estate and private equity industry
-ScalingFunds was officially established in January 2018 by Jakob Drzazga, a former real estate asset manager investing in impact projects around Germany. Out of the inefficiencies he experienced while launching his first real estate fund, he founded ScalingFunds.
-Jakob’s vision was to enable emerging local fund managers to pursue their passion without having a massive barrier to entry through enormous setup costs, intransparent processes and dependency on never-ending expensive legal advice. Enabling local experts to invest in regional projects would benefit communities outside of hotspots and allow impact projects to take place where they are needed the most. 	In recent years, with the growing demand for digital workflows within the fund industry, ScalingFunds has won the trust of established fund managers with more than €7bn AUM and fund administrators with more than €500bn.
-
-ScalingFunds standardises the complex setup, capital raising and administrative processes to give investment managers and investors wider access to an industry that has more than tripled in size in the last decade. Supported by an experienced team and an Advisory Board of well established, experienced industry names, our solutions are helping clients to cut costs, save time and access capital faster. Accept Any Investors From insurance companies to pension funds, family offices to HNWI, we offer a secure, compliant investment process for all LPs and investors 
-	
-''Approve data room access Investors are able to review the teaser or request data room access. Approve their enquiry and let investors review your customised data room. Every reverse solicitation is documented in a secure audit trail. Receive investment Once investors have completed their due diligence and feel comfortable, they can invest without leaving the data room. We generate a pre-filled subscription form to sign digitally or by wet-ink. You don't have subscription documents yet?  Replace the invest button with reserve allocation and launch your Fund or SPV within 6 weeks.''
-
-
-
-''''-
-
+Using the AIFM compliant ESG Fund service "ScalingFunds", allows Mpowa to proceed with its engagements as a faster pace, since they have the financial regulatory framework already set-up.
 
 
 
@@ -1678,7 +1665,7 @@ An IMPACTOR navigates through different projects, investigate the details, and f
 
 ## Impact-NFT Marketplace
 
-
+Repeat??
 
 
 
@@ -1697,7 +1684,6 @@ Mpowa’s team is international with the company ‘’Mpowa Ltd’’ being fou
 
 ### Data Sources and Collection Method
 
-Indicator 1: 
 
 In order to actually attach verifiable impact to Mpowa platform contributions, we work together with the United Nations program Sustainable Development Goals, in line with the goals set in Agenda 2030. 
 
@@ -1718,6 +1704,8 @@ Blue bonds
 Diaspora bonds 
 New Green Deal 
 
+
+For calculations of actual carbon offset, we need to not make uneducated guesses but research which tree-species are actually being cut down, since each species emits a different amount of carbon dioxide when it is burned, hence the probable difference in offset for different areas.
 
 
 The Kyoto Protocol to the United Nations Framework Convention on Climate Change (UNFCCC) established a cap-and-trade system that imposes national caps on the greenhouse gas emissions of high-income countries that ratified the Protocol (called Annex B countries). Each participating country is assigned an emissions target and the corresponding number of allowances – called Assigned Amount Units (AAUs).
@@ -2101,9 +2089,6 @@ The main provider of data for livestock statistics is usually the agricultural a
 
 
 
-### Uganda Trees
-
-For calculations of actual carbon offset, we need to not make uneducated guesses but research which tree-species are actually being cut down, since each species emits a different amount of carbon dioxide when it is burned, hence the probable difference in offset for different areas.
 
 
 ### Tree Planting
@@ -2117,7 +2102,7 @@ For calculations of actual carbon offset, we need to not make uneducated guesses
 
 ### Tokenized Precious Metals
 
-Project in Congo, tba.
+Carbon offset credits 
 According to NI 43 101.
 
 
@@ -2142,24 +2127,36 @@ The UN’s Sustainable Development Goals (SDGs) are increasingly at the heart of
 
 Environmental pressures, such as climate change, pollution and water scarcity, are sparking new levels of global concern, shifting consumers' values, preferences and behaviour. In response, businesses are starting to consider the idea of purpose beyond economic profit. As more companies design products with sustainability in mind, it will become vital to understand where the greatest needs and most significant investment opportunities lie.
 Circular economy to fight resource scarcity
+
 “Doing more with less” is the mantra of circular businesses that aim to make the most of the available resources, either extending products’ use or giving them a second life. There is an explosion of new business models based on sharing, reusing, renting and repairing, along with new end of life solutions (ie recycling, composting and repurposing).
 Climate positive to turn the tide on climate change
+
 Climate change is back in the spotlight, with the Intergovernmental Panel on Climate Change (IPCC) report calling for “urgent and unprecedented changes” to avoid catastrophic consequences. Businesses are joining global climate strikes for the first time, and investing in innovative climate positive products and technologies that help fight global warming.
+
 Waterless products to navigate the water crisis
+
 Most products require water to be produced and/or used. As water becomes increasingly scarce in some parts of the world, consumers and businesses are facing the consequences of water shortages. Companies are launching products that make more efficient use of this resource, from waterless formulations to products that require less water to be rinsed off.
+
 Products to clean the air
+
 With air quality deteriorating in urban areas, companies are developing new products that either help consumers to improve indoor air quality or protect them from pollution.
 
 Several global surveys have showcased the increased attention companies are giving to public reporting in line with the SDG framework. In 2018, KPMG analysis showed that 40% of the world’s 250 largest companies discuss SDGs in their reporting,1 while a 2019 report by Oxfam, Walk the Talk, found 62% of companies in an analyzed sample have made a public commitment to the SDGs.2 Better yet, a 2019 survey by World Business Council for Sustainable Development (WBCSD) and DNV GL found that among the 250 global companies surveyed, 82% have reported on the SDGs.3 A minority of companies report on all 17 SDGs; most prioritize a select few.
 
 Several pension funds, linking the need for long-term performance with constituents’ values, have increased allocations to SDG investments, including the Danish SDG Investment Fund ($752 billion) and ABP ($68 billion by 2020); Australia’s Cbus Super Fund and CalPERS have announced plans to align investment strategies with the SDGs.
-Starting in 2017, the World Bank issued bonds (US$23.5 billion) managed by BNP Paribas that directly link to the performance of companies advancing SDG priorities. HSBC made headways in late 2018 when it issued its first SDG bond for $1 billion, allocating proceeds towards green building, social housing, renewable energy and other sustainability categories. In the first half of 2019, $10.3 billion in SDG bonds and $5.5 billion in social bonds were issued, with 50% of volumes comprising financial and non-financial corporates.7
-On September 26th, 25-30 CEOs of large companies around the world will launch the Global Investors for Sustainable Development Alliance (GISD) at the UN General Assembly with the intention of implementing an investment plan for sustainable development.8
+
+Starting in 2017, the World Bank issued bonds (US$23.5 billion) managed by BNP Paribas that directly link to the performance of companies advancing SDG priorities. HSBC made headways in late 2018 when it issued its first SDG bond for $1 billion, allocating proceeds towards green building, social housing, renewable energy and other sustainability categories. In the first half of 2019, $10.3 billion in SDG bonds and $5.5 billion in social bonds were issued, with 50% of volumes comprising financial and non-financial corporates.
+
+On September 26th, 25-30 CEOs of large companies around the world will launch the Global Investors for Sustainable Development Alliance (GISD) at the UN General Assembly with the intention of implementing an investment plan for sustainable development.
 Renewable Energy and Buildings Projects Receive the Most Attention
-While SDG-related financing is diverse, green building and renewable energy projects lead the bulk of investment among financing by the private sector. Two of the largest allocations of the HSBC SDG Bond are for green building (38%) and renewable energy (18%), while the Danish SDG Investment Fund intends to invest in a number of sectors, including sustainable energy and infrastructure. Green bonds, majorly allocated towards renewable energy and green construction, are steadily increasing with over $100 billion issued in the first half of 2019. 9
+
+While SDG-related financing is diverse, green building and renewable energy projects lead the bulk of investment among financing by the private sector. Two of the largest allocations of the HSBC SDG Bond are for green building (38%) and renewable energy (18%), while the Danish SDG Investment Fund intends to invest in a number of sectors, including sustainable energy and infrastructure. Green bonds, majorly allocated towards renewable energy and green construction, are steadily increasing with over $100 billion issued in the first half of 2019. 
 Analysis: SDG Impact of the S&P 500
+
 Measuring SDG implementation is specific to geography and also to industry, as different countries are at varying stages of SDG attainment, and industries vary in how their activities affect their area of operation. In addition to the industry a business operates in, there is also the geographic distribution of its value chain – where it sources its materials and sells its products – that will have its own impact on a broad range of issues related to the SDGs.
+
 Modeling can assist in filling gaps when there is lack of data or detailed information on the range of SDG issues that may occur within a business’s value chain. Accordingly, Trucost developed an inputoutput model approach to evaluate the baseline exposure of a company to each SDG. Trucost’s SDGExtended Multiregional Input-Output Model (SDGI-O) models economic flows and associated exposure to SDG-related risks across countries and sectors globally. Trucost considers SDG risk as the risk that a company may be directly or indirectly causing a negative impact on the SDGs (such as greenhouse gas emissions in the supply chain) or the risk that a company may be dependent on practices and activities that conflict with the SDGs (such as underpayment of wages or child labor). The SDGI-O model contains 45 metrics based off the 169 SDG targets that are then aggregated on the Goal level. These metrics were selected due to their direct application to the private sector and adequate data availability.
+
 The SDGs were launched as a blueprint for a more just, sustainable and prosperous future. The private sector has begun to understand its role in contributing to their attainment, as seen by increasing rates in corporate disclosure on the SDGs. Investors are also increasingly interested in benchmarking the performance of companies on the SDGs, and different mechanisms to compare and rank companies are emerging in the form of indexes, benchmarks and, in the case of the World Benchmarking Alliance, league tables.
 
 Pursuing data-driven analysis for understanding the full impact of a business across its value chain can be useful in understanding where to minimize risks and maximize both SDG and financial returns. Leveraging the SDGs as not only a framework for sustainable development but also for innovation towards generating new, more future-ready revenue streams can help identify business opportunities that simultaneously serve the needs of the SDGs.
