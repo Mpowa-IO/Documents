@@ -1509,9 +1509,9 @@ Interestingly, the connection between DAOs and the legislative environment is cu
 
 Established DAO Voting/Governance Topics:
 
-- 
-- 
-- 
+- Project Selection
+- Senate Election
+- Treasury Parameters
 
 
 
