@@ -1090,12 +1090,14 @@ The Partnership for SDGs online platform welcomes registration of partnerships a
 
 ### Framework 
 
-Way of going about it
 
-Data standards and metadata.
-Data reporting, inclusion. SDK-toolkit explanation.
+- Data standards and metadata.
 
+- Data reporting, inclusion. SDK-toolkit explanation.
 
+- Validation
+
+- Diagram
 
 The initiative is open for all entities within the United Nations that engage with, and promote the work of, multi-stakeholder partnerships and voluntary commitments in driving implementation of the SDGs.
 
@@ -1106,27 +1108,50 @@ The initiative is open for all entities within the United Nations that engage wi
 #### SDG Impact Standards
 
 The SDG Impact Standards are best practice standards for entities wanting to embed contributing positively to sustainable development and achieving the SDGs into their approach to creating value for themselves and for Stakeholders (people and planet).
+
 They are not reporting standards. They focus on the internal management and decision-making practices that are needed to support more informed and accountable internal decision making and choices in line with achieving the SDGs and other sustainable development outcomes.
+
 The Standards embed the SDGs and the Impact Management Project’s norms as the shared language to understand, manage and communicate impact. The Standards also embed the United Nations Guiding Principles for Business and Human Rights and the Ten Principles of the United Nations Global Compact, to underscore the importance of respect for human rights and other responsible business practices in contributing positively to sustainable development and achieving the SDGs.
 
 
 
-### Standard 1 (Strategy): 
-Embedding foundational elements into purpose and strategy
-
-### Standard 2 (Management Approach): I
-ntegrating foundational elements into operations and management approach
-
-### Standard 3 (Transparency): 
-Disclosing how foundational elements are integrated into purpose, strategy, management approach and governance, and reporting on performance
-
-### Standard 4 (Governance): 
-Reinforcing commitment to foundational elements through governance practices
+- Standard 1 (Strategy): 
+Long term vision for projects.
 
 
 
-The SDG Impact Standards aim to help operationalize high level principles of practice in a consistent way and bridge the gap between high level principles of practice and relevant tools and reporting frameworks. The OPIM provides the overarching architecture or principles for best practice within impact management systems. The SDG Impact Standards provide more detailed and specific practice guidance around how organizations develop the internal management and decision making systems to measure and manage impact, consistent with OPIM and other high level principles of practice. The Standards also embed the SDGs and Impact Management Project as the shared language to understand and communicate impact.
+- Standard 2 (Management Approach): 
+
+
+
+
+
+
+
+- Standard 3 (Transparency): 
+
+
+
+
+
+
+
+- Standard 4 (Governance): 
+
+
+
+
+
+
+
+The SDG Impact Standards aim to help operationalize high level principles of practice in a consistent way and bridge the gap between high level principles of practice and relevant tools and reporting frameworks. The OPIM provides the overarching architecture or principles for best practice within impact management systems. The SDG Impact Standards provide more detailed and specific practice guidance around how organizations develop the internal management and decision making systems to measure and manage impact, consistent with OPIM and other high level principles of practice. 
+
+The Standards also embed the SDGs and Impact Management Project as the shared language to understand and communicate impact.
+
+
 OPIM focuses on the management systems specific to the fund being designated as ‘impact’. The SDG Impact Standards provide the building blocks for the management systems for specific funds linking to the SDGs, as well as certain governance practices of the Fund Manager. This includes an organizational commitment to human rights in line with UN Global Compact, the UN Universal Declaration of Human Rights, grievance mechanisms, etc.
+
+
 The SDG Impact Standards aim to provide the building blocks for an internal impact management system that helps organizations make better decisions, and that provides high quality inputs to support consistent reporting and disclosures under multiple external disclosure and reporting frameworks.
 
 
