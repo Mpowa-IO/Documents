@@ -280,19 +280,19 @@ The world will soon have the opportunity to meet and exceed the basic needs of e
   
 Whether progress is seen in terms of big or small improvements, it matters a lot. However, while we continue to move towards the final goal, 
 much remains to be done. For example: to make the internet accessible to everyone, many more systemic changes are needed, but progress is being made.
-<br>
+<br><br>
 Progress is movement towards a purified, improved, or otherwise desired state. Recently, the concept of progress has been generalized to 
 psychology, since it is associated with the concept of a goal, that is, progress is understood as “what is considered a means of moving towards 
 the final result of a given specific goal.” Some 20th-century authors refer to The Myth of Progress, referring to the idea that 
 human conditions will inevitably improve.	
-<br>
+<br><br>
 In the 20th century, romantic critics charged that progress did not automatically improve people's conditions and might somehow make them worse. 
 Rogers was one of several reformers in the late 19th century who saw that America's ability to make progress could be greatly improved. 
 He envisioned progress as the process of human development through the search for philosophical truths and the introduction of an era 
 of material prosperity through technological progress. 
-<br>
+<br><br>
 By "progress" we mean the combination of economic, technological, scientific, cultural and organizational progress that has changed our lives and raised our standard of living over the past two centuries. The process of progress and how things move in a positive direction of improvement is called progress. 
-<br>
+<br><br>
 In particular, advancement to a higher or more developed state; development, growth. From Middle English progressie, 
 from Old French progres ("to go forward"), from Latin progressus (“to move forward"), from the root participle progress 
 ("to go forward, to advance, to develop"), from pro- (``forward, before' ‘) + degrees (``go, go'') root participle progredi 
