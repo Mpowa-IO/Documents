@@ -1041,9 +1041,6 @@ It's impossible to provide an exhaustive list of what you can do to protect the 
 An interesting and fairly unique feature is the implementation of an openly accessible product/service-demand submission form for people in need. Submissions will be verified for authenticity and correctness. If the submission comes from a person/entity in an area where Mpowa doesn’t have any projects planned, it can (depending on the severity of the situation) spark the company to start a project (in the area of the submission) or decide to serve the person individually. By demand and supply, NFT’s will be created and minted to serve the need and also contains a certificate for the purchaser that can be used to claim SDG Impact Tokens, Tokenized Carbon Credits and/or Governance Tokens. What really matters for contributors to the platform is that they each have a transparent overview of where they’ve sent their money, how it's being used and which impact their contribution has realized. Mpowa is selling impact, sustainability and health to those who care about planet earth and its inhabitants in an auditable and regulatory compliant way, with implementation of its project impact-data in UN SDG reporting. 
 
 
-The nature of Mpowa's platform is that it's accessible from anywhere and it's scalable, after the necessary agreements with local regulators have been made and once equal/global internet access is available. 
-
-
 
 
 
@@ -1051,7 +1048,7 @@ The nature of Mpowa's platform is that it's accessible from anywhere and it's sc
 
 ## SDG Impact 
 
-
+*Specification of approach.*
 
 ### Overview & Sector Standards
 
@@ -1187,18 +1184,25 @@ It’s critical to understand the specific set of requirements and features that
 
 
 Though environmental statistics is still a relatively new statistical domain, the demand for such statistics is increasing in conjunction with continuing environmental degradation and the obstacles associated with improved environmental management. The recognition that human well-being depends on the environment has led to an increasing list of environmental problems on which decisions must be taken, such as climate change, biodiversity loss and natural resource management. Given the need for governments, businesses, households and other decision makers to deal effectively with these issues, the environment statistics informing them must be of the highest quality possible.
+
 Environment statistics provide information about the state and changes of environmental conditions, the quality and availability of environmental resources, the impact of human activities and natural events on the environment and the impact of changing environmental conditions. They also provide information about the social actions and economic measures that societies take to avoid or mitigate these impacts and to restore and maintain the capacity of the environment to provide the services that are essential for life and human well-being.
+
 Environment statistics thus cover a wide range of information and are multi- and inter- disciplinary in nature. They originate from a variety of institutions that collect data and, similarly, numerous methods are used to compile them. The field of environment statistics requires an appropriate framework to guide its development, coordination and organization. Framework for the Development of Environment Statistics (FDES 2013)
+
 This environment statistics framework (i) marks out the scope of environment statistics; (ii) facilitates a synthesized presentation of data from various subject areas and sources; (iii) simplifies the complexity of the environment appropriately so that it can be measured more easily; (iv) helps to identify the range of statistics relevant to societal decision-making regarding the environment; (v) is consistent with statistical frameworks already used in other domains to facilitate the integration of environment statistics; and (vi) is conceptually based.
 
 
 ### Dissaggregation
 
-How is the platform data distributed and verified?
+How is the platform data distributed and verified is displayed below:
+
+
+-SDK Impact Diagram-
 
 
 
-### Environment statistics serve a variety of users, including but not limited to:
+
+### Environmental statistics purpose
 
 i. Policy and decision makers at all levels;
 ii. The general public, including media and civil society;
@@ -1315,6 +1319,7 @@ Not to forget the additional applications that are going to be created using our
 
 An overview of the data that will be accesible for everyone, to validate our project, and the data that can only be seen by parties that are entitled to viewing it.
 
+
 ### NFTs:
 
 Public:
@@ -1347,7 +1352,6 @@ Public:
 
 ### mGOV:
 
-
 Public:
 
 
@@ -1358,7 +1362,6 @@ Private:
 
 ### mTE:
 
-
 Public:
 
 
@@ -1368,8 +1371,8 @@ Private:
 
 
 
-
 ## Quality Assurance
+
 
 
 
@@ -1394,9 +1397,13 @@ And also the other characteristics of quality, each with their own section and e
 
 
 ### Quality management frameworks and quality management.
+
 Quality man- agreement frameworks provide a coherent and holistic system as a basis for quality management (see definition in section 1.C.). There are various general quality management frameworks applicable to any organization, such as total quality management, International Organization for Standardization (ISO),8 Six Sigma, European Foundation for Quality Management, Balanced Scorecard, Lean and Lean Six Sigma. These frameworks are largely based on common definitions and principles, but their main focus and formalization vary. For example, ISO emphasizes certification and standardization of “processes”, while Six Sigma focuses on quality control of the “products/ outputs” using statistical methods. Lean emphasizes improvement in efficiency by reducing waste.
+
 In many ways, total quality management, which was developed in the previous century, is the foundation of all general quality frameworks. Total quality management is defined as “a set of systematic activities carried out by the entire organization to effectively and efficiently achieve company objectives so as to provide products and services with a level of quality that satisfies customers, at the appropriate time and price”.9 The strategic core of all major total quality management models is continuous improvement, often illustrated with reference to the “Plan-Do-Check- Act” cycle made popular by W. Edwards Deming. This cycle is a four-step process that guides all changes for continuous improvement.
+
 Statistical quality frameworks. The above-mentioned general quality frameworks inspired statistical quality frameworks such as the European Statistics Code of Practice, the International Monetary Fund (IMF) Data Quality Assessment Framework, the Recommendation of the Organization for Economic Cooperation and Development (OECD) Council on Good Statistical Practice and the UN-NQAF presented in chapter 3.10 These are also inspired by and consistent with the Fundamental Principles of Official Statistics, which emphasize independence, impartiality and the protection of data of individuals. Such requirements of official statistics were first formulated jointly in the Fundamental Principles of Official Statistics in 1992.
+
 Purpose of an NQAF .An NQAF provides a coherent and holistic system for statistical quality management that assures trust in and the quality of official statistics. The UN-NQAF presented in chapter 3 contains the components that should be considered in managing and assuring the quality of official statistics.
 
 NQAF for official statistics are as follows:
@@ -1410,23 +1417,35 @@ Content and use of the Manual 5 (f) It provides a basis for creating and maintai
 Quality management and risk management. Risk management has many similarities with quality management. The approach is a bit different, but risk and quality management frameworks are not mutually exclusive—they are complementary. The implementation of risk-based thinking is one of the requirements of ISO 9001:2015. Risk management itself is guided by the framework of the Committee of Sponsoring Organizations of the Treadway Commission. Risk and quality management should not operate independently of each other. A coordinated approach is cost- effective and facilitates the involvement and support of management (see chapter 4 for further information).
 
 Recommendation 1, together with recommendations 2 to 5, form the overarching core recommendations that, if implemented, establish the basis for quality assurance for official statistics in a country. Recommendation 1 is directly derived from two existing resolutions of the General Assembly on statistics.22 Recommendations 2 to 5 are largely based on principle 1 of the Fundamental Principles of Official Statistics, which states that official statistics should meet the test of practical utility. Practical utility is defined as “fitness for use” or “fitness for purpose”, which is the definition of data quality.
+
 Recommendation 1: It is recommended that, in order to be effective, the fundamental values and principles that govern the development, production and dissemination of official statistics be guaranteed by legal and institutional frame- works and be respected at all political levels and by all stakeholders in national statistical systems.
+
 Recommendation 2: It is recommended that countries include the requirements of quality assurance in their national statistical legislation and other legislation mandating the production of statistics for official use (derived from principle 1 of the Fundamental Principles of Official Statistics).23
 Recommendation 3: It is recommended that countries establish a national quality assurance framework for official statistics and that all members of the national statistical system commit to continually assessing, improving and reporting on the quality of official statistics, as well as on the quality of data and statistics used in the production of official statistics as required24 (derived from principle 1 of the Fundamental Principles of Official Statistics).
 Recommendation 4: It is recommended that the national quality assurance framework for official statistics be developed in consideration or in alignment with the United Nations National Quality Assurance Framework or similar existing quality assurance frameworks (derived from principles 1 and 2 of the Fundamental Principles of Official Statistics).
+
 Recommendation 5: It is recommended that the national quality assurance framework be implemented at the national statistical office and throughout the entire national statistical system. Furthermore, it is recommended that the national quality assurance framework be applied to all data and statistics produced outside of the national statistical system that are disseminated with the help and support of a member of the national statistical system or that are used for government decision-making, as deemed appropriate and required (derived from principle 1 of the Fundamental Principles of Official Statistics).
 
 Recommendations that aim at the implementation of specific Fundamental Principles of Official Statistics. The following recommendations provide an interpretation of the Principles to facilitate their implementation and to stress their importance in the context of statistical quality assurance, as the Principles provide the normative basis for official statistics. The recommendations may be incorporated into a country’s statistical laws, as appropriate, to assure adherence to the Principles.
+
 Recommendations 6 to 14 are either directly derived from one or two of the Fundamental Principles of Official Statistics or are a repetition of a specific principle. The Principles and the associated recommendations of the present chapter support specific principles contained in the UN-NQAF and give them an obligatory character (see chapter 3, which contains references to the applicable Principles).
+
 Recommendation 6: In accordance with principles 1 and 2 of the Fundamental Principles of Official Statistics, it is recommended that statistics at all lev- els, including the local level, be planned, designed, developed, produced and disseminated on an impartial basis, and according to strictly professional considerations.
+
 Recommendation 7: In accordance with principle 3 of the Fundamental Princi- ples of Official Statistics, it is recommended that statistics and data be presented in a way that facilitates their correct interpretation, which implies that appro- priate metadata, such as that relating to data sources, methods and procedures used, be made available in conjunction with the released data or statistics.
+
 Recommendation 8: In accordance with principle 4 of the Fundamental Prin- ciples of Official Statistics, it is recommended that all members of the national statistical system comment on erroneous interpretation and misuse of official statistics in their respective subject-matter domain(s) of statistical production and dissemination, as required.
+
 Recommendation 9: In accordance with principles 1 and 5 of the Fundamental Principles of Official Statistics, it is recommended that countries include in their statistical laws: (a) the mandate of producers of official statistics to collect needed information to compile statistics directly from respondents if it is not already available in the national statistical system and cannot be obtained from existing data; and (b) the entitlement to select data sources based on professional consid- erations, including “new” sources such as big data.
+
 Recommendation 10: In accordance with principle 6 of the Fundamental Prin- ciples of Official Statistics, it is recommended that individual data collected by statistical agencies for statistical compilation, whether they refer to natural or legal persons, be kept strictly confidential and used exclusively for statistical purposes.
+
 Recommendation 11: In accordance with principle 7 of the Fundamental Princi- ples of Official Statistics, it is recommended that the laws, regulations and meas- ures under which the national statistical systems operate be made public.
+
 Recommendation 12: In accordance with principle 8 of the Fundamental Prin- ciples of Official Statistics, it is recommended that the work of the national sta- tistical system be properly coordinated to achieve consistency and efficiency, and that, therefore, the statistical law of the country: (a) clearly identifies the roles and responsibilities of the individual members within the national statistical system; and (b) establishes a body that is responsible for managing and coordi- nating system-wide activities, including promotion of the national quality assur- ance framework.
 
 Recommendations 13: In accordance with principle 9 of the Fundamental Prin- ciples of Official Statistics, it is recommended that the national statistical office and all other members of the national statistical system, including members at the local level, use international statistical concepts, classifications and methods, thereby ensuring the consistency of official statistics and the efficiency of statisti- cal systems at all levels.
+
 Recommendation 14: In accordance with principle 10 of the Fundamental Prin- ciples of Official Statistics, it is recommended that countries participate in bilat- eral and multilateral cooperation in statistics to improve official statistics in all countries.
 
 
@@ -1460,24 +1479,27 @@ The utility tokens can be purchased manually on the Mpowa-Website and through th
 In order to participate on the Mpowa platform, each costumer has to follow the necessary KYC-protocols, including which will be described on our platform website and application. The services we use for KYC, AML and CTF are GDPR-compliant. 
 The various tokens that are interconnected through the Mpowa platform will be thoroughly described in this paper, with all containing ‘decentralized’ governance properties. Providing decentralized governance is a means to allow for effective, legitimate and transparent interaction and transaction. 
 
-
 Tokens are used by smart contracts to manage the ownership rights (and duties) of a contract. The downside of smart contracts is the ongoing costs of operating the service, but these costs are much, much cheaper than alternative/traditional means.
-
 
 Before the Project Hero hands over the Solvatten device to the recipient family in Gambia, we have them sign an agreement in which they promise to declare usage data through our app. The application will stream the usage data to the Mpowa blockchain which will be picked up by the Mpowa-CarbonToken-Minting Contract and initiate a tokenMint according to the incoming data which will be deposited in a central Mpowa-Co2-offset wallet, which then will be equally distributed to the Value-Token holders.
 
 
 After downloading the app, and before you can use electricity, you create a user account (or login, if you have an account already). The app guides you through the onboarding and KYC process. After completing this, you’re ready to load Tokens onto your account.
-The Mpowa infrastructure will contain a costumer interface which is capable of monitoring the energy generation and distribution back to the grid in real-time. The energy that is being generated will be tokenized which links a specific source device to which a device-specific NFT (which is registered on the EWC through EW-DOS) is assigned. Other meta data concerning the environment and operation of the unit will also be stored on-chain.	The generated Energy Tokens will be priced in real-time via EWC, converted and magnetized through a DEX and resulting Mpowa utility tokens will be stored in a wallet app on the MPOWA network. The DEX will in effect source liquidity from the purchaser of the tokens (Utility Company and/or Grid Operator) custodial account to purchase the Mpowa tokens.	As a secondary stretch goal, the DEX will generate carbon offset data tokens against a pre-configured NFT token smart contract that is associated to the device registration on the Energy Web. The methodology and formulas for how this offset is to be calculated will need to be specified and provided to Mpowa by IGES SMEs. As a concrete objective, Mpowa wishes to create a generalized framework for accurate, data driven (AI/ML based) pricing of carbon by defining an open standard which takes into account all known reference models as a “floor price” but adds in a (always net positive) market adjustment for various factors based on data sourced from the climate data warehouse. An outcome of the project will be to publish a joint white paper on this model and have this peer reviewed by stakeholders at the CCC and CDW.	The Mpowa platform connects a wide variety of technologies to a single decentralized digitally tokenized energy ecosystem, be that domestic consumers, electric vehicle drivers, businesses or even individual electronic devices like mobile phones, laptops, tablets.
-	The Platform manages and connects all Mpowa Energy Units to the blockchain, where supply and consumption are logged and controlled. Energy is tokenized and price is pegged to a stablecoin to counter volatility. The Mpowa infrastructure will contain a costumer interface which is capable of monitoring the energy generation and distribution back to the grid in real-time. The Mpowa participants (the “MPOWA’ers”) will be able to use clean, infinite, reliable low-cost energy, produced through the MPOWA’s devices, payable in tokens, and that generates data that can only be monetised by the owner. Mpowa is developing a number of tokens for our DAO ecosystem including a Utility token, Security token, Data token and Governance token for the management of the platform.
+The Mpowa infrastructure will contain a costumer interface which is capable of monitoring the energy generation and distribution back to the grid in real-time. The energy that is being generated will be tokenized which links a specific source device to which a device-specific NFT (which is registered on the EWC through EW-DOS) is assigned. Other meta data concerning the environment and operation of the unit will also be stored on-chain.
 
+The generated Energy Tokens will be priced in real-time via EWC, converted and magnetized through a DEX and resulting Mpowa utility tokens will be stored in a wallet app on the MPOWA network. The DEX will in effect source liquidity from the purchaser of the tokens (Utility Company and/or Grid Operator) custodial account to purchase the Mpowa tokens.	As a secondary stretch goal, the DEX will generate carbon offset data tokens against a pre-configured NFT token smart contract that is associated to the device registration on the Energy Web. The methodology and formulas for how this offset is to be calculated will need to be specified and provided to Mpowa by IGES SMEs. As a concrete objective, Mpowa wishes to create a generalized framework for accurate, data driven (AI/ML based) pricing of carbon by defining an open standard which takes into account all known reference models as a “floor price” but adds in a (always net positive) market adjustment for various factors based on data sourced from the climate data warehouse. An outcome of the project will be to publish a joint white paper on this model and have this peer reviewed by stakeholders at the CCC and CDW.
 
+The Mpowa platform connects a wide variety of technologies to a single decentralized digitally tokenized energy ecosystem, be that domestic consumers, electric vehicle drivers, businesses or even individual electronic devices like mobile phones, laptops, tablets.
+
+The Platform manages and connects all Mpowa Energy Units to the blockchain, where supply and consumption are logged and controlled. Energy is tokenized and price is pegged to a stablecoin to counter volatility. The Mpowa infrastructure will contain a costumer interface which is capable of monitoring the energy generation and distribution back to the grid in real-time. The Mpowa participants (the “MPOWA’ers”) will be able to use clean, infinite, reliable low-cost energy, produced through the MPOWA’s devices, payable in tokens, and that generates data that can only be monetised by the owner. Mpowa is developing a number of tokens for our DAO ecosystem including a Utility token, Security token, Data token and Governance token for the management of the platform.
 
 A disruptive new Blockchain-based Application that empowers users to have an impact by financing clean-tech projects and become part of a collective force developing a decentralized, autonomous organization that facilitates the transition towards resource abundance. 
-Our dApp has an integrated wallet that will represent your Mpowa Utility Tokens, Project Tokens and Data tokens.
-You can purchase tokens with credit-card or other supported payment methods. Tokens will be loaded onto your account after payment, and you can then immediately use them to invest in projects of interest, and eventually consume energy.
+The web-dApp has an integrated web3-wallet connector which functions to represent your Mpowa Tokens in the platform and in the users (non-custodial) wallet, once the correct custom RPC has been declared in the selected browser-wallet.
 
-As a new user, you will be asked to select your role within the platform environment. For now, let us start with the IMPACTOR profile, which is focussed on participation by the public. An IMPACTOR holds a critical role in funding the right projects and ensuring that the initiative stays true to its mission and purpose. Whilst empowering the public to participate in the transition towards a sustainable future. 
+Users can purchase tokens by credit-card or other supported payment methods. Tokens will be loaded onto your account after payment, and you can then immediately use them to invest in projects of interest, and earn Governance Tokens.
+
+As a new user, you will be asked to select your role within the platform environment. For now, let us start with the IMPACTOR profile, which is focussed on participation by the public. An IMPACTOR holds a critical role in funding the right projects and ensuring that the initiative stays true to its mission and purpose. 
+
 An IMPACTOR navigates through different projects, investigate the details, and facilitate the finance though the MPOWA-tokens, which can be tracked for complete TRANSPARENCY and TRUST. The entire experience is gamified to increase the level of participation, motivation and inclusion. 
 
 Prospective partnership with acknowledged CTX Global Carbon Credit Exchange facilitate the platform-subscribers with a reward mechanism. The Carbon Offset that is generated through a specific Mpowa clean-tech project, will be listed in Carbon Credits on the CTX Global for purchase by SME’s and larger corporate organizations to reduce their Carbon Footprint. The profits that are generated by Mpowa for selling Carbon Credits will be forwarded to the reward-pool on the exchange where the Mpowa Security Token is listed. Rewards are allocated on to the stakeholders of a project as a reward for providing initial liquidity to enable the project to occur.
