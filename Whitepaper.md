@@ -89,7 +89,7 @@ project methodology towards contributors and auditors.
 - [Token Allocation](#token-allocation)<br>	
 - [Token Launches](#token-launches)<br>
 - [DLT Evironmental Impact](#dlt-environmental-impact)<br>
-- [SWOT Matrix](#swot-matrix)<br>
+- [Scalability](#scalability)<br>
 - [Conglomerate, Partnerships & Involvement](#conglomerate,-partnerships-&-involvement)<br>
 - [Joining Mpowa](#joining-mpowa)<br>
 - [This needs to be included as well](#this-needs-to-be-included-as-well)<br>	
@@ -2470,16 +2470,9 @@ This is why we work with Delegated PoS, carbon offset is reserved and not sold t
 
 
 
+## Scalability
 
-## SWOT Matrix
-
-The name is an acronym for the four components the technique examines:
-
-### Strengths: 
-
-
-
-### Scalability
+Supply-chain management through Oracle Netsuite.
 
 In case there’s an unexpectedly large interest from the audience to contribute towards a certain project, there are solutions to scale the project or at least realize new projects without significant delay, due to partnerships with companies that can provide Mpowa and its beneficiaries with similar technology.  
 
@@ -2494,20 +2487,6 @@ Scalability thus begins with the entity developing a set of leaders who run the 
 
 The scalability of a business also depends on the effectiveness of communication, whether internally to the workforce or externally to clients and investors. Consistency in brand messaging should persist, as it helps the public understand and become persuaded into liking the product.
 
-
-### Weaknesses: 
-
-No weakness.
-
-
-### Opportunities: 
-
-There's plenty of work to be done.
-
-
-### Threats: elements in the environment that could cause trouble for the business or project
-
-Not many. Very likely even helping already established platforms alike.
 
 
 ### Corporate planning includes steps such as:[18]
