@@ -434,11 +434,12 @@ and income (or consumption expenditure) variables to be derived from the same sa
 Poverty is basically result of resource scarcity. National definitions of poverty vary amongst the globe.
 
 
-##### Solution: Social protection systems, appropriately nationally implemented for all. 
+#### Solution: 
+Social protection systems, appropriately nationally implemented for all. 
 Equal rights to economic resources and access to basic services, ownership and control over land and other forms. 
 
 
-##### Relevant indicators for Mpowa:
+#### Relevant indicators for Mpowa:
 
 Indicator 1.1.1: Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural).
 
