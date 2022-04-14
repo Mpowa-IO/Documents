@@ -2003,7 +2003,7 @@ resources, and eventually local activities around three innovation areas: circul
 
 ### STOVE CALCULATIONS
 
-
+The average offset of a solar-stove, when not cutting down trees, or using coal/petrol for cooking, is roughly 2 ton per year.
 
 
 
