@@ -1218,26 +1218,17 @@ How is the platform data distributed and verified is displayed below:
 
 
 
-### Environmental statistics purpose
-
-i. Policy and decision makers at all levels;
-ii. The general public, including media and civil society;
-iii. Analysts, researchers and academia; and
-iv. International agencies.
-
-1.7. Different users need environment statistics at different levels of aggregation and depths of information. 
-They may need cross-cutting environment statistics data sets, for instance regarding climate change. In other cases, they may be interested only in particular topics and themes pertaining to specific sectoral analysis and policymaking. Policy- and decision-makers at the highest levels and the general public would tend to use environmental indicators and more aggregated statistics. Environmental administration, researchers, analysts and academics may be more inclined to examine extensive and detailed environment statistics. International agencies typically have well-articulated needs for environment statistics based on environmental agreements or international data collection processes.
-Overview of Environment Statistics—Characteristics and Challenges 7
 
 1.8. Environment statistics support evidence-based policymaking by making it possible to identify environmental policy issues and quantify the measures and impacts of policy initiatives objectively. They strengthen assessments through quantitative metrics, making analyses more robust through the use of timely and comparable data. The type; level of thematic, spatial and temporal aggregation; and format of environment statistics depend on the type of user and intended use. The main products of environment statistics are detailed tabulated environment statistics series and environmental indicators, both of which can be stored in multipurpose databases and disseminated in the form of online databases, as well as different types of publications, such as compendiums, yearbooks, thematic reports, and analytical publications, such as state of the environment reports.
 
-1.4. Environmental information, data, statistics and indicators
 
 1.9. Environmental information includes quantitative and qualitative facts describing the state of the environment and its changes. Quantitative environmental information is generally produced in the form of data, statistics and indicators, and is generally disseminated through databases, spreadsheets, compendiums and yearbooks. Qualitative environmental information consists of descriptions (e.g., textual or pictorial) of the environment or its constituent parts that cannot be adequately represented by accurate quantitative descriptors.
 
 1.10. Environmental data are large amounts of unprocessed observations and measurements about the environment and related processes. They may be collected or compiled via statistical surveys (censuses or sample surveys) by the national statistical system or may originate from administrative records, geographic databases, registers, inventories, monitoring networks, thematic mapping, remote sensing, scientific research and field studies.
 
-1.11. Environment statistics are environmental data that have been structured, synthesized and aggregated according to statistical methods, standards and procedures. The role of environment statistics is to process environmental and other data into meaningful statistics that describe the state of and trends in the environment and the main processes affecting them. Not all environmental data are used to produce environment statistics. The FDES provides a frame- work that identifies environmental and other data that fall within its scope and then contributes to structuring, synthesizing and aggregating the data into statistical series and indicators.
+
+FDES framework!
+
 
 1.12. Environmental indicators are environment statistics that have been selected for their ability to depict important phenomena or dynamics. Environmental indicators are used to synthesize and present complex environment and other statistics in a simple, direct, clear and relevant way. Environmental indicators are generated because environment statistics are usually too numerous and detailed to meet the needs of policymakers and the general public, and often require further processing and interpretation to be meaningful. Environmental indica- tors may take various forms such as rates, ratios or proportions, and be constructed at different levels of aggregation. The purpose of these indicators is to assess present and future directions with respect to goals and targets, evaluate and determine the impact of specific programs, monitor progress, measure changes in a specific condition or situation over time, and con- vey messages. Policy frameworks such as the Millennium Development Goals (MDGs) and Sustainable Development Goals (SDGs), the Driving force-Pressure-State-Impact-Response (DPSIR) framework and national environment/sustainable development indicator sets, are typically used to identify and structure indicators.
 
@@ -1262,25 +1253,20 @@ v. scientific research and special projects undertaken to fulfill domestic or in
 1.18.
 mating certain types of emissions to the air, statistical surveys are used in combination with scientific research. While statistical surveys and administrative records are commonly used in all areas of statistics (economic, social and environment) and the use of remote sensing data has become widespread, the use of data from monitoring networks, scientific research and special projects are specific mostly to the production of environment statistics.
 
-1.19. Environment statistics rely considerably on data that are collected by direct measurements using a variety of methods, including remote sensing and field-monitoring stations.
+Environment statistics rely considerably on data that are collected by direct measurements using a variety of methods, including remote sensing and field-monitoring stations.
+
 
 Most countries have agencies that are primarily responsible for monitoring environmental resources and conditions. They may be entities in their own right or government agencies with other primary functions that also have departments concerned with environmental matters. These agencies typically produce two main types of data: (i) measured data (obtained by direct observation, field measurements and remote sensing); and (ii) calculated data (derived using estimates and modeling).
 
-1.20. The use of estimates and modeling to generate environmental data can improve overall data quality, including accuracy and coverage, especially when models draw upon two or more sets of observations, such as field observations coupled with global satellite-based observations. Models may also incorporate administrative data or data resulting from statistical surveys or special projects.
 
-1.21. The main characteristics, advantages and disadvantages of these types of sources of environment statistics are discussed below.6
-
-### Overview of Environment Statistics—Characteristics and Challenges
-
-Global Data Structure Definition
-The 2030 Agenda for Sustainable Development underscores the national ownership of the SDGs and calls for “data which is high-quality, accessible, timely, reliable and disaggregated by income, sex, age, race, ethnicity, migration status, disability and geographic location and other characteristics relevant in national contexts.” Consequently, while the global SDG DSD sets a standard for global reporting, the Member States must be able to customize the DSD to suit its own national circumstances, in particular extend it with national indicators and disaggregation. This document outlines recommendations and guidance on how to customize the DSD.
-
-https://unstats.un.org/unsd/environment/FDES/FDES-2015-supporting-tools/FDES.pdf
+The use of estimates and modeling to generate environmental data can improve overall data quality, including accuracy and coverage, especially when models draw upon two or more sets of observations, such as field observations coupled with global satellite-based observations. Models may also incorporate administrative data or data resulting from statistical surveys or special projects.
 
 
-### Fundamental principles of official statistics 
+The main characteristics, advantages and disadvantages of these types of sources of environment statistics are discussed below.6
 
-Official statistics should be a cornerstone of a modern society by providing an unbiased and accurate picture of the economic, demographic, social and environmental situation and development in a country. To an increasing degree, high quality and comparable statistics are also important for analysis and decision-making at the international and global level. Thus, it is essential that official statistics can be trusted by all users and stakeholders and are made accessible and understandable for all users.
+
+
+
 
 A great deal of statistics is also being produced by private and public agencies that are not part of the system of official statistics. Statistics of questionable quality and proper documentation can be potentially confusing and lead to distrust of the national statistical office (NSO) which is supposed to produce unbiased and high-quality official statistics. Therefore, it is of utmost importance that those statistics considered to be ‘official’ follow strict and well-defined principles and standards.
 
@@ -1292,11 +1278,6 @@ NSOs publish their statistics in aggregate form, thereby seeking to ensure the c
 
 
 
-### Partnership with Ocean Protocol One Example for Data Dissagregation 
-
-Ocean makes it easy to publish data services (deploy and mint ERC20 datatokens), and to consume data services (spend datatokens). Crypto wallets, exchanges, and DAOs become data wallets, exchanges, and DAOs. Use Ocean Market to publish data, stake on data (curate), and buy data. Earn by selling, staking, or running your own fork of Ocean Market. Data has automatic price discovery. Data is published as interoperable ERC20 datatokens. Compute-to-data enables private data to be bought & sold. It's a decentralized exchange (DEX), tuned for data. Earn by selling data, staking, or building & launching your own marketplace. Sellers get most of revenue when a dataset is sold. Stakers earn a % of the transaction fee, as do marketplace runners.
-
-
 
 ### Data standards United Nations 
 
@@ -1306,14 +1287,7 @@ The principle of data disaggregation underpins the data requirements of the Leav
 Statistical organizations have been discussing at the sessions of the United Nations Statistical Commission (UNSC), either in special-topic forums or as part of work under the formal agenda, what these principles mean for national statistical offices and national statistical systems.
 
 
-### ISO20022
 
-ISO 20022 is an ISO standard for electronic data interchange between financial institutions. It describes a metadata repository containing descriptions of messages and business processes, and a maintenance process for the repository content. The standard covers financial information transferred between financial institutions that includes payment transactions, securities trading and settlement information, credit and debit card transactions and other financial information.
-The repository contains a huge amount of financial services metadata that has been shared and standardized across the industry. The metadata is stored in UML models with a special ISO 20022 UML Profile. Underlying all of this is the ISO 20022 metamodel - a model of the models. The UML profile is the metamodel transformed into UML. The metadata is transformed into the syntax of messages used in financial networks. The first syntax supported for messages was XML Schema. Clear Overview in which Mpowa Describes: Data quality and integrity;
-Data disaggregation; Data timeliness; Data transparency and openness; Data usability and curation; Data protection and privacy; Data governance and independence; Data resources and capacity; Data rights.
-
-
-1 Refer to decision 48/103, page 41 https://unstats.un.org/unsd/statcom/48th-session/documents/Report-on-the-48th-session- of-the-statistical-commission-E.pdf
 
 
 
@@ -1322,6 +1296,7 @@ Data disaggregation; Data timeliness; Data transparency and openness; Data usabi
 Ocean pro, Chainlink, World Bank Data Warehouse, etc. 
 
 
+Ocean makes it easy to publish data services (deploy and mint ERC20 datatokens), and to consume data services (spend datatokens). Crypto wallets, exchanges, and DAOs become data wallets, exchanges, and DAOs. Use Ocean Market to publish data, stake on data (curate), and buy data. Earn by selling, staking, or running your own fork of Ocean Market. Data has automatic price discovery. Data is published as interoperable ERC20 datatokens. Compute-to-data enables private data to be bought & sold. It's a decentralized exchange (DEX), tuned for data. Earn by selling data, staking, or building & launching your own marketplace. Sellers get most of revenue when a dataset is sold. Stakers earn a % of the transaction fee, as do marketplace runners.
 
 
 ### Mpowa data collection methods
@@ -2359,6 +2334,17 @@ Tokens, representing impact, according to internationally defined data standard 
 ### Utility Token, stablecoin: mUSD
 
 A stablecoin used to contribute to projects, to make sure your donation remains its value and is not subject to any volatility.
+
+
+ISO20022
+
+ISO 20022 is an ISO standard for electronic data interchange between financial institutions. It describes a metadata repository containing descriptions of messages and business processes, and a maintenance process for the repository content. The standard covers financial information transferred between financial institutions that includes payment transactions, securities trading and settlement information, credit and debit card transactions and other financial information.
+The repository contains a huge amount of financial services metadata that has been shared and standardized across the industry. The metadata is stored in UML models with a special ISO 20022 UML Profile. Underlying all of this is the ISO 20022 metamodel - a model of the models. The UML profile is the metamodel transformed into UML. The metadata is transformed into the syntax of messages used in financial networks. The first syntax supported for messages was XML Schema. Clear Overview in which Mpowa Describes: Data quality and integrity;
+Data disaggregation; Data timeliness; Data transparency and openness; Data usability and curation; Data protection and privacy; Data governance and independence; Data resources and capacity; Data rights.
+
+
+1 Refer to decision 48/103, page 41 https://unstats.un.org/unsd/statcom/48th-session/documents/Report-on-the-48th-session- of-the-statistical-commission-E.pdf
+
 
 
 ### Tokenized Carbon Offset Credit: mOCR
