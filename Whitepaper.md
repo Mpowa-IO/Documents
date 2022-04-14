@@ -1135,14 +1135,13 @@ The SDG Impact Standards aim to provide the building blocks for an internal impa
 ### SDK-Toolkit
 
 
-SDG Impact Standards for Enterprises
-UNDP is pleased to release Version 1.0 of the SDG Impact Standards for Enterprises, following two rounds of public consultation. We are thankful that so many individuals and organizations took the time for thoughtful reflection and comment through the development of the SDG Impact Standards for Enterprises and on both rounds of public consultation. This has had a significant influence on the Standards. Thank you.
-We encourage robust feedback and input through the public consultation process, including written responses to the consultation questions and look forward to further feedback from all.
-
 About the SDG Impact Standards
+
 Enterprises and investors increasingly recognize that sustainable development is at the core of long-term value creation but are not yet systematically integrating sustainability and impact considerations in their decision-making. SDG Impact aims to help make this process easier through SDG Impact Standards.
 
 The SDG Impact Standards are practice standards, revolving around internal decision-making, designed to transform how enterprises and investors think about value creation, and integrate impact management and contributing positively to the SDGs in their strategy, management approach, disclosure, and governance practices. Grounded in existing principles, standards and market best practices, the Standards provide context for applying other tools and frameworks, including metrics, taxonomies, and reporting frameworks.
+
+The solution or answer to conclude the beginning of the paragraph thus is optimal collaboration, for feasible and democratic project management, financial transparency, and real-time data.
 
 In addition to the Standards for Enterprises, SDG Impact is developing Standards for Bonds Issuers and Standards for Private Equity Funds. SDG Impact also collaborated with the OECD in the development of Impact Standards for Financing Sustainable Development (IS-FSD).
 
