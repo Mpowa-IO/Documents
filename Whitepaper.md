@@ -57,7 +57,7 @@ project methodology towards contributors and auditors.
 	- [Components](#components)<br>
 	- [Workflow](#workflow)<br>
 	- [Utility](#utility)<br>
-- [Decentralized Autonomous Organization (DAO)](#decentralized-autonomous-prganization-(DAO))<br>	
+- [Decentralized Autonomous Organization (DAO)](#decentralized-autonomous-prganization-dao)<br>	
 	- [Responsibility](#responsibility)<br>
 	- [Governance Model](#governance-model)<br>
 - [Carbon Offset](#carbon-offset)<br>
