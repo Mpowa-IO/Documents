@@ -497,7 +497,7 @@ Clean water, sanitation supplies, supplies for allowing safe child birth, increa
 
 #### Relevant indicators for Mpowa:
 
-These have to be customized. Expected: 05-2022.
+These have to be customized. Expected: 07-2022.
 
 
 #### Mpowa’s Contribution: 
