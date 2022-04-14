@@ -1424,10 +1424,10 @@ The purpose of the Mpowa platform is to connect the world and its issues to the 
 ### Mechanism
 
 Through tokenization of carbon offset we enhance the capacities for the carbon offset market through providing specific individual proof-of-offset which will mitigate double-spending issues. 
+
 The funds that Mpowa, and its platform participants, will acquire through selling (tokenized) carbon offset credits, shall partially function as a means to kickstart new projects and decrease the timeframe in which the project can be successfully  realized. Our Mpowa-Solvatten project-based NFT’s will be carrying a legitimate and tradable certificate of ownership of the specific carbon offset tokens and data tokens, linked to the specific serial number of a water-purification device, that is manufactured Solvatten.
 
 Through Tokenization of carbon offset we enhance the capacities for the carbon offset market through providing specific individual proof-of-offset which will mitigate double-spending issues.
-
 
 The Decarbonizer-Application contains a non-custodial wallet for cryptocurrency-tokens (+ purchasing options), users’ impactor-profile, Mpowa’s current and upcoming projects and an investor-leaderboard. For each impactor-type there are additional features that come with it that will be described later in this paper.
 
@@ -1450,16 +1450,6 @@ Tokens are used by smart contracts to manage the ownership rights (and duties) o
 
 Before the Project Hero hands over the Solvatten device to the recipient family in Gambia, we have them sign an agreement in which they promise to declare usage data through our app. The application will stream the usage data to the Mpowa blockchain which will be picked up by the Mpowa-CarbonToken-Minting Contract and initiate a tokenMint according to the incoming data which will be deposited in a central Mpowa-Co2-offset wallet, which then will be equally distributed to the Value-Token holders.
 
-
-After downloading the app, and before you can use electricity, you create a user account (or login, if you have an account already). The app guides you through the onboarding and KYC process. After completing this, you’re ready to load Tokens onto your account.
-The Mpowa infrastructure will contain a costumer interface which is capable of monitoring the energy generation and distribution back to the grid in real-time. The energy that is being generated will be tokenized which links a specific source device to which a device-specific NFT (which is registered on the EWC through EW-DOS) is assigned. Other meta data concerning the environment and operation of the unit will also be stored on-chain.
-
-The generated Energy Tokens will be priced in real-time via EWC, converted and magnetized through a DEX and resulting Mpowa utility tokens will be stored in a wallet app on the MPOWA network. The DEX will in effect source liquidity from the purchaser of the tokens (Utility Company and/or Grid Operator) custodial account to purchase the Mpowa tokens.	As a secondary stretch goal, the DEX will generate carbon offset data tokens against a pre-configured NFT token smart contract that is associated to the device registration on the Energy Web. The methodology and formulas for how this offset is to be calculated will need to be specified and provided to Mpowa by IGES SMEs. As a concrete objective, Mpowa wishes to create a generalized framework for accurate, data driven (AI/ML based) pricing of carbon by defining an open standard which takes into account all known reference models as a “floor price” but adds in a (always net positive) market adjustment for various factors based on data sourced from the climate data warehouse. An outcome of the project will be to publish a joint white paper on this model and have this peer reviewed by stakeholders at the CCC and CDW.
-
-The Mpowa platform connects a wide variety of technologies to a single decentralized digitally tokenized energy ecosystem, be that domestic consumers, electric vehicle drivers, businesses or even individual electronic devices like mobile phones, laptops, tablets.
-
-The Platform manages and connects all Mpowa Energy Units to the blockchain, where supply and consumption are logged and controlled. Energy is tokenized and price is pegged to a stablecoin to counter volatility. The Mpowa infrastructure will contain a costumer interface which is capable of monitoring the energy generation and distribution back to the grid in real-time. The Mpowa participants (the “MPOWA’ers”) will be able to use clean, infinite, reliable low-cost energy, produced through the MPOWA’s devices, payable in tokens, and that generates data that can only be monetised by the owner. Mpowa is developing a number of tokens for our DAO ecosystem including a Utility token, Security token, Data token and Governance token for the management of the platform.
-
 A disruptive new Blockchain-based Application that empowers users to have an impact by financing clean-tech projects and become part of a collective force developing a decentralized, autonomous organization that facilitates the transition towards resource abundance. 
 The web-dApp has an integrated web3-wallet connector which functions to represent your Mpowa Tokens in the platform and in the users (non-custodial) wallet, once the correct custom RPC has been declared in the selected browser-wallet.
 
@@ -1474,48 +1464,18 @@ For the pilot project the profits of the Carbon offset sale are not redirected t
 
 The platform utilizes blockchain technology as a payment system to enable international participation, due to regulatory compliance, low transaction fees and instant transactions. Besides serving as a payment mechanism, we use the Mpowa Blockchain transactions as a transport layer for information exchange. The Mpowa Blockchain, a database, is a distributed ledger of trusted transactions.	In addition to serving as a mechanism for payments and information the technology works as a value exchange protocol. It’s similar to TCP/IP as the foundational protocol for the exchange of digital information. Blockchain enables the exchange of digital value and digital representations of real-world value-backed assets. The Mpowa platform makes use of project/object based Non-Fungible-Tokens, representing a specific clean-tech device and the costs that come alongside it, may it be for a project or for personal use. Each NFT is linked to a certificate of ownership, which carries certain rights and obligations in the DAO, and KYC information. Another feature of our project-based NFT’s, is that they contain ownership-rights to tokenized representations of Carbon Offset Credits, which are minted upon data-retrieval. For the pilot project we will launch a token-sale to spark the funding for platform and the project. The project-based NFT’s will be listed on an NFT-Marketplace where costumers can purchase their share in a specific project. The assets available on the NFT-Marketplace can also be purchased through our platform App, which then will be stored in their Mpowa-Wallet. If one wishes to sell their NFT, they can do so by requesting a re-listing of their specific NFT on the NFT-Marketplace.
 
-A smart contract is a dynamic contract that is managed by an autonomous agent (off-chain representative) using the Access Controls. The smart contract operates on behalf of the issuer for all administrative tasks associated with maintaining and updating the contract's on-chain records. The smart contract service is responsible for monitoring data that effect the state of the smart contract and for incorporating those changes into the contract. The smart contract can also work with other autonomous agents working on behalf of the issuer or other contracting parties to fully automate all the various processes and tasks associated with the formation and performance of a contract. 
-
-Dynamic contracts typically undergo regular amendments to account for the transfer, change or exercise of ownership rights/duties of the contracting parties, as well as other associated administrative tasks. The use of software and distributed ledgers provides an opportunity to improve the administration, monitoring and performance of these types of contracts.
-
-Tokens are used by smart contracts to manage the ownership rights (and duties) of a contract. The downside of smart contracts is the ongoing costs of operating the service, but these costs are much, much cheaper than alternative/traditional means.
-
-We present a simpler way for people to understand and interact with blockchain. Some of the benefits of utilizing smart contracts on a blockchain are: 
-Reducing or complete avoidance of intermediary and overall project, 
-Maximized transparency of cost, time and scope of project, 
-Limited complexity enabling informed decision making, 
-Efficient resolution of contractual gray areas.
-
-Smart contracts are aiming to revolutionize many industries by replacing the need for both traditional legal agreements and centrally automated digital agreements. Both performance verification and execution rely on manual actions from one of the contracting parties, or an automated system that programmatically retrieves and updates relevant changes. Unfortunately, because of their underlying consensus protocols, the blockchains on which smart contracts run cannot support native communication with external systems. In this paper we present Mpowa, a decentralize governance token. On Mpowa Platform we describe our components for providing governance token to gain effective, legitimate and transparent transaction. 
-We present a simpler way for people to understand and interact with blockchain. Some of the benefits of utilizing smart contracts on a blockchain are: 1. Reducing or complete avoidance of intermediary and overall project, 2. Maximized transparency of cost, time and scope of project, 3. Limited complexity enabling informed decision making, 4. Efficient resolution of contractual gray areas.
-The smart contract operates on behalf of the issuer for all administrative tasks associated with maintaining and updating the contract's on-chain records. The smart contract service is responsible for monitoring data that effect the state of the smart contract and for incorporating those changes into the contract. The smart contract can also work with other autonomous agents working on behalf of the issuer or other contracting parties to fully automate all the various processes and tasks associated with the formation and performance of a contract.
-
-Dynamic contracts typically undergo regular amendments to account for the transfer, change or exercise of ownership rights/duties of the contracting parties, as well as other associated administrative tasks. The use of software and distributed ledgers provides an opportunity to improve the administration, monitoring and performance of these types of contracts.
-
-A smart contract is a dynamic contract that uses an autonomous agent to improve the utility of the contracting experience. The smart contract enforces the rules (T&C’s) of the contract and allows for tools to issue, exchange, govern and enforce ownership rights and duties with respect to the T&C’s and the laws the contract is subject to. The smart contract described in the Tokenized protocol uses the Bitcoin ledger to store all records relevant to the contract.
-
-Tokens are used by smart contracts to manage the ownership rights (and duties) of a contract. The downside of smart contracts is the ongoing costs of operating the service, but these costs are much, much cheaper than alternative/traditional means.
 
 An organization represented by rules encoded as a computer program that is transparent, controlled by the organization members and not influenced by a central government.
+
 A DAO's financial transaction record and program rules are maintained on a blockchain.  The precise legal status of this type of business organization is unclear.
+
 The Mpowa Platform is a revolutionary new concept. A physical self powering blockchain ecosystem which monetizes free energy in the form of tokens, is self funded by its community and operates as a true exponential DAO.	
-Our platform is the core of the magic. The  Mpowa Energy Units connect to the platform which manages the tokenization of the energy. After getting online, the unit becomes available for use. The user installs a simple app from the AppStore or PlayStore and creates an account. After registration, the user receives some tokens for first use. Using the app, the QR code on the unit is scanned, and the unit (or socket on the unit) is unlocked. After plugging in an appliance, the tokens get consumed as the user draws electricity rom the unit. If the tokens run out, the user can buy new tokens in the app using a credit card or other payment methods. The energy tokens are not tied to your name, and can be transferred between users.
+
+Our platform is the core of the magic. The  Mpowa Energy Units connect to the platform which manages the tokenization of the energy. After getting online, the unit becomes available for use. The user installs a simple app from the AppStore or PlayStore and creates an account. After registration, the user receives some tokens for first use. 
+
+Using the app, the QR code on the unit is scanned, and the unit (or socket on the unit) is unlocked. After plugging in an appliance, the tokens get consumed as the user draws electricity rom the unit. If the tokens run out, the user can buy new tokens in the app using a credit card or other payment methods. The energy tokens are not tied to your name, and can be transferred between users.
+
 A similar method is used for our pilot project where recipients of the Solvatten Unit have to login our their data-monitoring app where they manually declare their usage and receive tokens in accordance to the amount of water that has been purified with the device.
-
-
-
-
-
-
-
-#### Long-term Platform vision 
-
-After downloading the app, and before you can use electricity, you create a user account (or login, if you have an account already). The app guides you through the onboarding and KYC process. After completing this, you’re ready to load Tokens onto your account.
-The Mpowa infrastructure will contain a costumer interface which is capable of monitoring the energy generation and distribution back to the grid in real-time. The energy that is being generated will be tokenized which links a specific source device to which a device-specific NFT (which is registered on the EWC through EW-DOS) is assigned. Other meta data concerning the environment and operation of the unit will also be stored on-chain. The generated Energy Tokens will be priced in real-time via EWC, converted and magnetized through a DEX and resulting Mpowa utility tokens will be stored in a wallet app on the Steroid 4.0 network. The DEX will in effect source liquidity from the purchaser of the tokens (Utility Company and/or Grid Operator) custodial account to purchase the Mpowa tokens.	As a secondary stretch goal, the DEX will generate carbon offset data tokens against a pre-configured NFT token smart contract that is associated to the device registration on the Energy Web. The methodology and formulas for how this offset is to be calculated will need to be specified and provided to Mpowa by IGES SMEs. As a concrete objective, Mpowa wishes to create a generalized framework for accurate, data driven (AI/ML based) pricing of carbon by defining an open standard which takes into account all known reference models as a “floor price” but adds in a (always net positive) market adjustment for various factors based on data sourced from the climate data warehouse. An outcome of the project will be to publish a joint white paper on this model and have this peer reviewed by stakeholders at the CCC and CDW. The Mpowa platform connects a wide variety of technologies to a single decentralized digitally tokenized energy ecosystem, be that domestic consumers, electric vehicle drivers, businesses or even individual electronic devices like mobile phones, laptops, tablets.
-
-The Platform manages and connects all Mpowa Energy Units to the blockchain, where supply and consumption are logged and controlled. Energy is tokenized and price is pegged to a stablecoin to counter volatility. The Mpowa infrastructure will contain a costumer interface which is capable of monitoring the energy generation and distribution back to the grid in real-time. The Mpowa participants (the “MPOWA’ers”) will be able to use clean, infinite, reliable low-cost energy, produced through the MPOWA’s devices, payable in tokens, and that generates data that can only be monetised by the owner. Mpowa is developing a number of tokens for our DAO ecosystem including a Utility token, Security token, Data token and Governance token for the management of the platform.
-
-
 
 
 
