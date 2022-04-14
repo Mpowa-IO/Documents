@@ -1102,7 +1102,7 @@ One of the requirements to register for Partnership for SDGs with the UN are a c
 
 - Project & Data Standards
 
-- Data reporting, inclusion. SDK-toolkit explanation
+- Data reporting, inclusion.
 
 - DAO Validation
 
@@ -1157,7 +1157,7 @@ Framework:
 
 
 
-### Data Reporting, data inclusion, SDK-Toolkit
+### Data Reporting, data inclusion.
 
 
 Enterprises and investors increasingly recognize that sustainable development is at the core of long-term value creation but are not yet systematically integrating sustainability and impact considerations in their decision-making. SDG Impact aims to help make this process easier through SDG Impact Standards.
@@ -1170,10 +1170,6 @@ In addition to the Standards for Enterprises, SDG Impact is developing Standards
 
 The Standards are for Enterprises committed to contributing positively to sustainable development and towards achieving the SDGs. All Enterprises – irrespective of size, geography, or sector – can use the Standards. This includes publicly listed enterprises, public-interest, and private entities (both for-profit or not-for-profit), non-governmental organizations (NGOs), small and medium enterprises (SMEs), and state-owned or other public-sector entities.
 
-
-#### Why?
-
-The Partnerships for SDGs online platform is United Nations’ global registry of voluntary commitments and multi-stakeholder partnerships made in support of sustainable development and the 17 Sustainable Development Goals. The Partnerships for SDGs platform also facilitates the sharing knowledge and expertise among multi-stakeholder SDG-related partnerships and voluntary commitments, and for providing periodic updates on their progress.	The Partnership for SDGs platform is open to all stakeholders, including Member States, civil society, local authorities, private sector, scientific and technological community, academia, and others, to register a voluntary commitment or multi-stakeholder partnership which aims to drive the implementation of the 2030 Agenda and the 17 Sustainable Development Goals (SDGs) and to provide periodic updates on progress.
 
 
 
