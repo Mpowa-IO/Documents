@@ -203,7 +203,7 @@ Mpowa will create the first self-powering, carbon-neutral blockchain- based ener
 self-powering generator devices.
 <br><br>
 The overall vision of Mpowa is a world of connected fully autonomous devices of various type which produce and consume their own energy,
- in some cases selling the surplus back to the grid (where local regulations and infrastructure permit), 
+in some cases selling the surplus back to the grid (where local regulations and infrastructure permit), 
 all registered with Energy Web Chain for unique identification of the device, whilst metered and paid for in Mpowa cryptocurrency tokens.
 Having achieved global mass adoption of our device and blockchain infrastructure, by definition, 
 our utility token will in effect become a global digital “fully fungible energy based unit of account” currency (stablecoin) that can potentially be used as the international medium of exchange between national currencies – because energy consumption is the absolute holy grail indicator of economic activity and hence pure gold dust as far as economists and central bankers trying to define monetary and credit policy for their economies goes. This aligns well to the emerging trend of increased use of blockchain and AI within the financial sector for purposes of oversight and automation of the financial system and national currencies. Sustainability is defined as the process of mankind's action to avoid the depletion of natural resources, to maintain the ecological balance and not to allow the quality of life to decline in today's modern society. A measure that does slightly less damage to the natural world, in the belief that ecosystems not only ensure that they continue to function and create the conditions that allow quality of life in modern society not to decline, but also to claim to be sustainable. Given the environmental and social problems faced by societies around the world, sustainability can be exploited in a specific way.  
@@ -235,19 +235,21 @@ current CO2 intensive energy production technologies like coal power.
 ### Sovereignty 
 
 The idea of sovereignty is closely related to the idea of freedom. 
-The sovereign is the only one who is free. He may be a king or queen, but he is also the only one who can make decisions without consulting anyone else.
- The idea of sovereignty is one that has been debated for centuries. It is a complicated concept, and many people have different views on 
+The sovereign is the only one who is free. Freedom from existential fear, through resource abundance, is the foundation of equal human sovereignty.
+<bR>
+The idea of sovereignty is one that has been debated for centuries. It is a complicated concept, and many people have different views on 
 what it means to be sovereign. The meaning of sovereignty changes depending on the context in which it is used. Sovereignty can be used as a 
 synonym for independence or autonomy, but it can also refer to the legal right of a state to govern itself without outside interference.
-	For this purpose, sovereignty is defined as the ability to choose.
+<br>
+Sovereignty can also defined as the ability to exist healthily, safely, with the opportunity to keep developing oneself and contributing to society.
 
 
 
 ### Equality
 
 The world is changing and as such, we need to change the way we think about equality. We should not be focused on equality for the sake of equality,
- but instead focus on abundance and respect. Leaders cannot keep asking for more and more without giving anything in return. 
-Mpowa is here to create a balance between what we give and what we get.
+but instead focus on abundance and respect. Leaders cannot keep asking for more and more without giving anything in return. 
+Mpowa is here to create a balance between what we give and what we get, but certainly not neglecting the ones who urgently need help in crisis situations.
 
 
 
