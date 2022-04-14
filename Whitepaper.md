@@ -1113,7 +1113,7 @@ The Partnership for SDGs online platform welcomes registration of partnerships a
 
 - Data reporting, inclusion. SDK-toolkit explanation.
 
-- Validation
+- DAO Validation
 
 - Diagram
 
