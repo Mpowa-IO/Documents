@@ -1143,7 +1143,8 @@ Corporate sustainability starts with a company’s value system and a principles
 Principle 1: Businesses should support and respect the protection of internationally proclaimed human rights; and
 
 Principle 2: make sure that they are not complicit in human rights abuses.
-Labour
+
+#### Labour
 
 Principle 3: Businesses should uphold the freedom of association and the effective recognition of the right to collective bargaining;
 
@@ -1152,7 +1153,8 @@ Principle 4: the elimination of all forms of forced and compulsory labour;
 Principle 5: the effective abolition of child labour; and
 
 Principle 6: the elimination of discrimination in respect of employment and occupation.
-Environment
+
+#### Environment
 
 Principle 7: Businesses should support a precautionary approach to environmental challenges;
 
