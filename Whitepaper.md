@@ -2370,7 +2370,7 @@ environment enhances securities regulatory objectives of disclosure, fairness an
 
 
 
-## DLT Evironmental Impact
+## DLT Environmental Impact
 
 
 This is why we work with Delegated PoS, carbon offset is reserved and not sold to reduce the company's footprint for net 0.
