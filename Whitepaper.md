@@ -1218,6 +1218,17 @@ Requirements changes are a part of the development cycle. The concerned stakehol
 It’s critical to understand the specific set of requirements and features that need to be retested after a change is implemented. Skipping impact analysis doesn’t change the size of the task. It just turns the size into a surprise.
 
 
+### Diagram
+
+Diagram
+
+
+
+
+### SDK Toolkit
+
+Description of SDK toolkit for SDGs and smart contracts.
+
 
 
 ## Data & Statistics
