@@ -2494,6 +2494,9 @@ The Climate Warehouse will be a public good data layer built on blockchain techn
 ScalingFunds is a funds-as-a-service white label product that leverages blockchain technology to help fund managers automate investor on-boarding, efficiently communicate with investors, and enable the trade or transfer of fund shares between eligible investors.
 
 
+### Ecoloo
+
+ECOLOO Group is a Swedish GREEN innovation company.
 
 ### Ocean Protocol
 
