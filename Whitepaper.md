@@ -1312,7 +1312,12 @@ Environment statistics organized primarily within the FDES may be structured for
 
 
 
-Accounting frameworks, such as the SEEA, reorganize the relevant environment statistics according to stocks and flows within and between the environment and the economy, based on the principles of the System of National Accounts (SNA). In this way, it creates links between environment statistics and the SNA and facilitates the analysis of relationships between the economy and the environment.
+Accounting frameworks:
+
+SEEA - relevant environment statistics according to stocks and flows within and between the environment and the economy, based on the principles of the System of National Accounts (SNA). 
+
+SNA and facilitates the analysis of relationships between the economy and the environment.
+
 
 
 These types of environment statistics are all important and interdependent. They feed back into each other to produce diverse and complementary products that can be used for different purposes and that fit specific user needs and resources of countries or agencies. Ideally, information about the environment should be produced and used as a multipurpose information system which would increase synergy, consistency and efficiency in the use of limited financial resources.
@@ -1393,15 +1398,16 @@ Ocean makes it easy to publish data services (deploy and mint ERC20 datatokens),
 Chainlink: 
 
 
+
 World Bank Data Warehouse: 
 
 
 
-Toucan Protocol:
+Toucan Protocol: Data is shared with Toucan Protocol for them to val
 
 
 
-The Gold Standard Impact Registry: 
+The Gold Standard Impact Registry: Collection of data, which only after granted permission of local authorities, is shared with this registry to mint Gold Standard Carbon Offset credits.
 
 
 
