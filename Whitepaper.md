@@ -2156,14 +2156,14 @@ Competitors
 
 
 **Silvan de Smit: Blockchain developer** <br>
-*Voracious polymath, engaged with blockchain for several years, early supporter of Bitcoin. Started coding and hacking in his youth, officially having studied classical music and thoroughly engaged with cutting edge research in the realm of physics and science.  *
+*Voracious polymath, engaged with blockchain for several years, early supporter of Bitcoin. Started coding and hacking in his youth, officially having studied classical music and thoroughly engaged with cutting edge research in the realm of physics and science.*
 
 
 **Lukhaniyiso Gib:** 
 
 
 **Jeannine Uwase: Software Developer Intern** <br>
-*Jeannine has experience in software development, working with several products in different programming languages.  *
+*Jeannine has experience in software development, working with several products in different programming languages.*
 
 
 
