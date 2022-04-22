@@ -2193,22 +2193,6 @@ Jennifer Koster:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Roadmap
 
 2022, Q2 Objectives to be reached in Q2 of 2022:
