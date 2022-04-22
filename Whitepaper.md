@@ -2555,9 +2555,9 @@ FINMA
 
 ## Mpowa’s online resources
 
-Main website
+Main website: https://www.mpowa.io/
 
-Decarbonizer website:
+Decarbonizer website: https://www.decarbonizer.app/
 Decarbonizer webApp:
 
 NFT Marketplace:
