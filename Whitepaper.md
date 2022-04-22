@@ -2234,12 +2234,7 @@ Data disaggregation; Data timeliness; Data transparency and openness; Data usabi
 
 
 
-### Tokenized Carbon Offset Credit: mOCR
-
-As it says. tba
-
-
-### Governance Token: mGOV
+### mGOV - Governance Token
 
 
 The distribution of Mpowa Governance Tokens is done in a regulated manner where the contribution amount in Mpowa Utility Tokens is equivalent (a 1:1 ratio) to the amount of Governance Tokens that the contributor will receive. 
@@ -2254,27 +2249,28 @@ For every purchased product, a unique token will be created in order to track an
 
 Usage data, etc.
 
+- EIP-1046 
+This proposal will make adding metadata to ERC20 tokens straightforward for developers with minimal-to-no disruption to the overall ecosystem. By using the same parameter name and by consolidating the underlying Token JSON Metadata Standard, developers will confidently understand how to add and interpret token metadata between ERC20 and ERC721 tokens.
+
+ 
 
 
-### Mpowa’s Treasuries:
-Smart Contracts for Projects, CCR profits, voting pools, unexpected costs, team, etc.  
+### mSDG - SDG-Impact Token
 
+Indicating which UN SDG goal-indicators are met by certain project NFT's.
 
-### mSDG - SDG-Impact Token:
-20% of the carbon offset profits into liquidity?? No.
 
 ### mESG - ESG fund
 Funds raised through the Scalingfunds ESG fund, represented on the Mpowa Chain.
 
 
-### EIP-1046 
-This proposal will make adding metadata to ERC20 tokens straightforward for developers with minimal-to-no disruption to the overall ecosystem. By using the same parameter name and by consolidating the underlying Token JSON Metadata Standard, developers will confidently understand how to add and interpret token metadata between ERC20 and ERC721 tokens.
-
-
-
 ### mOCR - Tokenized Carbon Offset Credit:
 
 To be registered by the Gold Standard Registry or Verra Registry, potentially sold on CTX-Exchange and Toucan Protocol.
+
+
+### Mpowa’s Treasuries:
+Smart Contracts for Projects, CCR profits, voting pools, unexpected costs, team, etc.  
 
 
 
