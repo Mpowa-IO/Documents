@@ -2131,7 +2131,7 @@ Competitors
 ## Team
 
 Ryan Lavelle: Co-founder / CEO <br>
-*With 20 years in the banking industry, Ryan doesn’t crack under pressure. His focus is now on democratising and decentralising access to renewables. *
+*With 20 years in the banking industry, Ryan doesn’t crack under pressure. His focus is now on democratising and decentralising access to renewables.*
 
 
 Angelo Nogara: Co-founder / Business development <bR>
