@@ -1122,10 +1122,10 @@ Long term vision for projects.
 Complete lifecycle of products and projects is included in the calculations. 
 
 - Standard 3 (Transparency): 
-
+Utilization of a public blockchain ledger.
 
 - Standard 4 (Governance): 
-
+As explained in the chapter ''DAO''.
 
 The SDG Impact Standards aim to help operationalize high level principles of practice in a consistent way and bridge the gap between high level principles of practice and relevant tools and reporting frameworks. The OPIM provides the overarching architecture or principles for best practice within impact management systems. The SDG Impact Standards provide more detailed and specific practice guidance around how organizations develop the internal management and decision making systems to measure and manage impact, consistent with OPIM and other high level principles of practice. 
 
