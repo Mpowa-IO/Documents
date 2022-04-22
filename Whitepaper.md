@@ -2006,7 +2006,7 @@ Blockchain enables the exchange of digital value and digital representations of 
 
 
 
-### Exemplary projects
+## Exemplary projects
 
 The pilot project is designed to validate our solution through manual execution of all critical steps from project formulation to funding and implementation, with the combined power of donor organizations and the general public. We will partner with Solvatten for our initial pilot(s) and kickoff the platform using their water purification device. 
 
