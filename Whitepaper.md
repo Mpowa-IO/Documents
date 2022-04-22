@@ -1521,13 +1521,8 @@ Risk management itself is guided by the framework of the Committee of Sponsoring
 
 
 
- 
-
 
 United Nations National Quality Assurance Framework 
-
-
-
 
 
 
@@ -2016,37 +2011,15 @@ Blockchain enables the exchange of digital value and digital representations of 
 The pilot project is designed to validate our solution through manual execution of all critical steps from project formulation to funding and implementation, with the combined power of donor organizations and the general public. We will partner with Solvatten for our initial pilot(s) and kickoff the platform using their water purification device. 
 
 
-### Clean-Tech partner for Project I - Solvatten 
+### Water purification
+
+> Clean-Tech partner for Project I - Solvatten.
 
 “Solvatten is a combined portable water treatment and water heating system that has been designed for off-grid household use in the developing world. It is an easy, innovative solution that provides access to clean, hot water to people all over the world. Thanks to its durable design, Solvatten is an affordable and convenient way to get clean, hot water. 
+
 In the developing world, millions of primarily women and children must walk dozens of miles each day to fetch water and firewood. Reducing the daily use of firewood for heating water and utilizing a solution that can be used on unimproved water sources closer to home makes life much easier for these people. Solvatten has an average lifespan of 7-10 years, essential during the first years of life when children are at their most susceptible to waterborne diseases. 
+
 The lack of safe water leading to poor hygiene and poor health are daily challenges for millions of people living in poverty. Worldwide, 1 of 3 people live without reliable access to electricity and 1 out of 8 people live without access to safe, clean water at home. Due to the lack of a reliable energy infrastructure in the developing world, people use natural resources – such as wood and charcoal – for cooking, washing and heating water. Up to 70% of the energy used by a typical home in Sub-Saharan Africa is used for these purposes. This strong dependence on natural resources leads to numerous personal issues including smoke inhalation and burn injuries. It also increases carbon dioxide emissions and leads to deforestation, which gravely impact environmental issues. Indoor plumbing and secure electricity are distant dreams for far too many people.”
-
-
-
-
-
-
-
-### Components of the FDES and the Basic Set of Environment Statistics
-
-
-Resources are defined as the genetic material of plants, animals or microorganisms contain- ing functional units of heredity that are of actual or potential value as a resource for future generations of humanity.59 Although statistics on genetic resources are not collected, they are accounted for through the Nagoya Protocol, which ensures the conservation and sustainable use of genetic resources.
-
-For environment statistics, this topic covers statistics about the area used for and the production of main crop types, annual and perennial crops, different planting methods, mono- culture and resource-intensive farming systems, the use of GMOs, and organic farming. Area harvested is especially important when measuring sown or planted areas (gross) versus har- vested areas (net).60 Fertilizers play a key role in the yield and quantity of crops produced, as well as in the environmental effects of agriculture. Therefore, the amount of natural fertilizers, such as manure or compost, and chemical fertilizers are also relevant. Because of their effect on biodiversity, invasive pests and pollution, statistics on the use of pesticides (e.g., fungicides, herbicides, insecticides and rodenticides) are also considered essential to environment statistics. With the significant growth of modern intensive farming practices and genetically modified crops, constructing these statistics can be particularly relevant to some countries. Finally, imports and exports of crops can also be an important measure of total production, apparent national consumption and, possibly, the associated pressure on the environment. The main institution providing data, besides the NSO, is usually the agricultural authority.
-
-
-
-
-Livestock are animal species that are raised by humans for commercial purposes, consumption or labour (ISIC Rev. 4, Section A, Division 01). Usually raised in agricultural settings, typical livestock species include cows, poultry, pigs, goats and sheep. Rising incomes and grow- ing populations, especially in the developing world, have led to higher demands for livestock products, including milk, eggs and meat, thus driving growth in the livestock sector.61 Nonetheless, livestock rearing is associated with multiple environmental effects. Livestock production contributes to GHG emissions. Animal husbandry (grazing and production of feedstock) occupies a large percentage of land, directly or indirectly. Clearing land for pasture and feed crops has led to widespread deforestation and biodiversity loss and overgrazing leads to erosion and compaction. Furthermore, livestock production accounts for large amounts of water use and constitutes a source of water pollution from hormone use and other chemicals, as well as from the inadequate handling of manure.
-
-A limited number of genetically modified animals, animal substances, tissues and micro-organisms have been introduced in the production of livestock and fish to date. The goal is to add economic value by introducing specific substances or tissue modifications. This could produce unintended environmental effects relating to the place of introduction or the nature of expression of GMOs.
-
-Despite these prevalent environmental implications, however, livestock contributes to the livelihoods of millions of the world’s poor, providing an income source, and sometimes the only source, for many. Therefore, measuring livestock impacts and driving efficiency in the production line is vital.
-
-Environmentally relevant statistics on livestock include the number and characteristics of live animals, as well as antibiotics and hormones used for them. Furthermore, imports and exports of livestock are also a good measure of national livestock quantity and, possibly, of pressure on the environment.
-
-The main provider of data for livestock statistics is usually the agricultural authority or the NSO.
 
 
 
