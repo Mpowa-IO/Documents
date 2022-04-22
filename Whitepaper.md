@@ -1171,7 +1171,10 @@ Principle 10: Businesses should work against corruption in all its forms, includ
 
 
 #### FDES
-Environment statistics thus cover a wide range of information and are multi- and inter- disciplinary in nature. They originate from a variety of institutions that collect data and, similarly, numerous methods are used to compile them. The field of environment statistics requires an appropriate framework to guide its development, coordination and organization. Framework for the Development of Environment Statistics (FDES 2013)
+
+Environment statistics thus cover a wide range of information and are multi- and inter- disciplinary in nature. They originate from a variety of institutions that collect data and, similarly, numerous methods are used to compile them. The field of environment statistics requires an appropriate framework to guide its development, coordination and organization. 
+
+- Framework for the Development of Environment Statistics
 
 Framework:
 
@@ -1252,19 +1255,31 @@ How is the platform data distributed and verified is displayed below:
 
 
 
-Environment statistics support evidence-based policymaking by making it possible to identify environmental policy issues and quantify the measures and impacts of policy initiatives objectively. They strengthen assessments through quantitative metrics, making analyses more robust through the use of timely and comparable data. The type; level of thematic, spatial and temporal aggregation; and format of environment statistics depend on the type of user and intended use. The main products of environment statistics are detailed tabulated environment statistics series and environmental indicators, both of which can be stored in multipurpose databases and disseminated in the form of online databases, as well as different types of publications, such as compendiums, yearbooks, thematic reports, and analytical publications, such as state of the environment reports.
+Environment statistics support evidence-based policymaking by making it possible to identify environmental policy issues and quantify the measures and impacts of policy initiatives objectively. They strengthen assessments through quantitative metrics, making analyses more robust through the use of timely and comparable data. 
+
+The type; level of thematic, spatial and temporal aggregation; and format of environment statistics depend on the type of user and intended use. The main products of environment statistics are detailed tabulated environment statistics series and environmental indicators, both of which can be stored in multipurpose databases and disseminated in the form of online databases, as well as different types of publications, such as compendiums, yearbooks, thematic reports, and analytical publications, such as state of the environment reports.
 
 
 
-Environmental information includes quantitative and qualitative facts describing the state of the environment and its changes. Quantitative environmental information is generally produced in the form of data, statistics and indicators, and is generally disseminated through databases, spreadsheets, compendiums and yearbooks. Qualitative environmental information consists of descriptions (e.g., textual or pictorial) of the environment or its constituent parts that cannot be adequately represented by accurate quantitative descriptors.
 
 
-
-Environmental data are large amounts of unprocessed observations and measurements about the environment and related processes. They may be collected or compiled via statistical surveys (censuses or sample surveys) by the national statistical system or may originate from administrative records, geographic databases, registers, inventories, monitoring networks, thematic mapping, remote sensing, scientific research and field studies.
+statistical surveys (censuses or sample surveys) by the national statistical system or may originate from 
+administrative records, 
+geographic databases, 
+registers, 
+inventories, 
+monitoring networks, 
+thematic mapping, 
+remote sensing,
+scientific research 
+field studies.
 
 
 
 Environmental indicators are environment statistics that have been selected for their ability to depict important phenomena or dynamics. Environmental indicators are used to synthesize and present complex environment and other statistics in a simple, direct, clear and relevant way. 
+
+
+
 
 
 Environmental indicators are generated because environment statistics are usually too numerous and detailed to meet the needs of policymakers and the general public, and often require further processing and interpretation to be meaningful. 
@@ -1452,8 +1467,15 @@ Such requirements of official statistics were first formulated jointly in the Fu
 Purpose of an NQAF .An NQAF provides a coherent and holistic system for statistical quality management that assures trust in and the quality of official statistics. The UN-NQAF presented in chapter 3 contains the components that should be considered in managing and assuring the quality of official statistics.
 
 
+
 Content and use of the Manual 5 (f) It provides a basis for creating and maintaining a culture of quality within the NSS.
-Quality management and risk management. Risk management has many similarities with quality management. The approach is a bit different, but risk and quality management frameworks are not mutually exclusive—they are complementary. The implementation of risk-based thinking is one of the requirements of ISO 9001:2015. 
+Quality management and risk management. Risk management has many similarities with quality management. 
+
+
+The approach is a bit different, but risk and quality management frameworks are not mutually exclusive—they are complementary. The implementation of risk-based thinking is one of the requirements of ISO 9001:2015. 
+
+
+
 
 Risk management itself is guided by the framework of the Committee of Sponsoring Organizations of the Treadway Commission. Risk and quality management should not operate independently of each other. A coordinated approach is cost- effective and facilitates the involvement and support of management (see chapter 4 for further information).
 
@@ -1484,19 +1506,17 @@ In accordance with principles 1 and 5 of the Fundamental Principles of Official 
 
 
 
- In accordance with principle 6 of the Fundamental Prin- ciples of Official Statistics, it is recommended that individual data collected by statistical agencies for statistical compilation, whether they refer to natural or legal persons, be kept strictly confidential and used exclusively for statistical purposes.
+- It is recommended that individual data collected by statistical agencies for statistical compilation, whether they refer to natural or legal persons, be kept strictly confidential and used exclusively for statistical purposes.
  
  
+Laws, regulations and measures under which the national statistical systems operate be made public.
 
-In accordance with principle 7 of the Fundamental Principles of Official Statistics, it is recommended that the laws, regulations and measures under which the national statistical systems operate be made public.
-
-
-
-In accordance with principle 8 of the Fundamental Principles of Official Statistics, it is recommended that the work of the national sta- tistical system be properly coordinated to achieve consistency and efficiency, and that, therefore, the statistical law of the country: (a) clearly identifies the roles and responsibilities of the individual members within the national statistical system; and (b) establishes a body that is responsible for managing and coordi- nating system-wide activities, including promotion of the national quality assur- ance framework.
 
 
 
 International statistical concepts, classifications and methods, 
+
+
 
 
 
