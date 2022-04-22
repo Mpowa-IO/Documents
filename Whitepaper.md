@@ -2325,7 +2325,7 @@ The distribution of Mpowa Governance Tokens is done in a regulated manner where 
 
 ### Project-based NFT’s
 
-
+For every purchased product, a unique token will be created in order to track and monitor its impact and environmental benefits to ensure transparency and avoid estimation-based purchases of carbon offset tokens.
 
 
 ### mDAT - Data Tokens 
