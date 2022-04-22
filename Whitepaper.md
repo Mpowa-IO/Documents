@@ -2272,9 +2272,9 @@ This proposal will make adding metadata to ERC20 tokens straightforward for deve
 
 
 
-### mUSD - Utility Token, stablecoin: Stablecoin pegged by the United States Dollar. Backed by Tron USD.
-
 ### mOCR - Tokenized Carbon Offset Credit:
+
+To be registered by the Gold Standard Registry or Verra Registry, potentially sold on CTX-Exchange and Toucan Protocol.
 
 
 
