@@ -2212,12 +2212,6 @@ Omni, quanti.
 These are tokenized shares from the company Mpowa Ltd. This is a security token, to be registered at the FCA, ESMA, SEC and FINMA.
 
 
-### SDG-Impact Token: mSDG
-
-Tokens, representing impact, according to internationally defined data standard for complete transparency of business impact and activity.
-
-
-
 ### Utility Token, stablecoin: mUSD
 
 A stablecoin used to contribute to projects, to make sure your donation remains its value and is not subject to any volatility.
@@ -2254,10 +2248,10 @@ This proposal will make adding metadata to ERC20 tokens straightforward for deve
 
  
 
-
 ### mSDG - SDG-Impact Token
 
 Indicating which UN SDG goal-indicators are met by certain project NFT's.
+representing impact, according to internationally defined data standard for complete transparency of business impact and activity.
 
 
 ### mESG - ESG fund
