@@ -1249,8 +1249,8 @@ Environmental statistics provide information about the state and changes of envi
 How is the platform data distributed and verified is displayed below:
 
 
--SDK Impact Diagram-
 
+-SDK Impact Diagram-
 
 
 
@@ -1285,10 +1285,13 @@ Environmental indicators are environment statistics that have been selected for 
 Environmental indicators are generated because environment statistics are usually too numerous and detailed to meet the needs of policymakers and the general public, and often require further processing and interpretation to be meaningful. 
 
 
-Environmental indicators may take various forms such as rates, ratios or proportions, and be constructed at different levels of aggregation. The purpose of these indicators is to assess present and future directions with respect to goals and targets, evaluate and determine the impact of specific programs, monitor progress, measure changes in a specific condition or situation over time, and con- vey messages. 
+rates, ratios or proportions, and be constructed at different levels of aggregation. 
 
 
-Policy frameworks such as the Millennium Development Goals (MDGs) and Sustainable Development Goals (SDGs), the Driving force-Pressure-State-Impact-Response (DPSIR) framework and national environment/sustainable development indicator sets, are typically used to identify and structure indicators.
+
+
+Millennium Development Goals (MDGs) and Sustainable Development Goals (SDGs), the Driving force-Pressure-State-Impact-Response (DPSIR) framework and national environment/sustainable development indicator sets, are typically used to identify and structure indicators.
+
 
 
 - Environmental indices are composite or more complex measures that combine and synthesize more than one environmental indicator or statistic and are weighted according to different methods.  - An index can provide a valuable summary measure to communicate important messages in an accessible way and, thus, raise awareness. However, they often raise questions regarding their proper interpretation, methodological soundness, subjectivity of the weighting, and the quality of the underlying statistics.
@@ -1300,6 +1303,8 @@ Environment statistics organized primarily within the FDES may be structured for
 
 
 Accounting frameworks, such as the SEEA, reorganize the relevant environment statistics according to stocks and flows within and between the environment and the economy, based on the principles of the System of National Accounts (SNA). In this way, it creates links between environment statistics and the SNA and facilitates the analysis of relationships between the economy and the environment.
+
+
 These types of environment statistics are all important and interdependent. They feed back into each other to produce diverse and complementary products that can be used for different purposes and that fit specific user needs and resources of countries or agencies. Ideally, information about the environment should be produced and used as a multipurpose information system which would increase synergy, consistency and efficiency in the use of limited financial resources.
 
 
@@ -1315,10 +1320,14 @@ Environment statistics synthesize data originating from various types of sources
 
 Making certain types of emissions to the air, statistical surveys are used in combination with scientific research. While statistical surveys and administrative records are commonly used in all areas of statistics (economic, social and environment) and the use of remote sensing data has become widespread, the use of data from monitoring networks, scientific research and special projects are specific mostly to the production of environment statistics.
 
+
+
 Environment statistics rely considerably on data that are collected by direct measurements using a variety of methods, including remote sensing and field-monitoring stations.
 
 
+
 Most countries have agencies that are primarily responsible for monitoring environmental resources and conditions. They may be entities in their own right or government agencies with other primary functions that also have departments concerned with environmental matters. These agencies typically produce two main types of data: (i) measured data (obtained by direct observation, field measurements and remote sensing); and (ii) calculated data (derived using estimates and modeling).
+
 
 
 The use of estimates and modeling to generate environmental data can improve overall data quality, including accuracy and coverage, especially when models draw upon two or more sets of observations, such as field observations coupled with global satellite-based observations. Models may also incorporate administrative data or data resulting from statistical surveys or special projects.
@@ -1345,7 +1354,11 @@ A great deal of statistics is also being produced by private and public agencies
 
 ### Data standards United Nations 
 
+
+
 In the discussions that have taken place since, the principle of data interoperability has been added to the above. It is defined as ensuring that systems are using the same set of definitions, classifications and methodology, as well as technologically compatible platforms allowing for full harmonization of interfaces and access protocols 
+
+
 
 The principle of data disaggregation underpins the data requirements of the Leave no one behind promise of the 2030 Agenda. The other key principles precisely pinpoint critical challenges in meeting these requirements.
 Statistical organizations have been discussing at the sessions of the United Nations Statistical Commission (UNSC), either in special-topic forums or as part of work under the formal agenda, what these principles mean for national statistical offices and national statistical systems.
@@ -1417,13 +1430,24 @@ An overview of the data that will be accesible for everyone, to validate our pro
 
 
 United Nations National Quality Assurance Frameworks Manual for Official Statistics
-There are different relevant ISO standards for quality and other management areas; in addition to covering quality manage- ment, including customer satis- faction, they comprise market, opinion and social research and risk management.
-The Deming Prize Committee, revised 1998.
+
+There are different relevant ISO standards for quality and other management areas; in addition to covering quality management, including customer satisfaction, they comprise market, opinion and social research and risk management.
+
+
+
 The various quality assurance frameworks cover the same or similar aspects of statistical quality. Some are referred to as codes of practice, stressing their normative character. Adequate management of each of them is essential. At the same time, they must be seen in relation to each other within the statistical production processes.
 
 See International Organization for Standardization (ISO) 9000:2015.
 
-International Organization for Standardization (ISO),8 Six Sigma, European Foundation for Quality Management, Balanced Scorecard, Lean and Lean Six Sigma. 
+International Organization for Standardization (ISO),
+
+Six Sigma, 
+
+European Foundation for Quality Management, 
+
+Balanced Scorecard, 
+
+Lean and Lean Six Sigma. 
 
 - ISO emphasizes certification and standardization of “processes”, 
 - while Six Sigma focuses on quality control of the “products/ outputs” using statistical methods. 
@@ -1452,8 +1476,8 @@ NQAF for official statistics are as follows:
 
 ### Transparency 
 
-And also the other characteristics of quality, each with their own section and explained.
 
+And also the other characteristics of quality, each with their own section and explained.
 
 Quality management is defined as “a set of systematic activities carried out by the entire organization to effectively and efficiently achieve company objectives so as to provide products and services with a level of quality that satisfies customers, at the appropriate time and price”.
 
@@ -1502,7 +1526,11 @@ to 14 are either directly derived from one or two of the Fundamental Principles 
 
 
 
-In accordance with principles 1 and 5 of the Fundamental Principles of Official Statistics, it is recommended that countries include in their statistical laws: (a) the mandate of producers of official statistics to collect needed information to compile statistics directly from respondents if it is not already available in the national statistical system and cannot be obtained from existing data; and (b) the entitlement to select data sources based on professional consid- erations, including “new” sources such as big data.
+In accordance with principles 1 and 5 of the Fundamental Principles of Official Statistics, it is recommended that countries include in their statistical laws: 
+
+(a) the mandate of producers of official statistics to collect needed information to compile statistics directly from respondents if it is not already available in the national statistical system and cannot be obtained from existing data; and (
+
+b) the entitlement to select data sources based on professional consid- erations, including “new” sources such as big data.
 
 
 
@@ -2163,16 +2191,20 @@ Ryan Lavelle: Co-founder / CEO <br>
 With 20 years in the banking industry, Ryan doesn’t crack under pressure. His focus is now on democratising and decentralising access to renewables. 
 
 
-Angelo Nogara: Co-founder / Business development  With 17 years in cleantech, renewable energy, water and sustainable agriculture, Angelo has unrivaled passion and knowledge of clean technology, always targeting to  find the most suitable solutions for each need.
+Angelo Nogara: Co-founder / Business development <bR>
+With 17 years in cleantech, renewable energy, water and sustainable agriculture, Angelo has unrivaled passion and knowledge of clean technology, always targeting to  find the most suitable solutions for each need.
 
 
-Jason Till: Co-founder / Advisor Jason has over 25 years experience in technology, product and service innovation, giving him deep knowledge of every step of the product development process.  
+Jason Till: Co-founder / Advisor <br>
+Jason has over 25 years experience in technology, product and service innovation, giving him deep knowledge of every step of the product development process.  
 
 
-Faizal Daniels: Blockchain Activist / Advisor Having spent decades in activism, politics and latterly the blockchain, Faizal understands how to bring the benefits of the blockchain to communities, where they live.
+Faizal Daniels: Blockchain Activist / Advisor <bR>
+Having spent decades in activism, politics and latterly the blockchain, Faizal understands how to bring the benefits of the blockchain to communities, where they live.
 
 
-Paschal Mwalabu: Head of Mpowa heroes Paschal has experience working with money transfers in Africa. He has a passion for a green prosperous Africa and decarbonizing technology, and believes Africa will be the beacon of green tech and climate change.
+Paschal Mwalabu: Head of Mpowa heroes <br>
+Paschal has experience working with money transfers in Africa. He has a passion for a green prosperous Africa and decarbonizing technology, and believes Africa will be the beacon of green tech and climate change.
 
 
 
@@ -2184,7 +2216,7 @@ Silvan de Smit: Blockchain developer <br>
 Voracious polymath, engaged with blockchain for several years, early supporter of Bitcoin. Started coding and hacking in his youth, officially having studied classical music and thoroughly engaged with cutting edge research in the realm of physics and science.  
 
 
-Lukhaniyiso Gib:
+Lukhaniyiso Gib: 
 
 
 Jeannine Uwase: Software Developer Intern <br>
@@ -2192,26 +2224,20 @@ Jeannine has experience in software development, working with several products i
 
 
 
-Martyn:
+Martyn: 
+
+
+
+Tyler Penning: 
+
+
+
+Nick Snaith: 
 
 
 
 
-Tyler Penning:
-
-
-
-
-
-
-Nick Snaith:
-
-
-
-
-Martha Akello:
-
-
+Martha Akello: 
 
 
 
