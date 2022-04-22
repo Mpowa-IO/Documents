@@ -1760,40 +1760,25 @@ https://www.carboncare.org/en/co2-emissions-calculator.html
 ### Solvatten Impact
 
 10 Tonne per lifetime use.
-Approx 1,5 T per year. 
 
-Approved goals: 2, 6, 7. 
+Approx 1,5 T Carbon Offset per year. 
 
 
-Stats per device:
-
-https://www.engineeringforchange.org/solutions/product/solar-safe-water-system/
-
-https://www.isp.uu.se/digitalAssets/511/c_511130-l_1-k_erika-lundgren.pdf
-
-https://books.google.com.pa/books?id=NgGfDwAAQBAJ&pg=PA338&lpg=PA338&dq=solvatten+data+models&source=bl&ots=UpgVSj5_cU&sig=ACfU3U3m2Hwv0UtPDPi8GLpHmSLD01jyig&hl=en&sa=X&ved=2ahUKEwjFnuGs-Lv2AhW-AxAIHcNTBqwQ6AF6BAgCEAM#v=onepage&q=solvatten%20data%20models&f=false
-
-https://www.diva-portal.org/smash/get/diva2:645248/FULLTEXT01.pdf
-
-https://cordis.europa.eu/project/id/673583
-
-https://cordis.europa.eu/project/id/876908
 
 ### Stove impact
 
-Approved goals: 3, 5 , 7 , 8 , 11, 13 
 
-https://www.climateneutralgroup.com/en/climate-projects/solar-cooking-chad/
+TBA.
+
+
+
 
 ### Medical impact
 
-To be documented
-Enzymes, medical supplies, etc.
+Collaboration with US Enzymes.
 
 
 
-### Education
-//NAN
 
 
 ## The Technology 
