@@ -1730,30 +1730,29 @@ Mpowa’s team is international with the company ‘’Mpowa Ltd’’ being fou
 ### Data Sources and Collection Method
 
 
+
 In order to actually attach verifiable impact to Mpowa platform contributions, we work together with the United Nations program Sustainable Development Goals, in line with the goals set in Agenda 2030. 
 
+
+
 To be considered valid by official statisticians from the UN, we have to ensure that our data is collected in a certain way, alongside certain data and contains the necessary requirements as listed in the SDG handbook for documenting each target/goal indicator. 
+
+
 
 By ensuring that the data that we collect from running projects complies to the Data Structure Definition (DSD) standard from the UN, it is likely that the data can be successfully implemented in the UN’s report. 
 SIDS Partnership
 
+
+
 A service identifies its customers/users via accounts. Message streams, whether one-shot or long-lived streams, are logically arranged into Channels, which in turn are owned by a single account. An account holder identifies itself to the platform via the account credentials. An account holder may generate API tokens which may be passed to third parties (message exchange counterparts), should the platform operator or Channel owner require authentication for its APIs.
 
 
-WorldBank
 
-UN Partnership
-Multistakeholder Partnership 
-SAMOA Pathway
-SIDS
-Sendai
-Green bonds
-Blue bonds
-Diaspora bonds 
-New Green Deal 
 
 
 For calculations of actual carbon offset, we need to not make uneducated guesses but research which tree-species are actually being cut down, since each species emits a different amount of carbon dioxide when it is burned, hence the probable difference in offset for different areas.
+
+
 
 
 The Kyoto Protocol to the United Nations Framework Convention on Climate Change (UNFCCC) established a cap-and-trade system that imposes national caps on the greenhouse gas emissions of high-income countries that ratified the Protocol (called Annex B countries). Each participating country is assigned an emissions target and the corresponding number of allowances – called Assigned Amount Units (AAUs).
@@ -1761,47 +1760,10 @@ The Kyoto Protocol to the United Nations Framework Convention on Climate Change 
 
 
 
-Concepts: 
-GDP is the measure of the monetary value of final goods and services which are produced in an economic territory/country in a given time period. It is calculated without making deductions for depreciation of produced assets or for depletion and degradation of natural resources. It can be measured either by: 
-(1)  The expenditure method – the sum of expenditures on final consumption, gross capital formation and net exports; or 
-(2)  The production method – the value of final outputs minus any intermediate consumption, plus the net taxes (taxes minus subsidies); or 
-(3)  The income approach – the sum of compensation of employees, gross operating surplus, gross mixed incomes and the net taxes on both 
-production and imports. 
-Real GDP is GDP adjusted for price changes using the ratio of prices in the current year to the prices in a given base year. Real GDP per capita is real GDP dividing by the population of a country. 
-The population of a country may comprise either all usual residents of the country or all persons present in the country at the time of a population census. 
 
 
 
 
-
-https://globalgoals.goldstandard.org/400-sdg-impact-quantification/
-
-https://globalgoals.goldstandard.org/documents/methodology-tool/
-
-
-
-
-https://globalgoals.goldstandard.org/documents/framework-methodology/
-https://globalgoals.goldstandard.org/documents/procedures/
-https://globalgoals.goldstandard.org/documents/methodology/
-https://globalgoals.goldstandard.org/402-1-luf-agr-am-increasing-soild-carbon-through-improved-tillage-practices-2/
-
-
-
-Impact calculation per SDG and per project.
-
-https://futuremetrics.info/wp-content/uploads/2013/07/CO2-from-Wood-and-Coal-Combustion.pdf
-
-https://marketplace.goldstandard.org/collections/projects
-
-https://cleancooking.org/binary-data/RESOURCE/file/000/000/381-1.pdf
-
-
-
-https://home.kuehne-nagel.com/
-
-
-https://www.carboncare.org/en/co2-emissions-calculator.html
 
 
 
@@ -1842,29 +1804,29 @@ The mpowa Runtime is built using FRAME and consists of pallets from substrate, f
 
 From substrate:
 
-Utility_: Allows users to use derivative accounts, and batch calls
-Balances_: Tracks GLMR token balances
-Sudo_: Allows a privileged account to make arbitrary runtime changes - will be removed before launch
-Timestamp_: On-Chain notion of time
-Transaction Payment_: Transaction payment (fee) management
-Randomness Collective Flip_: A (mock) onchain randomness beacon. Will be replaced by parachain
+Utility: Allows users to use derivative accounts, and batch calls
+Balances: Tracks GLMR token balances
+Sudo: Allows a privileged account to make arbitrary runtime changes - will be removed before launch
+Timestamp: On-Chain notion of time
+Transaction Payment: Transaction payment (fee) management
+Randomness Collective Flip: A (mock) onchain randomness beacon. Will be replaced by parachain
 randomness by mainnet.
 
 From frontier:
 
-- EVM_: Encapsulates execution logic for an Ethereum Virtual Machine
+- EVM: Encapsulates execution logic for an Ethereum Virtual Machine
 - Ethereum_: Ethereum-style data encoding and access for the EVM.
 
 From cumulus:
 
 - ParachainUpgrade_: A helper to perform runtime upgrades on parachains
-- ParachainInfo_: A place to store parachain-relevant constants like parachain id
+- ParachainInfo: A place to store parachain-relevant constants like parachain id
 
 The following pallets are stored in `pallets/`. They are designed for mpowa's specific requirements:
 
-- Ethereum Chain Id_: A place to store the chain id for each mpowa network
-- Author Inherent_: Allows block authors to include their identity in a block via an inherent
-- Parachain Staking_: Minimal staking pallet that selects collators by total amount at stake
+- Ethereum Chain Id: A place to store the chain id for each mpowa network
+- Author Inherent: Allows block authors to include their identity in a block via an inherent
+- Parachain Staking: Minimal staking pallet that selects collators by total amount at stake
 
 
 
@@ -2036,6 +1998,7 @@ GHG emissions constitute a special category of air emissions. GHG emission inven
 
 The Business Alliance for Water and Climate (BAFWAC) was launched during COP 21 in December 2015. The Alliance was formed to elevate the issue of water within the climate discussions and focuses on advancing SDG6 and 13 though also touches upon other water-related SDGs such as those on sustainable agriculture, responsible consumption and production, and ecosystems.
 The Alliance was launched by CDP, the CEO Water Mandate, Suez, and the World Business Council for Sustainable Development. It functions as a commitment platform, asking companies to commit to 3 areas:
+
 1) Analyzing and sharing water related risks to implement collaborative response strategies
 2) Measuring and reporting water use data
 3) Reducing impacts on water in operations and throughout the value chain
