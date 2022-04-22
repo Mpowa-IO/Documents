@@ -2217,14 +2217,13 @@ These are tokenized shares from the company Mpowa Ltd. This is a security token,
 A stablecoin used to contribute to projects, to make sure your donation remains its value and is not subject to any volatility.
 
 
-ISO20022
-
 ISO 20022 is an ISO standard for electronic data interchange between financial institutions. It describes a metadata repository containing descriptions of messages and business processes, and a maintenance process for the repository content. The standard covers financial information transferred between financial institutions that includes payment transactions, securities trading and settlement information, credit and debit card transactions and other financial information.
+
+
 The repository contains a huge amount of financial services metadata that has been shared and standardized across the industry. The metadata is stored in UML models with a special ISO 20022 UML Profile. Underlying all of this is the ISO 20022 metamodel - a model of the models. The UML profile is the metamodel transformed into UML. The metadata is transformed into the syntax of messages used in financial networks. The first syntax supported for messages was XML Schema. Clear Overview in which Mpowa Describes: Data quality and integrity;
 Data disaggregation; Data timeliness; Data transparency and openness; Data usability and curation; Data protection and privacy; Data governance and independence; Data resources and capacity; Data rights.
 
 
-1 Refer to decision 48/103, page 41 https://unstats.un.org/unsd/statcom/48th-session/documents/Report-on-the-48th-session- of-the-statistical-commission-E.pdf
 
 
 
