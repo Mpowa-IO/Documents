@@ -2131,39 +2131,39 @@ Competitors
 ## Team
 
 Ryan Lavelle: Co-founder / CEO <br>
-With 20 years in the banking industry, Ryan doesn’t crack under pressure. His focus is now on democratising and decentralising access to renewables. 
+*With 20 years in the banking industry, Ryan doesn’t crack under pressure. His focus is now on democratising and decentralising access to renewables. *
 
 
 Angelo Nogara: Co-founder / Business development <bR>
-With 17 years in cleantech, renewable energy, water and sustainable agriculture, Angelo has unrivaled passion and knowledge of clean technology, always targeting to  find the most suitable solutions for each need.
+*With 17 years in cleantech, renewable energy, water and sustainable agriculture, Angelo has unrivaled passion and knowledge of clean technology, always targeting to  find the most suitable solutions for each need.*
 
 
 Jason Till: Co-founder / Advisor <br>
-Jason has over 25 years experience in technology, product and service innovation, giving him deep knowledge of every step of the product development process.  
+*Jason has over 25 years experience in technology, product and service innovation, giving him deep knowledge of every step of the product development process.  *
 
 
 Faizal Daniels: Blockchain Activist / Advisor <bR>
-Having spent decades in activism, politics and latterly the blockchain, Faizal understands how to bring the benefits of the blockchain to communities, where they live.
+*Having spent decades in activism, politics and latterly the blockchain, Faizal understands how to bring the benefits of the blockchain to communities, where they live.*
 
 
 Paschal Mwalabu: Head of Mpowa heroes <br>
-Paschal has experience working with money transfers in Africa. He has a passion for a green prosperous Africa and decarbonizing technology, and believes Africa will be the beacon of green tech and climate change.
+*Paschal has experience working with money transfers in Africa. He has a passion for a green prosperous Africa and decarbonizing technology, and believes Africa will be the beacon of green tech and climate change.*
 
 
 
 George Townsend: Social media <br>
-Community & content George has experience growing online communities in a range of industries up to sizes of 100k+ followers. He has a keen interest in blockchain projects, and believes it can improve qualities of life all around the world.
+*Community & content George has experience growing online communities in a range of industries up to sizes of 100k+ followers. He has a keen interest in blockchain projects, and believes it can improve qualities of life all around the world.*
 
 
 Silvan de Smit: Blockchain developer <br>
-Voracious polymath, engaged with blockchain for several years, early supporter of Bitcoin. Started coding and hacking in his youth, officially having studied classical music and thoroughly engaged with cutting edge research in the realm of physics and science.  
+*Voracious polymath, engaged with blockchain for several years, early supporter of Bitcoin. Started coding and hacking in his youth, officially having studied classical music and thoroughly engaged with cutting edge research in the realm of physics and science.  *
 
 
 Lukhaniyiso Gib: 
 
 
 Jeannine Uwase: Software Developer Intern <br>
-Jeannine has experience in software development, working with several products in different programming languages.  
+*Jeannine has experience in software development, working with several products in different programming languages.  *
 
 
 
