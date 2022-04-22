@@ -2207,12 +2207,12 @@ Omni, quanti.
 
 ---
 
-### Tokenized Equity: Mpowa TE, mTE
+### mTE - Mpowa Ltd Tokenized Equity
 
 These are tokenized shares from the company Mpowa Ltd. This is a security token, to be registered at the FCA, ESMA, SEC and FINMA.
 
 
-### Utility Token, stablecoin: mUSD
+### mUSD - Mpowa Utility Token, stablecoin
 
 A stablecoin used to contribute to projects, to make sure your donation remains its value and is not subject to any volatility.
 
