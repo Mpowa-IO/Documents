@@ -1632,10 +1632,8 @@ For this guide, therefore, we have distilled the essential elements of carbon of
 
 ### The Gold Standard Impact Registry:
 
-https://www.goldstandard.org/blog-item/carbon-pricing-what-carbon-credit-worth
 
-Carbon offset price per tonne, approximation.
-
+TBA.
 
 
 
