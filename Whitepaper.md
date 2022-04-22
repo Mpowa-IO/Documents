@@ -2130,19 +2130,19 @@ Competitors
 
 ## Team
 
-Ryan Lavelle: Co-founder / CEO <br>
+**Ryan Lavelle: Co-founder / CEO** <br>
 *With 20 years in the banking industry, Ryan doesn’t crack under pressure. His focus is now on democratising and decentralising access to renewables.*
 
 
-Angelo Nogara: Co-founder / Business development <bR>
+**Angelo Nogara: Co-founder / Business development** <bR>
 *With 17 years in cleantech, renewable energy, water and sustainable agriculture, Angelo has unrivaled passion and knowledge of clean technology, always targeting to  find the most suitable solutions for each need.*
 
 
-Jason Till: Co-founder / Advisor <br>
-*Jason has over 25 years experience in technology, product and service innovation, giving him deep knowledge of every step of the product development process.  *
+**Jason Till: Co-founder / Advisor** <br>
+*Jason has over 25 years experience in technology, product and service innovation, giving him deep knowledge of every step of the product development process.*
 
 
-Faizal Daniels: Blockchain Activist / Advisor <bR>
+**Faizal Daniels: Blockchain Activist / Advisor** <bR>
 *Having spent decades in activism, politics and latterly the blockchain, Faizal understands how to bring the benefits of the blockchain to communities, where they live.*
 
 
