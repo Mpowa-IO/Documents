@@ -1906,12 +1906,14 @@ Dynamic contracts typically undergo regular amendments to account for the transf
 A smart contract is a dynamic contract that uses an autonomous agent to improve the utility of the contracting experience. The smart contract enforces the rules (T&C’s) of the contract and allows for tools to issue, exchange, govern and enforce ownership rights and duties with respect to the T&C’s and the laws the contract is subject to. The smart contract described in the Tokenized protocol uses the Bitcoin ledger to store all records relevant to the contract.
 
 Tokens are used by smart contracts to manage the ownership rights (and duties) of a contract. The downside of smart contracts is the ongoing costs of operating the service, but these costs are much, much cheaper than alternative/traditional means.
+ 
 
-We present a simpler way for people to understand and interact with blockchain. Some of the benefits of utilizing smart contracts on a blockchain are: 
-Reducing or complete avoidance of intermediary and overall project, 
-Maximized transparency of cost, time and scope of project, 
-Limited complexity enabling informed decision making, 
-Efficient resolution of contractual gray areas.
+Some of the benefits of utilizing smart contracts on a blockchain are: 
+
+- Reducing or complete avoidance of intermediary and overall project, 
+- Maximized transparency of cost, time and scope of project, 
+- Limited complexity enabling informed decision making, 
+- Efficient resolution of contractual gray areas.
 
 
 Smart contracts are aiming to revolutionize many industries by replacing the need for both traditional legal agreements and centrally automated digital agreements. Both performance verification and execution rely on manual actions from one of the contracting parties, or an automated system that programmatically retrieves and updates relevant changes. Unfortunately, because of their underlying consensus protocols, the blockchains on which smart contracts run cannot support native communication with external systems. In this paper we present Mpowa, a decentralize governance token. On Mpowa Platform we describe our components for providing governance token to gain effective, legitimate and transparent transaction. 
