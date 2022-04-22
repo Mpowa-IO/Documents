@@ -2054,17 +2054,14 @@ The main provider of data for livestock statistics is usually the agricultural a
 
 ### Tree Planting
 
-Examplary Tree planting project.
-
+Ecosystem regeneration in areas where forest had to be cut previously in order for communities to have fuel to clean water and heat their stoves with to prepare food.
 
 
 
 
 ### Tokenized Precious Metals
 
-Carbon offset credits 
-According to NI 43 101.
-
+Existing mines that haven't been delved yet will be tokenized and closely monitored, to ensure that these metals are collected and brought into the market with limited toxic emissions and fairtrade principles.
 
 
 
@@ -2072,14 +2069,13 @@ According to NI 43 101.
 ## Market Analysis and potential
 
 
-Carbon market
+### Carbon market
 
 Global Voluntary Carbon Offsets market size is projected to reach US$ 700.5 million by 2027, from US$ 305.8 million in 2020, at a CAGR of 11.7% during 2021-2027.”
 
-MARKET OF CONTRIBUTIONS TO CHARITY LIKE PROJECTS 
 
 
-SDG monitoring
+### SDG monitoring
 
 The UN’s Sustainable Development Goals (SDGs) are increasingly at the heart of businesses’ sustainability strategies. Today, businesses cannot focus solely on the bottom line but must create value at all levels, including for wider society, with more companies engaging with the global goals.  
 
