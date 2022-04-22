@@ -1183,10 +1183,11 @@ Framework:
 - is conceptually based.
 
 
+
+
 #### DSD
 
-Coming
-
+Metrics and data points.
 
 
 ### Data Reporting, data inclusion.
@@ -1254,7 +1255,10 @@ How is the platform data distributed and verified is displayed below:
 Environment statistics support evidence-based policymaking by making it possible to identify environmental policy issues and quantify the measures and impacts of policy initiatives objectively. They strengthen assessments through quantitative metrics, making analyses more robust through the use of timely and comparable data. The type; level of thematic, spatial and temporal aggregation; and format of environment statistics depend on the type of user and intended use. The main products of environment statistics are detailed tabulated environment statistics series and environmental indicators, both of which can be stored in multipurpose databases and disseminated in the form of online databases, as well as different types of publications, such as compendiums, yearbooks, thematic reports, and analytical publications, such as state of the environment reports.
 
 
+
 Environmental information includes quantitative and qualitative facts describing the state of the environment and its changes. Quantitative environmental information is generally produced in the form of data, statistics and indicators, and is generally disseminated through databases, spreadsheets, compendiums and yearbooks. Qualitative environmental information consists of descriptions (e.g., textual or pictorial) of the environment or its constituent parts that cannot be adequately represented by accurate quantitative descriptors.
+
+
 
 Environmental data are large amounts of unprocessed observations and measurements about the environment and related processes. They may be collected or compiled via statistical surveys (censuses or sample surveys) by the national statistical system or may originate from administrative records, geographic databases, registers, inventories, monitoring networks, thematic mapping, remote sensing, scientific research and field studies.
 
@@ -1262,15 +1266,23 @@ Environmental data are large amounts of unprocessed observations and measurement
 
 Environmental indicators are environment statistics that have been selected for their ability to depict important phenomena or dynamics. Environmental indicators are used to synthesize and present complex environment and other statistics in a simple, direct, clear and relevant way. 
 
+
 Environmental indicators are generated because environment statistics are usually too numerous and detailed to meet the needs of policymakers and the general public, and often require further processing and interpretation to be meaningful. 
+
 
 Environmental indicators may take various forms such as rates, ratios or proportions, and be constructed at different levels of aggregation. The purpose of these indicators is to assess present and future directions with respect to goals and targets, evaluate and determine the impact of specific programs, monitor progress, measure changes in a specific condition or situation over time, and con- vey messages. 
 
+
 Policy frameworks such as the Millennium Development Goals (MDGs) and Sustainable Development Goals (SDGs), the Driving force-Pressure-State-Impact-Response (DPSIR) framework and national environment/sustainable development indicator sets, are typically used to identify and structure indicators.
+
 
 - Environmental indices are composite or more complex measures that combine and synthesize more than one environmental indicator or statistic and are weighted according to different methods.  - An index can provide a valuable summary measure to communicate important messages in an accessible way and, thus, raise awareness. However, they often raise questions regarding their proper interpretation, methodological soundness, subjectivity of the weighting, and the quality of the underlying statistics.
 
+
+
 Environment statistics organized primarily within the FDES may be structured for specific analytical purposes based on different analytical frameworks, such as the DPSIR framework, issue-based frameworks which focus on specific environmental problems (e.g., climate change, air pollution and land degradation), policy-based frameworks such as sus- tainable development strategies, or assessment frameworks such as those used in state of the environment reports.
+
+
 
 Accounting frameworks, such as the SEEA, reorganize the relevant environment statistics according to stocks and flows within and between the environment and the economy, based on the principles of the System of National Accounts (SNA). In this way, it creates links between environment statistics and the SNA and facilitates the analysis of relationships between the economy and the environment.
 These types of environment statistics are all important and interdependent. They feed back into each other to produce diverse and complementary products that can be used for different purposes and that fit specific user needs and resources of countries or agencies. Ideally, information about the environment should be produced and used as a multipurpose information system which would increase synergy, consistency and efficiency in the use of limited financial resources.
@@ -1297,15 +1309,21 @@ Most countries have agencies that are primarily responsible for monitoring envir
 The use of estimates and modeling to generate environmental data can improve overall data quality, including accuracy and coverage, especially when models draw upon two or more sets of observations, such as field observations coupled with global satellite-based observations. Models may also incorporate administrative data or data resulting from statistical surveys or special projects.
 
 
+
+
 The main characteristics, advantages and disadvantages of these types of sources of environment statistics are discussed below.
 
 A great deal of statistics is also being produced by private and public agencies that are not part of the system of official statistics. Statistics of questionable quality and proper documentation can be potentially confusing and lead to distrust of the national statistical office (NSO) which is supposed to produce unbiased and high-quality official statistics. Therefore, it is of utmost importance that those statistics considered to be ‘official’ follow strict and well-defined principles and standards.
 
-The European Statistics Code of Practice (ESS CoP) contains, among other things, specific principles and guidance relevant to the dissemination of the statistics. The ESS CoP lays down specific requirements for clarifying the statistical outputs, their regularity, timeliness, and how they are released. All NSOs and other producers of official statistics within the European Statistical System follow and respect these requirements.
+- The European Statistics Code of Practice (ESS CoP) contains, among other things, specific principles and guidance relevant to the dissemination of the statistics. The ESS CoP lays down specific requirements for clarifying the statistical outputs, their regularity, timeliness, and how they are released. All NSOs and other producers of official statistics within the European Statistical System follow and respect these requirements.
 
-Recommended international practice reinforced by ESS CoP and dissemination standards discussed above, require NSOs and other producers of official statistics to publish metadata on their statistics along with the statistics themselves. Most NSOs strive to compile product metadata, at least that pertaining to the statistics most used, and publish them on the web.
 
-NSOs publish their statistics in aggregate form, thereby seeking to ensure the confidentiality of the data providers and the subjects they refer to. There is, however, substantial demand for microdata for research purposes. Several NSOs have in recent years started to release or grant access to microdata to researchers. For some years, some NSOs have been preparing a specific set of microdata for research, initially to be handed over to recognised researchers, more recently for release on the web. The data set has then been prepared specifically for such use by anonymisation, i.e., removing identifiers of individuals, households, and businesses, and removing variables that would have allowed indirect identification. Some NSOs have also granted on-line access to such microdata for research. Granting access to microdata is usually also accompanied by documentation signed by the researcher specifying the datasets that are made available, the purpose of use of the data, the safeguarding of the data as well as a pledge to respect rules of statistical confidentiality and the privacy of respondents. Granting access to microdata for research purposes entails a significant addition to the utilisation of the data and the value of the statistical production.
+
+
+
+
+
+
 
 
 
