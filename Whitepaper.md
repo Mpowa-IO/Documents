@@ -1447,44 +1447,57 @@ Quality management is defined as “a set of systematic activities carried out b
 Fundamental Principles of Official Statistics, which emphasize independence, impartiality and the protection of data of individuals. 
 Such requirements of official statistics were first formulated jointly in the Fundamental Principles of Official Statistics in 1992.
 
+
+
 Purpose of an NQAF .An NQAF provides a coherent and holistic system for statistical quality management that assures trust in and the quality of official statistics. The UN-NQAF presented in chapter 3 contains the components that should be considered in managing and assuring the quality of official statistics.
 
 
 Content and use of the Manual 5 (f) It provides a basis for creating and maintaining a culture of quality within the NSS.
-Quality management and risk management. Risk management has many similarities with quality management. The approach is a bit different, but risk and quality management frameworks are not mutually exclusive—they are complementary. The implementation of risk-based thinking is one of the requirements of ISO 9001:2015. Risk management itself is guided by the framework of the Committee of Sponsoring Organizations of the Treadway Commission. Risk and quality management should not operate independently of each other. A coordinated approach is cost- effective and facilitates the involvement and support of management (see chapter 4 for further information).
+Quality management and risk management. Risk management has many similarities with quality management. The approach is a bit different, but risk and quality management frameworks are not mutually exclusive—they are complementary. The implementation of risk-based thinking is one of the requirements of ISO 9001:2015. 
+
+Risk management itself is guided by the framework of the Committee of Sponsoring Organizations of the Treadway Commission. Risk and quality management should not operate independently of each other. A coordinated approach is cost- effective and facilitates the involvement and support of management (see chapter 4 for further information).
 
 
- It is recommended that, in order to be effective, the fundamental values and principles that govern the development, production and dissemination of official statistics be guaranteed by legal and institutional frame- works and be respected at all political levels and by all stakeholders in national statistical systems.
+
  
-It is recommended that countries include the requirements of quality assurance in their national statistical legislation and other legislation mandating the production of statistics for official use (derived from principle 1 of the Fundamental Principles of Official Statistics).23
 
-It is recommended that countries establish a national quality assurance framework for official statistics and that all members of the national statistical system commit to continually assessing, improving and reporting on the quality of official statistics, as well as on the quality of data and statistics used in the production of official statistics as required24 (derived from principle 1 of the Fundamental Principles of Official Statistics).
 
-It is recommended that the national quality assurance framework for official statistics be developed in consideration or in alignment with the United Nations National Quality Assurance Framework or similar existing quality assurance frameworks (derived from principles 1 and 2 of the Fundamental Principles of Official Statistics).
-
-It is recommended that the national quality assurance framework be implemented at the national statistical office and throughout the entire national statistical system. Furthermore, it is recommended that the national quality assurance framework be applied to all data and statistics produced outside of the national statistical system that are disseminated with the help and support of a member of the national statistical system or that are used for government decision-making, as deemed appropriate and required (derived from principle 1 of the Fundamental Principles of Official Statistics).
-
-Recommendations that aim at the implementation of specific Fundamental Principles of Official Statistics. The following recommendations provide an interpretation of the Principles to facilitate their implementation and to stress their importance in the context of statistical quality assurance, as the Principles provide the normative basis for official statistics. The recommendations may be incorporated into a country’s statistical laws, as appropriate, to assure adherence to the Principles.
-
- to 14 are either directly derived from one or two of the Fundamental Principles of Official Statistics or are a repetition of a specific principle. The Principles and the associated recommendations of the present chapter support specific principles contained in the UN-NQAF and give them an obligatory character (see chapter 3, which contains references to the applicable Principles).
+United Nations National Quality Assurance Framework 
 
 
 
 
 
- In accordance with principle 4 of the Fundamental Prin- ciples of Official Statistics, it is recommended that all members of the national statistical system comment on erroneous interpretation and misuse of official statistics in their respective subject-matter domain(s) of statistical production and dissemination, as required.
+
+Fundamental Principles of Official Statistics. 
+
+
+to 14 are either directly derived from one or two of the Fundamental Principles of Official Statistics or are a repetition of a specific principle. The Principles and the associated recommendations of the present chapter support specific principles contained in the UN-NQAF and give them an obligatory character (see chapter 3, which contains references to the applicable Principles).
+
+
+
+
+
+
 
 In accordance with principles 1 and 5 of the Fundamental Principles of Official Statistics, it is recommended that countries include in their statistical laws: (a) the mandate of producers of official statistics to collect needed information to compile statistics directly from respondents if it is not already available in the national statistical system and cannot be obtained from existing data; and (b) the entitlement to select data sources based on professional consid- erations, including “new” sources such as big data.
 
+
+
  In accordance with principle 6 of the Fundamental Prin- ciples of Official Statistics, it is recommended that individual data collected by statistical agencies for statistical compilation, whether they refer to natural or legal persons, be kept strictly confidential and used exclusively for statistical purposes.
+ 
+ 
 
 In accordance with principle 7 of the Fundamental Principles of Official Statistics, it is recommended that the laws, regulations and measures under which the national statistical systems operate be made public.
 
+
+
 In accordance with principle 8 of the Fundamental Principles of Official Statistics, it is recommended that the work of the national sta- tistical system be properly coordinated to achieve consistency and efficiency, and that, therefore, the statistical law of the country: (a) clearly identifies the roles and responsibilities of the individual members within the national statistical system; and (b) establishes a body that is responsible for managing and coordi- nating system-wide activities, including promotion of the national quality assur- ance framework.
 
-In accordance with principle 9 of the Fundamental Prin-iples of Official Statistics, it is recommended that the national statistical office and all other members of the national statistical system, including members at the local level, use international statistical concepts, classifications and methods, thereby ensuring the consistency of official statistics and the efficiency of statisti- cal systems at all levels.
 
-In accordance with principle 10 of the Fundamental Principles of Official Statistics, it is recommended that countries participate in bilateral and multilateral cooperation in statistics to improve official statistics in all countries.
+
+International statistical concepts, classifications and methods, 
+
 
 
 ## The Platform
