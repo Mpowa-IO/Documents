@@ -1179,10 +1179,20 @@ Environment statistics thus cover a wide range of information and are multi- and
 Framework:
 
 - marks out the scope of environment statistics; 
+
+
 - facilitates a synthesized presentation of data from various subject areas and sources; 
+
+
 - simplifies the complexity of the environment appropriately so that it can be measured more easily; 
+
+
 - helps to identify the range of statistics relevant to societal decision-making regarding the environment; 
+
+
 - is consistent with statistical frameworks already used in other domains to facilitate the integration of environment statistics; and 
+
+
 - is conceptually based.
 
 
@@ -1411,12 +1421,12 @@ An overview of the data that will be accesible for everyone, to validate our pro
 
 ### Public:
 
-
+Indicators.
 
 
 ### Private:
 
-
+Impact data - statistics, individual data.
 
 
 
