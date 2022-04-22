@@ -1328,6 +1328,12 @@ Statistical organizations have been discussing at the sessions of the United Nat
 Ocean makes it easy to publish data services (deploy and mint ERC20 datatokens), and to consume data services (spend datatokens). Crypto wallets, exchanges, and DAOs become data wallets, exchanges, and DAOs. Use Ocean Market to publish data, stake on data (curate), and buy data. Earn by selling, staking, or running your own fork of Ocean Market. Data has automatic price discovery. Data is published as interoperable ERC20 datatokens. Compute-to-data enables private data to be bought & sold. It's a decentralized exchange (DEX), tuned for data. Earn by selling data, staking, or building & launching your own marketplace. Sellers get most of revenue when a dataset is sold. Stakers earn a % of the transaction fee, as do marketplace runners.
 
 
+
+
+
+
+
+
 Chainlink: 
 
 
@@ -1356,7 +1362,9 @@ Not to forget the additional applications that are going to be created using our
 An overview of the data that will be accesible for everyone, to validate our project, and the data that can only be seen by parties that are entitled to viewing it.
 
 
+
 ### Public:
+
 
 
 
@@ -1681,6 +1689,9 @@ By ensuring that the data that we collect from running projects complies to the 
 SIDS Partnership
 
 A service identifies its customers/users via accounts. Message streams, whether one-shot or long-lived streams, are logically arranged into Channels, which in turn are owned by a single account. An account holder identifies itself to the platform via the account credentials. An account holder may generate API tokens which may be passed to third parties (message exchange counterparts), should the platform operator or Channel owner require authentication for its APIs.
+
+
+WorldBank
 
 UN Partnership
 Multistakeholder Partnership 
