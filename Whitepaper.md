@@ -1525,14 +1525,10 @@ Risk management itself is guided by the framework of the Committee of Sponsoring
 United Nations National Quality Assurance Framework 
 
 
-
 Fundamental Principles of Official Statistics. 
 
 
 to 14 are either directly derived from one or two of the Fundamental Principles of Official Statistics or are a repetition of a specific principle. The Principles and the associated recommendations of the present chapter support specific principles contained in the UN-NQAF and give them an obligatory character (see chapter 3, which contains references to the applicable Principles).
-
-
-
 
 
 
@@ -1548,12 +1544,11 @@ b) the entitlement to select data sources based on professional consid- erations
 - It is recommended that individual data collected by statistical agencies for statistical compilation, whether they refer to natural or legal persons, be kept strictly confidential and used exclusively for statistical purposes.
  
  
-Laws, regulations and measures under which the national statistical systems operate be made public.
+ 
+- Laws, regulations and measures under which the national statistical systems operate be made public.
 
 
-
-
-International statistical concepts, classifications and methods, 
+- International statistical concepts, classifications and methods.
 
 
 
@@ -1722,8 +1717,7 @@ For this guide, therefore, we have distilled the essential elements of carbon of
 
 ### The Gold Standard Impact Registry:
 
-
-TBA.
+The Gold Standard Impact Registry tracks environmental assets like carbon credits as well as the associated sustainable development impacts of Gold Standard-certified interventions.  
 
 
 
