@@ -890,17 +890,6 @@ Mpowa will assist in the conservation of coastal and marine areas, consistent wi
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 ### Problem 15: Deforestation
 
 The proportion of forest area of the total land area of many countries is decreasing. UN Statistics can be found online and are represented as a percentage of land-mass covered by trees. 
@@ -953,16 +942,7 @@ Indicator 15.6.1: Number of countries that have adopted legislative, administrat
 Ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements 
 Promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally
 Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and protect and prevent the extinction of threatened species.
-Promote fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to such resources, as internationally agreed
-
-
-
-
-
-
-
-
-
+Promote fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to such resources, as internationally agreed.
 
 
 
@@ -973,10 +953,13 @@ Promote fair and equitable sharing of the benefits arising from the utilization 
 The use of violent (physical or verbal) disciplining techniques are a violation of children’s rights, and can result in immediate effects and long-term consequences that children carry well into adulthood. It is the most widespread and socially accepted type of violence against children. Data is collected through nationally representative household surveys that include a module on violence against children which are conducted by national statistical offices. Internationally coordinated household surveys such as the Multiple Indicator Cluster Survey (MICS) and the Demographic and Health Survey (DHS) also collect this data in low and middle-income countries. 
 
 According to General Comment no. 13 on the Convention of the Rights of the Child (CRC), sexual violence against children comprises any sexual activities imposed by an adult on a child against which the child is entitled to protection by criminal law. This includes: 
-(1) The inducement or coercion of a child to engage in any unlawful or psychologically harmful sexual activity; 
-(2) The use of children in commercial sexual exploitation; 
-(3) The use of children in audio or visual images of child sexual abuse; and 
-(4) Child prostitution, sexual slavery, sexual exploitation in travel and tourism, trafficking for purposes of sexual exploitation (within and between countries), sale of children for sexual purposes and forced marriage. 
+
+- The inducement or coercion of a child to engage in any unlawful or psychologically harmful sexual activity; 
+- The use of children in commercial sexual exploitation; 
+- The use of children in audio or visual images of child sexual abuse; and 
+- Child prostitution, sexual slavery, sexual exploitation in travel and tourism, trafficking for purposes of sexual exploitation (within and between countries), sale of children for sexual purposes and forced marriage. 
+
+
 Sexual activities are also considered as abuse when committed against a child by another child if the offender is significantly older than the victim or uses power, threat or other means of pressure. Consensual sexual activities between children are not considered as sexual abuse if the children are older than the age limit defined by the State Party. 
 ‘Sexual violence’ is operationally defined in the indicator as sexual intercourse or any other sexual acts that were forced, physically or in any other way. 
 
@@ -1017,9 +1000,10 @@ End abuse, exploitation, trafficking and all forms of violence against and tortu
 ### Problem 17: Absence or shortage of fruitful partnerships in order to reach and succeed the SDGs 
 
 This indicator is defined as the number of fixed internet broadband connections/subscriptions of different speed tiers per 100 inhabitants of a country. The speed tiers considered are advertised downstream speeds of: 
-(1)  256 Kilobits per second (Kbps) to 2Megabits per second (Mbps); 
-(2)  2Mbps to 10 Mbps; and 
-(3)  Greater than 10 Mbps. 
+
+- 256 Kilobits per second (Kbps) to 2Megabits per second (Mbps); 
+- 2Mbps to 10 Mbps; and 
+- Greater than 10 Mbps. 
 
 Fixed internet broadband refers to subscriptions to high-speed access to public internet at downstream speeds greater than 256Kbps. It includes cable modem, DSL, fiber-to-the-home, other fixed (wired) broadband, satellite broadband and terrestrial fixed wireless broadband. It does not include internet access through mobile-cellular networks, and includes both residential and organizational subscriptions. 
 Advertised downstream speeds refers to the speed advertised by the Internet service providers at which data (including files, web sites, pictures, music, movies, etc) could be delivered to Internet subscribers. The advertised speed can differ from the actual speed of connection that a user may experience at the time of Internet use. 
@@ -1272,17 +1256,16 @@ The type; level of thematic, spatial and temporal aggregation; and format of env
 
 
 
-
-statistical surveys (censuses or sample surveys) by the national statistical system or may originate from 
-administrative records, 
-geographic databases, 
-registers, 
-inventories, 
-monitoring networks, 
-thematic mapping, 
-remote sensing,
-scientific research 
-field studies.
+- statistical surveys (censuses or sample surveys) by the national statistical system or may originate from 
+- administrative records, 
+- geographic databases, 
+- registers, 
+- inventories, 
+- monitoring networks, 
+- thematic mapping, 
+- remote sensing,
+- scientific research 
+- field studies.
 
 
 
@@ -1381,16 +1364,9 @@ Statistical organizations have been discussing at the sessions of the United Nat
 
 
 
-
-
-
 ### Data Dissagregation 
 
 Ocean makes it easy to publish data services (deploy and mint ERC20 datatokens), and to consume data services (spend datatokens). Crypto wallets, exchanges, and DAOs become data wallets, exchanges, and DAOs. Use Ocean Market to publish data, stake on data (curate), and buy data. Earn by selling, staking, or running your own fork of Ocean Market. Data has automatic price discovery. Data is published as interoperable ERC20 datatokens. Compute-to-data enables private data to be bought & sold. It's a decentralized exchange (DEX), tuned for data. Earn by selling data, staking, or building & launching your own marketplace. Sellers get most of revenue when a dataset is sold. Stakers earn a % of the transaction fee, as do marketplace runners.
-
-
-
-
 
 
 
@@ -1438,7 +1414,10 @@ Impact data - statistics, individual data.
 
 ## Quality Assurance
 
+Quality management is defined as “a set of systematic activities carried out by the entire organization to effectively and efficiently achieve company objectives so as to provide products and services with a level of quality that satisfies customers, at the appropriate time and price”.
 
+Content and use of the Manual 5 (f) It provides a basis for creating and maintaining a culture of quality within the NSS.
+Quality management and risk management. Risk management has many similarities with quality management. 
 
 
 
@@ -1495,31 +1474,17 @@ NQAF for official statistics are as follows:
 
 And also the other characteristics of quality, each with their own section and explained.
 
-Quality management is defined as “a set of systematic activities carried out by the entire organization to effectively and efficiently achieve company objectives so as to provide products and services with a level of quality that satisfies customers, at the appropriate time and price”.
-
-
-
 Fundamental Principles of Official Statistics, which emphasize independence, impartiality and the protection of data of individuals. 
 Such requirements of official statistics were first formulated jointly in the Fundamental Principles of Official Statistics in 1992.
-
 
 
 Purpose of an NQAF .An NQAF provides a coherent and holistic system for statistical quality management that assures trust in and the quality of official statistics. The UN-NQAF presented in chapter 3 contains the components that should be considered in managing and assuring the quality of official statistics.
 
 
-
-Content and use of the Manual 5 (f) It provides a basis for creating and maintaining a culture of quality within the NSS.
-Quality management and risk management. Risk management has many similarities with quality management. 
-
-
 The approach is a bit different, but risk and quality management frameworks are not mutually exclusive—they are complementary. The implementation of risk-based thinking is one of the requirements of ISO 9001:2015. 
 
 
-
-
 Risk management itself is guided by the framework of the Committee of Sponsoring Organizations of the Treadway Commission. Risk and quality management should not operate independently of each other. A coordinated approach is cost- effective and facilitates the involvement and support of management (see chapter 4 for further information).
-
-
 
 
 United Nations National Quality Assurance Framework 
@@ -1532,7 +1497,6 @@ to 14 are either directly derived from one or two of the Fundamental Principles 
 
 
 
-
 In accordance with principles 1 and 5 of the Fundamental Principles of Official Statistics, it is recommended that countries include in their statistical laws: 
 
 (a) the mandate of producers of official statistics to collect needed information to compile statistics directly from respondents if it is not already available in the national statistical system and cannot be obtained from existing data; and (
@@ -1540,9 +1504,7 @@ In accordance with principles 1 and 5 of the Fundamental Principles of Official 
 b) the entitlement to select data sources based on professional consid- erations, including “new” sources such as big data.
 
 
-
 - It is recommended that individual data collected by statistical agencies for statistical compilation, whether they refer to natural or legal persons, be kept strictly confidential and used exclusively for statistical purposes.
- 
  
  
 - Laws, regulations and measures under which the national statistical systems operate be made public.
@@ -1724,6 +1686,8 @@ The Gold Standard Impact Registry tracks environmental assets like carbon credit
 
 ## ESG Fund
 
+
+
 Using the AIFM compliant ESG Fund service "ScalingFunds", allows Mpowa to proceed with its engagements as a faster pace, since they have the financial regulatory framework already set-up.
 
 
@@ -1766,36 +1730,15 @@ Mpowa’s team is international with the company ‘’Mpowa Ltd’’ being fou
 
 In order to actually attach verifiable impact to Mpowa platform contributions, we work together with the United Nations program Sustainable Development Goals, in line with the goals set in Agenda 2030. 
 
-
-
 To be considered valid by official statisticians from the UN, we have to ensure that our data is collected in a certain way, alongside certain data and contains the necessary requirements as listed in the SDG handbook for documenting each target/goal indicator. 
 
-
-
 By ensuring that the data that we collect from running projects complies to the Data Structure Definition (DSD) standard from the UN, it is likely that the data can be successfully implemented in the UN’s report. 
-SIDS Partnership
-
-
 
 A service identifies its customers/users via accounts. Message streams, whether one-shot or long-lived streams, are logically arranged into Channels, which in turn are owned by a single account. An account holder identifies itself to the platform via the account credentials. An account holder may generate API tokens which may be passed to third parties (message exchange counterparts), should the platform operator or Channel owner require authentication for its APIs.
 
-
-
-
-
 For calculations of actual carbon offset, we need to not make uneducated guesses but research which tree-species are actually being cut down, since each species emits a different amount of carbon dioxide when it is burned, hence the probable difference in offset for different areas.
 
-
-
-
 The Kyoto Protocol to the United Nations Framework Convention on Climate Change (UNFCCC) established a cap-and-trade system that imposes national caps on the greenhouse gas emissions of high-income countries that ratified the Protocol (called Annex B countries). Each participating country is assigned an emissions target and the corresponding number of allowances – called Assigned Amount Units (AAUs).
-
-
-
-
-
-
-
 
 
 
@@ -1995,11 +1938,6 @@ Blockchain enables the exchange of digital value and digital representations of 
 
 
 
-
-
-
-
-
 ## Exemplary projects
 
 The pilot project is designed to validate our solution through manual execution of all critical steps from project formulation to funding and implementation, with the combined power of donor organizations and the general public. We will partner with Solvatten for our initial pilot(s) and kickoff the platform using their water purification device. 
@@ -2018,17 +1956,20 @@ The lack of safe water leading to poor hygiene and poor health are daily challen
 
 
 
-
 ### Tree Planting
 
 Ecosystem regeneration in areas where forest had to be cut previously in order for communities to have fuel to clean water and heat their stoves with to prepare food.
 
 
 
-
 ### Tokenized Precious Metals
 
 Existing mines that haven't been delved yet will be tokenized and closely monitored, to ensure that these metals are collected and brought into the market with limited toxic emissions and fairtrade principles.
+
+
+### Enzymes
+
+
 
 
 
