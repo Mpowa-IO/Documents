@@ -1320,11 +1320,11 @@ Making certain types of emissions to the air, statistical surveys are used in co
 
 
 
-Environment statistics rely considerably on data that are collected by direct measurements using a variety of methods, including remote sensing and field-monitoring stations.
-
-
 
 Most countries have agencies that are primarily responsible for monitoring environmental resources and conditions. They may be entities in their own right or government agencies with other primary functions that also have departments concerned with environmental matters. These agencies typically produce two main types of data: (i) measured data (obtained by direct observation, field measurements and remote sensing); and (ii) calculated data (derived using estimates and modeling).
+
+
+
 
 
 
@@ -1422,7 +1422,6 @@ Quality management and risk management. Risk management has many similarities wi
 United Nations National Quality Assurance Frameworks Manual for Official Statistics
 
 There are different relevant ISO standards for quality and other management areas; in addition to covering quality management, including customer satisfaction, they comprise market, opinion and social research and risk management.
-
 
 
 The various quality assurance frameworks cover the same or similar aspects of statistical quality. Some are referred to as codes of practice, stressing their normative character. Adequate management of each of them is essential. At the same time, they must be seen in relation to each other within the statistical production processes.
@@ -1612,6 +1611,7 @@ Mpowa’s platform and tokens pairs with a blockchain based DAO (Decentralized A
 Several years after Bitcoin was launched, DAOs became a useful mechanism developers and adopters to work together in a harmonized and democratic way. 
 
 The tech represents financial sovereignty and a digital data-currency instrument, thus Bitcoin opened up countless opportunities. Opportunities and innovative ideas find a ground wherein they can gather resources in a creative way to bring projects to life. DAOs promised to revolutionize how we structure socio-economic relationships. Facilitating solutions for ancient problems is where the DAO comes in, due to the (decentralized) power of many. Now the question arrises: Key features and benefits of a DAO-structure- The ability to structure large-scale, merit-based communities with minimal entrance barriers, factor in externalities, and – much in the Bitcoin spirit – break free from relying on traditional institutions. 
+
 - Organize and coordinate the efforts and resources of members via an a priori estimate, anonymous but formalized, and transparent set of rules that are agreed upon in a multilateral fashion.
 
 Usually, one of the core elements of any definition of a DAO is the notion of “decentralization”. This often talked about, yet poorly understood concept is avoided as it warrants a more detailed analysis on its own.
