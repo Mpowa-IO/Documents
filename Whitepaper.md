@@ -1119,9 +1119,12 @@ OPIM focuses on the management systems specific to the fund being designated as 
 The SDG Impact Standards aim to provide the building blocks for an internal impact management system that helps organizations make better decisions, and that provides high quality inputs to support consistent reporting and disclosures under multiple external disclosure and reporting frameworks.
 
 
+
+
+
 #### Ten Principles
 
-The Ten Principles of the UN Global Compact
+**The Ten Principles of the UN Global Compact**
 
 Corporate sustainability starts with a company’s value system and a principles-based approach to doing business. This means operating in ways that, at a minimum, meet fundamental responsibilities in the areas of human rights, labour, environment and anti-corruption. Responsible businesses enact the same values and principles wherever they have a presence, and know that good practices in one area do not offset harm in another. By incorporating the Ten Principles of the UN Global Compact into strategies, policies and procedures, and establishing a culture of integrity, companies are not only upholding their basic responsibilities to people and planet, but also setting the stage for long-term success. 
 
