@@ -1681,7 +1681,7 @@ The Gold Standard Impact Registry tracks environmental assets like carbon credit
 
 ## ESG Fund
 
-
+Investors exchange realized project profits in exchange for Impact Tokens, which essentially are certificates of philantropic engagement.
 
 Using the AIFM compliant ESG Fund service "ScalingFunds", allows Mpowa to proceed with its engagements as a faster pace, since they have the financial regulatory framework already set-up.
 
