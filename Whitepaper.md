@@ -346,8 +346,6 @@ The word "authenticity" means the state in which something is authentic, legal, 
 
 
 
-
-
 ### Privacy
 
 If you would like to learn more about how Mpowa users use services like Mpowa to process your personal data in payment transactions, 
@@ -369,10 +367,6 @@ or other data that Mpowa may reasonably associate with this information, such as
 This account information is used to authenticate you when you sign in to Mpowa services and to protect your account from unauthorized access by others.
 Because circumstances may vary depending on the context and services, the information provided in the Privacy Policy or provided in a 
 specific disclosure may contain more detailed information about the applicable storage conditions.
-
-
-
-
 
 
 
@@ -1029,6 +1023,7 @@ Indicator 17.8.1: Proportion of individuals using the internet.
 #### Mpowa’s Contribution:
 
 Enhance international cooperation on and access to science, technology and innovation and enhance knowledge-sharing on mutually agreed terms, including through improved collaboration through technology. 
+
 - Mobilizing additional financial resources for developing countries from multiple sources.
 
 
@@ -1040,8 +1035,10 @@ Enhance international cooperation on and access to science, technology and innov
 
 Due to the global scale of the severe issues that the world is facing today, an all-encompassing platform to enable clean-tech innovation to step in and repair the damage that has been done, is necessary. Social-economic incentives, coordinated by DAO-imposed parameters is likely the most efficient strategy.
 It's impossible to provide an exhaustive list of what you can do to protect the environment, but here's Mpowa. The platform makes it relatively simple to reduce your carbon footprint, collectively take ‘’green’’ action, and drive huge change with the click of a few buttons. Additionally, there are many things you can do every day to help reduce your greenhouse gas and carbon footprint, thereby reducing your harmful impact on the environment. While many policies must come from our local, state, federal and global leaders, there is also a lot you can do to make a difference. By working together, citizens, businesses and governments can achieve great things.
-	These important climate conversations can happen naturally and randomly in your personal life, eventually triggered by Mpowa. By making a few small changes in your next conversation, mention that you can make a big impact on our planet without completely giving up convenience. 
-	With a broader understanding of the (climate/energy/resource) crisis at hand, customers can take conscious and deliberate action to change our culture as a whole, because the earth’s climate depends on it. Mpowa is at core a company founded to support the commercialization of renewable energy technologies, starting with our own proprietary Omni home energy management solution which integrates a number of innovative hardware and software solutions to offer a groundbreaking customer experience. The commercial opportunity arising from this technology alone has unicorn potential.	The fundamental challenge however is, aside from the “it sounds too good to be true because it violates the laws of physics” argument, that such technologies disrupt heavily entrenched ecosystems and industries with significant political-economic clout + control of governments / markets in which we wish to operate. Therefore in order to “shock the market” with a technology this disruptive, we have to think big and be ready to go to market in a way which takes no prisoners as far as the existing market players are concerned. Entering the market with a traditional business model/corporate structure will be rightly perceived as a massive threat and no doubt will trigger various forms of resistance, interference, or outright suppression.
+
+These important climate conversations can happen naturally and randomly in your personal life, eventually triggered by Mpowa. By making a few small changes in your next conversation, mention that you can make a big impact on our planet without completely giving up convenience. 
+
+With a broader understanding of the (climate/energy/resource) crisis at hand, customers can take conscious and deliberate action to change our culture as a whole, because the earth’s climate depends on it. Mpowa is at core a company founded to support the commercialization of renewable energy technologies, starting with our own proprietary Omni home energy management solution which integrates a number of innovative hardware and software solutions to offer a groundbreaking customer experience. The commercial opportunity arising from this technology alone has unicorn potential.	The fundamental challenge however is, aside from the “it sounds too good to be true because it violates the laws of physics” argument, that such technologies disrupt heavily entrenched ecosystems and industries with significant political-economic clout + control of governments / markets in which we wish to operate. Therefore in order to “shock the market” with a technology this disruptive, we have to think big and be ready to go to market in a way which takes no prisoners as far as the existing market players are concerned. Entering the market with a traditional business model/corporate structure will be rightly perceived as a massive threat and no doubt will trigger various forms of resistance, interference, or outright suppression.
 
 
 
@@ -1050,8 +1047,6 @@ It's impossible to provide an exhaustive list of what you can do to protect the 
 > Not only serving merely as a project enabler on its SaaS platform, Mpowa is actually concerned with the direct manifestation of projects by using a bottom-up approach. A complete range of disciplines and sectors are covered and included in the thought-process when Mpowa starts or receives a new project, in order to present something truly beneficial and feasible towards its investors. Mpowa has the infrastructure for collaborators to bring their projects up to a certain standard and to facilitate credible project-scaling. While Mpowa is doing things differently than most of its direct competitors, it is always designed for increased service towards the customer and the planet. Thus, writing about Mpowa’s Unique Selling Point forced the Management Team to think about exactly what value it brings to its customers and why they should start contributing to the platform and its related projects. 
 
 An interesting and fairly unique feature is the implementation of an openly accessible product/service-demand submission form for people in need. Submissions will be verified for authenticity and correctness. If the submission comes from a person/entity in an area where Mpowa doesn’t have any projects planned, it can (depending on the severity of the situation) spark the company to start a project (in the area of the submission) or decide to serve the person individually. By demand and supply, NFT’s will be created and minted to serve the need and also contains a certificate for the purchaser that can be used to claim SDG Impact Tokens, Tokenized Carbon Credits and/or Governance Tokens. What really matters for contributors to the platform is that they each have a transparent overview of where they’ve sent their money, how it's being used and which impact their contribution has realized. Mpowa is selling impact, sustainability and health to those who care about planet earth and its inhabitants in an auditable and regulatory compliant way, with implementation of its project impact-data in UN SDG reporting. 
-
-
 
 
 
@@ -1111,7 +1106,13 @@ Utilization of a public blockchain ledger.
 - Standard 4 (Governance): 
 As explained in the chapter ''DAO''.
 
-The SDG Impact Standards aim to help operationalize high level principles of practice in a consistent way and bridge the gap between high level principles of practice and relevant tools and reporting frameworks. The OPIM provides the overarching architecture or principles for best practice within impact management systems. The SDG Impact Standards provide more detailed and specific practice guidance around how organizations develop the internal management and decision making systems to measure and manage impact, consistent with OPIM and other high level principles of practice. 
+
+
+Operating Principles for Impact Management:
+
+- The OPIM provides the overarching architecture or principles for best practice within impact management systems.
+
+
 
 OPIM focuses on the management systems specific to the fund being designated as ‘impact’. The SDG Impact Standards provide the building blocks for the management systems for specific funds linking to the SDGs, as well as certain governance practices of the Fund Manager. This includes an organizational commitment to human rights in line with UN Global Compact, the UN Universal Declaration of Human Rights, grievance mechanisms, etc.
 
@@ -1158,9 +1159,8 @@ Principle 10: Businesses should work against corruption in all its forms, includ
 
 Environment statistics thus cover a wide range of information and are multi- and inter- disciplinary in nature. They originate from a variety of institutions that collect data and, similarly, numerous methods are used to compile them. The field of environment statistics requires an appropriate framework to guide its development, coordination and organization. 
 
-- Framework for the Development of Environment Statistics
+Framework for the Development of Environment Statistics
 
-Framework:
 
 - marks out the scope of environment statistics; 
 
@@ -1281,8 +1281,6 @@ Environmental indicators are generated because environment statistics are usuall
 rates, ratios or proportions, and be constructed at different levels of aggregation. 
 
 
-
-
 Millennium Development Goals (MDGs) and Sustainable Development Goals (SDGs), the Driving force-Pressure-State-Impact-Response (DPSIR) framework and national environment/sustainable development indicator sets, are typically used to identify and structure indicators.
 
 
@@ -1300,7 +1298,6 @@ Accounting frameworks:
 SEEA - relevant environment statistics according to stocks and flows within and between the environment and the economy, based on the principles of the System of National Accounts (SNA). 
 
 SNA and facilitates the analysis of relationships between the economy and the environment.
-
 
 
 These types of environment statistics are all important and interdependent. They feed back into each other to produce diverse and complementary products that can be used for different purposes and that fit specific user needs and resources of countries or agencies. Ideally, information about the environment should be produced and used as a multipurpose information system which would increase synergy, consistency and efficiency in the use of limited financial resources.
@@ -1345,17 +1342,11 @@ A great deal of statistics is also being produced by private and public agencies
 
 
 
-
-
-
-
-
 ### Data standards United Nations 
 
 
 
 In the discussions that have taken place since, the principle of data interoperability has been added to the above. It is defined as ensuring that systems are using the same set of definitions, classifications and methodology, as well as technologically compatible platforms allowing for full harmonization of interfaces and access protocols 
-
 
 
 The principle of data disaggregation underpins the data requirements of the Leave no one behind promise of the 2030 Agenda. The other key principles precisely pinpoint critical challenges in meeting these requirements.
@@ -1369,6 +1360,7 @@ Statistical organizations have been discussing at the sessions of the United Nat
 Ocean makes it easy to publish data services (deploy and mint ERC20 datatokens), and to consume data services (spend datatokens). Crypto wallets, exchanges, and DAOs become data wallets, exchanges, and DAOs. Use Ocean Market to publish data, stake on data (curate), and buy data. Earn by selling, staking, or running your own fork of Ocean Market. Data has automatic price discovery. Data is published as interoperable ERC20 datatokens. Compute-to-data enables private data to be bought & sold. It's a decentralized exchange (DEX), tuned for data. Earn by selling data, staking, or building & launching your own marketplace. Sellers get most of revenue when a dataset is sold. Stakers earn a % of the transaction fee, as do marketplace runners.
 
 
+Relay Chain: 
 
 
 Chainlink: 
@@ -1434,15 +1426,15 @@ The various quality assurance frameworks cover the same or similar aspects of st
 
 See International Organization for Standardization (ISO) 9000:2015.
 
-International Organization for Standardization (ISO),
+- International Organization for Standardization (ISO),
 
-Six Sigma, 
+- Six Sigma, 
 
-European Foundation for Quality Management, 
+- European Foundation for Quality Management, 
 
-Balanced Scorecard, 
+- Balanced Scorecard, 
 
-Lean and Lean Six Sigma. 
+- Lean and Lean Six Sigma. 
 
 - ISO emphasizes certification and standardization of “processes”, 
 - while Six Sigma focuses on quality control of the “products/ outputs” using statistical methods. 
@@ -1662,10 +1654,10 @@ The 2015 Paris Agreement could change this. For the first time, nearly every cou
 
 The Paris Agreement complicates this older picture considerably. The fact that every country has agreed to reduce emissions means there will be fewer opportunities for additional reductions – i.e., reductions that go beyond what countries have pledged (and would otherwise not happen in the absence of a carbon offset market – see Additionality). This does not mean the end of carbon offsetting. In fact, Article 6 of the Paris Agreement explicitly recognizes the possibility for international cooperation through the transfer of emission reductions. However, if a country allows an emission reduction to be claimed by another party (either another country or some other entity), it should no longer be able to count the reduction towards its own GHG target. The Paris Agreement has language expressly prohibiting such “double counting” among countries.
 
-Currently, it is envisioned that double counting will be avoided through “robust” accounting methods (the language used in Article 6). Specifically, if a country transfers an emission reduction, it will adjust its GHG balance sheets so that the reduction is not counted toward its pledged “contribution,” while a country receiving the transfer can apply the reduction to its own GHG balance sheet.[1] Similar accounting will likely be done for emission reductions funded by the international aviation industry, which has pledged to offset any increase in its GHG emissions after 2020.[2] In principle, the same methods could be applied to backstop claims for carbon offset credits purchased by private voluntary buyers.
+Currently, it is envisioned that double counting will be avoided through “robust” accounting methods (the language used in Article 6). Specifically, if a country transfers an emission reduction, it will adjust its GHG balance sheets so that the reduction is not counted toward its pledged “contribution,” while a country receiving the transfer can apply the reduction to its own GHG balance sheet. Similar accounting will likely be done for emission reductions funded by the international aviation industry, which has pledged to offset any increase in its GHG emissions after 2020. In principle, the same methods could be applied to backstop claims for carbon offset credits purchased by private voluntary buyers.
 
 
-A variety of terms are frequently used to define quality criteria for carbon offsets, including that associated GHG reductions must be “real,” “quantifiable,” and “verifiable.” Most of these terms have their origin in regulatory criteria established for air pollutant credits under the U.S. Clean Air Act (going back to 1977). However, these terms have distinct regulatory meanings under U.S. law that do not always translate meaningfully to carbon offsets. The term “real,” for example, has no commonly agreed definition across carbon offset programs and standards, and is often used as a vague catch-all.[2]
+A variety of terms are frequently used to define quality criteria for carbon offsets, including that associated GHG reductions must be “real,” “quantifiable,” and “verifiable.” Most of these terms have their origin in regulatory criteria established for air pollutant credits under the U.S. Clean Air Act (going back to 1977). However, these terms have distinct regulatory meanings under U.S. law that do not always translate meaningfully to carbon offsets. The term “real,” for example, has no commonly agreed definition across carbon offset programs and standards, and is often used as a vague catch-all.
 
 For this guide, therefore, we have distilled the essential elements of carbon offset quality down to five criteria. In short, quality carbon offset credits must be associated with GHG reductions or removals that are:
 
