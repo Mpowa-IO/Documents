@@ -1461,21 +1461,40 @@ Statistical organizations have been discussing at the sessions of the United Nat
 Ocean makes it easy to publish data services (deploy and mint ERC20 datatokens), and to consume data services (spend datatokens). Crypto wallets, exchanges, and DAOs become data wallets, exchanges, and DAOs. Use Ocean Market to publish data, stake on data (curate), and buy data. Earn by selling, staking, or running your own fork of Ocean Market. Data has automatic price discovery. Data is published as interoperable ERC20 datatokens. Compute-to-data enables private data to be bought & sold. It's a decentralized exchange (DEX), tuned for data. Earn by selling data, staking, or building & launching your own marketplace. Sellers get most of revenue when a dataset is sold. Stakers earn a % of the transaction fee, as do marketplace runners.
 
 
-Relay Chain: To be discussed.
 
+
+
+
+
+
+Relay Chain: To be discussed.
 
 Chainlink: To be discussed.
 
-
-
 World Bank Data Warehouse: To be discussed.
-
-
 
 Toucan Protocol: To be discussed.
 
 
+
+
+
+
 The Gold Standard Impact Registry: Collection of data, which only after granted permission of local authorities, is shared with this registry to mint Gold Standard Carbon Offset credits.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
