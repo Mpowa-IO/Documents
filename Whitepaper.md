@@ -1056,6 +1056,14 @@ An interesting and fairly unique feature is the implementation of an openly acce
 
 *Specification of approach.*
 
+
+
+
+
+
+
+
+
 ### Overview & Sector Standards
 
 Contributing to the United Nations Sustainable Development Goals requires parties to follow certain data standards and methods of proceeding and documentation of projects. 
@@ -1076,6 +1084,8 @@ The impact-calculation of projects and products that are offered by Mpowa will b
 *Below is described how Mpowa's projects adhere to the standards set by the UN.*
 
 
+
+
 ### Framework 
 
 - Project & Data Standards
@@ -1083,12 +1093,22 @@ The impact-calculation of projects and products that are offered by Mpowa will b
 - DAO Validation
 - Diagram
 
+
 The initiative is open for all entities within the United Nations that engage with, and promote the work of, multi-stakeholder partnerships and voluntary commitments in driving implementation of the SDGs.
+
+
+
+
+
+
 
 
 ### Project & Data Standards
 
 *The following protocols are used for this purpose.*
+
+
+
 
 #### The SDG Impact Standards 
 
@@ -1108,6 +1128,8 @@ As explained in the chapter ''DAO''.
 
 
 
+
+
 Operating Principles for Impact Management:
 
 - The OPIM provides the overarching architecture or principles for best practice within impact management systems.
@@ -1117,6 +1139,10 @@ Operating Principles for Impact Management:
 OPIM focuses on the management systems specific to the fund being designated as ‘impact’. The SDG Impact Standards provide the building blocks for the management systems for specific funds linking to the SDGs, as well as certain governance practices of the Fund Manager. This includes an organizational commitment to human rights in line with UN Global Compact, the UN Universal Declaration of Human Rights, grievance mechanisms, etc.
 
 The SDG Impact Standards aim to provide the building blocks for an internal impact management system that helps organizations make better decisions, and that provides high quality inputs to support consistent reporting and disclosures under multiple external disclosure and reporting frameworks.
+
+
+
+
 
 
 
@@ -1158,6 +1184,7 @@ Principle 10: Businesses should work against corruption in all its forms, includ
 
 
 
+
 #### FDES
 
 Environment statistics thus cover a wide range of information and are multi- and inter- disciplinary in nature. They originate from a variety of institutions that collect data and, similarly, numerous methods are used to compile them. The field of environment statistics requires an appropriate framework to guide its development, coordination and organization. 
@@ -1181,6 +1208,9 @@ Framework for the Development of Environment Statistics
 
 
 - is conceptually based.
+
+
+
 
 
 
@@ -1247,7 +1277,19 @@ How is the platform data distributed and verified is displayed below:
 
 
 
+
+
+
 -SDK Impact Diagram-
+
+
+
+
+
+
+Parameters: 
+
+
 
 
 
@@ -1434,6 +1476,7 @@ See International Organization for Standardization (ISO) 9000:2015.
 
 For a statistical product, the general definition of quality is operationalized by specifying a set of factors or dimensions that characterize it: relevance; accuracy and reliability; timeliness and punctuality; accessibility and clarity; and coherence and comparability. The dimensions of quality are interrelated, and there are trade-offs between some.
 
+
 Co-operation with:
 
 - European Statistics Code of Practice, 
@@ -1443,7 +1486,9 @@ Co-operation with:
 - UN-NQAF 
 
 
+
 NQAF for official statistics are as follows:
+
 - It provides a generic model for the members of the NSS to adopt, develop or revisit their own quality assurance framework;
 - It offers a mechanism for the systematic monitoring and ongoing identification of risks and quality issues across the NSS to develop timely corrective measures. It therefore supports quality improvements and their maintenance over time;
 - It supports NSS coordination by providing common guidance on quality assurance and reference materials for training;
