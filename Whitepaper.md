@@ -1463,8 +1463,7 @@ The approach is a bit different, but risk and quality management frameworks are 
 Risk management itself is guided by the framework of the Committee of Sponsoring Organizations of the Treadway Commission. Risk and quality management should not operate independently of each other. A coordinated approach is cost- effective and facilitates the involvement and support of management (see chapter 4 for further information).
 
 
-United Nations National Quality Assurance Framework 
-
+#### United Nations National Quality Assurance Framework 
 
 Fundamental Principles of Official Statistics. 
 
@@ -1725,7 +1724,7 @@ The Kyoto Protocol to the United Nations Framework Convention on Climate Change 
 
 10 Tonne per lifetime use.
 
-Approx 1,5 T Carbon Offset per year. 
+Approximately 1,5 T Carbon Offset per year. 
 
 A Solvatten Unit has a positive influence on SDG Goals 3, 6 and 13. 
 
