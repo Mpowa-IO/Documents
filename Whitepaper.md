@@ -2185,6 +2185,8 @@ Smart Contracts for Projects, CCR profits, voting pools, unexpected costs, team,
 
 Private pre-sale ESG fund: 10% of the company’s equity is tokenized 
 
+mESG Information
+
 Investment token
 1. Total Supply: X 
 2. 2. Referral Fee - X%
@@ -2198,6 +2200,34 @@ Investment token
 Total supply: X mTE
 Presale: X (10% of company’s equity)
 Presale Base price: 1 X = 10 mTE Hard cap/Soft cap: 5
+
+
+
+mTE Information:
+
+
+
+
+
+
+
+
+
+mUSD Information:
+
+
+
+
+
+
+
+
+
+NFTs:
+
+
+
+
 
 
 
