@@ -1641,7 +1641,6 @@ The Paris Agreement complicates this older picture considerably. The fact that e
 
 Currently, it is envisioned that double counting will be avoided through “robust” accounting methods (the language used in Article 6). Specifically, if a country transfers an emission reduction, it will adjust its GHG balance sheets so that the reduction is not counted toward its pledged “contribution,” while a country receiving the transfer can apply the reduction to its own GHG balance sheet. Similar accounting will likely be done for emission reductions funded by the international aviation industry, which has pledged to offset any increase in its GHG emissions after 2020. In principle, the same methods could be applied to backstop claims for carbon offset credits purchased by private voluntary buyers.
 
-
 A variety of terms are frequently used to define quality criteria for carbon offsets, including that associated GHG reductions must be “real,” “quantifiable,” and “verifiable.” Most of these terms have their origin in regulatory criteria established for air pollutant credits under the U.S. Clean Air Act (going back to 1977). However, these terms have distinct regulatory meanings under U.S. law that do not always translate meaningfully to carbon offsets. The term “real,” for example, has no commonly agreed definition across carbon offset programs and standards, and is often used as a vague catch-all.
 
 For this guide, therefore, we have distilled the essential elements of carbon offset quality down to five criteria. In short, quality carbon offset credits must be associated with GHG reductions or removals that are:
@@ -1723,18 +1722,19 @@ The Kyoto Protocol to the United Nations Framework Convention on Climate Change 
 
 ### Solvatten Impact
 
-10 Tonne per lifetime use.
+Approximately 10 Tonne Offset per device lifetime use.
 
 Approximately 1,5 T Carbon Offset per year. 
 
 A Solvatten Unit has a positive influence on SDG Goals 3, 6 and 13. 
+
+Yet, Mpowa works with real-time data, which will be disclosed once the tech is distributed.
 
 
 
 ### Stove impact
 
 
-TBA.
 
 
 
