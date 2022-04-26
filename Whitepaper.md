@@ -1322,7 +1322,14 @@ The main characteristics, advantages and disadvantages of these types of sources
 
 A great deal of statistics is also being produced by private and public agencies that are not part of the system of official statistics. Statistics of questionable quality and proper documentation can be potentially confusing and lead to distrust of the national statistical office (NSO) which is supposed to produce unbiased and high-quality official statistics. Therefore, it is of utmost importance that those statistics considered to be ‘official’ follow strict and well-defined principles and standards.
 
-- The European Statistics Code of Practice (ESS CoP) contains, among other things, specific principles and guidance relevant to the dissemination of the statistics. The ESS CoP lays down specific requirements for clarifying the statistical outputs, their regularity, timeliness, and how they are released. All NSOs and other producers of official statistics within the European Statistical System follow and respect these requirements.
+The European Statistics Code of Practice (ESS CoP) contains, among other things, specific principles and guidance relevant to the dissemination of the statistics. 
+
+The ESS CoP lays down specific requirements for clarifying the statistical outputs
+- their regularity, 
+- timeliness,
+- and how they are released.
+
+All NSOs and other producers of official statistics within the European Statistical System follow and respect these requirements.
 
 
 
