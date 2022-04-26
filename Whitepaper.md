@@ -1745,6 +1745,8 @@ The Kyoto Protocol to the United Nations Framework Convention on Climate Change 
 
 Approx 1,5 T Carbon Offset per year. 
 
+A Solvatten Unit has a positive influence on SDG Goals 3, 6 and 13. 
+
 
 
 ### Stove impact
