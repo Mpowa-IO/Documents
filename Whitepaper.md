@@ -1550,6 +1550,11 @@ Quality management and risk management. Risk management has many similarities wi
 
 
 
+
+
+
+
+
 ### Standards
 
 
@@ -1677,7 +1682,15 @@ The purpose of the Mpowa platform is to connect the world and its issues to the 
 
 
 
+
+
+
+
 FLOWCHART
+
+
+
+
 
 
 
@@ -1734,9 +1747,17 @@ For the pilot project we will launch a token-sale, through the ESG Fund, to spar
 
 
 
+
+
 ## Decentralized Autonomous Organization (DAO)
 
+
 *Some key elements of the Mpowa DAO.*
+
+
+
+
+
 
 
 ### Responsibility
@@ -1757,11 +1778,19 @@ If the discussion is not rule-based, it must be discretionary. By definition, di
 Interestingly, the connection between DAOs and the legislative environment is currently in flux. The very first “connection” was, in fact, an attempt to deny such connection and simply disregard the legal environment. The DAO, for example, wanted to exist independent of any legislation. However, such a strategy merely results in giving up control over how the DAO will is treated under the law.
 
 
+
+
+
 Established DAO Voting/Governance Topics:
 
 - Project Selection
 - Senate Election
 - Treasury Parameters
+
+
+
+
+
 
 
 
@@ -1812,6 +1841,14 @@ The governance layer is responsible for essential functions which control the op
 
 
 
+
+
+
+
+
+
+
+
 ## Carbon Offset
 
 The practice of carbon offsetting has arisen in a world where far too little is being done to address climate change. At a global level, relatively few organizations have taken meaningful action to reduce GHG emissions. As a result, for companies committed to taking action, it has not been hard to find low-cost carbon offsets. The potential supply of GHG reductions is huge, because there are so many sources of GHG emissions that face no legal or economic incentives to reduce.
@@ -1834,9 +1871,17 @@ For this guide, therefore, we have distilled the essential elements of carbon of
 
 
 
+
+
+
+
 ### The Gold Standard Impact Registry:
 
 The Gold Standard Impact Registry tracks environmental assets like carbon credits as well as the associated sustainable development impacts of Gold Standard-certified interventions.  
+
+
+
+
 
 
 
@@ -1849,14 +1894,31 @@ Using the AIFM compliant ESG Fund service "ScalingFunds", allows Mpowa to procee
 
 
 
+
+
+
+
+
+
+
+
 ## Decarbonizer App
 
 A disruptive new Blockchain-based Application that empowers users to have an impact by financing clean-tech projects and become part of a collective force developing a decentralized, autonomous organization that facilitates the transition towards resource abundance. 
 Our dApp has an integrated wallet that will represent your Mpowa Utility Tokens, Project Tokens and Data tokens.
 You can purchase tokens with credit-card or other supported payment methods. Tokens will be loaded onto your account after payment, and you can then immediately use them to invest in projects of interest, and eventually consume energy.
 
+
+
+
 As a new user, you will be asked to select your role within the platform environment. For now, let us start with the IMPACTOR profile, which is focussed on participation by the public. An IMPACTOR holds a critical role in funding the right projects and ensuring that the initiative stays true to its mission and purpose. Whilst empowering the public to participate in the transition towards a sustainable future. 
 An IMPACTOR navigates through different projects, investigate the details, and facilitate the finance though the MPOWA-tokens, which can be tracked for complete TRANSPARENCY and TRUST. The entire experience is gamified to increase the level of participation, motivation and inclusion. 
+
+
+
+
+
+
 
 
 
@@ -1868,11 +1930,17 @@ Through research, suggestions will be given to marketplace participants in terms
 
 
 
+
+
 ## Geolocation
 
 Mpowa’s region of focus will primarily be Africa, due to the severe poverty that humanity is dealing with there in comparison to the rest of the world.
 For apparent reasons, Mpowa prioritizes to allocate its support to rural areas of Africa. Micro-particles, Co2 levels, and other greenhouse-gas emissions are at dangerously high levels, causing direct and indirect harm to its citizens and the environment in which they reside.
 Mpowa’s team is international with the company ‘’Mpowa Ltd’’ being founded in the United Kingdom. 
+
+
+
+
 
 
 
