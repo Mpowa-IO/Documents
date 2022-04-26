@@ -1258,7 +1258,6 @@ The type; level of thematic, spatial and temporal aggregation; and format of env
 
 
 
-
 - statistical surveys (censuses or sample surveys) by the national statistical system or may originate from 
 - administrative records, 
 - geographic databases, 
@@ -1274,29 +1273,22 @@ The type; level of thematic, spatial and temporal aggregation; and format of env
 
 Environmental indicators are environment statistics that have been selected for their ability to depict important phenomena or dynamics. Environmental indicators are used to synthesize and present complex environment and other statistics in a simple, direct, clear and relevant way. 
 
-
-
-
-
 Environmental indicators are generated because environment statistics are usually too numerous and detailed to meet the needs of policymakers and the general public, and often require further processing and interpretation to be meaningful. 
 
 
-rates, ratios or proportions, and be constructed at different levels of aggregation. 
-
+Rates, ratios or proportions, and be constructed at different levels of aggregation. 
 
 Millennium Development Goals (MDGs) and Sustainable Development Goals (SDGs), the Driving force-Pressure-State-Impact-Response (DPSIR) framework and national environment/sustainable development indicator sets, are typically used to identify and structure indicators.
 
 
-
-- Environmental indices are composite or more complex measures that combine and synthesize more than one environmental indicator or statistic and are weighted according to different methods.  - An index can provide a valuable summary measure to communicate important messages in an accessible way and, thus, raise awareness. However, they often raise questions regarding their proper interpretation, methodological soundness, subjectivity of the weighting, and the quality of the underlying statistics.
-
+Environmental indices are composite or more complex measures that combine and synthesize more than one environmental indicator or statistic and are weighted according to different methods.  - An index can provide a valuable summary measure to communicate important messages in an accessible way and, thus, raise awareness. However, they often raise questions regarding their proper interpretation, methodological soundness, subjectivity of the weighting, and the quality of the underlying statistics.
 
 
 Environment statistics organized primarily within the FDES may be structured for specific analytical purposes based on different analytical frameworks, such as the DPSIR framework, issue-based frameworks which focus on specific environmental problems (e.g., climate change, air pollution and land degradation), policy-based frameworks such as sus- tainable development strategies, or assessment frameworks such as those used in state of the environment reports.
 
 
 
-Accounting frameworks:
+#### Accounting frameworks:
 
 SEEA - relevant environment statistics according to stocks and flows within and between the environment and the economy, based on the principles of the System of National Accounts (SNA). 
 
@@ -1319,18 +1311,11 @@ Environment statistics synthesize data originating from various types of sources
 Making certain types of emissions to the air, statistical surveys are used in combination with scientific research. While statistical surveys and administrative records are commonly used in all areas of statistics (economic, social and environment) and the use of remote sensing data has become widespread, the use of data from monitoring networks, scientific research and special projects are specific mostly to the production of environment statistics.
 
 
-
-
 Most countries have agencies that are primarily responsible for monitoring environmental resources and conditions. They may be entities in their own right or government agencies with other primary functions that also have departments concerned with environmental matters. These agencies typically produce two main types of data: (i) measured data (obtained by direct observation, field measurements and remote sensing); and (ii) calculated data (derived using estimates and modeling).
 
 
 
-
-
-
 The use of estimates and modeling to generate environmental data can improve overall data quality, including accuracy and coverage, especially when models draw upon two or more sets of observations, such as field observations coupled with global satellite-based observations. Models may also incorporate administrative data or data resulting from statistical surveys or special projects.
-
-
 
 
 The main characteristics, advantages and disadvantages of these types of sources of environment statistics are discussed below.
@@ -1344,13 +1329,11 @@ A great deal of statistics is also being produced by private and public agencies
 
 
 
-
 ### Data standards United Nations 
 
 
 
 In the discussions that have taken place since, the principle of data interoperability has been added to the above. It is defined as ensuring that systems are using the same set of definitions, classifications and methodology, as well as technologically compatible platforms allowing for full harmonization of interfaces and access protocols 
-
 
 The principle of data disaggregation underpins the data requirements of the Leave no one behind promise of the 2030 Agenda. The other key principles precisely pinpoint critical challenges in meeting these requirements.
 Statistical organizations have been discussing at the sessions of the United Nations Statistical Commission (UNSC), either in special-topic forums or as part of work under the formal agenda, what these principles mean for national statistical offices and national statistical systems.
@@ -1493,9 +1476,9 @@ to 14 are either directly derived from one or two of the Fundamental Principles 
 
 In accordance with principles 1 and 5 of the Fundamental Principles of Official Statistics, it is recommended that countries include in their statistical laws: 
 
-(a) the mandate of producers of official statistics to collect needed information to compile statistics directly from respondents if it is not already available in the national statistical system and cannot be obtained from existing data; and (
+- the mandate of producers of official statistics to collect needed information to compile statistics directly from respondents if it is not already available in the national statistical system and cannot be obtained from existing data; and (
 
-b) the entitlement to select data sources based on professional consid- erations, including “new” sources such as big data.
+- the entitlement to select data sources based on professional considerations, including “new” sources such as big data.
 
 
 - It is recommended that individual data collected by statistical agencies for statistical compilation, whether they refer to natural or legal persons, be kept strictly confidential and used exclusively for statistical purposes.
