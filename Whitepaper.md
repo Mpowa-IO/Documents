@@ -1064,6 +1064,8 @@ An interesting and fairly unique feature is the implementation of an openly acce
 
 
 
+
+
 ### Overview & Sector Standards
 
 Contributing to the United Nations Sustainable Development Goals requires parties to follow certain data standards and methods of proceeding and documentation of projects. 
@@ -1106,6 +1108,9 @@ The initiative is open for all entities within the United Nations that engage wi
 ### Project & Data Standards
 
 *The following protocols are used for this purpose.*
+
+
+
 
 
 
@@ -1185,9 +1190,12 @@ Principle 10: Businesses should work against corruption in all its forms, includ
 
 
 
+
 #### FDES
 
 Environment statistics thus cover a wide range of information and are multi- and inter- disciplinary in nature. They originate from a variety of institutions that collect data and, similarly, numerous methods are used to compile them. The field of environment statistics requires an appropriate framework to guide its development, coordination and organization. 
+
+
 
 Framework for the Development of Environment Statistics
 
@@ -1215,9 +1223,16 @@ Framework for the Development of Environment Statistics
 
 
 
+
 #### DSD
 
 Metrics and data points.
+
+
+
+
+
+
 
 
 ### Data Reporting, data inclusion.
@@ -1236,6 +1251,9 @@ The Standards are for Enterprises committed to contributing positively to sustai
 
 
 
+
+
+
 ### DAO Validation
 
 > This is part of the DAO's interaction and voting mechanism, rating the projects if they are efficiently presented and managed in a way that the generated funds actually deliver the most amount of impact in a sustainabke way.
@@ -1249,9 +1267,16 @@ Requirements changes are a part of the development cycle. The concerned stakehol
 It’s critical to understand the specific set of requirements and features that need to be retested after a change is implemented. Skipping impact analysis doesn’t change the size of the task. It just turns the size into a surprise.
 
 
+
+
+
+
 ### Diagram
 
 Diagram
+
+
+
 
 
 
@@ -1262,11 +1287,35 @@ Description of SDK toolkit for SDGs and smart contracts.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Data & Statistics
 
 Though environmental statistics is still a relatively new statistical domain, the demand for such statistics is increasing in conjunction with continuing environmental degradation and the obstacles associated with improved environmental management. The recognition that human well-being depends on the environment has led to an increasing list of environmental problems on which decisions must be taken, such as climate change, biodiversity loss and natural resource management. Given the need for governments, businesses, households and other decision makers to deal effectively with these issues, the environment statistics informing them must be of the highest quality possible.
 
 Environmental statistics provide information about the state and changes of environmental conditions, the quality and availability of environmental resources, the impact of human activities and natural events on the environment and the impact of changing environmental conditions. They also provide information about the social actions and economic measures that societies take to avoid or mitigate these (negative) impacts and to restore and maintain the capacity of the environment to provide the services that are essential for life and human well-being.
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1288,6 +1337,23 @@ How is the platform data distributed and verified is displayed below:
 
 
 Parameters: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1426,7 +1492,6 @@ Not to forget the additional applications that are going to be created using our
 An overview of the data that will be accesible for everyone, to validate our project, and the data that can only be seen by parties that are entitled to viewing it.
 
 
-
 ### Public:
 
 Indicators.
@@ -1438,12 +1503,31 @@ Impact data - statistics, individual data.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Quality Assurance
 
 Quality management is defined as “a set of systematic activities carried out by the entire organization to effectively and efficiently achieve company objectives so as to provide products and services with a level of quality that satisfies customers, at the appropriate time and price”.
 
 Content and use of the Manual 5 (f) It provides a basis for creating and maintaining a culture of quality within the NSS.
 Quality management and risk management. Risk management has many similarities with quality management. 
+
+
+
+
 
 
 
@@ -1497,6 +1581,13 @@ NQAF for official statistics are as follows:
 
 
 
+
+
+
+
+
+
+
 ### Transparency 
 
 
@@ -1513,6 +1604,12 @@ The approach is a bit different, but risk and quality management frameworks are 
 
 
 Risk management itself is guided by the framework of the Committee of Sponsoring Organizations of the Treadway Commission. Risk and quality management should not operate independently of each other. A coordinated approach is cost- effective and facilitates the involvement and support of management (see chapter 4 for further information).
+
+
+
+
+
+
 
 
 #### United Nations National Quality Assurance Framework 
@@ -1543,10 +1640,30 @@ In accordance with principles 1 and 5 of the Fundamental Principles of Official 
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## The Platform
 
 The purpose of the platform has been described already, yet here you’ll find a thoroughly descriptive version containing everything you need to know when interacting with the platform. 
 The purpose of the Mpowa platform is to connect the world and its issues to the right community of people who desire to make a swift impact without having to go through organizational hassles themselves. 
+
+
+
+
+FLOWCHART
+
+
+
+
+
 
 ### Mechanism
 
