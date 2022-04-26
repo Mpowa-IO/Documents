@@ -1549,11 +1549,6 @@ Each NFT is linked to a certificate of ownership, which carries certain rights a
 For the pilot project we will launch a token-sale, through the ESG Fund, to spark the funding for platform and the project. The project-based NFT’s will be listed on an NFT-Marketplace where costumers can purchase their share in a specific project. The assets available on the NFT-Marketplace can eventually also be purchased through our platform App, which then will be stored in their Mpowa-Wallet. If one wishes to sell their NFT, they can do so by requesting a re-listing of their specific NFT on the NFT-Marketplace. 
 
 
-#### Noteworthy:
-
-- An organization represented by rules encoded as a computer program that is transparent, controlled by the organization members and not influenced by a central government.
-
-- A DAO's financial transaction record and program rules are maintained on a blockchain. The precise legal status of this type of business organization is unclear.
 
 
 
