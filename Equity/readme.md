@@ -1,3 +1,5 @@
 # TopCo Equity
 
-Details
+mTE Tokenomics
+
+
