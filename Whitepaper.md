@@ -1589,13 +1589,12 @@ Established DAO Voting/Governance Topics:
 An organization represented by rules encoded as a computer program that is transparent, controlled by the organization members and not influenced by a central government.
 A DAO's financial transaction record and program rules are maintained on a blockchain.  
 
-
 Mpowa’s platform and tokens pairs with a blockchain based DAO (Decentralized Autonomous Organization), which gives the users control and transparency. Mpowa’s native blockchain is constructed using Parity Technology’s Substrate framework, elaborated upon in the chapter “The Technology”.
 Several years after Bitcoin was launched, DAOs became a useful mechanism developers and adopters to work together in a harmonized and democratic way. 
 
 The tech represents financial sovereignty and a digital data-currency instrument, thus Bitcoin opened up countless opportunities. Opportunities and innovative ideas find a ground wherein they can gather resources in a creative way to bring projects to life. DAOs promised to revolutionize how we structure socio-economic relationships. Facilitating solutions for ancient problems is where the DAO comes in, due to the (decentralized) power of many. Now the question arrises: Key features and benefits of a DAO-structure- The ability to structure large-scale, merit-based communities with minimal entrance barriers, factor in externalities, and – much in the Bitcoin spirit – break free from relying on traditional institutions. 
 
-- Organize and coordinate the efforts and resources of members via an a priori estimate, anonymous but formalized, and transparent set of rules that are agreed upon in a multilateral fashion.
+Organize and coordinate the efforts and resources of members via an a priori estimate, anonymous but formalized, and transparent set of rules that are agreed upon in a multilateral fashion.
 
 Usually, one of the core elements of any definition of a DAO is the notion of “decentralization”. This often talked about, yet poorly understood concept is avoided as it warrants a more detailed analysis on its own.
 Within the crypto-verse, the term “decentralization” either refers to the physical distribution of hardware (think: validating nodes & full nodes) or the diffusion of political influence. In this case, the latter is relevant. Instead of having a classical hierarchical power distribution, the common approach of any DAO is to foster coordination on a peer-to-peer basis. This element can be described as a multilateral decision-making process.
